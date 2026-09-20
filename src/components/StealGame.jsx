@@ -16,7 +16,6 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
   const [phase, setPhase] = useState('ready') // ready | buzz | answer | steal | result | done
   const [answering, setAnswering] = useState(null) // índice del equipo que responde
   const [failed, setFailed] = useState(null) // equipo que falló primero
-  const [picked, setPicked] = useState(null)
   const [wrongPicks, setWrongPicks] = useState([])
   const [outcome, setOutcome] = useState(null)
   const q = questions[idx]
@@ -54,7 +53,6 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
       const other = team === 0 ? 1 : 0
       setFailed(team)
       setAnswering(other)
-      setPicked(null)
       flashBanner(`¡${teams[other].name} PUEDE ROBAR!`, 'gold', 1500)
       setTimeout(() => { setPhase('steal'); timer.start(STEAL_TIME) }, 300)
     } else {
@@ -64,7 +62,6 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
 
   const pick = (i) => {
     if (phase !== 'answer' && phase !== 'steal') return
-    setPicked(i)
     if (i === q.answer) {
       timer.stop()
       if (phase === 'steal') {
@@ -89,7 +86,7 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
     if (idx + 1 >= questions.length) { setPhase('done'); return }
     setIdx(idx + 1)
     setPhase('ready')
-    setAnswering(null); setFailed(null); setPicked(null); setOutcome(null); setWrongPicks([])
+    setAnswering(null); setFailed(null); setOutcome(null); setWrongPicks([])
   }
 
   if (phase === 'done') return <GameOver teams={teams} onExit={onExit} title="Fin del Robo de Puntos" />
