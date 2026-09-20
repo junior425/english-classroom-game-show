@@ -6,18 +6,20 @@ import Lobby from './components/Lobby.jsx'
 import Scoreboard from './components/Scoreboard.jsx'
 import StealGame from './components/StealGame.jsx'
 import AuctionGame from './components/AuctionGame.jsx'
+import BombGame from './components/BombGame.jsx'
+import TrapdoorGame from './components/TrapdoorGame.jsx'
 import Confetti from './components/Confetti.jsx'
 
 const DEFAULT_TEAMS = [
   { name: 'Power Rangers', score: 0 },
-  { name: 'Mujeres Maravilla', score: 0 },
+  { name: 'Wonder Women', score: 0 },
 ]
 
 export default function App() {
   const [screen, setScreen] = useState('setup')
   const [teams, setTeams] = useState(DEFAULT_TEAMS)
   const [selection, setSelection] = useState({ level: 'L1', unit: 'L1U1', topic: 'L1U1T1' })
-  const [events, setEvents] = useState([]) // animaciones flotantes de puntos
+  const [events, setEvents] = useState([]) // floating point animations
   const [banner, setBanner] = useState(null)
   const [confetti, setConfetti] = useState(0)
 
@@ -51,16 +53,16 @@ export default function App() {
       if (i === thief) return { ...t, score: t.score + amount }
       return t
     }))
-    pushEvent(victim, -amount, 'ROBADO')
-    pushEvent(thief, amount, '¡ROBO!')
+    pushEvent(victim, -amount, 'STOLEN')
+    pushEvent(thief, amount, 'STEAL!')
     sfx.steal()
-    flashBanner(`¡${teams[thief].name} ROBA ${amount} PUNTOS!`, 'gold')
+    flashBanner(`${teams[thief].name.toUpperCase()} STEALS ${amount} POINTS!`, 'gold')
   }, [pushEvent, teams, flashBanner])
 
   const celebrate = useCallback((team) => {
     setConfetti((c) => c + 1)
     sfx.win()
-    flashBanner(`¡PUNTO PARA ${teams[team].name.toUpperCase()}!`, team === 0 ? 'teamA' : 'teamB')
+    flashBanner(`POINT FOR ${teams[team].name.toUpperCase()}!`, team === 0 ? 'teamA' : 'teamB')
   }, [teams, flashBanner])
 
   const start = async (names) => {
@@ -70,7 +72,7 @@ export default function App() {
     setScreen('lobby')
   }
 
-  const go = (s) => { sfx.click(); setScreen(s) }
+  const go = (s) => { initAudio(); sfx.click(); setScreen(s) }
 
   const resetScores = () => setTeams((ts) => ts.map((t) => ({ ...t, score: 0 })))
 
@@ -97,6 +99,8 @@ export default function App() {
             )}
             {screen === 'steal' && <StealGame key={selection.topic} {...game} />}
             {screen === 'auction' && <AuctionGame key={selection.topic} {...game} />}
+            {screen === 'bomb' && <BombGame key={selection.topic} {...game} />}
+            {screen === 'trapdoor' && <TrapdoorGame key={selection.topic} {...game} />}
           </div>
         </div>
       )}

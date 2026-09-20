@@ -14,14 +14,14 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
   const questions = topic.topic.steal
   const [idx, setIdx] = useState(0)
   const [phase, setPhase] = useState('ready') // ready | buzz | answer | steal | result | done
-  const [answering, setAnswering] = useState(null) // índice del equipo que responde
-  const [failed, setFailed] = useState(null) // equipo que falló primero
+  const [answering, setAnswering] = useState(null) // index of the team answering
+  const [failed, setFailed] = useState(null) // team that missed first
   const [wrongPicks, setWrongPicks] = useState([])
   const [outcome, setOutcome] = useState(null)
   const q = questions[idx]
 
   const timer = useCountdown(() => {
-    if (phase === 'buzz') finish('timeout', 'Nadie respondió a tiempo')
+    if (phase === 'buzz') finish('timeout', 'Nobody buzzed in time. No points awarded.')
     else if (phase === 'answer' || phase === 'steal') onWrong(answering, true)
   })
 
@@ -53,10 +53,10 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
       const other = team === 0 ? 1 : 0
       setFailed(team)
       setAnswering(other)
-      flashBanner(`¡${teams[other].name} PUEDE ROBAR!`, 'gold', 1500)
+      flashBanner(`${teams[other].name.toUpperCase()} CAN STEAL!`, 'gold', 1500)
       setTimeout(() => { setPhase('steal'); timer.start(STEAL_TIME) }, 300)
     } else {
-      finish('none', byTimeout ? 'Se acabó el tiempo. Nadie gana puntos.' : 'Ambos equipos fallaron. Nadie gana puntos.')
+      finish('none', byTimeout ? 'Time’s up! No points awarded.' : 'Both teams missed. No points awarded.')
     }
   }
 
@@ -65,15 +65,15 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
     if (i === q.answer) {
       timer.stop()
       if (phase === 'steal') {
-        addPoints(answering, POINTS + STEAL_BONUS, '¡ROBO!')
+        addPoints(answering, POINTS + STEAL_BONUS, 'STEAL!')
         addPoints(failed, -STEAL_BONUS)
         sfx.steal()
-        flashBanner(`¡${teams[answering].name} ROBA ${POINTS + STEAL_BONUS} PUNTOS!`, 'gold')
+        flashBanner(`${teams[answering].name.toUpperCase()} STEALS ${POINTS + STEAL_BONUS} POINTS!`, 'gold')
       } else {
         addPoints(answering, POINTS)
         celebrate(answering)
       }
-      setOutcome({ result: 'win', msg: `¡Correcto! ${teams[answering].name} gana ${phase === 'steal' ? POINTS + STEAL_BONUS : POINTS} puntos.` })
+      setOutcome({ result: 'win', msg: `Correct! ${teams[answering].name} wins ${phase === 'steal' ? POINTS + STEAL_BONUS : POINTS} points.` })
       setPhase('result')
     } else {
       setWrongPicks((w) => [...w, i])
@@ -89,17 +89,17 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
     setAnswering(null); setFailed(null); setOutcome(null); setWrongPicks([])
   }
 
-  if (phase === 'done') return <GameOver teams={teams} onExit={onExit} title="Fin del Robo de Puntos" />
+  if (phase === 'done') return <GameOver teams={teams} onExit={onExit} title="Point Steal — Final Score" />
 
   const teamColor = (i) => (i === 0 ? 'bg-teamA-dark border-teamA-glow' : 'bg-teamB-dark border-teamB-glow')
 
   return (
     <div className="flex h-full flex-col p-4 md:p-6">
       <header className="flex items-center justify-between">
-        <button onClick={onExit} className="btn px-4 py-2 text-xl bg-white/10 text-white hover:bg-white/20">← Menú</button>
+        <button onClick={onExit} className="btn px-4 py-2 text-xl bg-white/10 text-white hover:bg-white/20">← Main Menu</button>
         <div className="text-center">
-          <div className="font-display text-3xl tracking-widest text-gold md:text-4xl">🦹 ROBO DE PUNTOS</div>
-          <div className="text-lg text-white/60">{topic.topic.name} · Pregunta {idx + 1} / {questions.length}</div>
+          <div className="font-display text-3xl tracking-widest text-gold md:text-4xl">🦹 POINT STEAL</div>
+          <div className="text-lg text-white/60">{topic.topic.name} · Question {idx + 1} / {questions.length}</div>
         </div>
         <div className="w-32 md:w-44"><TimerRing seconds={timer.seconds} total={total} /></div>
       </header>
@@ -107,9 +107,9 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
       <main className="flex min-h-0 flex-1 flex-col items-center justify-center gap-6">
         {phase === 'ready' && (
           <>
-            <p className="text-center font-display text-5xl tracking-widest text-white/80 md:text-7xl">¡PRIMEROS DE LA FILA AL FRENTE!</p>
-            <p className="text-2xl text-white/60">Responde bien: +{POINTS}. Si fallas, el rival puede robar +{POINTS + STEAL_BONUS} (y tú pierdes {STEAL_BONUS}).</p>
-            <button onClick={show} className="btn btn-xl animate-pulseGlow bg-gold text-black hover:bg-yellow-300">🥁 Mostrar pregunta</button>
+            <p className="text-center font-display text-5xl tracking-widest text-white/80 md:text-7xl">FIRST IN LINE, STEP UP!</p>
+            <p className="text-2xl text-white/60">Answer correctly: +{POINTS}. Miss it and the other team can steal for +{POINTS + STEAL_BONUS} (and you lose {STEAL_BONUS}).</p>
+            <button onClick={show} className="btn btn-xl animate-pulseGlow bg-gold text-black hover:bg-yellow-300">🥁 Show Question</button>
           </>
         )}
 
@@ -118,7 +118,7 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
             <div className={`card w-full max-w-6xl px-8 py-6 text-center ${answering !== null ? teamColor(answering) : ''}`}>
               {answering !== null && phase !== 'result' && (
                 <div className="mb-2 font-display text-3xl tracking-widest text-gold md:text-4xl">
-                  {phase === 'steal' ? '🦹 INTENTO DE ROBO: ' : 'RESPONDE: '}{teams[answering].name}
+                  {phase === 'steal' ? '🦹 STEAL ATTEMPT: ' : 'ANSWERING: '}{teams[answering].name}
                 </div>
               )}
               <p className="font-extrabold text-4xl leading-tight md:text-6xl">{q.prompt}</p>
@@ -147,13 +147,18 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
             </div>
 
             {phase === 'buzz' && (
-              <div className="grid w-full max-w-6xl grid-cols-2 gap-6">
-                {teams.map((t, i) => (
-                  <button key={i} onClick={() => buzz(i)} className={`btn btn-xl border-8 text-white ${teamColor(i)} hover:brightness-125`}>
-                    🔔 {t.name}
-                  </button>
-                ))}
-              </div>
+              <>
+                <div className="grid w-full max-w-6xl grid-cols-2 gap-6">
+                  {teams.map((t, i) => (
+                    <button key={i} onClick={() => buzz(i)} className={`btn btn-xl border-8 text-white ${teamColor(i)} hover:brightness-125`}>
+                      🔔 {t.name}
+                    </button>
+                  ))}
+                </div>
+                <button onClick={() => { sfx.reveal(); finish('none', 'Answer revealed. No points awarded.') }} className="btn px-6 py-3 text-2xl bg-white/10 text-white hover:bg-white/20">
+                  👁 Reveal Answer
+                </button>
+              </>
             )}
 
             {phase === 'result' && (
@@ -161,7 +166,7 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
                 <p className={`text-center font-display text-4xl tracking-wider md:text-5xl ${outcome.result === 'win' ? 'text-emerald-300' : 'text-red-300'}`}>{outcome.msg}</p>
                 {q.explanation && <p className="text-2xl text-white/70 md:text-3xl">💡 {q.explanation}</p>}
                 <button onClick={next} className="btn btn-xl bg-gold text-black hover:bg-yellow-300">
-                  {idx + 1 >= questions.length ? '🏁 Ver resultado' : 'Siguiente ▶'}
+                  {idx + 1 >= questions.length ? '🏁 Final Score' : 'Next ▶'}
                 </button>
               </div>
             )}

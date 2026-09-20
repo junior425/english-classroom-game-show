@@ -30,11 +30,12 @@ function TeamPanel({ team, index, events, onAdd, onSteal, compact }) {
       <div className={`font-display tabular-nums text-white text-stroke leading-none ${compact ? 'text-7xl md:text-8xl' : 'text-[9rem] md:text-[12rem]'} ${bump ? 'animate-pop' : ''} ${shakeOnLoss ? 'animate-shake' : ''}`}>
         {team.score}
       </div>
+      {!compact && <div className="text-xl font-extrabold uppercase tracking-widest text-white/50">Score</div>}
 
       <div className="mt-2 flex flex-wrap justify-center gap-3">
         <button onClick={() => { sfx.plus(); onAdd(index, 100) }} className={`btn ${compact ? 'px-5 py-2 text-2xl' : 'btn-lg'} bg-emerald-500 text-black hover:bg-emerald-400`}>+100</button>
         <button onClick={() => { sfx.minus(); onAdd(index, -50) }} className={`btn ${compact ? 'px-5 py-2 text-2xl' : 'btn-lg'} bg-red-500 text-white hover:bg-red-400`}>−50</button>
-        <button onClick={() => onSteal(index)} className={`btn ${compact ? 'px-5 py-2 text-2xl' : 'btn-lg'} bg-gold text-black hover:bg-yellow-300`}>🦹 Robar</button>
+        <button onClick={() => onSteal(index)} className={`btn ${compact ? 'px-5 py-2 text-2xl' : 'btn-lg'} bg-gold text-black hover:bg-yellow-300`}>🦹 Steal</button>
       </div>
 
       {events.map((e) => (

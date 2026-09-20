@@ -5,7 +5,10 @@ let synth, fx, blip, bass, noise, suspenseLoop
 
 export async function initAudio() {
   if (ready) return
-  await Tone.start()
+  try {
+    await Promise.race([Tone.start(), new Promise((r) => setTimeout(r, 1500))])
+  } catch { /* audio stays off; the UI must never depend on it */ }
+  if (Tone.getContext().state !== 'running') return
   synth = new Tone.PolySynth(Tone.Synth, { oscillator: { type: 'triangle' }, envelope: { attack: 0.01, decay: 0.2, sustain: 0.3, release: 0.4 } }).toDestination()
   fx = new Tone.Synth({ oscillator: { type: 'square' }, envelope: { attack: 0.005, decay: 0.1, sustain: 0.1, release: 0.2 } }).toDestination()
   fx.volume.value = -8
@@ -38,7 +41,7 @@ const raw = {
   minus() { if (ready) seq(fx, ['E4', 'C4', 'A3'], 0.12, 0.2) },
   fail() {
     if (!ready) return
-    // "wah-wah" gracioso: trombón descendente
+    // funny "wah-wah": descending trombone
     const s = new Tone.Synth({ oscillator: { type: 'sawtooth' }, envelope: { attack: 0.05, release: 0.3 } }).toDestination()
     s.volume.value = -6
     const t = now()
@@ -61,7 +64,7 @@ const raw = {
     if (!ready) return
     noise.triggerAttackRelease(0.3)
     const t = now()
-    // sirena de "robo" + caja registradora
+    // "steal" siren + cash register
     fx.triggerAttack('E5', t)
     fx.frequency.rampTo('B5', 0.25, t)
     fx.frequency.rampTo('E5', 0.25, t + 0.25)
@@ -76,6 +79,26 @@ const raw = {
     setTimeout(() => noise.triggerAttackRelease(0.5), 1150)
   },
   bet() { if (ready) seq(bass, ['C2', 'C2', 'G2'], 0.1, 0.2) },
+  explode() {
+    if (!ready) return
+    const t = now()
+    noise.triggerAttackRelease(1.2, t)
+    bass.triggerAttackRelease('C0', 1.5, t)
+    bass.triggerAttackRelease('C1', 0.8, t + 0.1)
+    fx.triggerAttack('C5', t)
+    fx.frequency.rampTo('C2', 1.0, t)
+    fx.triggerRelease(t + 1.0)
+  },
+  fall() {
+    if (!ready) return
+    // trapdoor "whoosh": long descending slide + thud
+    const t = now()
+    fx.triggerAttack('C7', t)
+    fx.frequency.rampTo('C3', 0.9, t)
+    fx.triggerRelease(t + 0.9)
+    bass.triggerAttackRelease('C1', 0.5, t + 0.95)
+    noise.triggerAttackRelease(0.2, t + 0.95)
+  },
   reveal() { if (ready) { noise.triggerAttackRelease(0.4); bass.triggerAttackRelease('C1', 0.6) } },
   suspenseStart() {
     if (!ready || suspenseLoop) return
@@ -103,7 +126,7 @@ const raw = {
   },
 }
 
-// Un efecto de audio nunca debe romper el juego: los errores de scheduling de Tone se ignoran.
+// A sound effect must never break the game: Tone scheduling errors are ignored.
 export const sfx = Object.fromEntries(
   Object.entries(raw).map(([name, fn]) => [name, (...args) => { try { fn(...args) } catch { /* ignore */ } }]),
 )
