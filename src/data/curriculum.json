@@ -1,0 +1,1537 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "L1",
+      "name": "Básico 1",
+      "units": [
+        {
+          "id": "L1U1",
+          "name": "Unidad 1",
+          "topics": [
+            {
+              "id": "L1U1T1",
+              "name": "First Conditional & Business/Daily Life",
+              "steal": [
+                {
+                  "prompt": "If it ___ tomorrow, we will cancel the meeting.",
+                  "options": [
+                    "rains",
+                    "will rain",
+                    "rained",
+                    "raining"
+                  ],
+                  "answer": 0,
+                  "explanation": "First conditional: if + present simple, will + verb."
+                },
+                {
+                  "prompt": "If the client signs today, we ___ the project on Monday.",
+                  "options": [
+                    "start",
+                    "will start",
+                    "started",
+                    "would start"
+                  ],
+                  "answer": 1,
+                  "explanation": "Result clause uses will + base verb."
+                },
+                {
+                  "prompt": "Complete: \"If I ___ time, I will call you after work.\"",
+                  "options": [
+                    "will have",
+                    "have",
+                    "had",
+                    "having"
+                  ],
+                  "answer": 1,
+                  "explanation": "Never use will in the if-clause."
+                },
+                {
+                  "prompt": "If you don’t hurry, you ___ the bus.",
+                  "options": [
+                    "miss",
+                    "will miss",
+                    "missed",
+                    "are missing"
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative condition, future result."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "If she will study, she will pass.",
+                    "If she studies, she will pass.",
+                    "If she studied, she will pass.",
+                    "If she study, she will pass."
+                  ],
+                  "answer": 1,
+                  "explanation": "Third person -s in present simple; no will in if-clause."
+                },
+                {
+                  "prompt": "If the price ___ too high, customers won’t buy it.",
+                  "options": [
+                    "is",
+                    "will be",
+                    "be",
+                    "were"
+                  ],
+                  "answer": 0,
+                  "explanation": "if + present simple."
+                },
+                {
+                  "prompt": "We ___ a bonus if we reach the sales target.",
+                  "options": [
+                    "get",
+                    "will get",
+                    "got",
+                    "would get"
+                  ],
+                  "answer": 1,
+                  "explanation": "Result clause: will + verb."
+                },
+                {
+                  "prompt": "Unless you ___ the report, the boss will be angry.",
+                  "options": [
+                    "finish",
+                    "will finish",
+                    "don’t finish",
+                    "finished"
+                  ],
+                  "answer": 0,
+                  "explanation": "Unless = if not; use present simple affirmative."
+                },
+                {
+                  "prompt": "If I see Tom at lunch, I ___ him about the invoice.",
+                  "options": [
+                    "tell",
+                    "will tell",
+                    "told",
+                    "am telling"
+                  ],
+                  "answer": 1,
+                  "explanation": "Future result with will."
+                },
+                {
+                  "prompt": "What ___ you do if the Wi-Fi stops working during the call?",
+                  "options": [
+                    "do",
+                    "will",
+                    "did",
+                    "would"
+                  ],
+                  "answer": 1,
+                  "explanation": "Question form: What will you do...?"
+                },
+                {
+                  "prompt": "If my alarm doesn’t ring, I ___ late for work.",
+                  "options": [
+                    "am",
+                    "will be",
+                    "was",
+                    "be"
+                  ],
+                  "answer": 1,
+                  "explanation": "Daily life first conditional."
+                },
+                {
+                  "prompt": "She will send the contract as soon as she ___ approval.",
+                  "options": [
+                    "gets",
+                    "will get",
+                    "got",
+                    "getting"
+                  ],
+                  "answer": 0,
+                  "explanation": "Time clauses (as soon as) follow the same rule: present simple."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "If we will finish early, we will go for coffee.",
+                  "correct": false,
+                  "fix": "If we finish early, we will go for coffee.",
+                  "explanation": "No \"will\" in the if-clause."
+                },
+                {
+                  "sentence": "If the manager agrees, we will launch the product in May.",
+                  "correct": true,
+                  "explanation": "Perfect first conditional."
+                },
+                {
+                  "sentence": "You will get a discount if you pays before Friday.",
+                  "correct": false,
+                  "fix": "You will get a discount if you pay before Friday.",
+                  "explanation": "\"You\" takes the base form: pay."
+                },
+                {
+                  "sentence": "If it is sunny this weekend, we will have a barbecue.",
+                  "correct": true,
+                  "explanation": "Correct form and word order."
+                },
+                {
+                  "sentence": "If I will be late, I will text you.",
+                  "correct": false,
+                  "fix": "If I am late, I will text you.",
+                  "explanation": "Present simple in the if-clause."
+                },
+                {
+                  "sentence": "She won’t come to the party if she has to work.",
+                  "correct": true,
+                  "explanation": "Negative result clause, correct."
+                },
+                {
+                  "sentence": "If the team don’t meets the deadline, we will lose the client.",
+                  "correct": false,
+                  "fix": "If the team doesn’t meet the deadline, we will lose the client.",
+                  "explanation": "Auxiliary + base verb: doesn’t meet."
+                },
+                {
+                  "sentence": "Unless sales improve, the company will close the store.",
+                  "correct": true,
+                  "explanation": "Unless + present simple is correct."
+                },
+                {
+                  "sentence": "If you need help with the presentation, I help you.",
+                  "correct": false,
+                  "fix": "If you need help with the presentation, I will help you.",
+                  "explanation": "Result clause needs will."
+                },
+                {
+                  "sentence": "When the CEO arrives, we will start the meeting.",
+                  "correct": true,
+                  "explanation": "Time clause with present simple + will."
+                },
+                {
+                  "sentence": "If he will not call, I will send an email.",
+                  "correct": false,
+                  "fix": "If he doesn’t call, I will send an email.",
+                  "explanation": "Negative if-clause: doesn’t + verb."
+                },
+                {
+                  "sentence": "I will be very happy if I get the job.",
+                  "correct": true,
+                  "explanation": "Result clause first, if-clause second: still correct."
+                }
+              ]
+            },
+            {
+              "id": "L1U1T2",
+              "name": "Present Simple: Routines at Work",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U2",
+          "name": "Unidad 2",
+          "topics": [
+            {
+              "id": "L1U2T1",
+              "name": "Present Continuous: What Are You Doing Now?",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U2T2",
+              "name": "Articles: A / An / The",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U3",
+          "name": "Unidad 3",
+          "topics": [
+            {
+              "id": "L1U3T1",
+              "name": "There is / There are",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U3T2",
+              "name": "Countable & Uncountable Nouns",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U4",
+          "name": "Unidad 4",
+          "topics": [
+            {
+              "id": "L1U4T1",
+              "name": "Past Simple: Regular Verbs",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U4T2",
+              "name": "Past Simple: Irregular Verbs",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U5",
+          "name": "Unidad 5",
+          "topics": [
+            {
+              "id": "L1U5T1",
+              "name": "Prepositions of Time (in / on / at)",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U5T2",
+              "name": "Prepositions of Place",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U6",
+          "name": "Unidad 6",
+          "topics": [
+            {
+              "id": "L1U6T1",
+              "name": "Adverbs of Frequency",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U6T2",
+              "name": "Question Words (Wh- Questions)",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U7",
+          "name": "Unidad 7",
+          "topics": [
+            {
+              "id": "L1U7T1",
+              "name": "Can / Can’t for Ability",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U7T2",
+              "name": "Imperatives & Instructions",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U8",
+          "name": "Unidad 8",
+          "topics": [
+            {
+              "id": "L1U8T1",
+              "name": "Possessives (my / your / ’s)",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U8T2",
+              "name": "Object Pronouns",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U9",
+          "name": "Unidad 9",
+          "topics": [
+            {
+              "id": "L1U9T1",
+              "name": "Like / Love / Hate + -ing",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U9T2",
+              "name": "Comparatives",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U10",
+          "name": "Unidad 10",
+          "topics": [
+            {
+              "id": "L1U10T1",
+              "name": "Superlatives",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U10T2",
+              "name": "Going to for Plans",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U11",
+          "name": "Unidad 11",
+          "topics": [
+            {
+              "id": "L1U11T1",
+              "name": "Present Simple vs Continuous",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U11T2",
+              "name": "Would like to / Want to",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L1U12",
+          "name": "Unidad 12",
+          "topics": [
+            {
+              "id": "L1U12T1",
+              "name": "Some / Any / Much / Many",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L1U12T2",
+              "name": "Review: Small Talk & Emails",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L2",
+      "name": "Básico 2",
+      "units": [
+        {
+          "id": "L2U1",
+          "name": "Unidad 1",
+          "topics": [
+            {
+              "id": "L2U1T1",
+              "name": "Past Continuous",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U1T2",
+              "name": "Past Simple vs Past Continuous",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U2",
+          "name": "Unidad 2",
+          "topics": [
+            {
+              "id": "L2U2T1",
+              "name": "Will for Predictions",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U2T2",
+              "name": "Will vs Going to",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U3",
+          "name": "Unidad 3",
+          "topics": [
+            {
+              "id": "L2U3T1",
+              "name": "Present Perfect: Experiences",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U3T2",
+              "name": "Present Perfect with Ever / Never",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U4",
+          "name": "Unidad 4",
+          "topics": [
+            {
+              "id": "L2U4T1",
+              "name": "Have to / Must / Should",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U4T2",
+              "name": "Second Conditional",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U5",
+          "name": "Unidad 5",
+          "topics": [
+            {
+              "id": "L2U5T1",
+              "name": "Zero Conditional",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U5T2",
+              "name": "Too / Enough",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U6",
+          "name": "Unidad 6",
+          "topics": [
+            {
+              "id": "L2U6T1",
+              "name": "Used to",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U6T2",
+              "name": "Phrasal Verbs I",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U7",
+          "name": "Unidad 7",
+          "topics": [
+            {
+              "id": "L2U7T1",
+              "name": "Relative Clauses (who / which / that)",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U7T2",
+              "name": "Passive Voice: Present",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U8",
+          "name": "Unidad 8",
+          "topics": [
+            {
+              "id": "L2U8T1",
+              "name": "Passive Voice: Past",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U8T2",
+              "name": "Reported Speech: Statements",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U9",
+          "name": "Unidad 9",
+          "topics": [
+            {
+              "id": "L2U9T1",
+              "name": "Quantifiers: A few / A little",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U9T2",
+              "name": "Gerunds & Infinitives I",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U10",
+          "name": "Unidad 10",
+          "topics": [
+            {
+              "id": "L2U10T1",
+              "name": "Adjectives -ed / -ing",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U10T2",
+              "name": "So / Such",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U11",
+          "name": "Unidad 11",
+          "topics": [
+            {
+              "id": "L2U11T1",
+              "name": "Indefinite Pronouns",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U11T2",
+              "name": "Be able to / Manage to",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L2U12",
+          "name": "Unidad 12",
+          "topics": [
+            {
+              "id": "L2U12T1",
+              "name": "Question Tags",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L2U12T2",
+              "name": "Review: Meetings & Requests",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L3",
+      "name": "Intermedio 1",
+      "units": [
+        {
+          "id": "L3U1",
+          "name": "Unidad 1",
+          "topics": [
+            {
+              "id": "L3U1T1",
+              "name": "Present Perfect vs Past Simple",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U1T2",
+              "name": "Present Perfect Continuous",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U2",
+          "name": "Unidad 2",
+          "topics": [
+            {
+              "id": "L3U2T1",
+              "name": "For / Since / Ago",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U2T2",
+              "name": "Past Perfect",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U3",
+          "name": "Unidad 3",
+          "topics": [
+            {
+              "id": "L3U3T1",
+              "name": "Narrative Tenses",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U3T2",
+              "name": "Third Conditional",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U4",
+          "name": "Unidad 4",
+          "topics": [
+            {
+              "id": "L3U4T1",
+              "name": "Mixed Conditionals",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U4T2",
+              "name": "Wish / If only",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U5",
+          "name": "Unidad 5",
+          "topics": [
+            {
+              "id": "L3U5T1",
+              "name": "Modals of Deduction (must / might / can’t)",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U5T2",
+              "name": "Modals in the Past",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U6",
+          "name": "Unidad 6",
+          "topics": [
+            {
+              "id": "L3U6T1",
+              "name": "Reported Speech: Questions",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U6T2",
+              "name": "Reported Speech: Commands",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U7",
+          "name": "Unidad 7",
+          "topics": [
+            {
+              "id": "L3U7T1",
+              "name": "Passive Voice: All Tenses",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U7T2",
+              "name": "Causative: Have / Get Something Done",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U8",
+          "name": "Unidad 8",
+          "topics": [
+            {
+              "id": "L3U8T1",
+              "name": "Gerunds & Infinitives II",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U8T2",
+              "name": "Verb Patterns",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U9",
+          "name": "Unidad 9",
+          "topics": [
+            {
+              "id": "L3U9T1",
+              "name": "Defining vs Non-defining Relative Clauses",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U9T2",
+              "name": "Phrasal Verbs II",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U10",
+          "name": "Unidad 10",
+          "topics": [
+            {
+              "id": "L3U10T1",
+              "name": "Linking Words: Contrast",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U10T2",
+              "name": "Linking Words: Cause & Result",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U11",
+          "name": "Unidad 11",
+          "topics": [
+            {
+              "id": "L3U11T1",
+              "name": "Articles: Advanced Uses",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U11T2",
+              "name": "Future Continuous",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L3U12",
+          "name": "Unidad 12",
+          "topics": [
+            {
+              "id": "L3U12T1",
+              "name": "Future Perfect",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L3U12T2",
+              "name": "Review: Negotiation Language",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L4",
+      "name": "Intermedio 2",
+      "units": [
+        {
+          "id": "L4U1",
+          "name": "Unidad 1",
+          "topics": [
+            {
+              "id": "L4U1T1",
+              "name": "Inversion for Emphasis",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U1T2",
+              "name": "Cleft Sentences",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U2",
+          "name": "Unidad 2",
+          "topics": [
+            {
+              "id": "L4U2T1",
+              "name": "Participle Clauses",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U2T2",
+              "name": "Ellipsis & Substitution",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U3",
+          "name": "Unidad 3",
+          "topics": [
+            {
+              "id": "L4U3T1",
+              "name": "Advanced Passives",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U3T2",
+              "name": "Reporting Verbs",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U4",
+          "name": "Unidad 4",
+          "topics": [
+            {
+              "id": "L4U4T1",
+              "name": "Unreal Past (It’s time / Would rather)",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U4T2",
+              "name": "Conditionals with Unless / Provided",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U5",
+          "name": "Unidad 5",
+          "topics": [
+            {
+              "id": "L4U5T1",
+              "name": "Modals: Obligation & Permission",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U5T2",
+              "name": "Speculating about the Past",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U6",
+          "name": "Unidad 6",
+          "topics": [
+            {
+              "id": "L4U6T1",
+              "name": "Adjective Order",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U6T2",
+              "name": "Compound Adjectives",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U7",
+          "name": "Unidad 7",
+          "topics": [
+            {
+              "id": "L4U7T1",
+              "name": "Collocations: Business",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U7T2",
+              "name": "Collocations: Daily Life",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U8",
+          "name": "Unidad 8",
+          "topics": [
+            {
+              "id": "L4U8T1",
+              "name": "Dependent Prepositions",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U8T2",
+              "name": "Phrasal Verbs III",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U9",
+          "name": "Unidad 9",
+          "topics": [
+            {
+              "id": "L4U9T1",
+              "name": "Discourse Markers",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U9T2",
+              "name": "Hedging Language",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U10",
+          "name": "Unidad 10",
+          "topics": [
+            {
+              "id": "L4U10T1",
+              "name": "Idioms: Work",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U10T2",
+              "name": "Idioms: Money",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U11",
+          "name": "Unidad 11",
+          "topics": [
+            {
+              "id": "L4U11T1",
+              "name": "Emphatic Structures (do / does / did)",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U11T2",
+              "name": "Nominalisation",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L4U12",
+          "name": "Unidad 12",
+          "topics": [
+            {
+              "id": "L4U12T1",
+              "name": "Comparatives: Advanced",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L4U12T2",
+              "name": "Review: Presentations",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L5",
+      "name": "Avanzado 1",
+      "units": [
+        {
+          "id": "L5U1",
+          "name": "Unidad 1",
+          "topics": [
+            {
+              "id": "L5U1T1",
+              "name": "Subjunctive & Formal Structures",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U1T2",
+              "name": "Advanced Inversion",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U2",
+          "name": "Unidad 2",
+          "topics": [
+            {
+              "id": "L5U2T1",
+              "name": "Fronting",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U2T2",
+              "name": "Conditionals: Formal Variants",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U3",
+          "name": "Unidad 3",
+          "topics": [
+            {
+              "id": "L5U3T1",
+              "name": "Future in the Past",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U3T2",
+              "name": "Perfect Infinitives",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U4",
+          "name": "Unidad 4",
+          "topics": [
+            {
+              "id": "L5U4T1",
+              "name": "Advanced Reported Speech",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U4T2",
+              "name": "Passive with Reporting Verbs",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U5",
+          "name": "Unidad 5",
+          "topics": [
+            {
+              "id": "L5U5T1",
+              "name": "Modal Perfects",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U5T2",
+              "name": "Advanced Linking Devices",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U6",
+          "name": "Unidad 6",
+          "topics": [
+            {
+              "id": "L5U6T1",
+              "name": "Register: Formal vs Informal",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U6T2",
+              "name": "Euphemism & Understatement",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U7",
+          "name": "Unidad 7",
+          "topics": [
+            {
+              "id": "L5U7T1",
+              "name": "Idiomatic Phrasal Verbs",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U7T2",
+              "name": "Metaphor in Business English",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U8",
+          "name": "Unidad 8",
+          "topics": [
+            {
+              "id": "L5U8T1",
+              "name": "Collocations: Academic",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U8T2",
+              "name": "Word Formation: Prefixes",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U9",
+          "name": "Unidad 9",
+          "topics": [
+            {
+              "id": "L5U9T1",
+              "name": "Word Formation: Suffixes",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U9T2",
+              "name": "Tricky Prepositions",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U10",
+          "name": "Unidad 10",
+          "topics": [
+            {
+              "id": "L5U10T1",
+              "name": "Determiners: Advanced",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U10T2",
+              "name": "Adverbials of Attitude",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U11",
+          "name": "Unidad 11",
+          "topics": [
+            {
+              "id": "L5U11T1",
+              "name": "Concession Structures",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U11T2",
+              "name": "Conditional Idioms",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L5U12",
+          "name": "Unidad 12",
+          "topics": [
+            {
+              "id": "L5U12T1",
+              "name": "Relative Clauses: Advanced",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L5U12T2",
+              "name": "Review: Diplomacy at Work",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L6",
+      "name": "Avanzado 2",
+      "units": [
+        {
+          "id": "L6U1",
+          "name": "Unidad 1",
+          "topics": [
+            {
+              "id": "L6U1T1",
+              "name": "Stylistic Inversion",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U1T2",
+              "name": "Persuasive Grammar",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U2",
+          "name": "Unidad 2",
+          "topics": [
+            {
+              "id": "L6U2T1",
+              "name": "Rhetorical Devices",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U2T2",
+              "name": "Cohesion in Writing",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U3",
+          "name": "Unidad 3",
+          "topics": [
+            {
+              "id": "L6U3T1",
+              "name": "Complex Noun Phrases",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U3T2",
+              "name": "Advanced Ellipsis",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U4",
+          "name": "Unidad 4",
+          "topics": [
+            {
+              "id": "L6U4T1",
+              "name": "Reduced Clauses",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U4T2",
+              "name": "Advanced Emphasis",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U5",
+          "name": "Unidad 5",
+          "topics": [
+            {
+              "id": "L6U5T1",
+              "name": "Irony & Sarcasm Markers",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U5T2",
+              "name": "Register Shifting",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U6",
+          "name": "Unidad 6",
+          "topics": [
+            {
+              "id": "L6U6T1",
+              "name": "Advanced Collocation Chains",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U6T2",
+              "name": "Binomials & Trinomials",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U7",
+          "name": "Unidad 7",
+          "topics": [
+            {
+              "id": "L6U7T1",
+              "name": "Proverbs & Sayings",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U7T2",
+              "name": "Idioms: Advanced Business",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U8",
+          "name": "Unidad 8",
+          "topics": [
+            {
+              "id": "L6U8T1",
+              "name": "Idioms: Advanced Daily Life",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U8T2",
+              "name": "False Friends (ES/EN)",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U9",
+          "name": "Unidad 9",
+          "topics": [
+            {
+              "id": "L6U9T1",
+              "name": "Common Native Errors",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U9T2",
+              "name": "Phonology in Grammar",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U10",
+          "name": "Unidad 10",
+          "topics": [
+            {
+              "id": "L6U10T1",
+              "name": "Punctuation & Meaning",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U10T2",
+              "name": "Legal & Contract Language",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U11",
+          "name": "Unidad 11",
+          "topics": [
+            {
+              "id": "L6U11T1",
+              "name": "Financial English",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U11T2",
+              "name": "Tech & Startup English",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        },
+        {
+          "id": "L6U12",
+          "name": "Unidad 12",
+          "topics": [
+            {
+              "id": "L6U12T1",
+              "name": "Cross-cultural Pragmatics",
+              "steal": [],
+              "auction": []
+            },
+            {
+              "id": "L6U12T2",
+              "name": "Final Review: Masterclass",
+              "steal": [],
+              "auction": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

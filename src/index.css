@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { @apply bg-black text-white font-sans antialiased overflow-hidden; }
+
+@layer components {
+.btn { @apply rounded-2xl font-display tracking-wider uppercase transition active:scale-95 select-none disabled:opacity-40 disabled:pointer-events-none; }
+.btn-lg { @apply px-8 py-4 text-3xl md:text-4xl; }
+.btn-xl { @apply px-10 py-6 text-4xl md:text-5xl; }
+.card { @apply rounded-3xl border-4 border-white/20 bg-white/5 backdrop-blur; }
+.text-stroke { -webkit-text-stroke: 2px rgba(0,0,0,.6); text-shadow: 0 6px 0 rgba(0,0,0,.5); }
+}
