@@ -1189,152 +1189,702 @@
                 {
                   "word": "bread",
                   "image": "/img/food/bread.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is bread food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Bread is a food."
+                    },
+                    {
+                      "prompt": "Is bread healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Bread is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "cake",
                   "image": "/img/food/cake.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is cake food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Cake is a food."
+                    },
+                    {
+                      "prompt": "Is cake healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Cake is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "cheese",
                   "image": "/img/food/cheese.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is cheese food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Cheese is a food."
+                    },
+                    {
+                      "prompt": "Is cheese healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Cheese is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "chicken",
                   "image": "/img/food/chicken.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is chicken food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Chicken is a food."
+                    },
+                    {
+                      "prompt": "Is chicken healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Chicken is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "potato chips",
                   "image": "/img/food/potato-chips.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is potato chips food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Potato chips is a food."
+                    },
+                    {
+                      "prompt": "Is potato chips healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Potato chips is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "chocolate",
                   "image": "/img/food/chocolate.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is chocolate food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Chocolate is a food."
+                    },
+                    {
+                      "prompt": "Is chocolate healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Chocolate is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "cookies",
                   "image": "/img/food/cookies.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is cookies food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Cookies is a food."
+                    },
+                    {
+                      "prompt": "Is cookies healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Cookies is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "eggs",
                   "image": "/img/food/eggs.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is eggs food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Eggs is a food."
+                    },
+                    {
+                      "prompt": "Is eggs healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Eggs is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "fish",
                   "image": "/img/food/fish.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is fish food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Fish is a food."
+                    },
+                    {
+                      "prompt": "Is fish healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Fish is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "French fries",
                   "image": "/img/food/french-fries.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is French fries food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "French fries is a food."
+                    },
+                    {
+                      "prompt": "Is French fries healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "French fries is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "fruit",
                   "image": "/img/food/fruit.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is fruit food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Fruit is a food."
+                    },
+                    {
+                      "prompt": "Is fruit healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Fruit is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "ice cream",
                   "image": "/img/food/ice-cream.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is ice cream food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Ice cream is a food."
+                    },
+                    {
+                      "prompt": "Is ice cream healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Ice cream is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "meat",
                   "image": "/img/food/meat.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is meat food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Meat is a food."
+                    },
+                    {
+                      "prompt": "Is meat healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Meat is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "pasta",
                   "image": "/img/food/pasta.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is pasta food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Pasta is a food."
+                    },
+                    {
+                      "prompt": "Is pasta healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Pasta is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "pizza",
                   "image": "/img/food/pizza.svg",
-                  "category": "food",
-                  "healthy": false
+                  "sorts": [
+                    {
+                      "prompt": "Is pizza food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Pizza is a food."
+                    },
+                    {
+                      "prompt": "Is pizza healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Pizza is a treat — enjoy it sometimes!."
+                    }
+                  ]
                 },
                 {
                   "word": "potatoes",
                   "image": "/img/food/potatoes.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is potatoes food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Potatoes is a food."
+                    },
+                    {
+                      "prompt": "Is potatoes healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Potatoes is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "rice",
                   "image": "/img/food/rice.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is rice food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Rice is a food."
+                    },
+                    {
+                      "prompt": "Is rice healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Rice is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "salad",
                   "image": "/img/food/salad.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is salad food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Salad is a food."
+                    },
+                    {
+                      "prompt": "Is salad healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Salad is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "sandwich",
                   "image": "/img/food/sandwich.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is sandwich food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Sandwich is a food."
+                    },
+                    {
+                      "prompt": "Is sandwich healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Sandwich is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "vegetables",
                   "image": "/img/food/vegetables.svg",
-                  "category": "food",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is vegetables food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Vegetables is a food."
+                    },
+                    {
+                      "prompt": "Is vegetables healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Vegetables is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "coffee",
                   "image": "/img/food/coffee.svg",
-                  "category": "drink",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is coffee food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Coffee is a drink."
+                    },
+                    {
+                      "prompt": "Is coffee healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Coffee is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "milk",
                   "image": "/img/food/milk.svg",
-                  "category": "drink",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is milk food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Milk is a drink."
+                    },
+                    {
+                      "prompt": "Is milk healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Milk is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "orange juice",
                   "image": "/img/food/orange-juice.svg",
-                  "category": "drink",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is orange juice food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Orange juice is a drink."
+                    },
+                    {
+                      "prompt": "Is orange juice healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Orange juice is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "tea",
                   "image": "/img/food/tea.svg",
-                  "category": "drink",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is tea food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Tea is a drink."
+                    },
+                    {
+                      "prompt": "Is tea healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Tea is a healthy choice."
+                    }
+                  ]
                 },
                 {
                   "word": "water",
                   "image": "/img/food/water.svg",
-                  "category": "drink",
-                  "healthy": true
+                  "sorts": [
+                    {
+                      "prompt": "Is water food or a drink?",
+                      "options": [
+                        "Food",
+                        "Drink",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "Water is a drink."
+                    },
+                    {
+                      "prompt": "Is water healthy or a treat?",
+                      "options": [
+                        "Healthy",
+                        "Treat (unhealthy)",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "Water is a healthy choice."
+                    }
+                  ]
                 }
               ],
               "listening": [
@@ -9161,6 +9711,2364 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L3U6T3",
+              "name": "6C - Vocabulary: Nature & Environment",
+              "steal": [
+                {
+                  "prompt": "A large natural stream of water that flows into the sea or a lake.",
+                  "options": [
+                    "a river",
+                    "a wave",
+                    "a cave",
+                    "a cliff"
+                  ],
+                  "answer": 0,
+                  "explanation": "A river flows across the land into the sea or a lake.",
+                  "image": "/img/nature/river.svg"
+                },
+                {
+                  "prompt": "The top of a mountain.",
+                  "options": [
+                    "a valley",
+                    "a peak",
+                    "a shore",
+                    "a root"
+                  ],
+                  "answer": 1,
+                  "explanation": "The peak is the highest point of a mountain.",
+                  "image": "/img/nature/peak.svg"
+                },
+                {
+                  "prompt": "A low area of land between hills or mountains.",
+                  "options": [
+                    "a peak",
+                    "a cliff",
+                    "a valley",
+                    "an ocean"
+                  ],
+                  "answer": 2,
+                  "explanation": "A valley lies between hills or mountains.",
+                  "image": "/img/nature/valley.svg"
+                },
+                {
+                  "prompt": "Water that falls from a high place, like a river over a cliff.",
+                  "options": [
+                    "a lake",
+                    "a stream",
+                    "a wave",
+                    "a waterfall"
+                  ],
+                  "answer": 3,
+                  "explanation": "A waterfall is water falling from a height.",
+                  "image": "/img/nature/waterfall.svg"
+                },
+                {
+                  "prompt": "A large hole in the side of a hill or under the ground.",
+                  "options": [
+                    "a cave",
+                    "a branch",
+                    "a lake",
+                    "a shore"
+                  ],
+                  "answer": 0,
+                  "explanation": "A cave is a natural hole in rock.",
+                  "image": "/img/nature/cave.svg"
+                },
+                {
+                  "prompt": "A high, steep rock face, often next to the sea.",
+                  "options": [
+                    "a valley",
+                    "a cliff",
+                    "a root",
+                    "a stream"
+                  ],
+                  "answer": 1,
+                  "explanation": "A cliff is a steep rock face.",
+                  "image": "/img/nature/cliff.svg"
+                },
+                {
+                  "prompt": "Animals and plants that live in natural conditions.",
+                  "options": [
+                    "weather",
+                    "roots",
+                    "wildlife",
+                    "rocks"
+                  ],
+                  "answer": 2,
+                  "explanation": "Wildlife = wild animals and plants.",
+                  "image": "/img/nature/wildlife.svg"
+                },
+                {
+                  "prompt": "A very bright flash of light in the sky during a storm.",
+                  "options": [
+                    "sunset",
+                    "a wave",
+                    "a peak",
+                    "lightning"
+                  ],
+                  "answer": 3,
+                  "explanation": "Lightning is the flash; thunder is the sound.",
+                  "image": "/img/nature/lightning.svg"
+                },
+                {
+                  "prompt": "A storm with thunder and lightning, and usually heavy rain.",
+                  "options": [
+                    "a thunderstorm",
+                    "a waterfall",
+                    "a rainforest",
+                    "a sunrise"
+                  ],
+                  "answer": 0,
+                  "explanation": "A thunderstorm has thunder, lightning and rain.",
+                  "image": "/img/nature/thunderstorm.svg"
+                },
+                {
+                  "prompt": "The land along the edge of the sea or a lake.",
+                  "options": [
+                    "the peak",
+                    "the shore",
+                    "the roots",
+                    "the sky"
+                  ],
+                  "answer": 1,
+                  "explanation": "The shore is the land next to the water.",
+                  "image": "/img/nature/shore.svg"
+                },
+                {
+                  "prompt": "The parts of a tree that grow under the ground.",
+                  "options": [
+                    "branches",
+                    "waves",
+                    "roots",
+                    "rocks"
+                  ],
+                  "answer": 2,
+                  "explanation": "Roots grow underground and hold the tree.",
+                  "image": "/img/nature/roots.svg"
+                },
+                {
+                  "prompt": "A part of a tree that grows out from the trunk.",
+                  "options": [
+                    "a root",
+                    "a rock",
+                    "a stream",
+                    "a branch"
+                  ],
+                  "answer": 3,
+                  "explanation": "Branches grow out from the trunk; leaves grow on them.",
+                  "image": "/img/nature/branch.svg"
+                },
+                {
+                  "prompt": "A ______ is smaller than a river.",
+                  "options": [
+                    "stream",
+                    "ocean",
+                    "lake",
+                    "waterfall"
+                  ],
+                  "answer": 0,
+                  "explanation": "A stream is a small, narrow river."
+                },
+                {
+                  "prompt": "The Pacific is the largest ______ in the world.",
+                  "options": [
+                    "lake",
+                    "ocean",
+                    "river",
+                    "valley"
+                  ],
+                  "answer": 1,
+                  "explanation": "The Pacific Ocean is the largest ocean."
+                },
+                {
+                  "prompt": "Big ______ crashed against the rocks during the storm.",
+                  "options": [
+                    "peaks",
+                    "roots",
+                    "waves",
+                    "caves"
+                  ],
+                  "answer": 2,
+                  "explanation": "Waves crash against rocks on the shore."
+                },
+                {
+                  "prompt": "We watched the ______ from the beach; the sky turned orange and red.",
+                  "options": [
+                    "thunderstorm",
+                    "lightning",
+                    "roots",
+                    "sunset"
+                  ],
+                  "answer": 3,
+                  "explanation": "A sunset (or sunrise) colours the sky orange and red."
+                },
+                {
+                  "prompt": "The Amazon ______ is home to millions of species.",
+                  "options": [
+                    "rainforest",
+                    "cliff",
+                    "shore",
+                    "peak"
+                  ],
+                  "answer": 0,
+                  "explanation": "The Amazon rainforest is a huge tropical forest."
+                },
+                {
+                  "prompt": "Which word is UNCOUNTABLE?",
+                  "options": [
+                    "a rock",
+                    "wildlife",
+                    "a wave",
+                    "a cave"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Wildlife\" (and \"lightning\") are uncountable: no \"a\", no plural."
+                },
+                {
+                  "prompt": "Which of these is NOT a body of water?",
+                  "options": [
+                    "lake",
+                    "ocean",
+                    "cliff",
+                    "stream"
+                  ],
+                  "answer": 2,
+                  "explanation": "A cliff is a steep rock face — land, not water."
+                },
+                {
+                  "prompt": "Which word describes the Alps or the Andes?",
+                  "options": [
+                    "valleys",
+                    "coasts",
+                    "oceans",
+                    "mountains"
+                  ],
+                  "answer": 3,
+                  "explanation": "The Alps and the Andes are mountain ranges."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "thunderstom",
+                    "thunderstorm",
+                    "tunderstorm",
+                    "thunderstrom"
+                  ],
+                  "answer": 1,
+                  "explanation": "T-H-U-N-D-E-R-S-T-O-R-M.",
+                  "image": "/img/nature/thunderstorm.svg"
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "waterfall",
+                    "waterfal",
+                    "watterfall",
+                    "waterfoll"
+                  ],
+                  "answer": 0,
+                  "explanation": "W-A-T-E-R-F-A-L-L.",
+                  "image": "/img/nature/waterfall.svg"
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "lightening",
+                    "lighning",
+                    "lightning",
+                    "lihtning"
+                  ],
+                  "answer": 2,
+                  "explanation": "L-I-G-H-T-N-I-N-G (no \"e\" — \"lightening\" means making lighter).",
+                  "image": "/img/nature/lightning.svg"
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "cliff",
+                    "clif",
+                    "cliph",
+                    "klif"
+                  ],
+                  "answer": 0,
+                  "explanation": "C-L-I-F-F.",
+                  "image": "/img/nature/cliff.svg"
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "A river flows into the sea or a lake.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We climbed to the peak of the mountain before sunrise.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The waves were huge, so we didn’t swim in the ocean.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Wildlife are everywhere in the rainforest.",
+                  "correct": false,
+                  "fix": "Wildlife is everywhere in the rainforest.",
+                  "explanation": "\"Wildlife\" is uncountable → singular verb."
+                },
+                {
+                  "sentence": "We saw a lightning during the thunderstorm.",
+                  "correct": false,
+                  "fix": "We saw lightning during the thunderstorm. / We saw a flash of lightning.",
+                  "explanation": "\"Lightning\" is uncountable — no \"a\"."
+                },
+                {
+                  "sentence": "The village is in a beautiful valley between two mountains.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Be careful — the roots of the tree are above the ground.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The bird sat on a root of the tree and sang.",
+                  "correct": false,
+                  "fix": "The bird sat on a branch of the tree and sang.",
+                  "explanation": "Birds sit on branches (above ground); roots are underground."
+                },
+                {
+                  "sentence": "The children collected rocks and shells on the shore.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "A stream is much bigger than a river.",
+                  "correct": false,
+                  "fix": "A stream is much smaller than a river.",
+                  "explanation": "A stream is a small, narrow river."
+                },
+                {
+                  "sentence": "The water falls from a high cliff into the lake below.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We stood at the top of the cliff and looked down at the ocean.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Don’t go into the cave — it’s dark and there might be bats.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The sunset was beautiful this morning.",
+                  "correct": false,
+                  "fix": "The sunrise was beautiful this morning.",
+                  "explanation": "Sunrise = morning; sunset = evening."
+                },
+                {
+                  "sentence": "The Pacific is the biggest lake in the world.",
+                  "correct": false,
+                  "fix": "The Pacific is the biggest ocean in the world.",
+                  "explanation": "The Pacific is an ocean, not a lake."
+                },
+                {
+                  "sentence": "Thunderstorms are common in the rainforest in the afternoon.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "There are many wild animals living in the rainforests of Brazil.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The mountains was covered in snow.",
+                  "correct": false,
+                  "fix": "The mountains were covered in snow.",
+                  "explanation": "Plural subject → \"were\"."
+                },
+                {
+                  "sentence": "Waves broke against the rocks all night.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We walked along the coast and watched the waves.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "mountains",
+                  "image": "/img/nature/mountains.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Mountains\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mountains\" → Land."
+                    },
+                    {
+                      "prompt": "\"Mountains\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mountains\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "rainforest",
+                  "image": "/img/nature/rainforest.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Rainforest\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Rainforest\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Rainforest\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Rainforest\" → Neither."
+                    }
+                  ]
+                },
+                {
+                  "word": "coast",
+                  "image": "/img/nature/coast.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Coast\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Coast\" → Land."
+                    },
+                    {
+                      "prompt": "\"Coast\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Coast\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "river",
+                  "image": "/img/nature/river.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"River\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"River\" → Water."
+                    },
+                    {
+                      "prompt": "\"River\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"River\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "stream",
+                  "image": "/img/nature/stream.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Stream\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Stream\" → Water."
+                    },
+                    {
+                      "prompt": "\"Stream\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stream\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "rocks",
+                  "image": "/img/nature/rocks.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Rocks\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Rocks\" → Land."
+                    },
+                    {
+                      "prompt": "\"Rocks\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Rocks\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "branch",
+                  "image": "/img/nature/branch.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Branch\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Branch\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Branch\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Branch\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "roots",
+                  "image": "/img/nature/roots.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Roots\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Roots\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Roots\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Roots\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "wildlife",
+                  "image": "/img/nature/wildlife.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Wildlife\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Wildlife\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Wildlife\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Wildlife\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "cliff",
+                  "image": "/img/nature/cliff.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Cliff\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cliff\" → Land."
+                    },
+                    {
+                      "prompt": "\"Cliff\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cliff\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "ocean",
+                  "image": "/img/nature/ocean.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Ocean\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ocean\" → Water."
+                    },
+                    {
+                      "prompt": "\"Ocean\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ocean\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "waves",
+                  "image": "/img/nature/waves.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Waves\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waves\" → Water."
+                    },
+                    {
+                      "prompt": "\"Waves\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waves\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "shore",
+                  "image": "/img/nature/shore.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Shore\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shore\" → Land."
+                    },
+                    {
+                      "prompt": "\"Shore\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shore\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "lightning",
+                  "image": "/img/nature/lightning.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Lightning\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Lightning\" → Sky & weather."
+                    },
+                    {
+                      "prompt": "\"Lightning\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Lightning\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "thunderstorm",
+                  "image": "/img/nature/thunderstorm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Thunderstorm\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Thunderstorm\" → Sky & weather."
+                    },
+                    {
+                      "prompt": "\"Thunderstorm\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Thunderstorm\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "cave",
+                  "image": "/img/nature/cave.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Cave\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cave\" → Land."
+                    },
+                    {
+                      "prompt": "\"Cave\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cave\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "peak",
+                  "image": "/img/nature/peak.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Peak\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Peak\" → Land."
+                    },
+                    {
+                      "prompt": "\"Peak\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Peak\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "valley",
+                  "image": "/img/nature/valley.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Valley\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Valley\" → Land."
+                    },
+                    {
+                      "prompt": "\"Valley\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Valley\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "waterfall",
+                  "image": "/img/nature/waterfall.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Waterfall\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waterfall\" → Water."
+                    },
+                    {
+                      "prompt": "\"Waterfall\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Waterfall\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "lake",
+                  "image": "/img/nature/lake.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Lake\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Lake\" → Water."
+                    },
+                    {
+                      "prompt": "\"Lake\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Lake\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "sunset",
+                  "image": "/img/nature/sunrise-sunset.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Sunset\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sunset\" → Sky & weather."
+                    },
+                    {
+                      "prompt": "\"Sunset\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sunset\" → Both."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "The river flows through the valley and into a big lake.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We climbed to the peak of the mountain to watch the sunrise.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Be careful on the cliff — the rocks are wet and the waves are strong.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Lightning lit up the sky, and then we heard the thunderstorm coming.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The roots of the tree were as thick as its branches.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The rainforest is full of wildlife: birds, monkeys and insects.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Guide: Welcome to the national park! Today we’ll walk along the stream to the waterfall, and then we’ll have lunch by the lake.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where will the group have lunch?",
+                  "options": [
+                    "At the waterfall",
+                    "By the lake",
+                    "On the peak",
+                    "In a cave"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Weather report: A thunderstorm will reach the coast this evening. Expect strong waves and lightning, so stay away from the shore.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What should people stay away from?",
+                  "options": [
+                    "The mountains",
+                    "The forest",
+                    "The shore",
+                    "The valley"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Emma: Did you see any wildlife on your hike? Jack: Yes! A deer was drinking from the stream, and there was a huge eagle on the cliff.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where was the eagle?",
+                  "options": [
+                    "On the cliff",
+                    "In the stream",
+                    "On a branch",
+                    "In a cave"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Ranger: Don’t go into the cave without a torch, and never touch the roots of the plants near the entrance — some of them are poisonous.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What must you take into the cave?",
+                  "options": [
+                    "A map",
+                    "A camera",
+                    "Water",
+                    "A torch"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Mia: Our tent is on the shore, right next to the ocean. Leo: Really? I prefer camping in the valley, far from the waves.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where does Leo prefer to camp?",
+                  "options": [
+                    "On the shore",
+                    "In the valley",
+                    "Near the ocean",
+                    "On a peak"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Tour guide: From the peak you can see three lakes, a waterfall and, on a clear day, the coast in the distance.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can you see only on a clear day?",
+                  "options": [
+                    "The lakes",
+                    "The waterfall",
+                    "The coast",
+                    "The peak"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Trip planner",
+                  "situation": "Your team is planning a weekend trip into nature. Convince the other team to choose your destination — the mountains or the coast.",
+                  "mandatory": [
+                    "peak",
+                    "waves",
+                    "wildlife"
+                  ],
+                  "taboo": [
+                    "beach",
+                    "hotel"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Park ranger",
+                  "situation": "You are a park ranger. Give safety instructions to visitors about the cave, the cliff and the weather.",
+                  "mandatory": [
+                    "cliff",
+                    "thunderstorm",
+                    "cave"
+                  ],
+                  "taboo": [
+                    "dangerous",
+                    "careful"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Nature documentary",
+                  "situation": "You are narrating a documentary. Describe the journey of a river from the mountains to the ocean.",
+                  "mandatory": [
+                    "stream",
+                    "valley",
+                    "shore"
+                  ],
+                  "taboo": [
+                    "water",
+                    "big"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lost hiker",
+                  "situation": "You are lost in the forest. Call a friend and describe exactly what you can see around you so they can find you.",
+                  "mandatory": [
+                    "branch",
+                    "rocks",
+                    "waterfall"
+                  ],
+                  "taboo": [
+                    "tree",
+                    "help"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Photo story",
+                  "situation": "Show the class your (imaginary) holiday photos: a storm on the coast and a beautiful sunset from a mountain.",
+                  "mandatory": [
+                    "lightning",
+                    "sunset",
+                    "coast"
+                  ],
+                  "taboo": [
+                    "beautiful",
+                    "nice"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Protect the rainforest",
+                  "situation": "Give a one-minute speech about why the rainforest and its wildlife need protection.",
+                  "mandatory": [
+                    "rainforest",
+                    "wildlife",
+                    "roots"
+                  ],
+                  "taboo": [
+                    "animals",
+                    "important"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U6T4",
+              "name": "6C - Grammar: Second Conditional",
+              "steal": [
+                {
+                  "prompt": "If I ______ a rare animal in the forest, I would take a photo.",
+                  "options": [
+                    "find",
+                    "found",
+                    "would find",
+                    "will find"
+                  ],
+                  "answer": 1,
+                  "explanation": "Second conditional: if + past simple, would + base verb."
+                },
+                {
+                  "prompt": "If we lived by the ocean, we ______ every morning.",
+                  "options": [
+                    "swim",
+                    "will swim",
+                    "would swim",
+                    "swam"
+                  ],
+                  "answer": 2,
+                  "explanation": "Main clause: would + base verb."
+                },
+                {
+                  "prompt": "If she ______ closer to the mountains, she would go hiking every weekend.",
+                  "options": [
+                    "would live",
+                    "lives",
+                    "will live",
+                    "lived"
+                  ],
+                  "answer": 3,
+                  "explanation": "If-clause takes the past simple, not \"would\"."
+                },
+                {
+                  "prompt": "I ______ in the lake if the water weren’t so cold.",
+                  "options": [
+                    "would swim",
+                    "swim",
+                    "swam",
+                    "will swim"
+                  ],
+                  "answer": 0,
+                  "explanation": "Main clause: would + base verb. The main clause can come first."
+                },
+                {
+                  "prompt": "If there ______ a thunderstorm, we wouldn’t climb the peak.",
+                  "options": [
+                    "is",
+                    "were",
+                    "would be",
+                    "will be"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past simple in the if-clause; \"were\" is used for all persons in formal English."
+                },
+                {
+                  "prompt": "What ______ if you saw lightning near the waterfall?",
+                  "options": [
+                    "you would do",
+                    "you did",
+                    "would you do",
+                    "do you do"
+                  ],
+                  "answer": 2,
+                  "explanation": "Question: What + would + subject + base verb?"
+                },
+                {
+                  "prompt": "If I ______ you, I wouldn’t go into that cave alone.",
+                  "options": [
+                    "am",
+                    "was being",
+                    "would be",
+                    "were"
+                  ],
+                  "answer": 3,
+                  "explanation": "\"If I were you\" is the fixed expression for giving advice."
+                },
+                {
+                  "prompt": "We would explore the rainforest if we ______ more time.",
+                  "options": [
+                    "had",
+                    "have",
+                    "would have",
+                    "will have"
+                  ],
+                  "answer": 0,
+                  "explanation": "If-clause: past simple."
+                },
+                {
+                  "prompt": "If the river weren’t so fast, they ______ across it.",
+                  "options": [
+                    "swam",
+                    "would swim",
+                    "will swim",
+                    "would swam"
+                  ],
+                  "answer": 1,
+                  "explanation": "After \"would\" use the base verb: would swim."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "If I would see a bear, I would run.",
+                    "If I see a bear, I would run.",
+                    "If I saw a bear, I would run.",
+                    "If I saw a bear, I will run."
+                  ],
+                  "answer": 2,
+                  "explanation": "if + past simple, would + base verb."
+                },
+                {
+                  "prompt": "If it ______ so much in the rainforest, more people would visit.",
+                  "options": [
+                    "doesn’t rain",
+                    "wouldn’t rain",
+                    "didn’t rain",
+                    "not rained"
+                  ],
+                  "answer": 2,
+                  "explanation": "Negative if-clause: didn’t + base verb."
+                },
+                {
+                  "prompt": "If the cliff were safer, we ______ so nervous.",
+                  "options": [
+                    "wouldn’t be",
+                    "weren’t",
+                    "won’t be",
+                    "wouldn’t were"
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative main clause: wouldn’t + base verb."
+                },
+                {
+                  "prompt": "She ______ the thunderstorm if she had a good tent.",
+                  "options": [
+                    "won’t mind",
+                    "wouldn’t mind",
+                    "didn’t mind",
+                    "wouldn’t minded"
+                  ],
+                  "answer": 1,
+                  "explanation": "wouldn’t + base verb (mind)."
+                },
+                {
+                  "prompt": "If I ______ afraid of the dark, I would explore the cave.",
+                  "options": [
+                    "am not",
+                    "wouldn’t be",
+                    "wasn’t being",
+                    "weren’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "Negative if-clause with \"be\": weren’t (or wasn’t)."
+                },
+                {
+                  "prompt": "______ you swim in the lake if the water were warm?",
+                  "options": [
+                    "Did",
+                    "Do",
+                    "Would",
+                    "Will"
+                  ],
+                  "answer": 2,
+                  "explanation": "Yes/No question: Would + subject + base verb?"
+                },
+                {
+                  "prompt": "Where ______ if you could live anywhere in nature?",
+                  "options": [
+                    "you would live",
+                    "would you live",
+                    "you lived",
+                    "did you live"
+                  ],
+                  "answer": 1,
+                  "explanation": "Wh-question: Where + would + subject + base verb?"
+                },
+                {
+                  "prompt": "\"Would you climb that peak?\" — \"Yes, I ______.\"",
+                  "options": [
+                    "climbed",
+                    "do",
+                    "will",
+                    "would"
+                  ],
+                  "answer": 3,
+                  "explanation": "Short answer: Yes, I would. / No, I wouldn’t."
+                },
+                {
+                  "prompt": "\"If I found a rare animal in the forest, I would take a photo.\" This talks about…",
+                  "options": [
+                    "an imaginary or unlikely situation",
+                    "a past event",
+                    "a plan for tomorrow",
+                    "a scientific fact"
+                  ],
+                  "answer": 0,
+                  "explanation": "The second conditional describes hypothetical / unlikely present or future situations."
+                },
+                {
+                  "prompt": "Which sentence gives ADVICE?",
+                  "options": [
+                    "If I were you, I’d stay away from the cliff.",
+                    "If it rains, the river rises.",
+                    "If it rains tomorrow, we’ll stay home.",
+                    "I stayed home because it rained."
+                  ],
+                  "answer": 0,
+                  "explanation": "\"If I were you, I’d…\" is the classic advice structure."
+                },
+                {
+                  "prompt": "Choose the correct contraction: \"If we had a boat, we ______ sail across the lake.\"",
+                  "options": [
+                    "we’d",
+                    "’d",
+                    "had",
+                    "would’d"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"’d\" = would: we’d sail."
+                },
+                {
+                  "prompt": "Which is a FIRST conditional (real possibility), not a second?",
+                  "options": [
+                    "If I lived near the coast, I’d surf.",
+                    "If it stops raining, we’ll walk to the waterfall.",
+                    "If I were a bird, I’d fly over the valley.",
+                    "If we had wings, we could reach the peak."
+                  ],
+                  "answer": 1,
+                  "explanation": "First conditional: if + present, will + base verb. Real future possibility."
+                },
+                {
+                  "prompt": "Where does the comma go? \"If I lived in the mountains ___ I would hike every day.\"",
+                  "options": [
+                    "no comma",
+                    "after \"mountains\"",
+                    "after \"I\"",
+                    "after \"would\""
+                  ],
+                  "answer": 1,
+                  "explanation": "When the if-clause comes first, use a comma before the main clause."
+                },
+                {
+                  "prompt": "\"I would take a photo ______ I found a rare animal.\" Which word completes it? (no comma)",
+                  "options": [
+                    "if",
+                    "so",
+                    "because",
+                    "when"
+                  ],
+                  "answer": 0,
+                  "explanation": "When the main clause comes first, no comma is needed before \"if\"."
+                },
+                {
+                  "prompt": "If we ______ more trees, the wildlife would have more places to live.",
+                  "options": [
+                    "plant",
+                    "will plant",
+                    "would plant",
+                    "planted"
+                  ],
+                  "answer": 3,
+                  "explanation": "If-clause: past simple."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "If I found a rare animal in the forest, I would take a photo.",
+                  "correct": true,
+                  "explanation": "Correct: if + past simple, would + base verb."
+                },
+                {
+                  "sentence": "If I would have more money, I would travel to the rainforest.",
+                  "correct": false,
+                  "fix": "If I had more money, I would travel to the rainforest.",
+                  "explanation": "No \"would\" in the if-clause."
+                },
+                {
+                  "sentence": "If we lived near the ocean, we would go surfing every day.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She would climbs the peak if the weather were better.",
+                  "correct": false,
+                  "fix": "She would climb the peak if the weather were better.",
+                  "explanation": "Base verb after \"would\" (no -s)."
+                },
+                {
+                  "sentence": "If I were you, I wouldn’t swim in the river during a thunderstorm.",
+                  "correct": true,
+                  "explanation": "Correct: \"If I were you\" for advice."
+                },
+                {
+                  "sentence": "If there was a waterfall near my house, I would visit it every weekend.",
+                  "correct": true,
+                  "explanation": "Correct: \"was\" is accepted in informal English; \"were\" is more formal."
+                },
+                {
+                  "sentence": "We would explore the cave if we have a torch.",
+                  "correct": false,
+                  "fix": "We would explore the cave if we had a torch.",
+                  "explanation": "If-clause needs the past simple: had."
+                },
+                {
+                  "sentence": "What would you do if you saw lightning hit a tree?",
+                  "correct": true,
+                  "explanation": "Correct question form."
+                },
+                {
+                  "sentence": "Would you camp on the shore if the waves were calm?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "If the river wasn’t so cold, I will swim in it.",
+                  "correct": false,
+                  "fix": "If the river weren’t so cold, I would swim in it.",
+                  "explanation": "Second conditional uses \"would\", not \"will\"."
+                },
+                {
+                  "sentence": "I’d take more photos of wildlife if I had a better camera.",
+                  "correct": true,
+                  "explanation": "Correct: I’d = I would."
+                },
+                {
+                  "sentence": "If he didn’t live in a city, he would spend more time in nature.",
+                  "correct": true,
+                  "explanation": "Correct negative if-clause."
+                },
+                {
+                  "sentence": "If I saw a bear in the valley, I would ran away.",
+                  "correct": false,
+                  "fix": "If I saw a bear in the valley, I would run away.",
+                  "explanation": "Base verb after \"would\": run."
+                },
+                {
+                  "sentence": "They wouldn’t go near the cliff if it weren’t safe.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "If you could live anywhere, where would you live?",
+                  "correct": true,
+                  "explanation": "Correct: \"could\" is possible in the if-clause (= were able to)."
+                },
+                {
+                  "sentence": "If it didn’t rain so much here, the lake will be smaller.",
+                  "correct": false,
+                  "fix": "If it didn’t rain so much here, the lake would be smaller.",
+                  "explanation": "Main clause: would + be."
+                },
+                {
+                  "sentence": "I would to visit the rainforest if I had the chance.",
+                  "correct": false,
+                  "fix": "I would visit the rainforest if I had the chance.",
+                  "explanation": "No \"to\" after \"would\"."
+                },
+                {
+                  "sentence": "If we protected the rainforest, many animals wouldn’t disappear.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Did you swim in the lake if it were warmer?",
+                  "correct": false,
+                  "fix": "Would you swim in the lake if it were warmer?",
+                  "explanation": "Questions use \"Would…?\", not \"Did…?\"."
+                },
+                {
+                  "sentence": "If the sunset weren’t so beautiful, we wouldn’t stay on the beach so late.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "If I would be a bird, I would fly over the mountains.",
+                  "correct": false,
+                  "fix": "If I were a bird, I would fly over the mountains.",
+                  "explanation": "Use \"were\", not \"would be\", in the if-clause."
+                },
+                {
+                  "sentence": "We could reach the peak faster if we took the other path.",
+                  "correct": true,
+                  "explanation": "Correct: \"could\" can replace \"would\" in the main clause."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "mountains",
+                  "image": "/img/nature/mountains.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Mountains\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mountains\" → Land."
+                    },
+                    {
+                      "prompt": "\"Mountains\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mountains\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "rainforest",
+                  "image": "/img/nature/rainforest.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Rainforest\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Rainforest\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Rainforest\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Rainforest\" → Neither."
+                    }
+                  ]
+                },
+                {
+                  "word": "coast",
+                  "image": "/img/nature/coast.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Coast\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Coast\" → Land."
+                    },
+                    {
+                      "prompt": "\"Coast\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Coast\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "river",
+                  "image": "/img/nature/river.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"River\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"River\" → Water."
+                    },
+                    {
+                      "prompt": "\"River\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"River\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "stream",
+                  "image": "/img/nature/stream.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Stream\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Stream\" → Water."
+                    },
+                    {
+                      "prompt": "\"Stream\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stream\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "rocks",
+                  "image": "/img/nature/rocks.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Rocks\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Rocks\" → Land."
+                    },
+                    {
+                      "prompt": "\"Rocks\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Rocks\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "branch",
+                  "image": "/img/nature/branch.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Branch\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Branch\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Branch\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Branch\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "roots",
+                  "image": "/img/nature/roots.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Roots\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Roots\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Roots\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Roots\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "wildlife",
+                  "image": "/img/nature/wildlife.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Wildlife\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Wildlife\" → Plants & animals."
+                    },
+                    {
+                      "prompt": "\"Wildlife\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Wildlife\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "cliff",
+                  "image": "/img/nature/cliff.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Cliff\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cliff\" → Land."
+                    },
+                    {
+                      "prompt": "\"Cliff\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cliff\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "ocean",
+                  "image": "/img/nature/ocean.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Ocean\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ocean\" → Water."
+                    },
+                    {
+                      "prompt": "\"Ocean\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ocean\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "waves",
+                  "image": "/img/nature/waves.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Waves\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waves\" → Water."
+                    },
+                    {
+                      "prompt": "\"Waves\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waves\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "shore",
+                  "image": "/img/nature/shore.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Shore\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shore\" → Land."
+                    },
+                    {
+                      "prompt": "\"Shore\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shore\" → By the sea."
+                    }
+                  ]
+                },
+                {
+                  "word": "lightning",
+                  "image": "/img/nature/lightning.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Lightning\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Lightning\" → Sky & weather."
+                    },
+                    {
+                      "prompt": "\"Lightning\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Lightning\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "thunderstorm",
+                  "image": "/img/nature/thunderstorm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Thunderstorm\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Thunderstorm\" → Sky & weather."
+                    },
+                    {
+                      "prompt": "\"Thunderstorm\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Thunderstorm\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "cave",
+                  "image": "/img/nature/cave.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Cave\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cave\" → Land."
+                    },
+                    {
+                      "prompt": "\"Cave\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cave\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "peak",
+                  "image": "/img/nature/peak.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Peak\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Peak\" → Land."
+                    },
+                    {
+                      "prompt": "\"Peak\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Peak\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "valley",
+                  "image": "/img/nature/valley.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Valley\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Valley\" → Land."
+                    },
+                    {
+                      "prompt": "\"Valley\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Valley\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "waterfall",
+                  "image": "/img/nature/waterfall.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Waterfall\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waterfall\" → Water."
+                    },
+                    {
+                      "prompt": "\"Waterfall\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Waterfall\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "lake",
+                  "image": "/img/nature/lake.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Lake\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Lake\" → Water."
+                    },
+                    {
+                      "prompt": "\"Lake\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Lake\" → In the mountains."
+                    }
+                  ]
+                },
+                {
+                  "word": "sunset",
+                  "image": "/img/nature/sunrise-sunset.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Sunset\" — is it land, water, sky or living things?",
+                      "options": [
+                        "Land",
+                        "Water",
+                        "Sky & weather",
+                        "Plants & animals"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sunset\" → Sky & weather."
+                    },
+                    {
+                      "prompt": "\"Sunset\" — do you usually see it in the mountains or by the sea?",
+                      "options": [
+                        "In the mountains",
+                        "By the sea",
+                        "Both",
+                        "Neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sunset\" → Both."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "If I found a rare animal in the forest, I would take a photo.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If we lived near the ocean, we would go swimming every morning.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I wouldn’t climb the peak if there were a thunderstorm.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "What would you do if you saw lightning hit a tree?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If I were you, I wouldn’t go into that cave alone.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If the river weren’t so cold, we would swim across it.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Sam: If you could live anywhere in nature, where would you live? Ana: By a lake in the mountains. I’d swim every morning and watch the sunset every evening.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where would Ana live?",
+                  "options": [
+                    "By the ocean",
+                    "In a rainforest",
+                    "By a mountain lake",
+                    "In a valley"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Tom: What would you do if you saw a bear near the stream? Lucy: I wouldn’t run. I’d stay calm, walk away slowly and call the ranger.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What would Lucy do first?",
+                  "options": [
+                    "Run away",
+                    "Stay calm and walk away slowly",
+                    "Take a photo",
+                    "Climb a tree"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Teacher: If people didn’t cut down the rainforest, thousands of species wouldn’t disappear every year.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Is the teacher talking about a real situation or an imaginary one?",
+                  "options": [
+                    "Imaginary — people do cut down the rainforest",
+                    "Real — it is happening now",
+                    "A plan for the future",
+                    "A past event"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Dad: Would you go camping on the cliff if the weather were bad? Son: No, I wouldn’t. If it rained, I’d stay in the valley.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where would the son stay if it rained?",
+                  "options": [
+                    "On the cliff",
+                    "On the shore",
+                    "In a cave",
+                    "In the valley"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Maya: If I had a boat, I would sail across the lake to the waterfall. Ben: And if you had wings, you’d fly to the peak!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What would Maya do if she had a boat?",
+                  "options": [
+                    "Fly to the peak",
+                    "Sail to the waterfall",
+                    "Swim in the lake",
+                    "Climb the cliff"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Guide: If you were quiet, you would see more wildlife. If you shouted, the animals would hide in the rocks and branches.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What would happen if visitors shouted?",
+                  "options": [
+                    "They would see more animals",
+                    "The animals would come closer",
+                    "The animals would hide",
+                    "Nothing would change"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Rare animal",
+                  "situation": "Imagine you found a rare animal in the forest. Tell the class what you would do, what you wouldn’t do and why.",
+                  "mandatory": [
+                    "If I found",
+                    "I would",
+                    "I wouldn’t"
+                  ],
+                  "taboo": [
+                    "will",
+                    "going to"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dream place",
+                  "situation": "If you could live anywhere in nature — by the ocean, in the mountains, in a rainforest — where would you live? Describe your life there.",
+                  "mandatory": [
+                    "If I could",
+                    "I’d live",
+                    "every day"
+                  ],
+                  "taboo": [
+                    "will",
+                    "want"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Survival quiz",
+                  "situation": "The other team asks you three \"What would you do if…?\" questions about nature (a thunderstorm, a bear, a lost path). Answer each one in a full sentence.",
+                  "mandatory": [
+                    "What would you do if",
+                    "I would",
+                    "because"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "I don’t know"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Advice for a hiker",
+                  "situation": "Your friend wants to climb a peak alone during a thunderstorm. Give advice using \"If I were you…\".",
+                  "mandatory": [
+                    "If I were you",
+                    "I wouldn’t",
+                    "lightning"
+                  ],
+                  "taboo": [
+                    "must",
+                    "should"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Save the planet",
+                  "situation": "Explain what would happen to the rainforest and the oceans if people didn’t protect them — and what would change if they did.",
+                  "mandatory": [
+                    "If people didn’t",
+                    "would disappear",
+                    "wildlife"
+                  ],
+                  "taboo": [
+                    "will",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Superpower",
+                  "situation": "If you had one nature superpower (control the waves, make lightning, talk to animals), what would it be? What would you do with it?",
+                  "mandatory": [
+                    "If I had",
+                    "I would",
+                    "waves"
+                  ],
+                  "taboo": [
+                    "cool",
+                    "awesome"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },

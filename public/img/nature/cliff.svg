@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7ec8ff"/><stop offset="1" stop-color="#d9f1ff"/></linearGradient>
+<linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1f4b"/><stop offset="1" stop-color="#4a3f8c"/></linearGradient>
+<linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a3a8a"/><stop offset=".55" stop-color="#ff8a5b"/><stop offset="1" stop-color="#ffd27a"/></linearGradient>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3aa0e8"/><stop offset="1" stop-color="#1c6fb8"/></linearGradient>
+</defs><rect width="64" height="64" rx="8" fill="url(#sky)"/><circle cx="50" cy="13" r="6" fill="#ffd54a"/><rect y="44" width="64" height="20" fill="url(#water)"/><path d="M0 50 q6 -4 12 0 t12 0 t12 0 t12 0 t12 0 t12 0" stroke="#cbe9ff" stroke-width="2" fill="none"/><path d="M0 58 q6 -4 12 0 t12 0 t12 0 t12 0 t12 0 t12 0" stroke="#cbe9ff" stroke-width="2" fill="none"/><path d="M0 0 L34 0 L36 14 L30 24 L38 36 L32 64 L0 64Z" fill="#8a6d4b"/><path d="M0 0 L34 0 L36 14 L30 24 L38 36 L32 64 L20 64 L26 36 L20 22 L26 10 L22 0Z" fill="#a98862"/><rect width="30" height="6" fill="#5fbf5a"/></svg>

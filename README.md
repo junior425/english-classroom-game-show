@@ -20,7 +20,7 @@ Live: https://english-classroom-game-show.vercel.app
   +100; a wrong answer (or time-out) opens the trapdoor and costs a life. Game ends when a team runs out of
   lives or the questions end.
 - **Mode 5 – Picture Quiz** (topics with `pictures`): giant illustration; identify the word, choose the
-  correct spelling or categorise it (Food vs Drink, Healthy vs Treat). +100, steal for +50.
+  correct spelling or categorise it (Food vs Drink, Land vs Water, …; category rounds come from each topic's `pictureSorts`). +100, steal for +50.
 - **Mode 6 – Audio Detective** (topics with `listening`): the browser's Web Speech API reads a sentence or
   mini-dialogue with a native en-US / en-GB voice (max 3 plays). Dictation tracks: both teams write, the
   teacher marks each team (+100 / −50). Comprehension tracks: multiple choice, +100, steal for +50.

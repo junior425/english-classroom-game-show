@@ -54,7 +54,7 @@ const MODES = [
     id: 'picture',
     icon: '🖼️',
     title: 'MODE 5: PICTURE QUIZ',
-    desc: (<>Vocabulary with <b className="text-gold">giant pictures</b>: identify the word, pick the correct <b className="text-gold">spelling</b>, or sort it — Food vs Drink, Healthy vs Treat. Miss and the other team steals!</>),
+    desc: (<>Vocabulary with <b className="text-gold">giant pictures</b>: identify the word, pick the correct <b className="text-gold">spelling</b>, or sort it into categories (Food vs Drink, Land vs Water…). Miss and the other team steals!</>),
     count: (t) => t.pictures?.length ?? 0,
     unit: 'pictures',
     vocabOnly: true,

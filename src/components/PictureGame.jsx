@@ -9,7 +9,6 @@ const ANSWER_TIME = 15
 const POINTS = 100
 const STEAL_POINTS = 50
 const LETTERS = ['A', 'B', 'C', 'D']
-const CATEGORY_LABEL = { food: 'Food', drink: 'Drink' }
 
 // Deterministic shuffle so a topic always plays the same well-mixed deck.
 function seeded(seed) {
@@ -46,7 +45,8 @@ function buildRounds(pictures) {
   const rounds = []
   const words = pictures.map((p) => p.word)
   shuffle(pictures, rnd).forEach((p, i) => {
-    const kind = ['identify', 'spelling', 'category'][i % 3]
+    let kind = ['identify', 'spelling', 'category'][i % 3]
+    if (kind === 'category' && !p.sorts?.length) kind = 'identify'
     if (kind === 'identify') {
       const wrong = shuffle(words.filter((w) => w !== p.word), rnd).slice(0, 3)
       const options = shuffle([p.word, ...wrong], rnd)
@@ -55,15 +55,8 @@ function buildRounds(pictures) {
       const options = shuffle([p.word, ...misspell(p.word, rnd)], rnd)
       rounds.push({ kind, image: p.image, word: p.word, prompt: 'How do you spell it?', options, answer: options.indexOf(p.word), explanation: `${cap(p.word)}: ${p.word.replace(/\s/g, '').split('').join('-')}` })
     } else {
-      const healthyQ = rnd() < 0.5
-      const options = healthyQ ? ['Healthy', 'Treat (unhealthy)', 'Both', 'Neither'] : ['Food', 'Drink', 'Both', 'Neither']
-      const answer = healthyQ ? (p.healthy ? 0 : 1) : (p.category === 'food' ? 0 : 1)
-      rounds.push({
-        kind, image: p.image, word: p.word,
-        prompt: healthyQ ? `Is ${p.word} healthy or a treat?` : `Is ${p.word} food or a drink?`,
-        options, answer,
-        explanation: healthyQ ? `${cap(p.word)} is ${p.healthy ? 'a healthy choice' : 'a treat — enjoy it sometimes!'}.` : `${cap(p.word)} is a ${CATEGORY_LABEL[p.category].toLowerCase()}.`,
-      })
+      const sort = p.sorts[Math.floor(rnd() * p.sorts.length)]
+      rounds.push({ kind, image: p.image, word: p.word, prompt: sort.prompt, options: sort.options, answer: sort.answer, explanation: sort.explanation })
     }
   })
   return rounds

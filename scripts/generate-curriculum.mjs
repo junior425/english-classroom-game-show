@@ -11,6 +11,7 @@ import intermediate2 from './content/intermediate2.mjs'
 import advanced1 from './content/advanced1.mjs'
 import advanced2 from './content/advanced2.mjs'
 import basic1Unit3Extras from './content/basic1-unit3-extras.mjs'
+import intermediate1Unit6Extras from './content/intermediate1-unit6-extras.mjs'
 import listeningSpeaking from './content/listening-speaking.mjs'
 
 const here = dirname(fileURLToPath(import.meta.url))
@@ -18,6 +19,7 @@ const here = dirname(fileURLToPath(import.meta.url))
 // Extra topics appended to a unit after its two base topics: { 'Level name': { unitIndex: content } }
 const EXTRAS = {
   'Basic 1': { 2: basic1Unit3Extras },
+  'Intermediate 1': { 5: intermediate1Unit6Extras },
 }
 
 const LEVELS = [
@@ -31,7 +33,30 @@ const LEVELS = [
 
 const toQuestion = ([prompt, options, answer, explanation, image]) =>
   image ? { prompt, options, answer, explanation, image } : { prompt, options, answer, explanation }
-const toPicture = ([word, image, category, healthy]) => ({ word, image, category, healthy })
+const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1)
+// Picture Quiz "category" rounds are precomputed here as `sorts`, so the game component stays topic-agnostic.
+// Legacy food format: [word, image, 'food'|'drink', healthy]. Generic format: [word, image, { sortKey: optionLabel }]
+// resolved against the topic's `pictureSorts: { sortKey: { prompt, options(4), explain? } }` ({word}/{value} placeholders).
+const toPicture = (sortDefs) => ([word, image, tagsOrCategory, healthy]) => {
+  if (typeof tagsOrCategory === 'string') {
+    const category = tagsOrCategory
+    return {
+      word, image,
+      sorts: [
+        { prompt: `Is ${word} food or a drink?`, options: ['Food', 'Drink', 'Both', 'Neither'], answer: category === 'food' ? 0 : 1, explanation: `${cap(word)} is a ${category}.` },
+        { prompt: `Is ${word} healthy or a treat?`, options: ['Healthy', 'Treat (unhealthy)', 'Both', 'Neither'], answer: healthy ? 0 : 1, explanation: `${cap(word)} is ${healthy ? 'a healthy choice' : 'a treat — enjoy it sometimes!'}.` },
+      ],
+    }
+  }
+  const fill = (tpl, value) => tpl.replaceAll('{word}', word).replaceAll('{Word}', cap(word)).replaceAll('{value}', value)
+  return {
+    word, image,
+    sorts: Object.entries(tagsOrCategory).map(([key, value]) => {
+      const def = sortDefs[key]
+      return { prompt: fill(def.prompt, value), options: def.options, answer: def.options.indexOf(value), explanation: fill(def.explain ?? '{Word}: {value}.', value) }
+    }),
+  }
+}
 const toListening = ([text, voice, kind, question, options, answer]) =>
   kind === 'comprehension' ? { text, voice, kind, question, options, answer } : { text, voice, kind }
 const toSpeaking = ([title, situation, mandatory, taboo, seconds]) => ({ title, situation, mandatory, taboo, seconds })
@@ -71,10 +96,22 @@ function validate(levelName, topicName, data) {
     if (typeof sentence !== 'string' || typeof correct !== 'boolean') errors.push(`sentence ${i + 1} malformed`)
     if (!correct && typeof fix !== 'string') errors.push(`sentence ${i + 1} is a trap but has no fix`)
   })
+  Object.entries(data.pictureSorts ?? {}).forEach(([key, def]) => {
+    if (typeof def.prompt !== 'string' || !/\{[wW]ord\}/.test(def.prompt) || !Array.isArray(def.options) || def.options.length !== 4) errors.push(`pictureSorts.${key} malformed`)
+  })
   data.pictures?.forEach((item, i) => {
-    const [word, image, category, healthy] = item
-    if (typeof word !== 'string' || typeof image !== 'string' || !['food', 'drink'].includes(category) || typeof healthy !== 'boolean') {
-      errors.push(`picture ${i + 1} malformed`)
+    const [word, image, tagsOrCategory, healthy] = item
+    if (typeof word !== 'string' || typeof image !== 'string') errors.push(`picture ${i + 1} malformed`)
+    else if (typeof tagsOrCategory === 'string') {
+      if (!['food', 'drink'].includes(tagsOrCategory) || typeof healthy !== 'boolean') errors.push(`picture ${i + 1} malformed`)
+    } else if (!tagsOrCategory || typeof tagsOrCategory !== 'object' || Object.keys(tagsOrCategory).length === 0) {
+      errors.push(`picture ${i + 1} needs sort tags`)
+    } else {
+      Object.entries(tagsOrCategory).forEach(([key, value]) => {
+        const def = data.pictureSorts?.[key]
+        if (!def) errors.push(`picture ${i + 1}: unknown sort "${key}"`)
+        else if (!def.options.includes(value)) errors.push(`picture ${i + 1}: "${value}" is not an option of sort "${key}"`)
+      })
     }
   })
   if (data.pictures && data.pictures.length < 8) errors.push('needs at least 8 pictures for Picture Quiz')
@@ -102,7 +139,7 @@ const levels = LEVELS.map(([name, content], li) => {
       name: topicName,
       steal: data.q.map(toQuestion),
       auction: data.s.map(toSentence),
-      pictures: (data.pictures ?? []).map(toPicture),
+      pictures: (data.pictures ?? []).map(toPicture(data.pictureSorts ?? {})),
       listening: (extra.listening ?? []).map(toListening),
       speaking: (extra.speaking ?? []).map(toSpeaking),
     }

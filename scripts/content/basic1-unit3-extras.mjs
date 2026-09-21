@@ -4,6 +4,7 @@
 // (Point Steal, Pressure Bomb, The Trapdoor); s = [sentence, correct, fix, explanation] (Grammar Auction).
 // A question may carry an optional 5th element: an image URL shown above the prompt.
 // pictures = [word, imageUrl, category, healthy] feeds Picture Quiz (identification, spelling, categorization).
+// Other topics can use the generic form [word, imageUrl, { sortKey: option }] + pictureSorts (see intermediate1-unit6-extras.mjs).
 const img = (name) => `/img/food/${name}.svg`
 
 export default {

@@ -1,0 +1,160 @@
+// Extra topics for Intermediate 1 / Unit 6 taken from the coursebook pages 6C (Nature vocabulary)
+// and 6C (Second conditional). Appended after the two base topics of the unit.
+// Format: q = [prompt, options(4), answerIndex, explanation(, image)] (Point Steal, Pressure Bomb, The Trapdoor);
+// s = [sentence, correct, fix, explanation] (Grammar Auction);
+// pictureSorts + pictures = [word, imageUrl, { sortKey: option }] feed Picture Quiz (identify, spelling, category rounds).
+// Listening / speaking cards for these topics live in listening-speaking.mjs.
+const img = (name) => `/img/nature/${name}.svg`
+
+const pictureSorts = {
+  kind: {
+    prompt: '"{Word}" — is it land, water, sky or living things?',
+    options: ['Land', 'Water', 'Sky & weather', 'Plants & animals'],
+    explain: '"{Word}" → {value}.',
+  },
+  place: {
+    prompt: '"{Word}" — do you usually see it in the mountains or by the sea?',
+    options: ['In the mountains', 'By the sea', 'Both', 'Neither'],
+    explain: '"{Word}" → {value}.',
+  },
+}
+
+const pictures = [
+  ['mountains', img('mountains'), { kind: 'Land', place: 'In the mountains' }],
+  ['rainforest', img('rainforest'), { kind: 'Plants & animals', place: 'Neither' }],
+  ['coast', img('coast'), { kind: 'Land', place: 'By the sea' }],
+  ['river', img('river'), { kind: 'Water', place: 'Both' }],
+  ['stream', img('stream'), { kind: 'Water', place: 'In the mountains' }],
+  ['rocks', img('rocks'), { kind: 'Land', place: 'Both' }],
+  ['branch', img('branch'), { kind: 'Plants & animals', place: 'Both' }],
+  ['roots', img('roots'), { kind: 'Plants & animals', place: 'Both' }],
+  ['wildlife', img('wildlife'), { kind: 'Plants & animals', place: 'Both' }],
+  ['cliff', img('cliff'), { kind: 'Land', place: 'By the sea' }],
+  ['ocean', img('ocean'), { kind: 'Water', place: 'By the sea' }],
+  ['waves', img('waves'), { kind: 'Water', place: 'By the sea' }],
+  ['shore', img('shore'), { kind: 'Land', place: 'By the sea' }],
+  ['lightning', img('lightning'), { kind: 'Sky & weather', place: 'Both' }],
+  ['thunderstorm', img('thunderstorm'), { kind: 'Sky & weather', place: 'Both' }],
+  ['cave', img('cave'), { kind: 'Land', place: 'Both' }],
+  ['peak', img('peak'), { kind: 'Land', place: 'In the mountains' }],
+  ['valley', img('valley'), { kind: 'Land', place: 'In the mountains' }],
+  ['waterfall', img('waterfall'), { kind: 'Water', place: 'In the mountains' }],
+  ['lake', img('lake'), { kind: 'Water', place: 'In the mountains' }],
+  ['sunset', img('sunrise-sunset'), { kind: 'Sky & weather', place: 'Both' }],
+]
+
+export default {
+  '6C - Vocabulary: Nature & Environment': {
+    pictureSorts,
+    pictures,
+    q: [
+      // identification
+      ['A large natural stream of water that flows into the sea or a lake.', ['a river', 'a wave', 'a cave', 'a cliff'], 0, 'A river flows across the land into the sea or a lake.', img('river')],
+      ['The top of a mountain.', ['a valley', 'a peak', 'a shore', 'a root'], 1, 'The peak is the highest point of a mountain.', img('peak')],
+      ['A low area of land between hills or mountains.', ['a peak', 'a cliff', 'a valley', 'an ocean'], 2, 'A valley lies between hills or mountains.', img('valley')],
+      ['Water that falls from a high place, like a river over a cliff.', ['a lake', 'a stream', 'a wave', 'a waterfall'], 3, 'A waterfall is water falling from a height.', img('waterfall')],
+      ['A large hole in the side of a hill or under the ground.', ['a cave', 'a branch', 'a lake', 'a shore'], 0, 'A cave is a natural hole in rock.', img('cave')],
+      ['A high, steep rock face, often next to the sea.', ['a valley', 'a cliff', 'a root', 'a stream'], 1, 'A cliff is a steep rock face.', img('cliff')],
+      ['Animals and plants that live in natural conditions.', ['weather', 'roots', 'wildlife', 'rocks'], 2, 'Wildlife = wild animals and plants.', img('wildlife')],
+      ['A very bright flash of light in the sky during a storm.', ['sunset', 'a wave', 'a peak', 'lightning'], 3, 'Lightning is the flash; thunder is the sound.', img('lightning')],
+      ['A storm with thunder and lightning, and usually heavy rain.', ['a thunderstorm', 'a waterfall', 'a rainforest', 'a sunrise'], 0, 'A thunderstorm has thunder, lightning and rain.', img('thunderstorm')],
+      ['The land along the edge of the sea or a lake.', ['the peak', 'the shore', 'the roots', 'the sky'], 1, 'The shore is the land next to the water.', img('shore')],
+      ['The parts of a tree that grow under the ground.', ['branches', 'waves', 'roots', 'rocks'], 2, 'Roots grow underground and hold the tree.', img('roots')],
+      ['A part of a tree that grows out from the trunk.', ['a root', 'a rock', 'a stream', 'a branch'], 3, 'Branches grow out from the trunk; leaves grow on them.', img('branch')],
+      // word choice / collocations
+      ['A ______ is smaller than a river.', ['stream', 'ocean', 'lake', 'waterfall'], 0, 'A stream is a small, narrow river.'],
+      ['The Pacific is the largest ______ in the world.', ['lake', 'ocean', 'river', 'valley'], 1, 'The Pacific Ocean is the largest ocean.'],
+      ['Big ______ crashed against the rocks during the storm.', ['peaks', 'roots', 'waves', 'caves'], 2, 'Waves crash against rocks on the shore.'],
+      ['We watched the ______ from the beach; the sky turned orange and red.', ['thunderstorm', 'lightning', 'roots', 'sunset'], 3, 'A sunset (or sunrise) colours the sky orange and red.'],
+      ['The Amazon ______ is home to millions of species.', ['rainforest', 'cliff', 'shore', 'peak'], 0, 'The Amazon rainforest is a huge tropical forest.'],
+      ['Which word is UNCOUNTABLE?', ['a rock', 'wildlife', 'a wave', 'a cave'], 1, '"Wildlife" (and "lightning") are uncountable: no "a", no plural.'],
+      ['Which of these is NOT a body of water?', ['lake', 'ocean', 'cliff', 'stream'], 2, 'A cliff is a steep rock face — land, not water.'],
+      ['Which word describes the Alps or the Andes?', ['valleys', 'coasts', 'oceans', 'mountains'], 3, 'The Alps and the Andes are mountain ranges.'],
+      ['Choose the correct spelling.', ['thunderstom', 'thunderstorm', 'tunderstorm', 'thunderstrom'], 1, 'T-H-U-N-D-E-R-S-T-O-R-M.', img('thunderstorm')],
+      ['Choose the correct spelling.', ['waterfall', 'waterfal', 'watterfall', 'waterfoll'], 0, 'W-A-T-E-R-F-A-L-L.', img('waterfall')],
+      ['Choose the correct spelling.', ['lightening', 'lighning', 'lightning', 'lihtning'], 2, 'L-I-G-H-T-N-I-N-G (no "e" — "lightening" means making lighter).', img('lightning')],
+      ['Choose the correct spelling.', ['cliff', 'clif', 'cliph', 'klif'], 0, 'C-L-I-F-F.', img('cliff')],
+    ],
+    s: [
+      ['A river flows into the sea or a lake.', true, null, 'Correct.'],
+      ['We climbed to the peak of the mountain before sunrise.', true, null, 'Correct.'],
+      ['The waves were huge, so we didn’t swim in the ocean.', true, null, 'Correct.'],
+      ['Wildlife are everywhere in the rainforest.', false, 'Wildlife is everywhere in the rainforest.', '"Wildlife" is uncountable → singular verb.'],
+      ['We saw a lightning during the thunderstorm.', false, 'We saw lightning during the thunderstorm. / We saw a flash of lightning.', '"Lightning" is uncountable — no "a".'],
+      ['The village is in a beautiful valley between two mountains.', true, null, 'Correct.'],
+      ['Be careful — the roots of the tree are above the ground.', true, null, 'Correct.'],
+      ['The bird sat on a root of the tree and sang.', false, 'The bird sat on a branch of the tree and sang.', 'Birds sit on branches (above ground); roots are underground.'],
+      ['The children collected rocks and shells on the shore.', true, null, 'Correct.'],
+      ['A stream is much bigger than a river.', false, 'A stream is much smaller than a river.', 'A stream is a small, narrow river.'],
+      ['The water falls from a high cliff into the lake below.', true, null, 'Correct.'],
+      ['We stood at the top of the cliff and looked down at the ocean.', true, null, 'Correct.'],
+      ['Don’t go into the cave — it’s dark and there might be bats.', true, null, 'Correct.'],
+      ['The sunset was beautiful this morning.', false, 'The sunrise was beautiful this morning.', 'Sunrise = morning; sunset = evening.'],
+      ['The Pacific is the biggest lake in the world.', false, 'The Pacific is the biggest ocean in the world.', 'The Pacific is an ocean, not a lake.'],
+      ['Thunderstorms are common in the rainforest in the afternoon.', true, null, 'Correct.'],
+      ['There are many wild animals living in the rainforests of Brazil.', true, null, 'Correct.'],
+      ['The mountains was covered in snow.', false, 'The mountains were covered in snow.', 'Plural subject → "were".'],
+      ['Waves broke against the rocks all night.', true, null, 'Correct.'],
+      ['We walked along the coast and watched the waves.', true, null, 'Correct.'],
+    ],
+  },
+
+  '6C - Grammar: Second Conditional': {
+    pictureSorts,
+    pictures,
+    q: [
+      // form
+      ['If I ______ a rare animal in the forest, I would take a photo.', ['find', 'found', 'would find', 'will find'], 1, 'Second conditional: if + past simple, would + base verb.'],
+      ['If we lived by the ocean, we ______ every morning.', ['swim', 'will swim', 'would swim', 'swam'], 2, 'Main clause: would + base verb.'],
+      ['If she ______ closer to the mountains, she would go hiking every weekend.', ['would live', 'lives', 'will live', 'lived'], 3, 'If-clause takes the past simple, not "would".'],
+      ['I ______ in the lake if the water weren’t so cold.', ['would swim', 'swim', 'swam', 'will swim'], 0, 'Main clause: would + base verb. The main clause can come first.'],
+      ['If there ______ a thunderstorm, we wouldn’t climb the peak.', ['is', 'were', 'would be', 'will be'], 1, 'Past simple in the if-clause; "were" is used for all persons in formal English.'],
+      ['What ______ if you saw lightning near the waterfall?', ['you would do', 'you did', 'would you do', 'do you do'], 2, 'Question: What + would + subject + base verb?'],
+      ['If I ______ you, I wouldn’t go into that cave alone.', ['am', 'was being', 'would be', 'were'], 3, '"If I were you" is the fixed expression for giving advice.'],
+      ['We would explore the rainforest if we ______ more time.', ['had', 'have', 'would have', 'will have'], 0, 'If-clause: past simple.'],
+      ['If the river weren’t so fast, they ______ across it.', ['swam', 'would swim', 'will swim', 'would swam'], 1, 'After "would" use the base verb: would swim.'],
+      ['Which sentence is correct?', ['If I would see a bear, I would run.', 'If I see a bear, I would run.', 'If I saw a bear, I would run.', 'If I saw a bear, I will run.'], 2, 'if + past simple, would + base verb.'],
+      // negatives
+      ['If it ______ so much in the rainforest, more people would visit.', ['doesn’t rain', 'wouldn’t rain', 'didn’t rain', 'not rained'], 2, 'Negative if-clause: didn’t + base verb.'],
+      ['If the cliff were safer, we ______ so nervous.', ['wouldn’t be', 'weren’t', 'won’t be', 'wouldn’t were'], 0, 'Negative main clause: wouldn’t + base verb.'],
+      ['She ______ the thunderstorm if she had a good tent.', ['won’t mind', 'wouldn’t mind', 'didn’t mind', 'wouldn’t minded'], 1, 'wouldn’t + base verb (mind).'],
+      ['If I ______ afraid of the dark, I would explore the cave.', ['am not', 'wouldn’t be', 'wasn’t being', 'weren’t'], 3, 'Negative if-clause with "be": weren’t (or wasn’t).'],
+      // questions
+      ['______ you swim in the lake if the water were warm?', ['Did', 'Do', 'Would', 'Will'], 2, 'Yes/No question: Would + subject + base verb?'],
+      ['Where ______ if you could live anywhere in nature?', ['you would live', 'would you live', 'you lived', 'did you live'], 1, 'Wh-question: Where + would + subject + base verb?'],
+      ['"Would you climb that peak?" — "Yes, I ______."', ['climbed', 'do', 'will', 'would'], 3, 'Short answer: Yes, I would. / No, I wouldn’t.'],
+      // meaning / use
+      ['"If I found a rare animal in the forest, I would take a photo." This talks about…', ['an imaginary or unlikely situation', 'a past event', 'a plan for tomorrow', 'a scientific fact'], 0, 'The second conditional describes hypothetical / unlikely present or future situations.'],
+      ['Which sentence gives ADVICE?', ['If I were you, I’d stay away from the cliff.', 'If it rains, the river rises.', 'If it rains tomorrow, we’ll stay home.', 'I stayed home because it rained.'], 0, '"If I were you, I’d…" is the classic advice structure.'],
+      ['Choose the correct contraction: "If we had a boat, we ______ sail across the lake."', ['we’d', '’d', 'had', 'would’d'], 1, '"’d" = would: we’d sail.'],
+      ['Which is a FIRST conditional (real possibility), not a second?', ['If I lived near the coast, I’d surf.', 'If it stops raining, we’ll walk to the waterfall.', 'If I were a bird, I’d fly over the valley.', 'If we had wings, we could reach the peak.'], 1, 'First conditional: if + present, will + base verb. Real future possibility.'],
+      ['Where does the comma go? "If I lived in the mountains ___ I would hike every day."', ['no comma', 'after "mountains"', 'after "I"', 'after "would"'], 1, 'When the if-clause comes first, use a comma before the main clause.'],
+      ['"I would take a photo ______ I found a rare animal." Which word completes it? (no comma)', ['if', 'so', 'because', 'when'], 0, 'When the main clause comes first, no comma is needed before "if".'],
+      ['If we ______ more trees, the wildlife would have more places to live.', ['plant', 'will plant', 'would plant', 'planted'], 3, 'If-clause: past simple.'],
+    ],
+    s: [
+      ['If I found a rare animal in the forest, I would take a photo.', true, null, 'Correct: if + past simple, would + base verb.'],
+      ['If I would have more money, I would travel to the rainforest.', false, 'If I had more money, I would travel to the rainforest.', 'No "would" in the if-clause.'],
+      ['If we lived near the ocean, we would go surfing every day.', true, null, 'Correct.'],
+      ['She would climbs the peak if the weather were better.', false, 'She would climb the peak if the weather were better.', 'Base verb after "would" (no -s).'],
+      ['If I were you, I wouldn’t swim in the river during a thunderstorm.', true, null, 'Correct: "If I were you" for advice.'],
+      ['If there was a waterfall near my house, I would visit it every weekend.', true, null, 'Correct: "was" is accepted in informal English; "were" is more formal.'],
+      ['We would explore the cave if we have a torch.', false, 'We would explore the cave if we had a torch.', 'If-clause needs the past simple: had.'],
+      ['What would you do if you saw lightning hit a tree?', true, null, 'Correct question form.'],
+      ['Would you camp on the shore if the waves were calm?', true, null, 'Correct.'],
+      ['If the river wasn’t so cold, I will swim in it.', false, 'If the river weren’t so cold, I would swim in it.', 'Second conditional uses "would", not "will".'],
+      ['I’d take more photos of wildlife if I had a better camera.', true, null, 'Correct: I’d = I would.'],
+      ['If he didn’t live in a city, he would spend more time in nature.', true, null, 'Correct negative if-clause.'],
+      ['If I saw a bear in the valley, I would ran away.', false, 'If I saw a bear in the valley, I would run away.', 'Base verb after "would": run.'],
+      ['They wouldn’t go near the cliff if it weren’t safe.', true, null, 'Correct.'],
+      ['If you could live anywhere, where would you live?', true, null, 'Correct: "could" is possible in the if-clause (= were able to).'],
+      ['If it didn’t rain so much here, the lake will be smaller.', false, 'If it didn’t rain so much here, the lake would be smaller.', 'Main clause: would + be.'],
+      ['I would to visit the rainforest if I had the chance.', false, 'I would visit the rainforest if I had the chance.', 'No "to" after "would".'],
+      ['If we protected the rainforest, many animals wouldn’t disappear.', true, null, 'Correct.'],
+      ['Did you swim in the lake if it were warmer?', false, 'Would you swim in the lake if it were warmer?', 'Questions use "Would…?", not "Did…?".'],
+      ['If the sunset weren’t so beautiful, we wouldn’t stay on the beach so late.', true, null, 'Correct.'],
+      ['If I would be a bird, I would fly over the mountains.', false, 'If I were a bird, I would fly over the mountains.', 'Use "were", not "would be", in the if-clause.'],
+      ['We could reach the peak faster if we took the other path.', true, null, 'Correct: "could" can replace "would" in the main clause.'],
+    ],
+  },
+}
