@@ -50,6 +50,15 @@ const MODES = [
     count: (t) => t.steal.length,
     unit: 'questions',
   },
+  {
+    id: 'picture',
+    icon: '🖼️',
+    title: 'MODE 5: PICTURE QUIZ',
+    desc: (<>Vocabulary with <b className="text-gold">giant pictures</b>: identify the word, pick the correct <b className="text-gold">spelling</b>, or sort it — Food vs Drink, Healthy vs Treat. Miss and the other team steals!</>),
+    count: (t) => t.pictures?.length ?? 0,
+    unit: 'pictures',
+    vocabOnly: true,
+  },
 ]
 
 export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, onResetScores, onRenameTeams }) {
@@ -78,7 +87,7 @@ export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, 
           <Select
             label="Topic / Grammar"
             value={selection.topic}
-            options={unit.topics.map((x, i) => ({ id: x.id, name: `Topic ${i + 1}: ${x.name}`, ready: x.steal.length > 0 || x.auction.length > 0 }))}
+            options={unit.topics.map((x, i) => ({ id: x.id, name: `Topic ${i + 1}: ${x.name}${x.pictures?.length ? ' 🖼️' : ''}`, ready: x.steal.length > 0 || x.auction.length > 0 }))}
             onChange={(id) => onSelect({ ...selection, topic: id })}
           />
         </div>
@@ -107,7 +116,9 @@ export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, 
                 <h3 className="mt-3 font-display text-5xl tracking-widest text-white md:text-6xl">{m.title}</h3>
                 <p className="mt-3 text-2xl text-white/70">{m.desc}</p>
               </div>
-              <span className="btn btn-lg bg-gold text-black group-hover:bg-yellow-300">Play · {n} {m.unit}</span>
+              <span className="btn btn-lg bg-gold text-black group-hover:bg-yellow-300">
+                {m.vocabOnly && n === 0 ? 'Picture vocabulary topics only' : `Play · ${n} ${m.unit}`}
+              </span>
             </button>
           )
         })}

@@ -3,6 +3,7 @@ import { sfx } from '../audio.js'
 import { useCountdown } from '../hooks/useCountdown.js'
 import TimerRing from './TimerRing.jsx'
 import GameOver from './GameOver.jsx'
+import CardImage from './CardImage.jsx'
 
 const LIVES = 5
 const ANSWER_TIME = 20
@@ -137,6 +138,7 @@ export default function TrapdoorGame({ teams, topic, addPoints, celebrate, flash
           <>
             <div className={`card w-full max-w-6xl px-8 py-6 text-center ${teamColor(turn)}`}>
               <div className="mb-2 font-display text-3xl tracking-widest text-gold md:text-4xl">ANSWERING: {teams[turn].name}</div>
+              <CardImage src={q.image} />
               <p className="font-extrabold text-4xl leading-tight md:text-6xl">{q.prompt}</p>
             </div>
 

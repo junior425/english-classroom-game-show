@@ -169,7 +169,8 @@
                   "correct": true,
                   "explanation": "Time clause with present simple + will."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U1T2",
@@ -298,7 +299,8 @@
                   "correct": true,
                   "explanation": "Correct third person form."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -433,7 +435,8 @@
                   "correct": true,
                   "explanation": "Action in progress."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U2T2",
@@ -562,7 +565,8 @@
                   "correct": true,
                   "explanation": "Silent h: an hour."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -697,7 +701,8 @@
                   "fix": "Is there a bank near here?",
                   "explanation": "Singular: is there."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U3T2",
@@ -826,7 +831,8 @@
                   "fix": "She gave me a lot of good advice.",
                   "explanation": "Advice is uncountable."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U3T3",
@@ -1017,7 +1023,8 @@
                     "chickn"
                   ],
                   "answer": 1,
-                  "explanation": "c-h-i-c-k-e-n."
+                  "explanation": "c-h-i-c-k-e-n.",
+                  "image": "/img/food/chicken.svg"
                 },
                 {
                   "prompt": "Choose the correct spelling.",
@@ -1028,7 +1035,8 @@
                     "vegetabels"
                   ],
                   "answer": 0,
-                  "explanation": "v-e-g-e-t-a-b-l-e-s."
+                  "explanation": "v-e-g-e-t-a-b-l-e-s.",
+                  "image": "/img/food/vegetables.svg"
                 },
                 {
                   "prompt": "Choose the correct spelling.",
@@ -1039,7 +1047,8 @@
                     "chocolette"
                   ],
                   "answer": 2,
-                  "explanation": "c-h-o-c-o-l-a-t-e."
+                  "explanation": "c-h-o-c-o-l-a-t-e.",
+                  "image": "/img/food/chocolate.svg"
                 },
                 {
                   "prompt": "Choose the correct spelling.",
@@ -1050,7 +1059,8 @@
                     "sandwitch"
                   ],
                   "answer": 0,
-                  "explanation": "s-a-n-d-w-i-c-h."
+                  "explanation": "s-a-n-d-w-i-c-h.",
+                  "image": "/img/food/sandwich.svg"
                 }
               ],
               "auction": [
@@ -1161,6 +1171,158 @@
                   "sentence": "My brother eats ice cream for dessert.",
                   "correct": true,
                   "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "bread",
+                  "image": "/img/food/bread.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "cake",
+                  "image": "/img/food/cake.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "cheese",
+                  "image": "/img/food/cheese.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "chicken",
+                  "image": "/img/food/chicken.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "potato chips",
+                  "image": "/img/food/potato-chips.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "chocolate",
+                  "image": "/img/food/chocolate.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "cookies",
+                  "image": "/img/food/cookies.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "eggs",
+                  "image": "/img/food/eggs.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "fish",
+                  "image": "/img/food/fish.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "French fries",
+                  "image": "/img/food/french-fries.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "fruit",
+                  "image": "/img/food/fruit.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "ice cream",
+                  "image": "/img/food/ice-cream.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "meat",
+                  "image": "/img/food/meat.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "pasta",
+                  "image": "/img/food/pasta.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "pizza",
+                  "image": "/img/food/pizza.svg",
+                  "category": "food",
+                  "healthy": false
+                },
+                {
+                  "word": "potatoes",
+                  "image": "/img/food/potatoes.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "rice",
+                  "image": "/img/food/rice.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "salad",
+                  "image": "/img/food/salad.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "sandwich",
+                  "image": "/img/food/sandwich.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "vegetables",
+                  "image": "/img/food/vegetables.svg",
+                  "category": "food",
+                  "healthy": true
+                },
+                {
+                  "word": "coffee",
+                  "image": "/img/food/coffee.svg",
+                  "category": "drink",
+                  "healthy": true
+                },
+                {
+                  "word": "milk",
+                  "image": "/img/food/milk.svg",
+                  "category": "drink",
+                  "healthy": true
+                },
+                {
+                  "word": "orange juice",
+                  "image": "/img/food/orange-juice.svg",
+                  "category": "drink",
+                  "healthy": true
+                },
+                {
+                  "word": "tea",
+                  "image": "/img/food/tea.svg",
+                  "category": "drink",
+                  "healthy": true
+                },
+                {
+                  "word": "water",
+                  "image": "/img/food/water.svg",
+                  "category": "drink",
+                  "healthy": true
                 }
               ]
             },
@@ -1501,7 +1663,8 @@
                   "fix": "Does she eat cookies every day?",
                   "explanation": "She: Does."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -1636,7 +1799,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U4T2",
@@ -1765,7 +1929,8 @@
                   "correct": true,
                   "explanation": "forget → forgot."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -1900,7 +2065,8 @@
                   "fix": "My birthday is in June.",
                   "explanation": "Months: in."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U5T2",
@@ -2029,7 +2195,8 @@
                   "correct": true,
                   "explanation": "Surface: on."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -2164,7 +2331,8 @@
                   "correct": true,
                   "explanation": "Ever in questions."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U6T2",
@@ -2293,7 +2461,8 @@
                   "fix": "Which one do you want?",
                   "explanation": "After do: base form."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -2428,7 +2597,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U7T2",
@@ -2557,7 +2727,8 @@
                   "fix": "Don’t be late.",
                   "explanation": "Don’t + be."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -2692,7 +2863,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U8T2",
@@ -2821,7 +2993,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -2956,7 +3129,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U9T2",
@@ -3085,7 +3259,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -3220,7 +3395,8 @@
                   "fix": "That was the funniest movie ever.",
                   "explanation": "y → iest."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U10T2",
@@ -3349,7 +3525,8 @@
                   "fix": "He is going to call the supplier.",
                   "explanation": "Base form: call."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -3484,7 +3661,8 @@
                   "correct": true,
                   "explanation": "State verb."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U11T2",
@@ -3613,7 +3791,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -3748,7 +3927,8 @@
                   "fix": "I don’t have any meetings today.",
                   "explanation": "Negative: any."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L1U12T2",
@@ -3877,7 +4057,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         }
@@ -4018,7 +4199,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U1T2",
@@ -4147,7 +4329,8 @@
                   "fix": "I broke my phone yesterday.",
                   "explanation": "Single completed event."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -4282,7 +4465,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U2T2",
@@ -4411,7 +4595,8 @@
                   "fix": "She is going to have a baby in March.",
                   "explanation": "Planned; and base form after will."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -4546,7 +4731,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U3T2",
@@ -4675,7 +4861,8 @@
                   "fix": "Have you ever been to Chile?",
                   "explanation": "Use have, not did."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -4810,7 +4997,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U4T2",
@@ -4939,7 +5127,8 @@
                   "fix": "If they knew the answer, they would tell us.",
                   "explanation": "would, not will."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -5074,7 +5263,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U5T2",
@@ -5203,7 +5393,8 @@
                   "fix": "This box is too heavy to carry.",
                   "explanation": "too + adjective + to-infinitive."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -5338,7 +5529,8 @@
                   "fix": "He is used to working late.",
                   "explanation": "be used to + -ing (different structure)."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U6T2",
@@ -5466,7 +5658,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -5601,7 +5794,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U7T2",
@@ -5730,7 +5924,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -5865,7 +6060,8 @@
                   "fix": "The photos were taken by my brother.",
                   "explanation": "Participle: taken."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U8T2",
@@ -5994,7 +6190,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -6129,7 +6326,8 @@
                   "fix": "I have a few coins in my pocket.",
                   "explanation": "Countable: a few."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U9T2",
@@ -6258,7 +6456,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -6393,7 +6592,8 @@
                   "fix": "That was an embarrassing moment.",
                   "explanation": "The moment causes embarrassment."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U10T2",
@@ -6521,7 +6721,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -6655,7 +6856,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U11T2",
@@ -6784,7 +6986,8 @@
                   "fix": "I could swim when I was a child.",
                   "explanation": "No to after could."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -6918,7 +7121,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L2U12T2",
@@ -7047,7 +7251,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         }
@@ -7188,7 +7393,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U1T2",
@@ -7317,7 +7523,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -7452,7 +7659,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U2T2",
@@ -7581,7 +7789,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -7716,7 +7925,8 @@
                   "fix": "After she left, I realised my mistake.",
                   "explanation": "Event: past simple."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U3T2",
@@ -7845,7 +8055,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -7980,7 +8191,8 @@
                   "fix": "If I were rich, I would have bought that house.",
                   "explanation": "would have + participle."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U4T2",
@@ -8109,7 +8321,8 @@
                   "fix": "They wish they hadn’t sold the house last year.",
                   "explanation": "Past regret: past perfect."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -8243,7 +8456,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U5T2",
@@ -8372,7 +8586,8 @@
                   "fix": "We must have taken the wrong road.",
                   "explanation": "mustn’t isn’t used for deduction."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -8507,7 +8722,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U6T2",
@@ -8636,7 +8852,8 @@
                   "fix": "She ordered us to leave immediately.",
                   "explanation": "order + object + to."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -8771,7 +8988,8 @@
                   "fix": "The cake had been eaten before I arrived.",
                   "explanation": "had been + participle."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U7T2",
@@ -8900,7 +9118,8 @@
                   "fix": "He got the mechanic to check the car.",
                   "explanation": "make + base; get + to."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -9035,7 +9254,8 @@
                   "fix": "We stopped to have lunch at a café by the road.",
                   "explanation": "Pause in order to: to."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U8T2",
@@ -9164,7 +9384,8 @@
                   "fix": "We heard them arguing.",
                   "explanation": "hear + object + -ing/base."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -9299,7 +9520,8 @@
                   "fix": "My sister, who lives in Miami, is visiting.",
                   "explanation": "If you have one sister: commas."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U9T2",
@@ -9428,7 +9650,8 @@
                   "fix": "Can you look after my dog?",
                   "explanation": "No \"to\"."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -9563,7 +9786,8 @@
                   "fix": "Despite the cold, we went out.",
                   "explanation": "No \"of\" after despite."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U10T2",
@@ -9692,7 +9916,8 @@
                   "fix": "Because of the traffic, I was late.",
                   "explanation": "because of + noun."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -9827,7 +10052,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U11T2",
@@ -9956,7 +10182,8 @@
                   "fix": "I will be waiting for you.",
                   "explanation": "will be + -ing."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -10091,7 +10318,8 @@
                   "fix": "I will have been here for two years by December.",
                   "explanation": "Duration: for."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L3U12T2",
@@ -10219,7 +10447,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         }
@@ -10360,7 +10589,8 @@
                   "fix": "Look! It’s snowing!",
                   "explanation": "Now: continuous."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U1T2",
@@ -10489,7 +10719,8 @@
                   "fix": "I didn’t go to the party.",
                   "explanation": "Base after didn’t."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -10624,7 +10855,8 @@
                   "fix": "Don’t worry, I’ll help you.",
                   "explanation": "Offer: will."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U2T2",
@@ -10752,7 +10984,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -10886,7 +11119,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U3T2",
@@ -11015,7 +11249,8 @@
                   "fix": "They are reported to have left the country.",
                   "explanation": "to have + participle."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -11150,7 +11385,8 @@
                   "fix": "The manager insisted on paying for lunch.",
                   "explanation": "insist on + -ing."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U4T2",
@@ -11278,7 +11514,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -11413,7 +11650,8 @@
                   "fix": "It is here that I was born.",
                   "explanation": "It is … that."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U5T2",
@@ -11542,7 +11780,8 @@
                   "fix": "Under no circumstances can you open this door.",
                   "explanation": "Inversion."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -11676,7 +11915,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U6T2",
@@ -11804,7 +12044,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -11939,7 +12180,8 @@
                   "fix": "They live in a lovely modern flat.",
                   "explanation": "Opinion before age."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U7T2",
@@ -12068,7 +12310,8 @@
                   "fix": "It depends on the price.",
                   "explanation": "depend on."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -12203,7 +12446,8 @@
                   "fix": "Please fill out the form.",
                   "explanation": "fill out / fill in."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U8T2",
@@ -12332,7 +12576,8 @@
                   "fix": "Let’s have a party!",
                   "explanation": "have a party."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -12466,7 +12711,8 @@
                   "fix": "She is the go-to person for tech problems.",
                   "explanation": "go-to person."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U9T2",
@@ -12594,7 +12840,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -12728,7 +12975,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U10T2",
@@ -12856,7 +13104,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -12991,7 +13240,8 @@
                   "fix": "\"Vegetable\" usually has three spoken syllables.",
                   "explanation": "VEG-ta-ble."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U11T2",
@@ -13119,7 +13369,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -13253,7 +13504,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L4U12T2",
@@ -13381,7 +13633,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         }
@@ -13522,7 +13775,8 @@
                   "fix": "I had known the answer all along.",
                   "explanation": "State verb."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U1T2",
@@ -13651,7 +13905,8 @@
                   "fix": "Do you understand the instructions?",
                   "explanation": "Stative."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -13785,7 +14040,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U2T2",
@@ -13914,7 +14170,8 @@
                   "correct": true,
                   "explanation": "Fixed subjunctive."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -14048,7 +14305,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U3T2",
@@ -14177,7 +14435,8 @@
                   "fix": "The development of new products takes time.",
                   "explanation": "development."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -14311,7 +14570,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U4T2",
@@ -14439,7 +14699,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -14574,7 +14835,8 @@
                   "fix": "He is said to have lived in Japan.",
                   "explanation": "to have + participle."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U5T2",
@@ -14703,7 +14965,8 @@
                   "fix": "The people with whom I work are friendly.",
                   "explanation": "Preposition + whom."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -14838,7 +15101,8 @@
                   "fix": "Hurry up, otherwise you’ll miss it.",
                   "explanation": "Otherwise is not a conjunction."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U6T2",
@@ -14966,7 +15230,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -15101,7 +15366,8 @@
                   "fix": "They usually go to the gym after work.",
                   "explanation": "Frequency adverb before verb."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U7T2",
@@ -15229,7 +15495,8 @@
                   "correct": true,
                   "explanation": "take/make a decision (both ok)."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -15363,7 +15630,8 @@
                   "fix": "That’s the last straw.",
                   "explanation": "Fixed form."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U8T2",
@@ -15492,7 +15760,8 @@
                   "fix": "Their decision was completely illogical.",
                   "explanation": "illogical."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -15627,7 +15896,8 @@
                   "fix": "Let’s start the meeting.",
                   "explanation": "Let’s."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U9T2",
@@ -15755,7 +16025,8 @@
                   "correct": true,
                   "explanation": "gist = main idea."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -15890,7 +16161,8 @@
                   "fix": "I left my last job to seek new opportunities.",
                   "explanation": "Stay professional."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U10T2",
@@ -16018,7 +16290,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -16152,7 +16425,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U11T2",
@@ -16280,7 +16554,8 @@
                   "fix": "\"Dunno\" means \"don’t know\".",
                   "explanation": "don’t know."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -16414,7 +16689,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L5U12T2",
@@ -16542,7 +16818,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         }
@@ -16682,7 +16959,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U1T2",
@@ -16811,7 +17089,8 @@
                   "fix": "He was ill for years until he died in 2001.",
                   "explanation": "Odd use of progressive."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -16946,7 +17225,8 @@
                   "fix": "I’d rather you didn’t tell anyone.",
                   "explanation": "Past after would rather + subject."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U2T2",
@@ -17074,7 +17354,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -17208,7 +17489,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U3T2",
@@ -17337,7 +17619,8 @@
                   "fix": "The person responsible for the error apologised.",
                   "explanation": "responsible for."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -17470,7 +17753,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U4T2",
@@ -17598,7 +17882,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -17732,7 +18017,8 @@
                   "fix": "He takes to numbers like a duck to water.",
                   "explanation": "Correct idiom form."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U5T2",
@@ -17860,7 +18146,8 @@
                   "fix": "\"I’m not entirely convinced\" usually means \"I disagree\".",
                   "explanation": "Understatement."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -17994,7 +18281,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U6T2",
@@ -18123,7 +18411,8 @@
                   "fix": "\"Experts agree\" is not proof without naming the experts.",
                   "explanation": "Vague authority."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -18257,7 +18546,8 @@
                   "fix": "This is our final offer; we hope it works for you.",
                   "explanation": "Too aggressive."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U7T2",
@@ -18385,7 +18675,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -18519,7 +18810,8 @@
                   "fix": "The supplier is responsible for any delays.",
                   "explanation": "responsible for."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U8T2",
@@ -18647,7 +18939,8 @@
                   "fix": "The economy has been in a recession for two years.",
                   "explanation": "Present perfect + for."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -18781,7 +19074,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U9T2",
@@ -18909,7 +19203,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -19043,7 +19338,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U10T2",
@@ -19171,7 +19467,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -19305,7 +19602,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U11T2",
@@ -19435,7 +19733,8 @@
                   "fix": "The teacher gave us some advice.",
                   "explanation": "Advice is uncountable."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         },
@@ -19569,7 +19868,8 @@
                   "correct": true,
                   "explanation": "Correct."
                 }
-              ]
+              ],
+              "pictures": []
             },
             {
               "id": "L6U12T2",
@@ -19697,7 +19997,8 @@
                   "fix": "I want you to send me the report.",
                   "explanation": "want + object + to."
                 }
-              ]
+              ],
+              "pictures": []
             }
           ]
         }

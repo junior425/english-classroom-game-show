@@ -2,8 +2,39 @@
 // and 3C (Simple present: he, she, it). Appended after the two base topics of the unit.
 // Format matches the other content modules: q = [prompt, options(4), answerIndex, explanation]
 // (Point Steal, Pressure Bomb, The Trapdoor); s = [sentence, correct, fix, explanation] (Grammar Auction).
+// A question may carry an optional 5th element: an image URL shown above the prompt.
+// pictures = [word, imageUrl, category, healthy] feeds Picture Quiz (identification, spelling, categorization).
+const img = (name) => `/img/food/${name}.svg`
+
 export default {
   '3A - Vocabulary: Food & Drinks': {
+    pictures: [
+      ['bread', img('bread'), 'food', true],
+      ['cake', img('cake'), 'food', false],
+      ['cheese', img('cheese'), 'food', true],
+      ['chicken', img('chicken'), 'food', true],
+      ['potato chips', img('potato-chips'), 'food', false],
+      ['chocolate', img('chocolate'), 'food', false],
+      ['cookies', img('cookies'), 'food', false],
+      ['eggs', img('eggs'), 'food', true],
+      ['fish', img('fish'), 'food', true],
+      ['French fries', img('french-fries'), 'food', false],
+      ['fruit', img('fruit'), 'food', true],
+      ['ice cream', img('ice-cream'), 'food', false],
+      ['meat', img('meat'), 'food', true],
+      ['pasta', img('pasta'), 'food', true],
+      ['pizza', img('pizza'), 'food', false],
+      ['potatoes', img('potatoes'), 'food', true],
+      ['rice', img('rice'), 'food', true],
+      ['salad', img('salad'), 'food', true],
+      ['sandwich', img('sandwich'), 'food', true],
+      ['vegetables', img('vegetables'), 'food', true],
+      ['coffee', img('coffee'), 'drink', true],
+      ['milk', img('milk'), 'drink', true],
+      ['orange juice', img('orange-juice'), 'drink', true],
+      ['tea', img('tea'), 'drink', true],
+      ['water', img('water'), 'drink', true],
+    ],
     q: [
       // identification
       ['Which food is baked from flour and you use it to make toast and sandwiches?', ['bread', 'rice', 'pasta', 'cheese'], 0, 'Bread is baked from flour.'],
@@ -24,10 +55,10 @@ export default {
       ['Which drink is clear, has no color, and you drink it every day?', ['water', 'milk', 'coffee', 'orange juice'], 0, 'Water is clear and colorless.'],
       ['Which of these is a VEGETABLE, not a fruit?', ['orange', 'apple', 'banana', 'broccoli'], 3, 'Broccoli is a vegetable.'],
       // spelling
-      ['Choose the correct spelling.', ['chiken', 'chicken', 'chikcen', 'chickn'], 1, 'c-h-i-c-k-e-n.'],
-      ['Choose the correct spelling.', ['vegetables', 'vegtables', 'vegetibles', 'vegetabels'], 0, 'v-e-g-e-t-a-b-l-e-s.'],
-      ['Choose the correct spelling.', ['choclate', 'chocolat', 'chocolate', 'chocolette'], 2, 'c-h-o-c-o-l-a-t-e.'],
-      ['Choose the correct spelling.', ['sandwich', 'sandwish', 'sanwich', 'sandwitch'], 0, 's-a-n-d-w-i-c-h.'],
+      ['Choose the correct spelling.', ['chiken', 'chicken', 'chikcen', 'chickn'], 1, 'c-h-i-c-k-e-n.', img('chicken')],
+      ['Choose the correct spelling.', ['vegetables', 'vegtables', 'vegetibles', 'vegetabels'], 0, 'v-e-g-e-t-a-b-l-e-s.', img('vegetables')],
+      ['Choose the correct spelling.', ['choclate', 'chocolat', 'chocolate', 'chocolette'], 2, 'c-h-o-c-o-l-a-t-e.', img('chocolate')],
+      ['Choose the correct spelling.', ['sandwich', 'sandwish', 'sanwich', 'sandwitch'], 0, 's-a-n-d-w-i-c-h.', img('sandwich')],
     ],
     s: [
       ['I drink orange juice for breakfast.', true, null, 'Orange juice is a drink: drink is correct.'],

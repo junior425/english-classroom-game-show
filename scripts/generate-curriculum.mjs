@@ -28,7 +28,9 @@ const LEVELS = [
   ['Advanced 2', advanced2],
 ]
 
-const toQuestion = ([prompt, options, answer, explanation]) => ({ prompt, options, answer, explanation })
+const toQuestion = ([prompt, options, answer, explanation, image]) =>
+  image ? { prompt, options, answer, explanation, image } : { prompt, options, answer, explanation }
+const toPicture = ([word, image, category, healthy]) => ({ word, image, category, healthy })
 const toSentence = ([sentence, correct, fix, explanation]) =>
   correct ? { sentence, correct, explanation } : { sentence, correct, fix, explanation }
 
@@ -47,6 +49,13 @@ function validate(levelName, topicName, data) {
     if (typeof sentence !== 'string' || typeof correct !== 'boolean') errors.push(`sentence ${i + 1} malformed`)
     if (!correct && typeof fix !== 'string') errors.push(`sentence ${i + 1} is a trap but has no fix`)
   })
+  data.pictures?.forEach((item, i) => {
+    const [word, image, category, healthy] = item
+    if (typeof word !== 'string' || typeof image !== 'string' || !['food', 'drink'].includes(category) || typeof healthy !== 'boolean') {
+      errors.push(`picture ${i + 1} malformed`)
+    }
+  })
+  if (data.pictures && data.pictures.length < 8) errors.push('needs at least 8 pictures for Picture Quiz')
   if (errors.length) throw new Error(`${levelName} / ${topicName}: ${errors.join('; ')}`)
 }
 
@@ -55,7 +64,13 @@ const levels = LEVELS.map(([name, content], li) => {
   if (topicNames.length !== 24) throw new Error(`${name} has ${topicNames.length} topics, expected 24`)
   const toTopic = (id, topicName, data) => {
     validate(name, topicName, data)
-    return { id, name: topicName, steal: data.q.map(toQuestion), auction: data.s.map(toSentence) }
+    return {
+      id,
+      name: topicName,
+      steal: data.q.map(toQuestion),
+      auction: data.s.map(toSentence),
+      pictures: (data.pictures ?? []).map(toPicture),
+    }
   }
   return {
     id: `L${li + 1}`,
@@ -77,4 +92,5 @@ writeFileSync(out, JSON.stringify({ version: 2, levels }, null, 2))
 const nQ = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.steal))).length
 const nS = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.auction))).length
 const nT = levels.flatMap((l) => l.units.flatMap((u) => u.topics)).length
-console.log(`written ${out}: ${levels.length} levels, ${nT} topics, ${nQ} questions, ${nS} auction sentences`)
+const nP = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.pictures))).length
+console.log(`written ${out}: ${levels.length} levels, ${nT} topics, ${nQ} questions, ${nS} auction sentences, ${nP} pictures`)

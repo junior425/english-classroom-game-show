@@ -3,6 +3,7 @@ import { sfx } from '../audio.js'
 import { useCountdown } from '../hooks/useCountdown.js'
 import TimerRing from './TimerRing.jsx'
 import GameOver from './GameOver.jsx'
+import CardImage from './CardImage.jsx'
 
 const FUSE_TIME = 30
 const PASS_POINTS = 50
@@ -133,6 +134,7 @@ export default function BombGame({ teams, topic, addPoints, flashBanner, onExit 
               <div className="mb-2 font-display text-3xl tracking-widest text-gold md:text-4xl">
                 💣 {teams[holder].name} HAS THE BOMB
               </div>
+              <CardImage src={q.image} />
               <p className="font-extrabold text-4xl leading-tight md:text-6xl">{q.prompt}</p>
             </div>
 

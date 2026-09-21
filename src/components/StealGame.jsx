@@ -3,6 +3,7 @@ import { sfx } from '../audio.js'
 import { useCountdown } from '../hooks/useCountdown.js'
 import TimerRing from './TimerRing.jsx'
 import GameOver from './GameOver.jsx'
+import CardImage from './CardImage.jsx'
 
 const QUESTION_TIME = 20
 const STEAL_TIME = 10
@@ -121,6 +122,7 @@ export default function StealGame({ teams, topic, addPoints, celebrate, flashBan
                   {phase === 'steal' ? '🦹 STEAL ATTEMPT: ' : 'ANSWERING: '}{teams[answering].name}
                 </div>
               )}
+              <CardImage src={q.image} />
               <p className="font-extrabold text-4xl leading-tight md:text-6xl">{q.prompt}</p>
             </div>
 
