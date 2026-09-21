@@ -10,8 +10,14 @@ import intermediate1 from './content/intermediate1.mjs'
 import intermediate2 from './content/intermediate2.mjs'
 import advanced1 from './content/advanced1.mjs'
 import advanced2 from './content/advanced2.mjs'
+import basic1Unit3Extras from './content/basic1-unit3-extras.mjs'
 
 const here = dirname(fileURLToPath(import.meta.url))
+
+// Extra topics appended to a unit after its two base topics: { 'Level name': { unitIndex: content } }
+const EXTRAS = {
+  'Basic 1': { 2: basic1Unit3Extras },
+}
 
 const LEVELS = [
   ['Basic 1', basic1],
@@ -47,23 +53,21 @@ function validate(levelName, topicName, data) {
 const levels = LEVELS.map(([name, content], li) => {
   const topicNames = Object.keys(content)
   if (topicNames.length !== 24) throw new Error(`${name} has ${topicNames.length} topics, expected 24`)
+  const toTopic = (id, topicName, data) => {
+    validate(name, topicName, data)
+    return { id, name: topicName, steal: data.q.map(toQuestion), auction: data.s.map(toSentence) }
+  }
   return {
     id: `L${li + 1}`,
     name,
     units: Array.from({ length: 12 }, (_, ui) => ({
       id: `L${li + 1}U${ui + 1}`,
       name: `Unit ${ui + 1}`,
-      topics: [0, 1].map((ti) => {
-        const topicName = topicNames[ui * 2 + ti]
-        const data = content[topicName]
-        validate(name, topicName, data)
-        return {
-          id: `L${li + 1}U${ui + 1}T${ti + 1}`,
-          name: topicName,
-          steal: data.q.map(toQuestion),
-          auction: data.s.map(toSentence),
-        }
-      }),
+      topics: [
+        ...[0, 1].map((ti) => toTopic(`L${li + 1}U${ui + 1}T${ti + 1}`, topicNames[ui * 2 + ti], content[topicNames[ui * 2 + ti]])),
+        ...Object.entries(EXTRAS[name]?.[ui] ?? {}).map(([topicName, data], ei) =>
+          toTopic(`L${li + 1}U${ui + 1}T${ei + 3}`, topicName, data)),
+      ],
     })),
   }
 })
@@ -72,4 +76,5 @@ const out = join(here, '..', 'src', 'data', 'curriculum.json')
 writeFileSync(out, JSON.stringify({ version: 2, levels }, null, 2))
 const nQ = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.steal))).length
 const nS = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.auction))).length
-console.log(`written ${out}: ${levels.length} levels, ${levels.length * 24} topics, ${nQ} questions, ${nS} auction sentences`)
+const nT = levels.flatMap((l) => l.units.flatMap((u) => u.topics)).length
+console.log(`written ${out}: ${levels.length} levels, ${nT} topics, ${nQ} questions, ${nS} auction sentences`)

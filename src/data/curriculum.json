@@ -827,6 +827,681 @@
                   "explanation": "Advice is uncountable."
                 }
               ]
+            },
+            {
+              "id": "L1U3T3",
+              "name": "3A - Vocabulary: Food & Drinks",
+              "steal": [
+                {
+                  "prompt": "Which food is baked from flour and you use it to make toast and sandwiches?",
+                  "options": [
+                    "bread",
+                    "rice",
+                    "pasta",
+                    "cheese"
+                  ],
+                  "answer": 0,
+                  "explanation": "Bread is baked from flour."
+                },
+                {
+                  "prompt": "Which food is yellow, made from milk, and often has holes?",
+                  "options": [
+                    "cake",
+                    "cheese",
+                    "chocolate",
+                    "chicken"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cheese is made from milk."
+                },
+                {
+                  "prompt": "Which food is a sweet, cold dessert you eat in a cone?",
+                  "options": [
+                    "ice cream",
+                    "cookies",
+                    "fruit",
+                    "salad"
+                  ],
+                  "answer": 0,
+                  "explanation": "Ice cream is cold and sweet."
+                },
+                {
+                  "prompt": "Which food has bread on the top and bottom with meat or cheese inside?",
+                  "options": [
+                    "pizza",
+                    "pasta",
+                    "sandwich",
+                    "salad"
+                  ],
+                  "answer": 2,
+                  "explanation": "A sandwich has two slices of bread."
+                },
+                {
+                  "prompt": "Which food is round, has tomato sauce and cheese, and is cut into slices?",
+                  "options": [
+                    "pizza",
+                    "cake",
+                    "sandwich",
+                    "bread"
+                  ],
+                  "answer": 0,
+                  "explanation": "Pizza is round with tomato and cheese."
+                },
+                {
+                  "prompt": "Which food comes from a hen and has a shell?",
+                  "options": [
+                    "fish",
+                    "eggs",
+                    "meat",
+                    "potatoes"
+                  ],
+                  "answer": 1,
+                  "explanation": "Eggs come from hens."
+                },
+                {
+                  "prompt": "Which food lives in the sea or a river?",
+                  "options": [
+                    "chicken",
+                    "meat",
+                    "fish",
+                    "rice"
+                  ],
+                  "answer": 2,
+                  "explanation": "Fish live in water."
+                },
+                {
+                  "prompt": "Which food is made from potatoes, is long and thin, and is fried?",
+                  "options": [
+                    "French fries",
+                    "potato chips",
+                    "pasta",
+                    "rice"
+                  ],
+                  "answer": 0,
+                  "explanation": "French fries are long, thin, fried potatoes."
+                },
+                {
+                  "prompt": "Which food is thin, crunchy potato slices that come in a bag?",
+                  "options": [
+                    "French fries",
+                    "potato chips",
+                    "cookies",
+                    "bread"
+                  ],
+                  "answer": 1,
+                  "explanation": "Potato chips are thin and crunchy, sold in bags."
+                },
+                {
+                  "prompt": "Which dish is a mix of lettuce, tomatoes, and other vegetables?",
+                  "options": [
+                    "salad",
+                    "pasta",
+                    "pizza",
+                    "cake"
+                  ],
+                  "answer": 0,
+                  "explanation": "A salad is a mix of raw vegetables."
+                },
+                {
+                  "prompt": "Which of these is a DRINK?",
+                  "options": [
+                    "rice",
+                    "orange juice",
+                    "cheese",
+                    "cookies"
+                  ],
+                  "answer": 1,
+                  "explanation": "Orange juice is a drink."
+                },
+                {
+                  "prompt": "Which of these is NOT a drink?",
+                  "options": [
+                    "tea",
+                    "coffee",
+                    "milk",
+                    "pasta"
+                  ],
+                  "answer": 3,
+                  "explanation": "Pasta is food, not a drink."
+                },
+                {
+                  "prompt": "Which drink is hot, made from leaves, and served in a small cup?",
+                  "options": [
+                    "milk",
+                    "tea",
+                    "water",
+                    "orange juice"
+                  ],
+                  "answer": 1,
+                  "explanation": "Tea is made from leaves."
+                },
+                {
+                  "prompt": "Which drink is white and comes from cows?",
+                  "options": [
+                    "water",
+                    "coffee",
+                    "milk",
+                    "tea"
+                  ],
+                  "answer": 2,
+                  "explanation": "Milk comes from cows."
+                },
+                {
+                  "prompt": "Which drink is clear, has no color, and you drink it every day?",
+                  "options": [
+                    "water",
+                    "milk",
+                    "coffee",
+                    "orange juice"
+                  ],
+                  "answer": 0,
+                  "explanation": "Water is clear and colorless."
+                },
+                {
+                  "prompt": "Which of these is a VEGETABLE, not a fruit?",
+                  "options": [
+                    "orange",
+                    "apple",
+                    "banana",
+                    "broccoli"
+                  ],
+                  "answer": 3,
+                  "explanation": "Broccoli is a vegetable."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "chiken",
+                    "chicken",
+                    "chikcen",
+                    "chickn"
+                  ],
+                  "answer": 1,
+                  "explanation": "c-h-i-c-k-e-n."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "vegetables",
+                    "vegtables",
+                    "vegetibles",
+                    "vegetabels"
+                  ],
+                  "answer": 0,
+                  "explanation": "v-e-g-e-t-a-b-l-e-s."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "choclate",
+                    "chocolat",
+                    "chocolate",
+                    "chocolette"
+                  ],
+                  "answer": 2,
+                  "explanation": "c-h-o-c-o-l-a-t-e."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "sandwich",
+                    "sandwish",
+                    "sanwich",
+                    "sandwitch"
+                  ],
+                  "answer": 0,
+                  "explanation": "s-a-n-d-w-i-c-h."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I drink orange juice for breakfast.",
+                  "correct": true,
+                  "explanation": "Orange juice is a drink: drink is correct."
+                },
+                {
+                  "sentence": "She eats a coffee every morning.",
+                  "correct": false,
+                  "fix": "She drinks a coffee every morning.",
+                  "explanation": "Coffee is a drink: use drink, not eat."
+                },
+                {
+                  "sentence": "We have chicken and rice for lunch.",
+                  "correct": true,
+                  "explanation": "Have + food is correct."
+                },
+                {
+                  "sentence": "I like French fries with my sandwich.",
+                  "correct": true,
+                  "explanation": "Correct spelling and meaning."
+                },
+                {
+                  "sentence": "He eats potato chips and drinks water at the movies.",
+                  "correct": true,
+                  "explanation": "Eat food, drink drinks."
+                },
+                {
+                  "sentence": "My favorite vegetables are ice cream and cake.",
+                  "correct": false,
+                  "fix": "My favorite desserts are ice cream and cake.",
+                  "explanation": "Ice cream and cake are desserts, not vegetables."
+                },
+                {
+                  "sentence": "Cheese and milk are made from fruit.",
+                  "correct": false,
+                  "fix": "Cheese and milk are made from milk / come from cows.",
+                  "explanation": "Cheese and milk are dairy, not fruit."
+                },
+                {
+                  "sentence": "Fish, meat, and eggs are drinks.",
+                  "correct": false,
+                  "fix": "Fish, meat, and eggs are food.",
+                  "explanation": "They are food, not drinks."
+                },
+                {
+                  "sentence": "I eat a salad with tomatoes and lettuce.",
+                  "correct": true,
+                  "explanation": "A salad has vegetables."
+                },
+                {
+                  "sentence": "She drinks tea with milk in the afternoon.",
+                  "correct": true,
+                  "explanation": "Drink + tea is correct."
+                },
+                {
+                  "sentence": "I eat two eggs and a slice of bread for breakfast.",
+                  "correct": true,
+                  "explanation": "Correct food vocabulary."
+                },
+                {
+                  "sentence": "We drink pizza on Friday nights.",
+                  "correct": false,
+                  "fix": "We eat pizza on Friday nights.",
+                  "explanation": "Pizza is food: use eat."
+                },
+                {
+                  "sentence": "Chocolate cookies are my favorite dessert.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I put potatos in the soup.",
+                  "correct": false,
+                  "fix": "I put potatoes in the soup.",
+                  "explanation": "Spelling: potatoes."
+                },
+                {
+                  "sentence": "Do you want pasta or rice with your fish?",
+                  "correct": true,
+                  "explanation": "Correct question and vocabulary."
+                },
+                {
+                  "sentence": "He drinks a big sandwich at lunch.",
+                  "correct": false,
+                  "fix": "He eats a big sandwich at lunch.",
+                  "explanation": "A sandwich is food: eat."
+                },
+                {
+                  "sentence": "Fruit and vegetables are healthy.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I have a cup of water and a coffee.",
+                  "correct": false,
+                  "fix": "I have a glass of water and a coffee.",
+                  "explanation": "We usually say a glass of water."
+                },
+                {
+                  "sentence": "Milk, tea, and coffee are drinks.",
+                  "correct": true,
+                  "explanation": "Correct categorization."
+                },
+                {
+                  "sentence": "My brother eats ice cream for dessert.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ]
+            },
+            {
+              "id": "L1U3T4",
+              "name": "3C - Grammar: Simple Present (He / She / It)",
+              "steal": [
+                {
+                  "prompt": "Kevin ___ eggs for breakfast every day.",
+                  "options": [
+                    "eat",
+                    "eats",
+                    "eating",
+                    "eates"
+                  ],
+                  "answer": 1,
+                  "explanation": "He/she/it: add -s → eats."
+                },
+                {
+                  "prompt": "My sister ___ coffee in the morning.",
+                  "options": [
+                    "drink",
+                    "drinks",
+                    "drinkes",
+                    "is drink"
+                  ],
+                  "answer": 1,
+                  "explanation": "Add -s: drinks."
+                },
+                {
+                  "prompt": "She ___ the dishes after dinner.",
+                  "options": [
+                    "wash",
+                    "washs",
+                    "washes",
+                    "washies"
+                  ],
+                  "answer": 2,
+                  "explanation": "Verb ends in -sh: add -es → washes."
+                },
+                {
+                  "prompt": "He ___ TV while he eats pizza.",
+                  "options": [
+                    "watchs",
+                    "watch",
+                    "watches",
+                    "watchies"
+                  ],
+                  "answer": 2,
+                  "explanation": "Verb ends in -ch: add -es → watches."
+                },
+                {
+                  "prompt": "My mom ___ English at a school in Boston.",
+                  "options": [
+                    "studys",
+                    "studies",
+                    "study",
+                    "studyes"
+                  ],
+                  "answer": 1,
+                  "explanation": "Consonant + y: change y to -ies → studies."
+                },
+                {
+                  "prompt": "My brother ___ to the market to buy vegetables.",
+                  "options": [
+                    "go",
+                    "gos",
+                    "goes",
+                    "going"
+                  ],
+                  "answer": 2,
+                  "explanation": "Irregular: go → goes."
+                },
+                {
+                  "prompt": "She ___ her homework before lunch.",
+                  "options": [
+                    "do",
+                    "dos",
+                    "does",
+                    "doing"
+                  ],
+                  "answer": 2,
+                  "explanation": "Irregular: do → does."
+                },
+                {
+                  "prompt": "He ___ a sandwich and an orange juice for lunch.",
+                  "options": [
+                    "have",
+                    "haves",
+                    "has",
+                    "having"
+                  ],
+                  "answer": 2,
+                  "explanation": "Irregular: have → has."
+                },
+                {
+                  "prompt": "The chef ___ fish with rice on Fridays.",
+                  "options": [
+                    "cook",
+                    "cooks",
+                    "cookes",
+                    "cooking"
+                  ],
+                  "answer": 1,
+                  "explanation": "Add -s: cooks."
+                },
+                {
+                  "prompt": "It ___ a lot in April.",
+                  "options": [
+                    "rain",
+                    "rains",
+                    "raines",
+                    "raining"
+                  ],
+                  "answer": 1,
+                  "explanation": "It + verb-s: rains."
+                },
+                {
+                  "prompt": "Our teacher ___ the class at 8 o’clock.",
+                  "options": [
+                    "finish",
+                    "finishs",
+                    "finishes",
+                    "finishies"
+                  ],
+                  "answer": 2,
+                  "explanation": "Verb ends in -sh: finishes."
+                },
+                {
+                  "prompt": "My dad ___ a lot of tea.",
+                  "options": [
+                    "drinkes",
+                    "drinks",
+                    "drink",
+                    "drinkies"
+                  ],
+                  "answer": 1,
+                  "explanation": "Add -s: drinks."
+                },
+                {
+                  "prompt": "My sister ___ meat. She is vegetarian.",
+                  "options": [
+                    "don’t eat",
+                    "doesn’t eat",
+                    "doesn’t eats",
+                    "not eat"
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative: doesn’t + base form."
+                },
+                {
+                  "prompt": "He ___ milk in his coffee.",
+                  "options": [
+                    "doesn’t want",
+                    "don’t want",
+                    "doesn’t wants",
+                    "not wants"
+                  ],
+                  "answer": 0,
+                  "explanation": "doesn’t + base form (want)."
+                },
+                {
+                  "prompt": "My house ___ a big kitchen.",
+                  "options": [
+                    "don’t have",
+                    "doesn’t has",
+                    "doesn’t have",
+                    "no have"
+                  ],
+                  "answer": 2,
+                  "explanation": "doesn’t + have (base form)."
+                },
+                {
+                  "prompt": "She ___ ice cream in winter.",
+                  "options": [
+                    "doesn’t eats",
+                    "don’t eat",
+                    "doesn’t eat",
+                    "isn’t eat"
+                  ],
+                  "answer": 2,
+                  "explanation": "doesn’t + eat."
+                },
+                {
+                  "prompt": "___ Sandra like chocolate cake?",
+                  "options": [
+                    "Do",
+                    "Does",
+                    "Is",
+                    "Has"
+                  ],
+                  "answer": 1,
+                  "explanation": "Questions with he/she/it: Does + subject + base form."
+                },
+                {
+                  "prompt": "___ your brother drink orange juice?",
+                  "options": [
+                    "Does",
+                    "Do",
+                    "Is",
+                    "Drinks"
+                  ],
+                  "answer": 0,
+                  "explanation": "Does + he/she/it."
+                },
+                {
+                  "prompt": "Does he ___ in Chicago?",
+                  "options": [
+                    "lives",
+                    "live",
+                    "living",
+                    "lived"
+                  ],
+                  "answer": 1,
+                  "explanation": "After does, use the base form: live."
+                },
+                {
+                  "prompt": "“Does she eat fish?” — “Yes, she ___.”",
+                  "options": [
+                    "do",
+                    "does",
+                    "is",
+                    "eats"
+                  ],
+                  "answer": 1,
+                  "explanation": "Short answer: Yes, she does."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Kevin exercises in the morning and eats fruit.",
+                  "correct": true,
+                  "explanation": "He + verb-s: exercises, eats."
+                },
+                {
+                  "sentence": "She live in Boston and drinks tea.",
+                  "correct": false,
+                  "fix": "She lives in Boston and drinks tea.",
+                  "explanation": "Add -s: lives."
+                },
+                {
+                  "sentence": "My sister doesn’t speak English.",
+                  "correct": true,
+                  "explanation": "doesn’t + base form."
+                },
+                {
+                  "sentence": "He doesn’t wants a new car.",
+                  "correct": false,
+                  "fix": "He doesn’t want a new car.",
+                  "explanation": "After doesn’t, use the base form."
+                },
+                {
+                  "sentence": "Does our teacher work on weekends?",
+                  "correct": true,
+                  "explanation": "Does + subject + base form."
+                },
+                {
+                  "sentence": "Does Sandra goes to the gym?",
+                  "correct": false,
+                  "fix": "Does Sandra go to the gym?",
+                  "explanation": "After does, use the base form: go."
+                },
+                {
+                  "sentence": "My brother studies French and watches TV at night.",
+                  "correct": true,
+                  "explanation": "study → studies; watch → watches."
+                },
+                {
+                  "sentence": "She washs the dishes after dinner.",
+                  "correct": false,
+                  "fix": "She washes the dishes after dinner.",
+                  "explanation": "Verb ends in -sh: add -es."
+                },
+                {
+                  "sentence": "He gos to the market on Saturdays.",
+                  "correct": false,
+                  "fix": "He goes to the market on Saturdays.",
+                  "explanation": "Irregular: go → goes."
+                },
+                {
+                  "sentence": "My dad has coffee and bread for breakfast.",
+                  "correct": true,
+                  "explanation": "Irregular: have → has."
+                },
+                {
+                  "sentence": "She haves a sandwich for lunch.",
+                  "correct": false,
+                  "fix": "She has a sandwich for lunch.",
+                  "explanation": "Irregular: have → has."
+                },
+                {
+                  "sentence": "My house doesn’t have a yard.",
+                  "correct": true,
+                  "explanation": "doesn’t + have."
+                },
+                {
+                  "sentence": "Does he lives in Chicago?",
+                  "correct": false,
+                  "fix": "Does he live in Chicago?",
+                  "explanation": "After does, use the base form."
+                },
+                {
+                  "sentence": "Yes, he does. No, she doesn’t.",
+                  "correct": true,
+                  "explanation": "Correct short answers."
+                },
+                {
+                  "sentence": "My mom cook fish and rice on Fridays.",
+                  "correct": false,
+                  "fix": "My mom cooks fish and rice on Fridays.",
+                  "explanation": "Add -s: cooks."
+                },
+                {
+                  "sentence": "The baby drinks milk and eats fruit.",
+                  "correct": true,
+                  "explanation": "Add -s: drinks, eats."
+                },
+                {
+                  "sentence": "He don’t like vegetables.",
+                  "correct": false,
+                  "fix": "He doesn’t like vegetables.",
+                  "explanation": "He/she/it: doesn’t."
+                },
+                {
+                  "sentence": "It rains a lot in April.",
+                  "correct": true,
+                  "explanation": "It + rains."
+                },
+                {
+                  "sentence": "She dos her homework before dinner.",
+                  "correct": false,
+                  "fix": "She does her homework before dinner.",
+                  "explanation": "Irregular: do → does."
+                },
+                {
+                  "sentence": "Do she eat cookies every day?",
+                  "correct": false,
+                  "fix": "Does she eat cookies every day?",
+                  "explanation": "She: Does."
+                }
+              ]
             }
           ]
         },
