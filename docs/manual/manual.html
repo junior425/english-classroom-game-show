@@ -1,0 +1,516 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Manual de Uso: English Game Show</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm 20mm 16mm; }
+  * { box-sizing: border-box; }
+  body { font-family: "DejaVu Sans", "Helvetica Neue", Arial, "Noto Color Emoji", sans-serif; color: #1a1a2e; font-size: 10.5pt; line-height: 1.4; margin: 0; }
+  h1, h2, h3, h4 { font-family: "DejaVu Sans", Arial, sans-serif; line-height: 1.2; }
+  h1 { font-size: 26pt; margin: 0 0 6pt; }
+  h2 { font-size: 18pt; color: #4b1d9e; border-bottom: 3px solid #f5b81c; padding-bottom: 4pt; margin: 0 0 12pt; page-break-after: avoid; }
+  h3 { font-size: 13.5pt; color: #4b1d9e; margin: 18pt 0 6pt; page-break-after: avoid; }
+  h4 { font-size: 11.5pt; margin: 9pt 0 3pt; color: #222; page-break-after: avoid; }
+  p { margin: 0 0 8pt; }
+  ul, ol { margin: 0 0 8pt 0; padding-left: 20pt; }
+  li { margin-bottom: 2pt; }
+  .page { page-break-before: always; }
+  .page.first { page-break-before: auto; }
+  .mode-head { page-break-before: always; }
+  .cover { height: 250mm; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background: linear-gradient(160deg, #0d0b1f 0%, #2b1364 60%, #4b1d9e 100%); color: #fff; border-radius: 12pt; padding: 30mm 20mm; }
+  .cover h1 { font-size: 34pt; color: #fff; }
+  .cover .sub { font-size: 15pt; color: #f5b81c; letter-spacing: 2pt; margin-bottom: 30pt; text-transform: uppercase; }
+  .cover .badge { display: inline-block; background: #f5b81c; color: #0d0b1f; font-weight: bold; padding: 6pt 16pt; border-radius: 20pt; margin: 4pt; font-size: 10.5pt; }
+  .cover .url { margin-top: 40pt; font-size: 12pt; color: #ddd; }
+  .cover .url b { color: #fff; }
+  .toc li { margin-bottom: 5pt; }
+  table { width: 100%; border-collapse: collapse; margin: 6pt 0 12pt; font-size: 10pt; page-break-inside: avoid; }
+  th, td { border: 1px solid #cfc9e6; padding: 5pt 7pt; text-align: left; vertical-align: top; }
+  th { background: #ece7fb; color: #2b1364; }
+  td.n { text-align: right; white-space: nowrap; font-weight: bold; }
+  .pos { color: #15803d; } .neg { color: #b91c1c; } .gold { color: #b7791f; }
+  .box { border-left: 5px solid #f5b81c; background: #fff8e6; padding: 8pt 12pt; margin: 10pt 0; border-radius: 4pt; page-break-inside: avoid; }
+  .box.tip { border-color: #4b1d9e; background: #f3efff; }
+  .box.warn { border-color: #b91c1c; background: #fff1f1; }
+  .box b:first-child { display: block; margin-bottom: 3pt; }
+  .mode-head { display: flex; align-items: center; gap: 12pt; background: #0d0b1f; color: #fff; padding: 10pt 14pt; border-radius: 8pt; margin-bottom: 12pt; page-break-after: avoid; }
+  .mode-head .num { font-size: 26pt; font-weight: 900; color: #f5b81c; }
+  .mode-head .t { font-size: 17pt; font-weight: bold; }
+  .mode-head .s { font-size: 10.5pt; color: #cbb8ff; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12pt; }
+  .card { border: 1px solid #cfc9e6; border-radius: 6pt; padding: 8pt 10pt; page-break-inside: avoid; }
+  .card h4 { margin-top: 0; }
+  code { font-family: "DejaVu Sans Mono", Consolas, monospace; font-size: 9.5pt; background: #f1f1f6; padding: 1pt 4pt; border-radius: 3pt; }
+  pre { font-family: "DejaVu Sans Mono", Consolas, monospace; font-size: 9pt; background: #f1f1f6; padding: 8pt 10pt; border-radius: 4pt; white-space: pre-wrap; }
+  .flow { margin: 8pt 0 12pt; page-break-inside: avoid; }
+  .flow div { background: #ece7fb; border-radius: 6pt; padding: 6pt 10pt; font-size: 10pt; margin-bottom: 4pt; }
+  .flow div b { color: #4b1d9e; font-size: 11pt; margin-right: 6pt; }
+  .flow span.arr { display: none; }
+  .screen { border: 2px solid #4b1d9e; border-radius: 8pt; overflow: hidden; margin: 8pt 0 12pt; background: #0d0b1f; color: #fff; font-size: 9.5pt; page-break-inside: avoid; }
+  .screen .bar { background: #2b1364; padding: 4pt 8pt; color: #cbb8ff; }
+  .screen .split { display: flex; }
+  .screen .team { flex: 1; padding: 8pt; text-align: center; }
+  .screen .team.a { background: #1d3c8f; } .screen .team.b { background: #8f1d3c; }
+  .screen .team .sc { font-size: 22pt; font-weight: 900; }
+  .screen .btns span { display: inline-block; border: 1px solid #fff5; border-radius: 4pt; padding: 1pt 6pt; margin: 2pt; }
+  .screen .center { padding: 8pt; text-align: center; }
+  .foot { font-size: 9pt; color: #777; text-align: center; margin-top: 20pt; }
+  .small { font-size: 9.5pt; color: #555; }
+</style>
+</head>
+<body>
+
+<!-- PORTADA -->
+<div class="page first">
+  <div class="cover">
+    <div class="sub">Manual de Uso</div>
+    <h1>English Game Show</h1>
+    <p style="font-size:13pt;color:#e8e2ff;max-width:130mm">Portal web de juegos competitivos de inglés para pantallas gigantes de salón<br>(Split-Screen · Equipo vs Equipo)</p>
+    <div style="margin-top:24pt">
+      <span class="badge">7 modos de juego</span>
+      <span class="badge">6 niveles · 72 unidades · 146 topics</span>
+      <span class="badge">100 % en inglés</span>
+    </div>
+    <div class="url">Aplicación: <b>https://english-classroom-game-show.vercel.app</b><br>
+      Código fuente: <b>github.com/junior425/english-classroom-game-show</b></div>
+    <p style="margin-top:36pt;font-size:10pt;color:#bbb">Guía para el profesor · Versión 1.0 · Septiembre 2026</p>
+  </div>
+</div>
+
+<!-- ÍNDICE -->
+<div class="page">
+  <h2>Contenido</h2>
+  <ol class="toc">
+    <li><b>Introducción y arquitectura</b>
+      <ul><li>¿Qué es English Game Show?</li><li>Arquitectura técnica</li><li>El menú jerárquico: Level → Unit → Topic</li><li>Flujo de trabajo: del libro de texto al juego</li><li>El marcador gigante (Scoreboard)</li></ul></li>
+    <li><b>Guía detallada de los 7 modos de juego</b>
+      <ul>
+        <li>Modo 1: Point Steal (Robo de Puntos)</li>
+        <li>Modo 2: Grammar Auction (Subasta Gramatical)</li>
+        <li>Modo 3: Pressure Bomb (Bomba de Tiempo)</li>
+        <li>Modo 4: The Trapdoor (La Trampilla)</li>
+        <li>Modo 5: Picture Quiz (Quiz de Vocabulario Visual)</li>
+        <li>Modo 6: Audio Detective (Comprensión Auditiva &amp; Dictado)</li>
+        <li>Modo 7: Speaking Roleplay &amp; Taboo (Fluidez Oral)</li>
+      </ul></li>
+    <li><b>Instrucciones de operación en el aula</b>
+      <ul><li>Proyección y pantalla completa (F11)</li><li>Manejo de marcadores</li><li>Audio: efectos (Tone.js) y voces (Web Speech API / ElevenLabs)</li><li>Rutina sugerida para una clase</li><li>Solución de problemas</li></ul></li>
+    <li><b>Anexo: tabla resumen de puntuación</b></li>
+  </ol>
+  <div class="box tip"><b>Cómo leer este manual</b>
+    Cada modo se describe con la misma estructura: <i>Objetivo</i> → <i>Dinámica paso a paso</i> → <i>Puntuación</i> → <i>Cómo lo dirige el profesor en el salón</i>. Los textos en inglés entre comillas ("Show Question", "Reveal Answer") son los rótulos exactos que aparecen en pantalla.</div>
+</div>
+
+<!-- 1. INTRODUCCIÓN -->
+<div class="page">
+  <h2>1. Introducción y arquitectura</h2>
+
+  <h3>1.1 ¿Qué es English Game Show?</h3>
+  <p>English Game Show es un portal web pensado para proyectarse en la pantalla gigante (TV o proyector) del salón de clase. Divide la pantalla en dos mitades —una por equipo— y convierte el contenido del curso en un concurso televisivo: preguntas rápidas, subastas, bombas de tiempo, quizzes con imágenes, dictados con voz nativa y retos orales.</p>
+  <p>Toda la interfaz, las instrucciones y el contenido están <b>100 % en inglés</b> para lograr inmersión total. El profesor es el presentador ("host"): controla el juego con el mouse o el teclado desde el computador conectado a la pantalla; los estudiantes no necesitan dispositivos.</p>
+  <ul>
+    <li><b>Modo oscuro y alto contraste</b>: colores saturados, fuentes gigantes, legible desde el fondo del salón.</li>
+    <li><b>Dos paneles verticales permanentes</b> con el nombre y el puntaje de cada equipo.</li>
+    <li><b>Efectos de sonido</b> (victorias, errores graciosos, robos, cuenta regresiva y suspenso) generados con Tone.js.</li>
+    <li><b>Sin cuentas ni servidor</b>: funciona con solo abrir la URL; no guarda datos personales.</li>
+  </ul>
+
+  <h3>1.2 Arquitectura técnica</h3>
+  <table>
+    <tr><th style="width:32%">Componente</th><th>Descripción</th></tr>
+    <tr><td>Aplicación web (SPA)</td><td>React 19 + Vite + Tailwind CSS. Se ejecuta completamente en el navegador; no requiere backend ni base de datos.</td></tr>
+    <tr><td>Contenido del curso</td><td>Archivo <code>src/data/curriculum.json</code>, generado con <code>npm run curriculum</code> a partir de los módulos de <code>scripts/content/</code> (uno por nivel, más extras por topic).</td></tr>
+    <tr><td>Audio de efectos</td><td>Tone.js (sintetizado en el navegador, se activa con el primer clic en "START!").</td></tr>
+    <tr><td>Voz (Modo 6)</td><td>Web Speech API del navegador (<i>Text-to-Speech</i> con voces en-US / en-GB instaladas en el sistema o en Chrome).</td></tr>
+    <tr><td>Imágenes (Modo 5)</td><td>Ilustraciones SVG locales en <code>public/img/</code>; también acepta URLs externas (Unsplash, iconos).</td></tr>
+    <tr><td>Alojamiento</td><td>GitHub (rama <code>main</code>) → despliegue automático en Vercel. Cada <i>push</i> actualiza la URL pública en 1-2 minutos.</td></tr>
+  </table>
+
+  <h3>1.3 El menú jerárquico: Level → Unit → Topic</h3>
+  <p>Tras escribir los nombres de los equipos y pulsar <b>"START!"</b>, aparece el <b>Dashboard</b> (menú principal) con la sección <b>Curriculum Selection</b>. El profesor navega en tres pasos:</p>
+  <div class="flow">
+    <div><b>1. Level</b>Basic 1 · Basic 2 · Intermediate 1 · Intermediate 2 · Advanced 1 · Advanced 2</div><span class="arr">→</span>
+    <div><b>2. Unit</b>Unit 1 … Unit 12 de cada nivel</div><span class="arr">→</span>
+    <div><b>3. Topic / Grammar</b>2 temas por unidad (más los temas extra añadidos desde el libro)</div>
+  </div>
+  <p>Debajo aparecen las <b>7 tarjetas de modo de juego</b>. Cada tarjeta muestra cuántas preguntas, oraciones, imágenes, pistas o escenas tiene el topic seleccionado (p. ej. "PLAY · 20 QUESTIONS"). Si un topic no tiene contenido para un modo (por ejemplo, no tiene imágenes), esa tarjeta aparece atenuada con el texto "No pictures for this topic yet".</p>
+  <p>En la lista de topics, unos íconos indican el contenido extra disponible: <b>🖼️</b> imágenes (Modo 5), <b>🎧</b> pistas de audio (Modo 6) y <b>🎤</b> escenas de speaking (Modo 7).</p>
+</div>
+
+<div>
+  <h3>1.4 Flujo de trabajo: del libro de texto al juego</h3>
+  <p>El contenido se amplía a partir de fotografías o capturas de las páginas del libro (vocabulario, cuadros gramaticales, diálogos). El flujo es:</p>
+  <div class="flow">
+    <div><b>① Foto del libro</b>El profesor toma una imagen de la página (p. ej. "3A Food and Drink").</div><span class="arr">→</span>
+    <div><b>② Extracción</b>Se extraen palabras, reglas y ejemplos y se redactan en inglés.</div><span class="arr">→</span>
+    <div><b>③ Tarjetas</b>Se generan ~20 tarjetas por modo: opción múltiple, oraciones correctas/trampa, imágenes, pistas de audio, escenas.</div><span class="arr">→</span>
+    <div><b>④ Ubicación</b>Se guardan en Level → Unit → Topic dentro del currículo.</div><span class="arr">→</span>
+    <div><b>⑤ Publicación</b><code>npm run curriculum</code> + push a <code>main</code> → Vercel actualiza la app.</div>
+  </div>
+  <p>Para solicitar un nuevo tema basta indicar la <b>ubicación exacta</b> (Level, Unit, nombre del Topic) y adjuntar la(s) imagen(es). Ejemplo ya integrado: <i>Basic 1 → Unit 3 → "3A - Vocabulary: Food &amp; Drinks"</i> (25 palabras con ilustraciones, 20 preguntas, 20 oraciones de subasta, 12 pistas de audio y 6 escenas de roleplay) y <i>"3C - Grammar: Simple Present (He / She / It)"</i>.</p>
+  <p class="small">Estructura interna de un topic: <code>{ name, steal[], auction[], pictures[], listening[], speaking[] }</code>. Los modos 1, 3 y 4 usan <code>steal</code>; el modo 2 usa <code>auction</code>; el 5 <code>pictures</code>; el 6 <code>listening</code>; el 7 <code>speaking</code>.</p>
+
+  <h3>1.5 El marcador gigante (Scoreboard)</h3>
+  <p>El marcador está siempre visible: en el Dashboard ocupa la parte superior en tamaño gigante y, durante un juego, se compacta arriba para dejar espacio a la pregunta. Cada panel tiene tres botones manuales que el profesor puede usar en cualquier momento, independientemente del modo:</p>
+  <div class="screen">
+    <div class="bar">ENGLISH GAME SHOW · Scoreboard</div>
+    <div class="split">
+      <div class="team a"><div>POWER RANGERS</div><div class="sc">1 250</div><div class="btns"><span>+100</span><span>−50</span><span>🦹 Steal</span></div></div>
+      <div class="team b"><div>WONDER WOMEN</div><div class="sc">900</div><div class="btns"><span>+100</span><span>−50</span><span>🦹 Steal</span></div></div>
+    </div>
+  </div>
+  <table>
+    <tr><th>Botón</th><th>Efecto</th><th>Cuándo usarlo</th></tr>
+    <tr><td class="pos">+100</td><td>Suma 100 puntos al equipo (con animación y sonido de victoria).</td><td>Premiar participación, buen comportamiento, respuesta oral espontánea.</td></tr>
+    <tr><td class="neg">−50</td><td>Resta 50 puntos (sonido de error gracioso).</td><td>Hablar en español, interrumpir, usar el celular.</td></tr>
+    <tr><td class="gold">🦹 Steal</td><td>Transfiere 100 puntos del equipo rival al equipo elegido (sonido de robo).</td><td>Cuando un equipo corrige al otro o responde una pregunta que el rival falló fuera de los juegos.</td></tr>
+  </table>
+  <p>En el Dashboard también están <b>"✏️ Change Teams"</b> (renombrar equipos), <b>"🔄 Reset Scoreboard"</b> (poner ambos marcadores en cero) y <b>"📘 Teacher's Manual (PDF)"</b> (descarga de este manual). Cada juego tiene un botón <b>"Main Menu"</b> para volver al Dashboard conservando los puntos.</p>
+</div>
+
+<!-- 2. MODOS -->
+<div class="page">
+  <h2>2. Guía detallada de los 7 modos de juego</h2>
+
+  <div class="mode-head" style="page-break-before:auto"><div class="num">1</div><div><div class="t">🦹 Point Steal — Robo de Puntos</div><div class="s">Preguntas rápidas de opción múltiple · Gramática y vocabulario · 2-3 min por pregunta</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Responder correctamente antes que el equipo rival. Premia la rapidez y castiga el error: si el primer equipo falla, el otro puede <i>robar</i> la pregunta y los puntos.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>El profesor pulsa <b>"Show Question"</b>. Aparece la pregunta en gigante con las opciones A-D. Rótulo en pantalla: <i>"First in line, step up!"</i> — el primer estudiante de cada fila se pone de pie.</li>
+    <li>El primer estudiante que levante la mano (o toque la mesa) gana el turno: el profesor pulsa el <b>nombre de ese equipo</b> en pantalla. Arranca un temporizador circular de <b>20 segundos</b>.</li>
+    <li>El estudiante dice la letra; el profesor la pulsa en pantalla.
+      <ul><li><b>Correcta</b> → confeti, sonido de victoria, <span class="pos">+100</span>.</li>
+          <li><b>Incorrecta o se agota el tiempo</b> → sonido de error y aviso <i>"[EQUIPO] CAN STEAL!"</i>. El equipo rival tiene <b>10 segundos</b> para intentar robar.</li></ul></li>
+    <li>Si el ladrón acierta: <span class="pos">+150</span> para el ladrón y <span class="neg">−50</span> para el equipo que falló. Si el ladrón también falla, nadie puntúa.</li>
+    <li>Se muestra la respuesta correcta; el profesor pulsa <b>"Next Question"</b>. Al terminar las tarjetas aparece la pantalla final del modo.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Situación</th><th>Equipo que responde</th><th>Equipo rival</th></tr>
+    <tr><td>Respuesta correcta al primer intento</td><td class="n pos">+100</td><td class="n">0</td></tr>
+    <tr><td>Falla y el rival roba con éxito</td><td class="n neg">−50</td><td class="n pos">+150</td></tr>
+    <tr><td>Falla y el rival también falla</td><td class="n">0</td><td class="n">0</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Organiza dos filas frente a la pantalla; solo los primeros de cada fila pueden responder y luego pasan al final de la fila.</li>
+    <li>Sé estricto con "el primero que levanta la mano": es lo que genera la emoción del formato.</li>
+    <li>Después de revelar la respuesta, pide al equipo que explique <i>por qué</i> en inglés (30 segundos) antes de pasar a la siguiente pregunta.</li>
+    <li>Ideal para repasar un tema gramatical recién explicado o como calentamiento de 10 minutos.</li>
+  </ul>
+</div>
+
+<div>
+  <div class="mode-head"><div class="num">2</div><div><div class="t">💰 Grammar Auction — Subasta Gramatical</div><div class="s">Oraciones correctas o con trampa · Cada equipo empieza con $1,000 · 15-20 min</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Detectar si una oración es gramaticalmente correcta o "tiene trampa" (error), y apostar dinero según la confianza que tenga el equipo. Desarrolla la atención al detalle y la corrección de errores.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>Ambos equipos comienzan con una <b>banca de $1,000</b> (dinero del juego, independiente del marcador de puntos).</li>
+    <li>El profesor pulsa <b>"Show Sentence"</b>. Aparece la oración en gigante y un cronómetro de <b>30 segundos</b> de deliberación.</li>
+    <li>Cada equipo elige su <b>apuesta</b> ($50, $100, $200 o $500 — nunca más de lo que tiene en banca) y su <b>veredicto</b>: <b>"✅ CORRECT"</b> o <b>"❌ TRAP!"</b>. El profesor pulsa las opciones de cada equipo en su mitad de pantalla.</li>
+    <li>Con <b>"Reveal"</b> se muestra si la oración era correcta o trampa y, si era trampa, la versión corregida.</li>
+    <li>Cada equipo que acertó <b>gana su apuesta</b>; el que falló <b>la pierde</b>. Las bancas se actualizan con animación.</li>
+    <li>Al agotar las oraciones (o cuando un equipo se queda sin dinero), el equipo con más dinero recibe <span class="pos">+300</span> en el marcador general.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Situación</th><th>Efecto en la banca</th><th>Efecto en el marcador</th></tr>
+    <tr><td>Veredicto correcto</td><td class="n pos">+ apuesta</td><td class="n">—</td></tr>
+    <tr><td>Veredicto incorrecto</td><td class="n neg">− apuesta</td><td class="n">—</td></tr>
+    <tr><td>Banca más alta al final de la ronda</td><td class="n">—</td><td class="n pos">+300</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Da los 30 segundos para que el equipo <i>discuta en inglés</i> ("I think it's a trap because…"). Puedes nombrar un "banquero" por equipo que anuncie la apuesta en voz alta: <i>"We bet two hundred dollars: TRAP!"</i></li>
+    <li>Cuando la oración es trampa, pide que un estudiante la corrija oralmente antes de pulsar "Reveal"; la corrección aparece en pantalla para confirmar.</li>
+    <li>Fomenta la gestión del riesgo: apostar $500 solo cuando están seguros. Esto genera debates muy productivos sobre la regla gramatical.</li>
+    <li>Recomendado después de una explicación gramatical, o como cierre de unidad.</li>
+  </ul>
+</div>
+
+<div>
+  <div class="mode-head"><div class="num">3</div><div><div class="t">💣 Pressure Bomb — Bomba de Tiempo</div><div class="s">Reloj en vivo · Responde o pasa la bomba · Ritmo muy rápido · 10-15 min</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Responder rápidamente para pasarle la bomba al otro equipo antes de que explote. Entrena la fluidez y la respuesta automática bajo presión; es el modo más ruidoso y divertido.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>El profesor pulsa <b>"Light the fuse!"</b>. Se enciende una mecha de <b>30 segundos</b> con sonido de tic-tac que se acelera; un equipo (alternando en cada ronda) empieza <i>sosteniendo la bomba</i>, indicado en pantalla.</li>
+    <li>Aparece una pregunta de opción múltiple para el equipo que tiene la bomba. Puede:
+      <ul><li><b>Responder correctamente</b> → <span class="pos">+50</span> y la bomba <b>pasa</b> al otro equipo con una nueva pregunta.</li>
+          <li><b>Responder mal</b> → <span class="neg">−25</span> y <b>se queda</b> con la bomba (nueva pregunta).</li>
+          <li><b>"Skip" (pasar)</b> → <span class="neg">−25</span> pero la bomba pasa al rival.</li></ul></li>
+    <li>El reloj no se detiene entre preguntas. Cuando llega a cero, <b>¡BOOM!</b>: explosión con pantalla temblorosa y sonido.</li>
+    <li>El equipo que tenía la bomba pierde <span class="neg">−100</span>; el otro recibe <span class="pos">+100</span> como superviviente.</li>
+    <li>El profesor pulsa <b>"Next round"</b> para encender otra mecha. La ronda termina al agotarse las preguntas.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Acción</th><th>Equipo con la bomba</th><th>Otro equipo</th></tr>
+    <tr><td>Respuesta correcta (pasa la bomba)</td><td class="n pos">+50</td><td class="n">recibe la bomba</td></tr>
+    <tr><td>Respuesta incorrecta (conserva la bomba)</td><td class="n neg">−25</td><td class="n">—</td></tr>
+    <tr><td>Skip (pasa la bomba sin responder)</td><td class="n neg">−25</td><td class="n">recibe la bomba</td></tr>
+    <tr><td>La bomba explota</td><td class="n neg">−100</td><td class="n pos">+100</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Todo el equipo puede gritar la respuesta: es un juego de velocidad colectiva. El profesor pulsa la letra que el equipo dice con más fuerza (o la que dice el "capitán").</li>
+    <li>Baja el volumen del proyector si el tic-tac se vuelve muy intenso; el efecto visual ya transmite la presión.</li>
+    <li>Ideal para repasar vocabulario o estructuras ya dominadas; no es el mejor modo para contenido nuevo.</li>
+    <li>Sugerencia: pide que el equipo que responde se ponga de pie y se siente al pasar la bomba; el movimiento aumenta la energía.</li>
+  </ul>
+</div>
+
+<div>
+  <div class="mode-head"><div class="num">4</div><div><div class="t">🕳️ The Trapdoor — La Trampilla</div><div class="s">5 vidas por equipo · Turnos alternos · Supervivencia · 15 min</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Sobrevivir con las vidas intactas. Cada error abre la trampilla y el equipo pierde una vida (con una frase graciosa de "caída"). Gana quien conserve más vidas o quien deje al rival sin vidas.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>Ambos equipos empiezan con <b>5 vidas</b> (íconos en pantalla). Los turnos alternan estrictamente: primero el equipo 1, luego el 2.</li>
+    <li>El profesor pulsa <b>"Open the question"</b>. El equipo en turno tiene <b>20 segundos</b> para elegir A-D.</li>
+    <li><b>Respuesta correcta</b> → <span class="pos">+100</span> y el equipo se salva. <b>Incorrecta o tiempo agotado</b> → la trampilla se abre con animación de caída, sonido gracioso y una frase aleatoria ("Oops! Down you go!"); el equipo pierde <b>una vida</b> (sin cambio de puntos).</li>
+    <li>Se revela la respuesta correcta y el turno pasa al otro equipo.</li>
+    <li>El juego termina cuando un equipo pierde las 5 vidas (el otro es declarado sobreviviente) o cuando se agotan las preguntas; entonces gana quien tenga más vidas.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Situación</th><th>Puntos</th><th>Vidas</th></tr>
+    <tr><td>Respuesta correcta</td><td class="n pos">+100</td><td class="n">—</td></tr>
+    <tr><td>Respuesta incorrecta / tiempo agotado</td><td class="n">0</td><td class="n neg">−1 vida</td></tr>
+    <tr><td>El rival pierde su última vida</td><td class="n">— (usa el marcador manual si deseas bonificar)</td><td class="n">sobrevive</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Como los turnos alternan, es el modo más ordenado: perfecto para grupos grandes o inquietos y para asegurarte de que <i>todos</i> participen (rota al estudiante que responde en cada turno).</li>
+    <li>Las frases de caída son parte de la diversión: léelas en voz alta con dramatismo y pide al equipo que "cayó" que repita la oración correcta.</li>
+    <li>Cuando un equipo va perdiendo muchas vidas, permite una "pista" (ej. eliminar una opción) para mantener la motivación.</li>
+    <li>Combina bien con The Grammar Auction en la misma clase: uno es de reflexión, este es de nervios.</li>
+  </ul>
+</div>
+
+<div>
+  <div class="mode-head"><div class="num">5</div><div><div class="t">🖼️ Picture Quiz — Quiz de Vocabulario Visual</div><div class="s">Imagen gigante · Identificar · Deletrear · Categorizar · Solo topics con 🖼️</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Aprender y consolidar vocabulario concreto a partir de imágenes y situaciones visuales (por ahora, comida y bebidas de la unidad 3A). Cada tarjeta muestra la ilustración en grande y plantea una de tres tareas.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>El profesor pulsa <b>"Show picture"</b>. La imagen ocupa el centro de la pantalla; el equipo activo (alternan por tarjeta) tiene <b>15 segundos</b>.</li>
+    <li>El tipo de ronda aparece en el encabezado:
+      <ul><li><b>🔍 IDENTIFY</b> — "What is it?" con 4 palabras: elegir la correcta.</li>
+          <li><b>🔤 SPELLING</b> — 4 formas de escribir la palabra (<i>chiken / chicken / chicen / chickin</i>): elegir la ortografía correcta.</li>
+          <li><b>🗂️ CATEGORY</b> — clasificar: <i>Food vs Drink</i> o <i>Healthy vs Treat</i>.</li></ul></li>
+    <li><b>Correcta</b> → <span class="pos">+100</span>. <b>Incorrecta o tiempo agotado</b> → el equipo rival puede <b>robar</b>: si acierta gana <span class="pos">+50</span>.</li>
+    <li>Se revela la palabra (y la categoría) y el profesor pulsa <b>"Next picture"</b>.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Situación</th><th>Equipo activo</th><th>Equipo rival</th></tr>
+    <tr><td>Respuesta correcta</td><td class="n pos">+100</td><td class="n">0</td></tr>
+    <tr><td>Falla y el rival roba con éxito</td><td class="n">0</td><td class="n pos">+50</td></tr>
+    <tr><td>Ambos fallan</td><td class="n">0</td><td class="n">0</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Antes de mostrar las opciones, pide que el equipo <i>diga</i> la palabra en voz alta; premia la pronunciación con el botón manual +100 si lo consideras.</li>
+    <li>En las rondas de <b>Spelling</b>, haz que un estudiante deletree letra por letra ("C-H-I-C-K-E-N") antes de que el profesor pulse la opción.</li>
+    <li>En <b>Category</b>, aprovecha para conversar: <i>"Is pizza healthy? Why not?"</i></li>
+    <li>Este modo solo se activa en topics marcados con 🖼️. Para añadir imágenes a un topic nuevo, envía las fotos del libro indicando Level/Unit/Topic.</li>
+  </ul>
+</div>
+
+<div>
+  <div class="mode-head"><div class="num">6</div><div><div class="t">🎧 Audio Detective — Comprensión Auditiva &amp; Dictado</div><div class="s">Voz nativa en-US / en-GB · Máximo 3 reproducciones · Solo topics con 🎧</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Desarrollar la comprensión auditiva. El computador lee una frase o mini-diálogo con acento americano (🇺🇸) o británico (🇬🇧) mediante la Web Speech API del navegador. Hay dos tipos de pista ("track"): <b>Dictation</b> (escribir lo que se oye) y <b>Comprehension</b> (responder una pregunta sobre lo escuchado).</p>
+
+  <h4>Dinámica paso a paso — reproductor</h4>
+  <ol>
+    <li>El profesor pulsa <b>"Start"</b>. Aparece el reproductor visual: un botón circular gigante <b>"▶ PLAY AUDIO"</b>, tres indicadores de reproducción y una onda animada mientras habla.</li>
+    <li>Cada pulsación consume una reproducción (<i>"3 plays left"</i> → <i>"2 plays left"</i> → …). Tras la tercera, el botón se desactiva: <b>máximo 3 escuchas</b> por pista.</li>
+  </ol>
+
+  <div class="grid2">
+    <div class="card"><h4>✍️ Dictation (dictado / spelling)</h4>
+      <ol>
+        <li>Rótulo: <i>"BOTH TEAMS: PENS READY! WRITE WHAT YOU HEAR."</i> Ambos equipos escuchan y escriben en papel o tablero.</li>
+        <li>El profesor pulsa <b>"Reveal transcript"</b>: aparece la frase exacta en pantalla.</li>
+        <li>El profesor revisa cada hoja y marca a cada equipo con <b>"✅ Correct"</b> (<span class="pos">+100</span>) o <b>"❌ Wrong"</b> (<span class="neg">−50</span>).</li>
+        <li>Con ambos equipos marcados aparece <b>"Next track"</b>.</li>
+      </ol></div>
+    <div class="card"><h4>🧠 Comprehension (opción múltiple)</h4>
+      <ol>
+        <li>Solo el equipo activo (alternan) responde. Tras escuchar, el profesor pulsa <b>"Show answers"</b>: aparece la pregunta ("What does the customer order to drink?") con 4 opciones y un temporizador de <b>20 s</b>.</li>
+        <li><b>Correcta</b> → <span class="pos">+100</span>. <b>Incorrecta / tiempo</b> → el rival puede <b>robar</b> (<span class="pos">+50</span> si acierta).</li>
+        <li>Se revela la respuesta y la transcripción completa del diálogo; <b>"Next track"</b>.</li>
+      </ol></div>
+  </div>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Tipo</th><th>Situación</th><th>Puntos</th></tr>
+    <tr><td rowspan="2">Dictation</td><td>Equipo escribió la frase correctamente (marca el profesor)</td><td class="n pos">+100</td></tr>
+    <tr><td>Equipo escribió mal (marca el profesor)</td><td class="n neg">−50</td></tr>
+    <tr><td rowspan="3">Comprehension</td><td>Equipo activo acierta</td><td class="n pos">+100</td></tr>
+    <tr><td>Equipo activo falla y el rival roba con éxito</td><td class="n pos">+50 (rival)</td></tr>
+    <tr><td>Ambos fallan</td><td class="n">0</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li><b>Silencio absoluto</b> antes de pulsar PLAY: convierte el momento en ritual ("Detectives, listen carefully…").</li>
+    <li>Decide de antemano cuántas escuchas permitirás (2 para niveles altos, 3 para Basic). El contador en pantalla mantiene la regla visible.</li>
+    <li>En dictado, sé flexible con mayúsculas y puntuación en Basic; exige exactitud en Advanced. Puedes usar el marcador manual (+100/−50) para puntuar parcialmente.</li>
+    <li>Si el navegador no tiene voces en inglés instaladas, el reproductor no sonará: usa <b>"Reveal transcript"</b> y lee la frase tú mismo, o instala voces (ver sección 3.3).</li>
+    <li>Conecta el computador a los parlantes del salón y prueba el volumen con la primera pista.</li>
+  </ul>
+</div>
+
+<div>
+  <div class="mode-head"><div class="num">7</div><div><div class="t">🎤 Speaking Roleplay &amp; Taboo — Fluidez Oral</div><div class="s">Situación comunicativa · 3 palabras obligatorias · Palabras taboo · Timer 45-60 s · Solo topics con 🎤</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Producir lenguaje oral real. Los estudiantes representan una situación (restaurante, entrevista de trabajo, negociación…) usando el vocabulario o la gramática del topic. El profesor evalúa en vivo y asigna los puntos.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>El profesor pulsa <b>"Show scene"</b>. La tarjeta muestra:
+      <ul>
+        <li><b>🎭 Title</b> — nombre de la escena (ej. <i>"At the Restaurant"</i>, <i>"The Job Interview"</i>).</li>
+        <li><b>Situation</b> — el contexto en dos o tres líneas: quién es quién y qué deben lograr.</li>
+        <li><b>3 Mandatory Words</b> — palabras o estructuras del topic que <b>deben</b> aparecer en el diálogo (ej. <i>chicken · salad · water</i> o <i>had already · have been working · by the time</i>).</li>
+        <li><b>Forbidden Words (Taboo)</b> — opcional, sobre todo en niveles altos: palabras prohibidas (ej. <i>job, work</i>) que obligan a parafrasear.</li>
+        <li><b>ON STAGE:</b> el equipo que actúa (alternan por escena).</li>
+      </ul></li>
+    <li>El profesor pulsa <b>"▶ Start timer"</b>: un temporizador gigante de <b>60 s</b> (o 45 s según la escena) cuenta hacia atrás con sonido de cierre en los últimos segundos. Dos o tres estudiantes del equipo actúan.</li>
+    <li>Durante la actuación, si alguien dice una palabra prohibida, el profesor pulsa <b>"Taboo word! −50"</b> (<span class="neg">−50</span> inmediatos, sonido de error). Si terminan antes, <b>"Finished early"</b>.</li>
+    <li>Al terminar el tiempo aparece la pantalla de veredicto. El profesor pulsa uno de los botones:
+      <b>"[Equipo 1] +100"</b>, <b>"[Equipo 2] +100"</b>, <b>"Both teams +50"</b> o <b>"No points"</b>.</li>
+    <li><b>"Next scene"</b> cambia el turno al otro equipo con una nueva situación.</li>
+  </ol>
+
+  <h4>Puntuación (a criterio del profesor)</h4>
+  <table>
+    <tr><th>Veredicto</th><th>Puntos</th><th>Criterio sugerido</th></tr>
+    <tr><td>Equipo ganador de la escena</td><td class="n pos">+100</td><td>Usó las 3 palabras obligatorias, se entendió el mensaje, mantuvo el inglés todo el tiempo.</td></tr>
+    <tr><td>Both teams +50</td><td class="n pos">+50 / +50</td><td>El equipo rival ayudó, hizo preguntas o el desempeño fue equivalente.</td></tr>
+    <tr><td>No points</td><td class="n">0</td><td>Faltaron palabras obligatorias o hablaron en español.</td></tr>
+    <tr><td>Palabra taboo (cada vez)</td><td class="n neg">−50</td><td>Pulsar en el instante en que se oye la palabra prohibida.</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Da 30 segundos de preparación <i>antes</i> de arrancar el timer para que asignen roles. Los otros estudiantes del equipo son "directores": pueden susurrar ideas pero no hablar.</li>
+    <li>El equipo rival actúa como jurado de las palabras taboo: si la detectan y gritan "TABOO!", el profesor pulsa el botón. Esto mantiene atentos a los que no actúan.</li>
+    <li>Rúbrica rápida para el veredicto: <b>3 palabras usadas</b> (obligatorio) · <b>comunicación lograda</b> · <b>fluidez</b> · <b>pronunciación</b>. Anuncia el veredicto en inglés antes de pulsar.</li>
+    <li>Para niveles Basic, permite leer las palabras de la pantalla; para Advanced, exige las estructuras gramaticales completas.</li>
+  </ul>
+</div>
+
+<!-- 3. OPERACIÓN -->
+<div class="page">
+  <h2>3. Instrucciones de operación en el aula</h2>
+
+  <h3>3.1 Proyección y pantalla completa (F11)</h3>
+  <ol>
+    <li>Conecta el computador al proyector o TV (HDMI) y configura la pantalla en <b>modo duplicado</b> (Windows: <code>Win + P</code> → "Duplicar"; macOS: Preferencias → Pantallas → "Duplicar"). Así ves en tu portátil exactamente lo que ven los estudiantes.</li>
+    <li>Abre <b>Google Chrome</b> o <b>Microsoft Edge</b> (recomendados: son los que traen voces en inglés para el Modo 6) y entra a <b>https://english-classroom-game-show.vercel.app</b>. Guárdala en favoritos.</li>
+    <li>Pulsa <b>F11</b> para pantalla completa (macOS: <code>Ctrl + Cmd + F</code>). Desaparecen la barra de direcciones y las pestañas; la app está diseñada para ocupar toda la pantalla. Vuelve a pulsar F11 para salir.</li>
+    <li>Ajusta el zoom del navegador si es necesario: <code>Ctrl + / Ctrl −</code> (o <code>Cmd</code> en Mac). En proyectores de baja resolución (1024×768) usa 80-90 %; en TV 4K, 110-125 %.</li>
+    <li>Resolución recomendada del proyector: 1920×1080. La interfaz es responsiva y se adapta a 16:9 y 4:3.</li>
+    <li>Desactiva el ahorro de energía / apagado de pantalla del computador durante la clase.</li>
+  </ol>
+
+  <h3>3.2 Manejo de marcadores</h3>
+  <ul>
+    <li><b>Nombres de equipos</b>: en la pantalla inicial escribe nombres cortos y divertidos (máx. ~14 caracteres para que quepan en gigante). Deja que los estudiantes elijan el suyo: aumenta la identidad de equipo.</li>
+    <li><b>Los puntos persisten</b> entre modos: puedes jugar Point Steal, luego Picture Quiz y luego Speaking en la misma sesión y el marcador acumula. Al recargar la página los datos se reinician.</li>
+    <li><b>Reset Scoreboard</b>: úsalo al comenzar cada clase o cada sesión de juego. <b>Change Teams</b> conserva los puntos y solo cambia los nombres.</li>
+    <li><b>Botones manuales (+100 / −50 / Steal)</b>: están siempre disponibles arriba. Úsalos como herramienta de gestión del aula (premiar inglés espontáneo, penalizar español). Anuncia siempre el motivo en inglés: <i>"Minus fifty for Spanish!"</i></li>
+    <li><b>Cierre de la clase</b>: el equipo con más puntos al final gana. Puedes sacar una foto al marcador final para llevar un ranking mensual.</li>
+    <li><b>Tip de equilibrio</b>: si un equipo va muy adelante, juega una ronda de Pressure Bomb o Speaking con "Both teams +50": nivelan el marcador y mantienen la motivación de todos.</li>
+  </ul>
+
+  <h3>3.3 Audio: efectos (Tone.js) y voces (Web Speech API / ElevenLabs)</h3>
+  <h4>Efectos de sonido</h4>
+  <p>Los efectos (victoria, error gracioso, robo, tic-tac, explosión, suspenso) se generan en el navegador con Tone.js. Por política de los navegadores, el audio solo se activa tras un clic del usuario: por eso se habilita al pulsar <b>"START!"</b>. Si no oyes nada, verifica el volumen del sistema y que el navegador no esté silenciado (icono de altavoz en la pestaña). Si el navegador bloqueara el audio, la app sigue funcionando y lo reintenta en el siguiente clic.</p>
+
+  <h4>Voces del Modo 6 (Text-to-Speech)</h4>
+  <p>El Modo 6 usa la <b>Web Speech API</b> del navegador: no necesita internet adicional ni cuentas, pero <b>depende de las voces instaladas</b> en el computador o en el navegador. La app elige automáticamente la mejor voz disponible para <code>en-US</code> o <code>en-GB</code> (prefiere las voces "Google", "Natural", "Premium" o "Enhanced").</p>
+  <table>
+    <tr><th>Sistema / navegador</th><th>Voces en inglés</th><th>Recomendación</th></tr>
+    <tr><td>Windows 10/11 + Edge</td><td>Voces "Natural" en línea de Microsoft (excelente calidad, US y UK)</td><td>Opción recomendada en Windows.</td></tr>
+    <tr><td>Windows + Chrome</td><td>Voces Google (en línea) + voces de Windows instaladas</td><td>Instala "English (United States/United Kingdom)" en Configuración → Hora e idioma → Voz.</td></tr>
+    <tr><td>macOS + Safari/Chrome</td><td>Voces de Apple (Samantha, Daniel, etc.)</td><td>Ajustes → Accesibilidad → Contenido hablado → Voces del sistema → descargar "Enhanced".</td></tr>
+    <tr><td>Chromebook</td><td>Voces Google integradas</td><td>Funciona sin configuración.</td></tr>
+    <tr><td>Linux / kioscos</td><td>Frecuentemente ninguna</td><td>Instalar <code>espeak-ng</code> o usar otro equipo.</td></tr>
+  </table>
+  <div class="box warn"><b>Sobre ElevenLabs</b>
+    La versión actual <b>no integra ElevenLabs</b>: toda la voz se genera localmente con la Web Speech API (gratis y sin clave). ElevenLabs ofrece voces de calidad superior, pero requiere una clave de API de pago y un servicio intermedio para no exponerla en el navegador. Si deseas incorporarlo, la ruta recomendada es: (1) generar previamente los archivos MP3 de las pistas de <code>listening-speaking.mjs</code> con la API de ElevenLabs, (2) guardarlos en <code>public/audio/</code> y (3) que el reproductor del Modo 6 use el MP3 cuando exista y la Web Speech API como respaldo. Así no hay costo por reproducción en clase ni dependencia de internet.</div>
+</div>
+
+<div>
+  <h3>3.4 Rutina sugerida para una clase de 60 minutos</h3>
+  <table>
+    <tr><th style="width:14%">Tiempo</th><th style="width:30%">Actividad</th><th>Modo / notas</th></tr>
+    <tr><td>0-5 min</td><td>Setup y nombres de equipo</td><td>Pantalla completa (F11), "Reset Scoreboard", elegir Level → Unit → Topic del día.</td></tr>
+    <tr><td>5-15 min</td><td>Calentamiento</td><td><b>Modo 1 Point Steal</b> (6-8 preguntas) o <b>Modo 5 Picture Quiz</b> si el topic es de vocabulario.</td></tr>
+    <tr><td>15-30 min</td><td>Práctica controlada</td><td><b>Modo 2 Grammar Auction</b> (8-10 oraciones) o <b>Modo 4 The Trapdoor</b>.</td></tr>
+    <tr><td>30-40 min</td><td>Listening</td><td><b>Modo 6 Audio Detective</b>: 3 dictados + 3 comprensiones.</td></tr>
+    <tr><td>40-52 min</td><td>Producción oral</td><td><b>Modo 7 Speaking Roleplay</b>: 2 escenas por equipo.</td></tr>
+    <tr><td>52-58 min</td><td>Ronda relámpago</td><td><b>Modo 3 Pressure Bomb</b>: 1-2 mechas para cerrar con energía.</td></tr>
+    <tr><td>58-60 min</td><td>Cierre</td><td>Anunciar el equipo ganador; foto del marcador; feedback de errores frecuentes.</td></tr>
+  </table>
+
+  <h3>3.5 Solución de problemas</h3>
+  <table>
+    <tr><th style="width:36%">Problema</th><th>Solución</th></tr>
+    <tr><td>No se oyen los efectos de sonido</td><td>Verifica el volumen del sistema y del navegador; haz clic en cualquier botón (el audio se activa con un gesto del usuario). Recarga la página si persiste.</td></tr>
+    <tr><td>El botón PLAY AUDIO no habla (Modo 6)</td><td>El navegador no tiene voces en inglés. Usa Edge (Windows) o instala voces (sección 3.3). Mientras tanto, pulsa "Reveal transcript" y lee la frase en voz alta.</td></tr>
+    <tr><td>Un modo aparece atenuado ("No pictures/tracks/scenes for this topic yet")</td><td>Ese topic aún no tiene contenido para ese modo. Elige un topic con 🖼️ / 🎧 / 🎤 (p. ej. Basic 1 → Unit 3 → 3A) o solicita que se agregue contenido.</td></tr>
+    <tr><td>La pantalla se ve cortada o pequeña</td><td>Pulsa F11 para pantalla completa y ajusta el zoom (Ctrl + / Ctrl −). Comprueba que la resolución del proyector sea al menos 1280×720.</td></tr>
+    <tr><td>Se perdieron los puntos</td><td>La página se recargó o se cerró la pestaña. Los puntos viven en memoria; no recargues durante la clase. Puedes restaurarlos con los botones +100 manuales.</td></tr>
+    <tr><td>Los emojis se ven como cuadros</td><td>Falta una fuente de emojis en el sistema (habitual en Linux antiguos). En Windows, macOS y Chromebook se ven correctamente.</td></tr>
+    <tr><td>La app no carga</td><td>Verifica la conexión a internet y la URL exacta: <b>https://english-classroom-game-show.vercel.app</b>. Una vez cargada, la app funciona aunque la conexión sea lenta.</td></tr>
+  </table>
+
+  <h2 style="margin-top:24pt;page-break-before:always">4. Anexo: tabla resumen de puntuación</h2>
+  <table>
+    <tr><th>Modo</th><th>Acierto</th><th>Error</th><th>Robo (Steal)</th><th>Otros</th></tr>
+    <tr><td>1 · Point Steal</td><td class="pos">+100</td><td>−50 solo si el rival roba</td><td class="pos">+150</td><td>Timer 20 s / robo 10 s</td></tr>
+    <tr><td>2 · Grammar Auction</td><td class="pos">+ apuesta ($)</td><td class="neg">− apuesta ($)</td><td>—</td><td>Banca $1,000 · apuestas $50-$500 · +300 al más rico</td></tr>
+    <tr><td>3 · Pressure Bomb</td><td class="pos">+50 (pasa)</td><td class="neg">−25 (conserva) · skip −25</td><td>—</td><td>Explosión: −100 / +100 · mecha 30 s</td></tr>
+    <tr><td>4 · The Trapdoor</td><td class="pos">+100</td><td class="neg">−1 vida</td><td>—</td><td>5 vidas · timer 20 s · turnos alternos</td></tr>
+    <tr><td>5 · Picture Quiz</td><td class="pos">+100</td><td>0</td><td class="pos">+50</td><td>Timer 15 s · identify / spelling / category</td></tr>
+    <tr><td>6 · Audio Detective</td><td class="pos">+100</td><td class="neg">−50 (dictado)</td><td class="pos">+50 (comprensión)</td><td>Máx. 3 plays · timer 20 s · en-US / en-GB</td></tr>
+    <tr><td>7 · Speaking Roleplay</td><td class="pos">+100 ganador · +50 ambos</td><td>0 (No points)</td><td>—</td><td>Taboo −50 · timer 45-60 s · veredicto del profesor</td></tr>
+    <tr><td>Marcador manual</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">Steal 100 del rival</td><td>Disponible en todo momento</td></tr>
+  </table>
+  <p class="foot">Manual de Uso: English Game Show · https://english-classroom-game-show.vercel.app · github.com/junior425/english-classroom-game-show</p>
+</div>
+
+</body>
+</html>

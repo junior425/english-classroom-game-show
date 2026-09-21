@@ -42,6 +42,7 @@ export default function TeamSetup({ defaults, onStart }) {
           ▶ START!
         </button>
         <span className="text-xl text-white/50">Audio (Tone.js) is enabled when you press Start</span>
+        <a href="/manual-english-game-show.pdf" download target="_blank" rel="noreferrer" className="text-xl text-gold/80 underline hover:text-gold">📘 Teacher's Manual (PDF)</a>
       </footer>
     </form>
   )

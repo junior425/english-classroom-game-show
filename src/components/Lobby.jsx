@@ -145,6 +145,7 @@ export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, 
       <footer className="flex flex-wrap justify-center gap-4">
         <button onClick={() => { sfx.click(); onRenameTeams() }} className="btn px-6 py-3 text-2xl bg-white/10 text-white hover:bg-white/20">✏️ Change Teams</button>
         <button onClick={() => { sfx.boing(); onResetScores() }} className="btn px-6 py-3 text-2xl bg-white/10 text-white hover:bg-white/20">🔄 Reset Scoreboard</button>
+        <a href="/manual-english-game-show.pdf" download target="_blank" rel="noreferrer" className="btn px-6 py-3 text-2xl bg-white/10 text-white hover:bg-white/20">📘 Teacher's Manual (PDF)</a>
       </footer>
     </div>
   )
