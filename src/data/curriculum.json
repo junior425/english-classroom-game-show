@@ -17995,6 +17995,2124 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U3T3",
+              "name": "3C - Vocabulary: Relationships",
+              "steal": [
+                {
+                  "prompt": "He knows a lot of people here, but he doesn’t have many ______.",
+                  "options": [
+                    "close friends",
+                    "couples",
+                    "relatives",
+                    "neighbors"
+                  ],
+                  "answer": 0,
+                  "explanation": "Knowing people ≠ having close friends."
+                },
+                {
+                  "prompt": "I went out with some of my ______ from the office after work.",
+                  "options": [
+                    "classmates",
+                    "colleagues",
+                    "parents",
+                    "partners"
+                  ],
+                  "answer": 1,
+                  "explanation": "Colleagues = people you work with."
+                },
+                {
+                  "prompt": "That one-bedroom apartment would be perfect for a ______.",
+                  "options": [
+                    "relative",
+                    "classmate",
+                    "couple",
+                    "parent"
+                  ],
+                  "answer": 2,
+                  "explanation": "A couple = two people in a romantic relationship."
+                },
+                {
+                  "prompt": "I have a lot of ______ who live in the U.S. — mainly cousins.",
+                  "options": [
+                    "colleagues",
+                    "neighbors",
+                    "couples",
+                    "relatives"
+                  ],
+                  "answer": 3,
+                  "explanation": "Relatives = members of your extended family."
+                },
+                {
+                  "prompt": "It’s not easy these days to find a romantic ______.",
+                  "options": [
+                    "partner",
+                    "relative",
+                    "colleague",
+                    "classmate"
+                  ],
+                  "answer": 0,
+                  "explanation": "A partner = the person you are in a relationship with."
+                },
+                {
+                  "prompt": "I still live with my ______. It’s just me, my mom and my dad.",
+                  "options": [
+                    "relatives",
+                    "parents",
+                    "partners",
+                    "neighbors"
+                  ],
+                  "answer": 1,
+                  "explanation": "Parents = mother and father."
+                },
+                {
+                  "prompt": "The walls in my building are very thin. I can hear my ______ talking.",
+                  "options": [
+                    "classmate",
+                    "relative",
+                    "next-door neighbor",
+                    "partner"
+                  ],
+                  "answer": 2,
+                  "explanation": "The next-door neighbor lives in the apartment beside yours."
+                },
+                {
+                  "prompt": "I’ve known Liz for ten years. She’s the first person I call if I’m sad — she’s my ______.",
+                  "options": [
+                    "colleague",
+                    "relative",
+                    "neighbor",
+                    "best friend"
+                  ],
+                  "answer": 3,
+                  "explanation": "Your best friend is the one closest to you."
+                },
+                {
+                  "prompt": "My ______ and I have a WhatsApp group where we talk about our homework.",
+                  "options": [
+                    "classmates",
+                    "parents",
+                    "partners",
+                    "neighbors"
+                  ],
+                  "answer": 0,
+                  "explanation": "Classmates study in the same class."
+                },
+                {
+                  "prompt": "Which word is the odd one out?",
+                  "options": [
+                    "colleague",
+                    "relative",
+                    "classmate",
+                    "neighbor"
+                  ],
+                  "answer": 1,
+                  "explanation": "A relative is family; the others are people you meet at work, school or home."
+                },
+                {
+                  "prompt": "We had a ______ and haven’t spoken since.",
+                  "options": [
+                    "make up",
+                    "get together",
+                    "falling out",
+                    "common"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Have a falling out\" = stop being friends because you disagree."
+                },
+                {
+                  "prompt": "We ______ a lot because we never agree about what to watch on TV.",
+                  "options": [
+                    "get along",
+                    "introduce",
+                    "make up",
+                    "argue"
+                  ],
+                  "answer": 3,
+                  "explanation": "Argue = talk to someone in an angry way because you disagree."
+                },
+                {
+                  "prompt": "I ______ with my neighbors — we’re all good friends.",
+                  "options": [
+                    "get along well",
+                    "fall out",
+                    "argue",
+                    "get to know"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Get along (well) with\" = have a good relationship with."
+                },
+                {
+                  "prompt": "It’s sometimes difficult to ______ new people, but my classmates are all really friendly.",
+                  "options": [
+                    "make up",
+                    "get to know",
+                    "fall out with",
+                    "introduce"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Get to know\" = spend time with people so you become friends."
+                },
+                {
+                  "prompt": "Do you know that girl? Could you ______ me to her?",
+                  "options": [
+                    "get along",
+                    "make up",
+                    "introduce",
+                    "argue"
+                  ],
+                  "answer": 2,
+                  "explanation": "Introduce someone to someone = tell them each other’s names."
+                },
+                {
+                  "prompt": "Sam and Ben had a fight this morning. I told them to ______, and now everything’s fine!",
+                  "options": [
+                    "fall out",
+                    "argue",
+                    "get together",
+                    "make up"
+                  ],
+                  "answer": 3,
+                  "explanation": "\"Make up\" = become friends again after an argument."
+                },
+                {
+                  "prompt": "It’s hard to talk to my neighbors since we don’t ______.",
+                  "options": [
+                    "have a lot in common",
+                    "get together",
+                    "introduce",
+                    "fall out"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Have a lot in common\" = share interests, experiences and opinions."
+                },
+                {
+                  "prompt": "I ______ with my close friends at least once a week.",
+                  "options": [
+                    "make up",
+                    "get together",
+                    "argue",
+                    "fall out"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Get together\" = meet and spend time together."
+                },
+                {
+                  "prompt": "Which phrase means \"stop being friends because of a disagreement\"?",
+                  "options": [
+                    "get along",
+                    "make up",
+                    "fall out",
+                    "get to know"
+                  ],
+                  "answer": 2,
+                  "explanation": "Fall out (with someone) → have a falling out."
+                },
+                {
+                  "prompt": "Which phrase is the OPPOSITE of \"fall out\"?",
+                  "options": [
+                    "argue",
+                    "introduce",
+                    "get to know",
+                    "make up"
+                  ],
+                  "answer": 3,
+                  "explanation": "Fall out ↔ make up."
+                },
+                {
+                  "prompt": "Choose the correct preposition: \"I get along really well ______ my partner’s parents.\"",
+                  "options": [
+                    "with",
+                    "to",
+                    "at",
+                    "for"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get along WITH someone."
+                },
+                {
+                  "prompt": "Choose the correct form: \"Let me ______ you to my colleague, Dan.\"",
+                  "options": [
+                    "introducing",
+                    "introduce",
+                    "to introduce",
+                    "introduced"
+                  ],
+                  "answer": 1,
+                  "explanation": "Let + object + base verb."
+                },
+                {
+                  "prompt": "\"They’re a lovely ______.\" Which word takes a singular article here?",
+                  "options": [
+                    "parents",
+                    "relatives",
+                    "couple",
+                    "colleagues"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"A couple\" is singular in form (two people)."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "We have lot in common.",
+                    "We have a lot of common.",
+                    "We have a lot common.",
+                    "We have a lot in common."
+                  ],
+                  "answer": 3,
+                  "explanation": "Fixed phrase: have a lot in common."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I get along really well with my next-door neighbor.",
+                  "correct": true,
+                  "explanation": "Correct: get along with + person."
+                },
+                {
+                  "sentence": "We fell out over money and haven’t spoken for a year.",
+                  "correct": true,
+                  "explanation": "Correct: fall out (past: fell out)."
+                },
+                {
+                  "sentence": "My colleagues and I get together for lunch every Friday.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She introduced me with her partner at the party.",
+                  "correct": false,
+                  "fix": "She introduced me to her partner at the party.",
+                  "explanation": "Introduce someone TO someone."
+                },
+                {
+                  "sentence": "They argued about the film, but they made up an hour later.",
+                  "correct": true,
+                  "explanation": "Correct: argue about; make up."
+                },
+                {
+                  "sentence": "I don’t have much in common with my classmates.",
+                  "correct": true,
+                  "explanation": "Correct: have (much / a lot) in common with."
+                },
+                {
+                  "sentence": "We had a fall out last week and now we don’t talk.",
+                  "correct": false,
+                  "fix": "We had a falling out last week and now we don’t talk.",
+                  "explanation": "The noun is \"a falling out\"; the verb is \"fall out\"."
+                },
+                {
+                  "sentence": "It took me a while to get to know my new colleagues.",
+                  "correct": true,
+                  "explanation": "Correct: get to know + people."
+                },
+                {
+                  "sentence": "My parents are also my best friends — I tell them everything.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He gets along good with everyone in the office.",
+                  "correct": false,
+                  "fix": "He gets along well with everyone in the office.",
+                  "explanation": "Use the adverb \"well\", not \"good\"."
+                },
+                {
+                  "sentence": "That couple next door are always arguing.",
+                  "correct": true,
+                  "explanation": "Correct: \"couple\" can take a plural verb in informal English (they are two people)."
+                },
+                {
+                  "sentence": "Liz is a close friend of me.",
+                  "correct": false,
+                  "fix": "Liz is a close friend of mine.",
+                  "explanation": "\"A friend of mine / yours / his…\" — possessive pronoun."
+                },
+                {
+                  "sentence": "I’d like to introduce you to a relative who lives in Chicago.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They make up after every argue.",
+                  "correct": false,
+                  "fix": "They make up after every argument.",
+                  "explanation": "\"Argue\" is a verb; the noun is \"argument\"."
+                },
+                {
+                  "sentence": "We got together with some old classmates last weekend.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My partner and I have got a lot in common.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I fell out my best friend when we were teenagers.",
+                  "correct": false,
+                  "fix": "I fell out with my best friend when we were teenagers.",
+                  "explanation": "Fall out WITH someone."
+                },
+                {
+                  "sentence": "The neighbors next-door are a retired couple.",
+                  "correct": false,
+                  "fix": "The next-door neighbors are a retired couple.",
+                  "explanation": "\"Next-door\" goes before the noun: next-door neighbors."
+                },
+                {
+                  "sentence": "We argue a lot, but we always get along in the end.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "It’s hard to get to know people if you never get together with them.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "best friend",
+                  "image": "/img/relationships/best-friend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Best friend\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Best friend\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Best friend\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Best friend\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "close friend",
+                  "image": "/img/relationships/close-friend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Close friend\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Close friend\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Close friend\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Close friend\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "colleague",
+                  "image": "/img/relationships/colleague.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Colleague\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Colleague\" → Work / school / home."
+                    },
+                    {
+                      "prompt": "\"Colleague\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Colleague\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "partner",
+                  "image": "/img/relationships/partner.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Partner\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Partner\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Partner\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Partner\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "couple",
+                  "image": "/img/relationships/couple.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Couple\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Couple\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Couple\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Couple\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "parents",
+                  "image": "/img/relationships/parents.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Parents\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Parents\" → Family."
+                    },
+                    {
+                      "prompt": "\"Parents\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Parents\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "relative",
+                  "image": "/img/relationships/relative.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Relative\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Relative\" → Family."
+                    },
+                    {
+                      "prompt": "\"Relative\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Relative\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "classmate",
+                  "image": "/img/relationships/classmate.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Classmate\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Classmate\" → Work / school / home."
+                    },
+                    {
+                      "prompt": "\"Classmate\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Classmate\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "next-door neighbor",
+                  "image": "/img/relationships/next-door-neighbor.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Next-door neighbor\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Next-door neighbor\" → Work / school / home."
+                    },
+                    {
+                      "prompt": "\"Next-door neighbor\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Next-door neighbor\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "argue",
+                  "image": "/img/relationships/argue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Argue\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Argue\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Argue\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Argue\" → Negative."
+                    }
+                  ]
+                },
+                {
+                  "word": "fall out",
+                  "image": "/img/relationships/falling-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Fall out\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fall out\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Fall out\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Fall out\" → Negative."
+                    }
+                  ]
+                },
+                {
+                  "word": "make up",
+                  "image": "/img/relationships/make-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Make up\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Make up\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Make up\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Make up\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "get along well",
+                  "image": "/img/relationships/get-along-well.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Get along well\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get along well\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Get along well\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get along well\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "get to know",
+                  "image": "/img/relationships/get-to-know.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Get to know\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get to know\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Get to know\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get to know\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "introduce",
+                  "image": "/img/relationships/introduce.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Introduce\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Introduce\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Introduce\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Introduce\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "have a lot in common",
+                  "image": "/img/relationships/have-in-common.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Have a lot in common\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Have a lot in common\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Have a lot in common\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Have a lot in common\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "get together",
+                  "image": "/img/relationships/get-together.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Get together\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get together\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Get together\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get together\" → Positive."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I get along really well with my next-door neighbor, but we don’t have a lot in common.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We had a falling out over money and we haven’t spoken since.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It took me months to get to know my colleagues, but now we get together every Friday.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Could you introduce me to your partner? I’ve heard so much about her.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They argue constantly, yet they always make up before bedtime.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Most of my relatives live in the States, mainly cousins on my mother’s side.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Anna: How do you know Daniel? Ben: He’s a colleague, actually — we sit next to each other at work. But we get along so well that he’s become one of my closest friends.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How did Ben meet Daniel?",
+                  "options": [
+                    "They were classmates",
+                    "They work together",
+                    "They are relatives",
+                    "He is his next-door neighbor"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Zoe: I heard you and Maya had a falling out. Liam: We did, but we made up last night. We just have to stop arguing about politics.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the situation now between Liam and Maya?",
+                  "options": [
+                    "They still aren’t speaking",
+                    "They argued last night",
+                    "They have made up",
+                    "They fell out last night"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Podcast host: Research shows that couples who have a lot in common argue less, but the couples who get along best are the ones who know how to make up quickly.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "According to the host, which couples get along best?",
+                  "options": [
+                    "Those who never argue",
+                    "Those with nothing in common",
+                    "Those who live apart",
+                    "Those who make up quickly"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Grace: My next-door neighbors are a retired couple. They introduced me to everyone on the street the week I moved in. Now we get together for coffee every Sunday.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the neighbors do the week Grace moved in?",
+                  "options": [
+                    "They introduced her to the neighbors",
+                    "They argued with her",
+                    "They invited her relatives",
+                    "They fell out with her"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Tom: Are you close to your relatives? Nina: Not really. I get along with my parents, but my cousins and I have nothing in common, so we only get together at weddings.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When does Nina see her cousins?",
+                  "options": [
+                    "Every Sunday",
+                    "Only at weddings",
+                    "At work",
+                    "Never"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Career coach: It’s hard to get to know colleagues if you never leave your desk. Introduce yourself, ask questions, and find something you have in common.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the coach recommend?",
+                  "options": [
+                    "Staying at your desk",
+                    "Avoiding your colleagues",
+                    "Finding things in common",
+                    "Arguing less"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Friendship debate",
+                  "situation": "Debate: \"Colleagues can never be real friends.\" One team argues for, the other against. Use full arguments and examples.",
+                  "mandatory": [
+                    "colleague",
+                    "have a lot in common",
+                    "get along"
+                  ],
+                  "taboo": [
+                    "friend",
+                    "work"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Peace talks",
+                  "situation": "Two best friends had a falling out over a misunderstanding. Roleplay the conversation where they make up.",
+                  "mandatory": [
+                    "falling out",
+                    "make up",
+                    "argue"
+                  ],
+                  "taboo": [
+                    "sorry",
+                    "fight"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Networking event",
+                  "situation": "You are at a professional networking event. Introduce yourself and two other people to each other, explaining how you know them.",
+                  "mandatory": [
+                    "introduce",
+                    "partner",
+                    "get to know"
+                  ],
+                  "taboo": [
+                    "hello",
+                    "name"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Family reunion",
+                  "situation": "Describe a family reunion: who came, how everyone gets along, and which relatives argued or made up.",
+                  "mandatory": [
+                    "relative",
+                    "get together",
+                    "parents"
+                  ],
+                  "taboo": [
+                    "family",
+                    "party"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Neighbor trouble",
+                  "situation": "Your next-door neighbor plays loud music every night. Roleplay a polite but firm conversation to solve the problem.",
+                  "mandatory": [
+                    "next-door neighbor",
+                    "get along",
+                    "argue"
+                  ],
+                  "taboo": [
+                    "noise",
+                    "police"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Advice column",
+                  "situation": "A listener writes: \"My partner and I have nothing in common anymore.\" Give advice as a relationship expert.",
+                  "mandatory": [
+                    "couple",
+                    "have in common",
+                    "get to know"
+                  ],
+                  "taboo": [
+                    "love",
+                    "break up"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U3T4",
+              "name": "3C - Grammar: Defining & Non-defining Relative Clauses",
+              "steal": [
+                {
+                  "prompt": "That’s the man ______ lives next door to us.",
+                  "options": [
+                    "which",
+                    "who",
+                    "whose",
+                    "where"
+                  ],
+                  "answer": 1,
+                  "explanation": "Who (or that) for people."
+                },
+                {
+                  "prompt": "That’s the couple ______ house is always amazing.",
+                  "options": [
+                    "who",
+                    "which",
+                    "whose",
+                    "that"
+                  ],
+                  "answer": 2,
+                  "explanation": "Whose + noun for possession."
+                },
+                {
+                  "prompt": "She’s the colleague ______ I sit next to in class.",
+                  "options": [
+                    "whose",
+                    "where",
+                    "which",
+                    "who"
+                  ],
+                  "answer": 3,
+                  "explanation": "Who / that (or nothing — the pronoun is the object)."
+                },
+                {
+                  "prompt": "My uncle lives in Los Angeles, ______ is a really expensive city.",
+                  "options": [
+                    "which",
+                    "that",
+                    "where",
+                    "who"
+                  ],
+                  "answer": 0,
+                  "explanation": "Non-defining clause about a place/thing → which, never \"that\"."
+                },
+                {
+                  "prompt": "That’s the café ______ I first met my partner.",
+                  "options": [
+                    "which",
+                    "where",
+                    "who",
+                    "whose"
+                  ],
+                  "answer": 1,
+                  "explanation": "Where for places (= in which)."
+                },
+                {
+                  "prompt": "My neighbors, ______ have five children, are really noisy.",
+                  "options": [
+                    "that",
+                    "whose",
+                    "who",
+                    "which"
+                  ],
+                  "answer": 2,
+                  "explanation": "Non-defining clause about people → who (not that)."
+                },
+                {
+                  "prompt": "Which sentence is NON-defining?",
+                  "options": [
+                    "The friends who I grew up with still live here.",
+                    "The relative that gave me this lives in Cali.",
+                    "I have a classmate whose father is famous.",
+                    "My best friend, who lives in London, is visiting next week."
+                  ],
+                  "answer": 3,
+                  "explanation": "Non-defining = extra information between commas."
+                },
+                {
+                  "prompt": "\"The students who passed the exam received a certificate.\" This means…",
+                  "options": [
+                    "only the students who passed got a certificate",
+                    "all the students passed",
+                    "all the students got a certificate",
+                    "nobody passed"
+                  ],
+                  "answer": 0,
+                  "explanation": "Defining clause: it identifies WHICH students."
+                },
+                {
+                  "prompt": "\"The students, who passed the exam, received a certificate.\" This means…",
+                  "options": [
+                    "only some students passed",
+                    "all the students passed and all received a certificate",
+                    "nobody received a certificate",
+                    "the exam was cancelled"
+                  ],
+                  "answer": 1,
+                  "explanation": "Non-defining clause: extra information about ALL the students."
+                },
+                {
+                  "prompt": "In which sentence can the relative pronoun be omitted?",
+                  "options": [
+                    "That’s the colleague who introduced me to Sam.",
+                    "My partner, who is a nurse, works nights.",
+                    "She’s the classmate who I sit next to.",
+                    "That’s the neighbor whose dog barks all night."
+                  ],
+                  "answer": 2,
+                  "explanation": "We can omit who/that when it is the OBJECT of a defining clause."
+                },
+                {
+                  "prompt": "Which sentence is INCORRECT?",
+                  "options": [
+                    "The partner that I work with is Brazilian.",
+                    "The partner I work with is Brazilian.",
+                    "The partner who I work with is Brazilian.",
+                    "My partner, that is Brazilian, works with me."
+                  ],
+                  "answer": 3,
+                  "explanation": "Never use \"that\" in a non-defining clause."
+                },
+                {
+                  "prompt": "Choose the correct punctuation.",
+                  "options": [
+                    "My parents who live in Cali are retired.",
+                    "My parents, who live in Cali, are retired.",
+                    "My parents, who live in Cali are retired.",
+                    "My parents who, live in Cali, are retired."
+                  ],
+                  "answer": 1,
+                  "explanation": "Non-defining: commas before and after the clause."
+                },
+                {
+                  "prompt": "Combine: \"We went to Bella Pizza. We had lunch there.\" →",
+                  "options": [
+                    "We went to Bella Pizza which we had lunch.",
+                    "We went to Bella Pizza, where we had lunch.",
+                    "We went to Bella Pizza, that we had lunch.",
+                    "We went to Bella Pizza whose we had lunch."
+                  ],
+                  "answer": 1,
+                  "explanation": "Non-defining clause about a place → , where …"
+                },
+                {
+                  "prompt": "Combine: \"Luke gave me a really interesting book yesterday. I’m reading it now.\" →",
+                  "options": [
+                    "Luke gave me a book yesterday, which I’m reading now.",
+                    "Luke gave me a book yesterday, who I’m reading now.",
+                    "Luke gave me a book yesterday, that I’m reading now.",
+                    "Luke gave me a book yesterday which I’m reading it now."
+                  ],
+                  "answer": 0,
+                  "explanation": "Non-defining: , which …; don’t repeat the object (\"it\")."
+                },
+                {
+                  "prompt": "Combine: \"Look at that car. My uncle wants one.\" →",
+                  "options": [
+                    "Look at that car whose my uncle wants.",
+                    "Look at that car, where my uncle wants.",
+                    "Look at that car, which my uncle wants.",
+                    "Look at that car who my uncle wants."
+                  ],
+                  "answer": 2,
+                  "explanation": "Non-defining clause about a thing → , which …"
+                },
+                {
+                  "prompt": "Combine: \"This is Mark. His brother is my best friend.\" →",
+                  "options": [
+                    "This is Mark, who brother is my best friend.",
+                    "This is Mark, which brother is my best friend.",
+                    "This is Mark, that his brother is my best friend.",
+                    "This is Mark, whose brother is my best friend."
+                  ],
+                  "answer": 3,
+                  "explanation": "Whose replaces \"his / her / their\"."
+                },
+                {
+                  "prompt": "Complete: \"That’s the restaurant ______ we had our first date.\" (two possible words)",
+                  "options": [
+                    "where / in which",
+                    "which / that",
+                    "who / whose",
+                    "when / that"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Where\" or \"in which\" for a place where something happens."
+                },
+                {
+                  "prompt": "Complete: \"My colleague, ______ desk is next to mine, never stops talking.\"",
+                  "options": [
+                    "who",
+                    "whose",
+                    "which",
+                    "that"
+                  ],
+                  "answer": 1,
+                  "explanation": "Possession → whose."
+                },
+                {
+                  "prompt": "Find the mistake: \"The neighbors which live next door have a lot in common with us.\"",
+                  "options": [
+                    "live → lives",
+                    "next door → next-door",
+                    "which → who",
+                    "have → has"
+                  ],
+                  "answer": 2,
+                  "explanation": "People → who / that, not which."
+                },
+                {
+                  "prompt": "Find the mistake: \"My best friend, that I’ve known for ten years, is getting married.\"",
+                  "options": [
+                    "that → who",
+                    "known → knew",
+                    "is → are",
+                    "no mistake"
+                  ],
+                  "answer": 0,
+                  "explanation": "Non-defining clauses never take \"that\"."
+                },
+                {
+                  "prompt": "Find the mistake: \"The colleague who I introduced you to him works in HR.\"",
+                  "options": [
+                    "who → which",
+                    "introduced → introduce",
+                    "remove \"him\"",
+                    "to → for"
+                  ],
+                  "answer": 2,
+                  "explanation": "The relative pronoun already stands for the object — don’t add \"him\"."
+                },
+                {
+                  "prompt": "Find the mistake: \"Sarah, whose I met at university, is my partner now.\"",
+                  "options": [
+                    "whose → who",
+                    "met → meet",
+                    "is → was",
+                    "no mistake"
+                  ],
+                  "answer": 0,
+                  "explanation": "Whose is only for possession; here we need who (object)."
+                },
+                {
+                  "prompt": "Which sentence needs NO commas?",
+                  "options": [
+                    "My mother who is a doctor works long hours.",
+                    "My cousin which lives in Miami is visiting.",
+                    "Paris where I studied is beautiful.",
+                    "The woman who lives next door is a doctor."
+                  ],
+                  "answer": 3,
+                  "explanation": "Defining clause (tells us which woman) → no commas."
+                },
+                {
+                  "prompt": "In \"the couple I met at the party\", the relative pronoun is…",
+                  "options": [
+                    "who, and it must be used",
+                    "whose, and it is omitted",
+                    "omitted — it was the object of the clause",
+                    "which, because couple is a thing"
+                  ],
+                  "answer": 2,
+                  "explanation": "Object relative pronouns can be omitted in defining clauses."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "That’s the man who lives next door to us.",
+                  "correct": true,
+                  "explanation": "Correct: who for people."
+                },
+                {
+                  "sentence": "My uncle lives in Los Angeles, that is a really expensive city.",
+                  "correct": false,
+                  "fix": "My uncle lives in Los Angeles, which is a really expensive city.",
+                  "explanation": "Non-defining clause: use which, not that."
+                },
+                {
+                  "sentence": "She’s the classmate I get along with best.",
+                  "correct": true,
+                  "explanation": "Correct: the object pronoun (who/that) is omitted in a defining clause."
+                },
+                {
+                  "sentence": "That’s the couple whose house is always amazing.",
+                  "correct": true,
+                  "explanation": "Correct: whose + noun."
+                },
+                {
+                  "sentence": "My neighbors who have five children are really noisy.",
+                  "correct": false,
+                  "fix": "My neighbors, who have five children, are really noisy.",
+                  "explanation": "Extra information about my (only) neighbors → non-defining, with commas."
+                },
+                {
+                  "sentence": "The restaurant where we had our first date has closed.",
+                  "correct": true,
+                  "explanation": "Correct: where for places."
+                },
+                {
+                  "sentence": "My best friend, which I’ve known since school, lives in Bogotá.",
+                  "correct": false,
+                  "fix": "My best friend, who I’ve known since school, lives in Bogotá.",
+                  "explanation": "People → who, not which."
+                },
+                {
+                  "sentence": "The colleague who sits next to me is from Japan.",
+                  "correct": true,
+                  "explanation": "Correct defining clause."
+                },
+                {
+                  "sentence": "The book which Luke gave me it is really interesting.",
+                  "correct": false,
+                  "fix": "The book which Luke gave me is really interesting.",
+                  "explanation": "Don’t repeat the object (\"it\") — \"which\" already refers to the book."
+                },
+                {
+                  "sentence": "Liz, whose parents are both teachers, is my closest friend.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My partner, is a nurse, works at night.",
+                  "correct": false,
+                  "fix": "My partner, who is a nurse, works at night.",
+                  "explanation": "A non-defining clause needs a relative pronoun."
+                },
+                {
+                  "sentence": "The students who passed the exam received a certificate — the others didn’t.",
+                  "correct": true,
+                  "explanation": "Correct: defining clause identifies which students."
+                },
+                {
+                  "sentence": "I have a relative lives in Canada.",
+                  "correct": false,
+                  "fix": "I have a relative who lives in Canada.",
+                  "explanation": "The subject relative pronoun cannot be omitted."
+                },
+                {
+                  "sentence": "We went to Bella Pizza, where we had lunch.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "This is Mark, who brother is my best friend.",
+                  "correct": false,
+                  "fix": "This is Mark, whose brother is my best friend.",
+                  "explanation": "Possession → whose."
+                },
+                {
+                  "sentence": "The next-door neighbor that I introduced you to is a colleague of mine.",
+                  "correct": true,
+                  "explanation": "Correct: that (object) in a defining clause."
+                },
+                {
+                  "sentence": "Sam, who I fell out with last year, has finally made up with me.",
+                  "correct": true,
+                  "explanation": "Correct: non-defining with who."
+                },
+                {
+                  "sentence": "The couple, who live next door are always arguing.",
+                  "correct": false,
+                  "fix": "The couple, who live next door, are always arguing.",
+                  "explanation": "Non-defining clauses need a comma on BOTH sides."
+                },
+                {
+                  "sentence": "Look at that car, which my uncle wants.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The woman lives next door is a doctor.",
+                  "correct": false,
+                  "fix": "The woman who lives next door is a doctor.",
+                  "explanation": "Subject relative pronoun (who) is required."
+                },
+                {
+                  "sentence": "Cali, where I grew up, is where most of my relatives still live.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "That’s the colleague whom I told you about.",
+                  "correct": true,
+                  "explanation": "Correct: \"whom\" is the formal object form (who is also fine)."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "best friend",
+                  "image": "/img/relationships/best-friend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Best friend\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Best friend\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Best friend\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Best friend\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "close friend",
+                  "image": "/img/relationships/close-friend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Close friend\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Close friend\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Close friend\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Close friend\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "colleague",
+                  "image": "/img/relationships/colleague.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Colleague\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Colleague\" → Work / school / home."
+                    },
+                    {
+                      "prompt": "\"Colleague\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Colleague\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "partner",
+                  "image": "/img/relationships/partner.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Partner\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Partner\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Partner\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Partner\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "couple",
+                  "image": "/img/relationships/couple.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Couple\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Couple\" → Friends & love."
+                    },
+                    {
+                      "prompt": "\"Couple\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Couple\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "parents",
+                  "image": "/img/relationships/parents.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Parents\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Parents\" → Family."
+                    },
+                    {
+                      "prompt": "\"Parents\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Parents\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "relative",
+                  "image": "/img/relationships/relative.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Relative\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Relative\" → Family."
+                    },
+                    {
+                      "prompt": "\"Relative\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Relative\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "classmate",
+                  "image": "/img/relationships/classmate.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Classmate\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Classmate\" → Work / school / home."
+                    },
+                    {
+                      "prompt": "\"Classmate\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Classmate\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "next-door neighbor",
+                  "image": "/img/relationships/next-door-neighbor.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Next-door neighbor\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Next-door neighbor\" → Work / school / home."
+                    },
+                    {
+                      "prompt": "\"Next-door neighbor\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Next-door neighbor\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "argue",
+                  "image": "/img/relationships/argue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Argue\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Argue\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Argue\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Argue\" → Negative."
+                    }
+                  ]
+                },
+                {
+                  "word": "fall out",
+                  "image": "/img/relationships/falling-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Fall out\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fall out\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Fall out\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Fall out\" → Negative."
+                    }
+                  ]
+                },
+                {
+                  "word": "make up",
+                  "image": "/img/relationships/make-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Make up\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Make up\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Make up\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Make up\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "get along well",
+                  "image": "/img/relationships/get-along-well.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Get along well\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get along well\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Get along well\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get along well\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "get to know",
+                  "image": "/img/relationships/get-to-know.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Get to know\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get to know\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Get to know\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get to know\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "introduce",
+                  "image": "/img/relationships/introduce.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Introduce\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Introduce\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Introduce\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Introduce\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "have a lot in common",
+                  "image": "/img/relationships/have-in-common.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Have a lot in common\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Have a lot in common\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Have a lot in common\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Have a lot in common\" → Positive."
+                    }
+                  ]
+                },
+                {
+                  "word": "get together",
+                  "image": "/img/relationships/get-together.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Get together\" — family, friends & love, work / school / home, or an action?",
+                      "options": [
+                        "Family",
+                        "Friends & love",
+                        "Work / school / home",
+                        "An action or phrase"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get together\" → An action or phrase."
+                    },
+                    {
+                      "prompt": "\"Get together\" — is it positive, negative or neutral?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get together\" → Positive."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "That’s the colleague who introduced me to my partner.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My uncle lives in Los Angeles, which is a really expensive city.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The classmate I sit next to has a lot in common with me.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Liz, whose parents are both teachers, is my closest friend.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We went to Bella Pizza, where we had lunch with some relatives.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The neighbors who live next door are a couple that never argues.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Teacher: Listen carefully. Sentence one: The students who passed the exam received a certificate. Sentence two: The students, who passed the exam, received a certificate. In which sentence did every student pass?",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "In which sentence did every student pass?",
+                  "options": [
+                    "Sentence one",
+                    "Sentence two",
+                    "Both",
+                    "Neither"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Mia: Who’s that? Jake: That’s Dan, whose brother is my best friend. And the woman he’s talking to is the colleague I told you about — the one who sits next to me.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is Dan?",
+                  "options": [
+                    "Jake’s colleague",
+                    "Jake’s best friend",
+                    "The brother of Jake’s best friend",
+                    "Jake’s next-door neighbor"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Tour guide: This is the café where the famous couple first met, and the bench you’re sitting on, which was built in 1920, is where they made up after their first argument.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What happened on the bench?",
+                  "options": [
+                    "The couple first met",
+                    "The couple got married",
+                    "The café was built",
+                    "The couple made up"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Host: Our next guest, who has written three books on friendship, says the friends we keep for life are the ones we have the most in common with.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What has the guest done?",
+                  "options": [
+                    "Written three books",
+                    "Kept friends for life",
+                    "Lost her friends",
+                    "Opened a café"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Sara: The relatives that came to dinner were the ones from Canada. My cousin, who I hadn’t seen for years, brought her partner, whose cooking is amazing.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Whose cooking is amazing?",
+                  "options": [
+                    "Sara’s cousin’s",
+                    "The partner’s",
+                    "Sara’s",
+                    "The Canadian relatives’"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Manager: The colleague who organized the party deserves a thank-you, and the room where we held it, which we booked for free, was perfect.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do we know about the room?",
+                  "options": [
+                    "It was expensive",
+                    "It was too small",
+                    "It was booked for free",
+                    "It belongs to a colleague"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Who’s who?",
+                  "situation": "Describe four people in your life (a relative, a colleague, a neighbor, a best friend) using a relative clause for each one.",
+                  "mandatory": [
+                    "who",
+                    "whose",
+                    "where"
+                  ],
+                  "taboo": [
+                    "he is",
+                    "she is"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Two meanings",
+                  "situation": "Explain to the class the difference between \"My brother who lives in Cali is a doctor\" and \"My brother, who lives in Cali, is a doctor.\" Give your own example pair.",
+                  "mandatory": [
+                    "defining",
+                    "non-defining",
+                    "commas"
+                  ],
+                  "taboo": [
+                    "thing",
+                    "stuff"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "City guide",
+                  "situation": "You’re a guide in your hometown. Describe three places using \"where\" and \"which\", and one famous person using \"who / whose\".",
+                  "mandatory": [
+                    "which",
+                    "where",
+                    "whose"
+                  ],
+                  "taboo": [
+                    "nice",
+                    "famous"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dating profile",
+                  "situation": "Read out (an imaginary) dating profile: describe the partner you are looking for using at least three relative clauses.",
+                  "mandatory": [
+                    "someone who",
+                    "a person whose",
+                    "a place where"
+                  ],
+                  "taboo": [
+                    "perfect",
+                    "love"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Gossip chain",
+                  "situation": "Tell a piece of (invented) gossip about a couple, a colleague and a neighbor, linking every sentence with a relative clause.",
+                  "mandatory": [
+                    "who",
+                    "which",
+                    "whose"
+                  ],
+                  "taboo": [
+                    "and then",
+                    "so"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Object of debate",
+                  "situation": "Debate: \"You should never omit the relative pronoun in writing.\" Argue for or against, giving example sentences with and without the pronoun.",
+                  "mandatory": [
+                    "omit",
+                    "object",
+                    "defining"
+                  ],
+                  "taboo": [
+                    "grammar",
+                    "rule"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },

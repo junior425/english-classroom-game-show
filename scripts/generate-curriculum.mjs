@@ -12,6 +12,7 @@ import advanced1 from './content/advanced1.mjs'
 import advanced2 from './content/advanced2.mjs'
 import basic1Unit3Extras from './content/basic1-unit3-extras.mjs'
 import intermediate1Unit6Extras from './content/intermediate1-unit6-extras.mjs'
+import advanced1Unit3Extras from './content/advanced1-unit3-extras.mjs'
 import listeningSpeaking from './content/listening-speaking.mjs'
 
 const here = dirname(fileURLToPath(import.meta.url))
@@ -20,6 +21,7 @@ const here = dirname(fileURLToPath(import.meta.url))
 const EXTRAS = {
   'Basic 1': { 2: basic1Unit3Extras },
   'Intermediate 1': { 5: intermediate1Unit6Extras },
+  'Advanced 1': { 2: advanced1Unit3Extras },
 }
 
 const LEVELS = [
