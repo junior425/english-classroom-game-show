@@ -11,6 +11,7 @@ import intermediate2 from './content/intermediate2.mjs'
 import advanced1 from './content/advanced1.mjs'
 import advanced2 from './content/advanced2.mjs'
 import basic1Unit3Extras from './content/basic1-unit3-extras.mjs'
+import listeningSpeaking from './content/listening-speaking.mjs'
 
 const here = dirname(fileURLToPath(import.meta.url))
 
@@ -31,8 +32,29 @@ const LEVELS = [
 const toQuestion = ([prompt, options, answer, explanation, image]) =>
   image ? { prompt, options, answer, explanation, image } : { prompt, options, answer, explanation }
 const toPicture = ([word, image, category, healthy]) => ({ word, image, category, healthy })
+const toListening = ([text, voice, kind, question, options, answer]) =>
+  kind === 'comprehension' ? { text, voice, kind, question, options, answer } : { text, voice, kind }
+const toSpeaking = ([title, situation, mandatory, taboo, seconds]) => ({ title, situation, mandatory, taboo, seconds })
 const toSentence = ([sentence, correct, fix, explanation]) =>
   correct ? { sentence, correct, explanation } : { sentence, correct, fix, explanation }
+
+function validateExtras(levelName, topicName, extra) {
+  const errors = []
+  extra.listening?.forEach((item, i) => {
+    const [text, voice, kind, question, options, answer] = item
+    if (typeof text !== 'string' || !['en-US', 'en-GB'].includes(voice) || !['dictation', 'comprehension'].includes(kind)) errors.push(`listening ${i + 1} malformed`)
+    if (kind === 'comprehension' && (typeof question !== 'string' || !Array.isArray(options) || options.length !== 4 || !Number.isInteger(answer) || answer < 0 || answer > 3)) {
+      errors.push(`listening ${i + 1} comprehension malformed`)
+    }
+  })
+  extra.speaking?.forEach((item, i) => {
+    const [title, situation, mandatory, taboo, seconds] = item
+    if (typeof title !== 'string' || typeof situation !== 'string' || !Array.isArray(mandatory) || mandatory.length !== 3 || !Array.isArray(taboo) || ![45, 60].includes(seconds)) {
+      errors.push(`speaking ${i + 1} malformed`)
+    }
+  })
+  if (errors.length) throw new Error(`${levelName} / ${topicName}: ${errors.join('; ')}`)
+}
 
 function validate(levelName, topicName, data) {
   const errors = []
@@ -59,17 +81,30 @@ function validate(levelName, topicName, data) {
   if (errors.length) throw new Error(`${levelName} / ${topicName}: ${errors.join('; ')}`)
 }
 
+for (const [lvl, topics] of Object.entries(listeningSpeaking)) {
+  const content = LEVELS.find(([n]) => n === lvl)?.[1]
+  if (!content) throw new Error(`listening-speaking: unknown level ${lvl}`)
+  for (const t of Object.keys(topics)) {
+    const known = t in content || Object.values(EXTRAS[lvl] ?? {}).some((e) => t in e)
+    if (!known) throw new Error(`listening-speaking: unknown topic "${t}" in ${lvl}`)
+  }
+}
+
 const levels = LEVELS.map(([name, content], li) => {
   const topicNames = Object.keys(content)
   if (topicNames.length !== 24) throw new Error(`${name} has ${topicNames.length} topics, expected 24`)
   const toTopic = (id, topicName, data) => {
     validate(name, topicName, data)
+    const extra = listeningSpeaking[name]?.[topicName] ?? {}
+    validateExtras(name, topicName, extra)
     return {
       id,
       name: topicName,
       steal: data.q.map(toQuestion),
       auction: data.s.map(toSentence),
       pictures: (data.pictures ?? []).map(toPicture),
+      listening: (extra.listening ?? []).map(toListening),
+      speaking: (extra.speaking ?? []).map(toSpeaking),
     }
   }
   return {
@@ -93,4 +128,6 @@ const nQ = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => 
 const nS = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.auction))).length
 const nT = levels.flatMap((l) => l.units.flatMap((u) => u.topics)).length
 const nP = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.pictures))).length
-console.log(`written ${out}: ${levels.length} levels, ${nT} topics, ${nQ} questions, ${nS} auction sentences, ${nP} pictures`)
+const nL = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.listening))).length
+const nSp = levels.flatMap((l) => l.units.flatMap((u) => u.topics.flatMap((t) => t.speaking))).length
+console.log(`written ${out}: ${levels.length} levels, ${nT} topics, ${nQ} questions, ${nS} auction sentences, ${nP} pictures, ${nL} listening, ${nSp} speaking`)

@@ -9,6 +9,8 @@ import AuctionGame from './components/AuctionGame.jsx'
 import BombGame from './components/BombGame.jsx'
 import TrapdoorGame from './components/TrapdoorGame.jsx'
 import PictureGame from './components/PictureGame.jsx'
+import ListeningGame from './components/ListeningGame.jsx'
+import SpeakingGame from './components/SpeakingGame.jsx'
 import Confetti from './components/Confetti.jsx'
 
 const DEFAULT_TEAMS = [
@@ -103,6 +105,8 @@ export default function App() {
             {screen === 'bomb' && <BombGame key={selection.topic} {...game} />}
             {screen === 'trapdoor' && <TrapdoorGame key={selection.topic} {...game} />}
             {screen === 'picture' && <PictureGame key={selection.topic} {...game} />}
+            {screen === 'listening' && <ListeningGame key={selection.topic} {...game} />}
+            {screen === 'speaking' && <SpeakingGame key={selection.topic} {...game} />}
           </div>
         </div>
       )}

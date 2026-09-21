@@ -170,7 +170,9 @@
                   "explanation": "Time clause with present simple + will."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U1T2",
@@ -300,7 +302,9 @@
                   "explanation": "Correct third person form."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -436,7 +440,9 @@
                   "explanation": "Action in progress."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U2T2",
@@ -566,7 +572,9 @@
                   "explanation": "Silent h: an hour."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -702,7 +710,9 @@
                   "explanation": "Singular: is there."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U3T2",
@@ -832,7 +842,9 @@
                   "explanation": "Advice is uncountable."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U3T3",
@@ -1324,6 +1336,191 @@
                   "category": "drink",
                   "healthy": true
                 }
+              ],
+              "listening": [
+                {
+                  "text": "I have eggs and bread for breakfast.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She drinks orange juice every morning.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We eat pizza on Fridays.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My brother likes chicken and rice.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can I have a sandwich and a glass of water, please?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Ice cream and chocolate are my favorite treats.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Waiter: Good evening! What would you like? Customer: I’d like the fish with salad, and a cup of tea, please.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the customer order to drink?",
+                  "options": [
+                    "Coffee",
+                    "Tea",
+                    "Milk",
+                    "Water"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Anna: Do you want cake or cookies? Tom: Cookies, please. I don’t like cake very much.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does Tom choose?",
+                  "options": [
+                    "Cake",
+                    "Cookies",
+                    "Both",
+                    "Nothing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Mom: What do you want for lunch? Boy: Pasta, please! Mom: Okay, pasta with cheese and vegetables.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the boy going to eat?",
+                  "options": [
+                    "Pizza and salad",
+                    "Rice and chicken",
+                    "Pasta with cheese and vegetables",
+                    "A sandwich"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Every morning Lucy has coffee and fruit. She never eats potato chips for breakfast.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does Lucy NOT eat for breakfast?",
+                  "options": [
+                    "Fruit",
+                    "Coffee",
+                    "Potato chips",
+                    "Eggs"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Customer: How much is the ice cream? Seller: Two dollars. The French fries are three dollars.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How much are the French fries?",
+                  "options": [
+                    "One dollar",
+                    "Two dollars",
+                    "Three dollars",
+                    "Four dollars"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Dad: We need milk, eggs and cheese from the supermarket. Don’t forget the bread!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which item does Dad remind them not to forget?",
+                  "options": [
+                    "Milk",
+                    "Eggs",
+                    "Cheese",
+                    "Bread"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "At the Restaurant",
+                  "situation": "One of you is the waiter, the other is a hungry customer. Order a full meal with a drink and ask about the price.",
+                  "mandatory": [
+                    "chicken",
+                    "salad",
+                    "water"
+                  ],
+                  "taboo": [],
+                  "seconds": 60
+                },
+                {
+                  "title": "Breakfast Time",
+                  "situation": "Describe your perfect breakfast to a friend who is visiting from another country.",
+                  "mandatory": [
+                    "eggs",
+                    "bread",
+                    "orange juice"
+                  ],
+                  "taboo": [],
+                  "seconds": 45
+                },
+                {
+                  "title": "Healthy or Not?",
+                  "situation": "Convince your partner to eat something healthy instead of a treat. Your partner wants the treat!",
+                  "mandatory": [
+                    "vegetables",
+                    "fruit",
+                    "ice cream"
+                  ],
+                  "taboo": [
+                    "good",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "At the Supermarket",
+                  "situation": "You are shopping for a party. Tell the shop assistant what you need and how much.",
+                  "mandatory": [
+                    "cheese",
+                    "cookies",
+                    "milk"
+                  ],
+                  "taboo": [],
+                  "seconds": 45
+                },
+                {
+                  "title": "Picnic Plan",
+                  "situation": "Plan a picnic with your team. Decide what food and drinks each person brings.",
+                  "mandatory": [
+                    "sandwich",
+                    "potato chips",
+                    "tea"
+                  ],
+                  "taboo": [
+                    "pizza"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Favourite Food",
+                  "situation": "Tell the class about your favourite dish: what is in it, when you eat it and who cooks it.",
+                  "mandatory": [
+                    "rice",
+                    "meat",
+                    "coffee"
+                  ],
+                  "taboo": [
+                    "like"
+                  ],
+                  "seconds": 45
+                }
               ]
             },
             {
@@ -1664,7 +1861,9 @@
                   "explanation": "She: Does."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -1800,7 +1999,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U4T2",
@@ -1930,7 +2131,9 @@
                   "explanation": "forget → forgot."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -2066,7 +2269,9 @@
                   "explanation": "Months: in."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U5T2",
@@ -2196,7 +2401,9 @@
                   "explanation": "Surface: on."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -2332,7 +2539,9 @@
                   "explanation": "Ever in questions."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U6T2",
@@ -2462,7 +2671,9 @@
                   "explanation": "After do: base form."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -2598,7 +2809,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U7T2",
@@ -2728,7 +2941,9 @@
                   "explanation": "Don’t + be."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -2864,7 +3079,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U8T2",
@@ -2994,7 +3211,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -3130,7 +3349,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U9T2",
@@ -3260,7 +3481,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -3396,7 +3619,9 @@
                   "explanation": "y → iest."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U10T2",
@@ -3526,7 +3751,9 @@
                   "explanation": "Base form: call."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -3662,7 +3889,9 @@
                   "explanation": "State verb."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U11T2",
@@ -3792,7 +4021,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -3928,7 +4159,9 @@
                   "explanation": "Negative: any."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L1U12T2",
@@ -4058,7 +4291,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         }
@@ -4200,7 +4435,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U1T2",
@@ -4330,7 +4567,9 @@
                   "explanation": "Single completed event."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -4466,7 +4705,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U2T2",
@@ -4596,7 +4837,9 @@
                   "explanation": "Planned; and base form after will."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -4732,7 +4975,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U3T2",
@@ -4862,7 +5107,9 @@
                   "explanation": "Use have, not did."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -4998,7 +5245,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U4T2",
@@ -5128,7 +5377,9 @@
                   "explanation": "would, not will."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -5264,7 +5515,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U5T2",
@@ -5394,7 +5647,9 @@
                   "explanation": "too + adjective + to-infinitive."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -5530,7 +5785,9 @@
                   "explanation": "be used to + -ing (different structure)."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U6T2",
@@ -5659,7 +5916,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -5795,7 +6054,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U7T2",
@@ -5925,7 +6186,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -6061,7 +6324,9 @@
                   "explanation": "Participle: taken."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U8T2",
@@ -6191,7 +6456,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -6327,7 +6594,9 @@
                   "explanation": "Countable: a few."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U9T2",
@@ -6457,7 +6726,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -6593,7 +6864,9 @@
                   "explanation": "The moment causes embarrassment."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U10T2",
@@ -6722,7 +6995,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -6857,7 +7132,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U11T2",
@@ -6987,7 +7264,9 @@
                   "explanation": "No to after could."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -7122,7 +7401,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L2U12T2",
@@ -7252,7 +7533,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         }
@@ -7394,7 +7677,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U1T2",
@@ -7524,7 +7809,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -7660,7 +7947,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U2T2",
@@ -7790,7 +8079,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -7926,7 +8217,9 @@
                   "explanation": "Event: past simple."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U3T2",
@@ -8056,7 +8349,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -8192,7 +8487,9 @@
                   "explanation": "would have + participle."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U4T2",
@@ -8322,7 +8619,9 @@
                   "explanation": "Past regret: past perfect."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -8457,7 +8756,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U5T2",
@@ -8587,7 +8888,9 @@
                   "explanation": "mustn’t isn’t used for deduction."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -8723,7 +9026,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U6T2",
@@ -8853,7 +9158,9 @@
                   "explanation": "order + object + to."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -8989,7 +9296,9 @@
                   "explanation": "had been + participle."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U7T2",
@@ -9119,7 +9428,9 @@
                   "explanation": "make + base; get + to."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -9255,7 +9566,9 @@
                   "explanation": "Pause in order to: to."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U8T2",
@@ -9385,7 +9698,9 @@
                   "explanation": "hear + object + -ing/base."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -9521,7 +9836,9 @@
                   "explanation": "If you have one sister: commas."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U9T2",
@@ -9651,7 +9968,9 @@
                   "explanation": "No \"to\"."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -9787,7 +10106,9 @@
                   "explanation": "No \"of\" after despite."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U10T2",
@@ -9917,7 +10238,9 @@
                   "explanation": "because of + noun."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -10053,7 +10376,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U11T2",
@@ -10183,7 +10508,9 @@
                   "explanation": "will be + -ing."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -10319,7 +10646,9 @@
                   "explanation": "Duration: for."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L3U12T2",
@@ -10448,7 +10777,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         }
@@ -10590,7 +10921,9 @@
                   "explanation": "Now: continuous."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U1T2",
@@ -10720,7 +11053,9 @@
                   "explanation": "Base after didn’t."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -10856,7 +11191,9 @@
                   "explanation": "Offer: will."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U2T2",
@@ -10985,7 +11322,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -11120,7 +11459,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U3T2",
@@ -11250,7 +11591,9 @@
                   "explanation": "to have + participle."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -11386,7 +11729,9 @@
                   "explanation": "insist on + -ing."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U4T2",
@@ -11515,7 +11860,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -11651,7 +11998,9 @@
                   "explanation": "It is … that."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U5T2",
@@ -11781,7 +12130,9 @@
                   "explanation": "Inversion."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -11916,7 +12267,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U6T2",
@@ -12045,7 +12398,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -12181,7 +12536,9 @@
                   "explanation": "Opinion before age."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U7T2",
@@ -12311,7 +12668,9 @@
                   "explanation": "depend on."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -12447,7 +12806,9 @@
                   "explanation": "fill out / fill in."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U8T2",
@@ -12577,7 +12938,9 @@
                   "explanation": "have a party."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -12712,7 +13075,9 @@
                   "explanation": "go-to person."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U9T2",
@@ -12841,7 +13206,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -12976,7 +13343,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U10T2",
@@ -13105,7 +13474,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -13241,7 +13612,9 @@
                   "explanation": "VEG-ta-ble."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U11T2",
@@ -13370,7 +13743,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -13505,7 +13880,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L4U12T2",
@@ -13634,7 +14011,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         }
@@ -13776,7 +14155,138 @@
                   "explanation": "State verb."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [
+                {
+                  "text": "By the time the auditors arrived, we had already reconciled every account.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She will have been working here for a decade next spring.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Had they listened to the engineers, the launch wouldn’t have been delayed.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve been meaning to call you, but the week has been relentless.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Manager: Has the report been finalised? Analyst: Almost. I’d finished the figures before the data changed, so I’ve been revising it since noon.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why is the analyst still working on the report?",
+                  "options": [
+                    "She hasn’t started yet",
+                    "The data changed after she finished the figures",
+                    "The manager rejected it",
+                    "She lost the file"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Interviewer: How long had you lived in Berlin before moving to Madrid? Candidate: Six years. By then I had learned German fluently, which had opened a lot of doors.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What had the candidate achieved before moving to Madrid?",
+                  "options": [
+                    "Learned Spanish",
+                    "Opened a company",
+                    "Learned German fluently",
+                    "Moved to Berlin"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Weather update: Heavy rain will have eased by midday, but by then most of the northern roads will have flooded, so plan your journey accordingly.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will have happened by midday?",
+                  "options": [
+                    "The rain will get heavier",
+                    "Most northern roads will have flooded",
+                    "All roads will be open",
+                    "The forecast will change"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Colleague A: You look exhausted. Colleague B: I’ve been preparing the bid since Monday. I hadn’t realised how much documentation they wanted.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What has Colleague B been doing since Monday?",
+                  "options": [
+                    "Travelling",
+                    "Preparing a bid",
+                    "Reading documentation for fun",
+                    "Resting"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "The Job Interview",
+                  "situation": "One of you interviews the other for a senior role. Discuss past achievements and experience up to now.",
+                  "mandatory": [
+                    "had already",
+                    "have been working",
+                    "by the time"
+                  ],
+                  "taboo": [
+                    "job",
+                    "work"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Project Post-mortem",
+                  "situation": "A project failed. Explain to your manager what had happened before things went wrong and what you have learned.",
+                  "mandatory": [
+                    "had been",
+                    "until then",
+                    "since"
+                  ],
+                  "taboo": [
+                    "problem",
+                    "mistake"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Reunion After Ten Years",
+                  "situation": "You meet an old classmate. Catch up on everything that has happened and had happened in your lives.",
+                  "mandatory": [
+                    "have changed",
+                    "had never",
+                    "for years"
+                  ],
+                  "taboo": [
+                    "remember"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Future Milestones",
+                  "situation": "You are a CEO presenting where the company will have arrived by 2030.",
+                  "mandatory": [
+                    "will have",
+                    "by then",
+                    "already"
+                  ],
+                  "taboo": [
+                    "plan",
+                    "goal"
+                  ],
+                  "seconds": 45
+                }
+              ]
             },
             {
               "id": "L5U1T2",
@@ -13906,7 +14416,139 @@
                   "explanation": "Stative."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [
+                {
+                  "text": "I’m having second thoughts about the merger, to be honest.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "This sauce tastes odd; are you tasting it or just looking at it?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She’s being unusually diplomatic in today’s negotiation.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We think the proposal is solid, but the board is still thinking about it.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Client: I’m seeing my lawyer tomorrow, so I see no reason to sign today. Agent: I understand, but the offer expires at midnight.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the client mean by “I’m seeing my lawyer”?",
+                  "options": [
+                    "He can see his lawyer from here",
+                    "He has an appointment with his lawyer",
+                    "He understands his lawyer",
+                    "He is looking at a photo"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Chef: Why are you tasting the soup again? Cook: It tastes too salty to me, but the customer says it tastes perfect.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which use of “taste” describes an action, not a state?",
+                  "options": [
+                    "It tastes too salty",
+                    "It tastes perfect",
+                    "You are tasting the soup",
+                    "None of them"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Teacher: He is being very rude today. Normally he is a polite, thoughtful student.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does “he is being rude” suggest?",
+                  "options": [
+                    "He is always rude",
+                    "His rudeness is temporary behaviour",
+                    "He is never rude",
+                    "He is polite today"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I have a car, but this week I’m having trouble starting it, so I’m having it checked on Friday.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which phrase uses “have” as a state (possession)?",
+                  "options": [
+                    "I have a car",
+                    "I’m having trouble",
+                    "I’m having it checked",
+                    "All of them"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "The Difficult Customer",
+                  "situation": "A customer is being unreasonable in a hotel lobby. The receptionist stays calm and finds a solution.",
+                  "mandatory": [
+                    "I’m having",
+                    "it seems",
+                    "you’re being"
+                  ],
+                  "taboo": [
+                    "sorry",
+                    "problem"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Food Critic Visit",
+                  "situation": "A food critic describes a dish while the chef defends it. Use verbs of the senses as both states and actions.",
+                  "mandatory": [
+                    "tastes",
+                    "looks",
+                    "I’m thinking"
+                  ],
+                  "taboo": [
+                    "good",
+                    "delicious"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Negotiation Under Pressure",
+                  "situation": "Negotiate the price of a contract. One side is stalling; the other needs a decision today.",
+                  "mandatory": [
+                    "we consider",
+                    "I’m considering",
+                    "that depends"
+                  ],
+                  "taboo": [
+                    "money",
+                    "price"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Describing a Colleague",
+                  "situation": "Describe a colleague’s permanent personality and their unusual behaviour this week.",
+                  "mandatory": [
+                    "is",
+                    "is being",
+                    "seems"
+                  ],
+                  "taboo": [
+                    "nice",
+                    "weird"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
@@ -14041,7 +14683,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U2T2",
@@ -14171,7 +14815,9 @@
                   "explanation": "Fixed subjunctive."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -14306,7 +14952,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U3T2",
@@ -14436,7 +15084,9 @@
                   "explanation": "development."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -14571,7 +15221,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U4T2",
@@ -14700,7 +15352,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -14836,7 +15490,9 @@
                   "explanation": "to have + participle."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U5T2",
@@ -14966,7 +15622,9 @@
                   "explanation": "Preposition + whom."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -15102,7 +15760,9 @@
                   "explanation": "Otherwise is not a conjunction."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U6T2",
@@ -15231,7 +15891,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -15367,7 +16029,9 @@
                   "explanation": "Frequency adverb before verb."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U7T2",
@@ -15496,7 +16160,9 @@
                   "explanation": "take/make a decision (both ok)."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -15631,7 +16297,9 @@
                   "explanation": "Fixed form."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U8T2",
@@ -15761,7 +16429,9 @@
                   "explanation": "illogical."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -15897,7 +16567,9 @@
                   "explanation": "Let’s."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U9T2",
@@ -16026,7 +16698,9 @@
                   "explanation": "gist = main idea."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -16162,7 +16836,9 @@
                   "explanation": "Stay professional."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U10T2",
@@ -16291,7 +16967,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -16426,7 +17104,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U11T2",
@@ -16555,7 +17235,9 @@
                   "explanation": "don’t know."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -16690,7 +17372,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L5U12T2",
@@ -16819,7 +17503,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         }
@@ -16960,7 +17646,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U1T2",
@@ -17090,7 +17778,9 @@
                   "explanation": "Odd use of progressive."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -17226,7 +17916,9 @@
                   "explanation": "Past after would rather + subject."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U2T2",
@@ -17355,7 +18047,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -17490,7 +18184,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U3T2",
@@ -17620,7 +18316,9 @@
                   "explanation": "responsible for."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -17754,7 +18452,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U4T2",
@@ -17883,7 +18583,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -18018,7 +18720,9 @@
                   "explanation": "Correct idiom form."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U5T2",
@@ -18147,7 +18851,9 @@
                   "explanation": "Understatement."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -18282,7 +18988,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U6T2",
@@ -18412,7 +19120,9 @@
                   "explanation": "Vague authority."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -18547,7 +19257,9 @@
                   "explanation": "Too aggressive."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U7T2",
@@ -18676,7 +19388,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -18811,7 +19525,9 @@
                   "explanation": "responsible for."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U8T2",
@@ -18940,7 +19656,9 @@
                   "explanation": "Present perfect + for."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -19075,7 +19793,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U9T2",
@@ -19204,7 +19924,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -19339,7 +20061,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U10T2",
@@ -19468,7 +20192,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -19603,7 +20329,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U11T2",
@@ -19734,7 +20462,9 @@
                   "explanation": "Advice is uncountable."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         },
@@ -19869,7 +20599,9 @@
                   "explanation": "Correct."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             },
             {
               "id": "L6U12T2",
@@ -19998,7 +20730,9 @@
                   "explanation": "want + object + to."
                 }
               ],
-              "pictures": []
+              "pictures": [],
+              "listening": [],
+              "speaking": []
             }
           ]
         }

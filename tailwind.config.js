@@ -41,6 +41,10 @@ export default {
           "70%": { transform: "translateX(0) rotate(0)", opacity: 1 },
           "100%": { transform: "translateX(60vw) rotate(20deg)", opacity: 0 },
         },
+        wave: {
+          "0%": { height: "20%" },
+          "100%": { height: "100%" },
+        },
       },
       animation: {
         pop: "pop 0.5s ease-out",
@@ -49,6 +53,7 @@ export default {
         pulseGlow: "pulseGlow 1.2s ease-in-out infinite",
         flash: "flash 0.4s ease-in-out 3",
         steal: "steal 1.6s ease-in-out forwards",
+        wave: "wave 0.8s ease-in-out infinite alternate",
       },
     },
   },

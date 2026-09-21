@@ -19,6 +19,17 @@ Live: https://english-classroom-game-show.vercel.app
 - **Mode 4 – The Trapdoor:** each team starts with **5 lives** and teams take turns. A correct answer is
   +100; a wrong answer (or time-out) opens the trapdoor and costs a life. Game ends when a team runs out of
   lives or the questions end.
+- **Mode 5 – Picture Quiz** (topics with `pictures`): giant illustration; identify the word, choose the
+  correct spelling or categorise it (Food vs Drink, Healthy vs Treat). +100, steal for +50.
+- **Mode 6 – Audio Detective** (topics with `listening`): the browser's Web Speech API reads a sentence or
+  mini-dialogue with a native en-US / en-GB voice (max 3 plays). Dictation tracks: both teams write, the
+  teacher marks each team (+100 / −50). Comprehension tracks: multiple choice, +100, steal for +50.
+- **Mode 7 – Speaking Roleplay & Taboo** (topics with `speaking`): a situation card with 3 mandatory words,
+  optional taboo words (−50 per slip) and a 45–60 s timer. The teacher awards +100 to the winner, +50 to
+  both, or nothing.
+
+Listening and speaking cards live in `scripts/content/listening-speaking.mjs`, keyed by level and topic
+name; currently Basic 1 "3A - Vocabulary: Food & Drinks" and Advanced 1 Unit 1 have cards.
 
 The giant scoreboard is always visible with `+100`, `−50` and `Steal` buttons.
 

@@ -59,6 +59,24 @@ const MODES = [
     unit: 'pictures',
     vocabOnly: true,
   },
+  {
+    id: 'listening',
+    icon: '🎧',
+    title: 'MODE 6: AUDIO DETECTIVE',
+    desc: (<>Listening challenge. The computer speaks with a native <b className="text-gold">US or UK voice</b> (max 3 plays): write the <b className="text-gold">dictation</b> or answer the comprehension question. Miss and the other team steals!</>),
+    count: (t) => t.listening?.length ?? 0,
+    unit: 'tracks',
+    vocabOnly: true,
+  },
+  {
+    id: 'speaking',
+    icon: '🎤',
+    title: 'MODE 7: SPEAKING ROLEPLAY & TABOO',
+    desc: (<>Act out a real-life situation using <b className="text-gold">3 mandatory words</b> — and avoid the <b className="text-red-300">taboo</b> ones! 45–60 second timer; the teacher awards the points.</>),
+    count: (t) => t.speaking?.length ?? 0,
+    unit: 'scenes',
+    vocabOnly: true,
+  },
 ]
 
 export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, onResetScores, onRenameTeams }) {
@@ -87,7 +105,7 @@ export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, 
           <Select
             label="Topic / Grammar"
             value={selection.topic}
-            options={unit.topics.map((x, i) => ({ id: x.id, name: `Topic ${i + 1}: ${x.name}${x.pictures?.length ? ' 🖼️' : ''}`, ready: x.steal.length > 0 || x.auction.length > 0 }))}
+            options={unit.topics.map((x, i) => ({ id: x.id, name: `Topic ${i + 1}: ${x.name}${x.pictures?.length ? ' 🖼️' : ''}${x.listening?.length ? ' 🎧' : ''}${x.speaking?.length ? ' 🎤' : ''}`, ready: x.steal.length > 0 || x.auction.length > 0 }))}
             onChange={(id) => onSelect({ ...selection, topic: id })}
           />
         </div>
@@ -117,7 +135,7 @@ export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, 
                 <p className="mt-3 text-2xl text-white/70">{m.desc}</p>
               </div>
               <span className="btn btn-lg bg-gold text-black group-hover:bg-yellow-300">
-                {m.vocabOnly && n === 0 ? 'Picture vocabulary topics only' : `Play · ${n} ${m.unit}`}
+                {m.vocabOnly && n === 0 ? `No ${m.unit} for this topic yet` : `Play · ${n} ${m.unit}`}
               </span>
             </button>
           )
