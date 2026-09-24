@@ -12339,6 +12339,1952 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L3U7T3",
+              "name": "7A - Vocabulary: City Features",
+              "steal": [
+                {
+                  "prompt": "The quickest way downtown is to go through the ______ under the river.",
+                  "options": [
+                    "bridge",
+                    "tunnel",
+                    "crosswalk",
+                    "fountain"
+                  ],
+                  "answer": 1,
+                  "explanation": "A tunnel goes under; a bridge goes over."
+                },
+                {
+                  "prompt": "He stopped because the ______ was red.",
+                  "options": [
+                    "street sign",
+                    "streetlight",
+                    "traffic light",
+                    "bench"
+                  ],
+                  "answer": 2,
+                  "explanation": "Traffic lights are red, yellow and green."
+                },
+                {
+                  "prompt": "Use the ______ — this street is dangerous.",
+                  "options": [
+                    "bike lane",
+                    "crosswalk",
+                    "trash can",
+                    "statue"
+                  ],
+                  "answer": 1,
+                  "explanation": "Pedestrians cross the street at the crosswalk."
+                },
+                {
+                  "prompt": "This area is really dirty. I think it’s because there aren’t any ______.",
+                  "options": [
+                    "benches",
+                    "fountains",
+                    "trash cans",
+                    "tunnels"
+                  ],
+                  "answer": 2,
+                  "explanation": "No trash cans → litter everywhere."
+                },
+                {
+                  "prompt": "There’s a big ______ of a horse in the main square.",
+                  "options": [
+                    "statue",
+                    "fountain",
+                    "sign",
+                    "streetlight"
+                  ],
+                  "answer": 0,
+                  "explanation": "A statue is a sculpture of a person or animal."
+                },
+                {
+                  "prompt": "Follow the ______ to get to the national museum.",
+                  "options": [
+                    "benches",
+                    "street signs",
+                    "streetlights",
+                    "trash cans"
+                  ],
+                  "answer": 1,
+                  "explanation": "Street signs give directions and street names."
+                },
+                {
+                  "prompt": "I don’t like riding my bike here — there are no ______.",
+                  "options": [
+                    "bike lanes",
+                    "apartment buildings",
+                    "statues",
+                    "tunnels"
+                  ],
+                  "answer": 0,
+                  "explanation": "Bike lanes are the part of the road for cyclists."
+                },
+                {
+                  "prompt": "Go down this street and turn right at the ______.",
+                  "options": [
+                    "fountain",
+                    "bench",
+                    "intersection",
+                    "sidewalk"
+                  ],
+                  "answer": 2,
+                  "explanation": "An intersection is where two streets cross."
+                },
+                {
+                  "prompt": "Which one is for pedestrians to walk on beside the road?",
+                  "options": [
+                    "bike lane",
+                    "sidewalk",
+                    "tunnel",
+                    "intersection"
+                  ],
+                  "answer": 1,
+                  "explanation": "Sidewalk (US) = pavement (UK)."
+                },
+                {
+                  "prompt": "Which one gives light at night?",
+                  "options": [
+                    "street sign",
+                    "statue",
+                    "bench",
+                    "streetlight"
+                  ],
+                  "answer": 3,
+                  "explanation": "A streetlight lights the street after dark."
+                },
+                {
+                  "prompt": "Which one crosses over a river?",
+                  "options": [
+                    "tunnel",
+                    "crosswalk",
+                    "bridge",
+                    "fountain"
+                  ],
+                  "answer": 2,
+                  "explanation": "A bridge goes over water or a road."
+                },
+                {
+                  "prompt": "Which one is a tall building where many families live?",
+                  "options": [
+                    "apartment building",
+                    "statue",
+                    "bridge",
+                    "intersection"
+                  ],
+                  "answer": 0,
+                  "explanation": "An apartment building has many flats/apartments."
+                },
+                {
+                  "prompt": "Where can you sit and rest in a park?",
+                  "options": [
+                    "on a trash can",
+                    "on a fountain",
+                    "in a tunnel",
+                    "on a bench"
+                  ],
+                  "answer": 3,
+                  "explanation": "Benches are for sitting."
+                },
+                {
+                  "prompt": "Which one has water in it?",
+                  "options": [
+                    "fountain",
+                    "bench",
+                    "traffic light",
+                    "street sign"
+                  ],
+                  "answer": 0,
+                  "explanation": "A fountain sprays water for decoration."
+                },
+                {
+                  "prompt": "\"Wall St\" on a green board is a…",
+                  "options": [
+                    "streetlight",
+                    "street sign",
+                    "crosswalk",
+                    "statue"
+                  ],
+                  "answer": 1,
+                  "explanation": "Street signs show the names of streets."
+                },
+                {
+                  "prompt": "The white stripes painted across the road are a…",
+                  "options": [
+                    "bike lane",
+                    "sidewalk",
+                    "crosswalk",
+                    "bridge"
+                  ],
+                  "answer": 2,
+                  "explanation": "A crosswalk (zebra crossing) is painted on the road."
+                },
+                {
+                  "prompt": "Which word is NOT written as two words?",
+                  "options": [
+                    "bike lane",
+                    "traffic light",
+                    "trash can",
+                    "streetlight"
+                  ],
+                  "answer": 3,
+                  "explanation": "Streetlight is one word; the others are two."
+                },
+                {
+                  "prompt": "Which is the American English word? (UK: pavement)",
+                  "options": [
+                    "sidewalk",
+                    "crosswalk",
+                    "bike lane",
+                    "intersection"
+                  ],
+                  "answer": 0,
+                  "explanation": "Pavement (UK) = sidewalk (US)."
+                },
+                {
+                  "prompt": "Which is the American English word? (UK: rubbish bin)",
+                  "options": [
+                    "bench",
+                    "trash can",
+                    "fountain",
+                    "statue"
+                  ],
+                  "answer": 1,
+                  "explanation": "Rubbish bin (UK) = trash can (US)."
+                },
+                {
+                  "prompt": "Odd one out: which is NOT part of the road system?",
+                  "options": [
+                    "intersection",
+                    "traffic lights",
+                    "statue",
+                    "tunnel"
+                  ],
+                  "answer": 2,
+                  "explanation": "A statue is decoration, not part of the road."
+                },
+                {
+                  "prompt": "Cyclists should ride in the ______, not on the sidewalk.",
+                  "options": [
+                    "crosswalk",
+                    "tunnel",
+                    "bike lane",
+                    "fountain"
+                  ],
+                  "answer": 2,
+                  "explanation": "Bike lanes are for bikes."
+                },
+                {
+                  "prompt": "Wait for the green light at the ______ before you cross.",
+                  "options": [
+                    "bench",
+                    "statue",
+                    "trash can",
+                    "traffic lights"
+                  ],
+                  "answer": 3,
+                  "explanation": "Traffic lights control when to cross."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "intersecsion",
+                    "intersection",
+                    "intersektion",
+                    "intersecton"
+                  ],
+                  "answer": 1,
+                  "explanation": "i-n-t-e-r-s-e-c-t-i-o-n."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "fountain",
+                    "fountin",
+                    "fauntain",
+                    "founten"
+                  ],
+                  "answer": 0,
+                  "explanation": "f-o-u-n-t-a-i-n."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "There’s a beautiful fountain in the middle of the square.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Turn left at the next intersection and you’ll see the museum.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Wait until the traffic light is green before you cross.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Please throw your bottle in the trash can, not on the sidewalk.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We drove through a long tunnel over the river.",
+                  "correct": false,
+                  "fix": "We drove through a long tunnel under the river. / …across a long bridge over the river.",
+                  "explanation": "Tunnels go under; bridges go over."
+                },
+                {
+                  "sentence": "The new bike lane makes cycling downtown much safer.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Cross the street at the sidewalk — it’s safer.",
+                  "correct": false,
+                  "fix": "Cross the street at the crosswalk — it’s safer.",
+                  "explanation": "You cross at a crosswalk; you walk along a sidewalk."
+                },
+                {
+                  "sentence": "The street lights come on automatically at sunset.",
+                  "correct": true,
+                  "explanation": "Correct (streetlights / street lights are both accepted)."
+                },
+                {
+                  "sentence": "She lives on the ninth floor of an apartment building.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Let’s sit on that bench and eat our sandwiches.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The statue is made of water and stone.",
+                  "correct": false,
+                  "fix": "The fountain is made of stone and has water.",
+                  "explanation": "A statue doesn’t have water; a fountain does."
+                },
+                {
+                  "sentence": "I got lost because there weren’t any street signs.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "There are too many cars in the bike lane.",
+                  "correct": true,
+                  "explanation": "Correct (grammatically — and a common complaint!)."
+                },
+                {
+                  "sentence": "A big bridge connects the two sides of the city.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He was fined for riding his bike on the sidewalk.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The trash cans in the park are emptied every morning.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "There is a famous statue of a horse at the top of the fountain.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Stop at the intersection when the traffic lights are red.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We crossed the river through the bridge.",
+                  "correct": false,
+                  "fix": "We crossed the river over the bridge.",
+                  "explanation": "Over / across a bridge; through a tunnel."
+                },
+                {
+                  "sentence": "Downtown has a lot of tall apartments buildings.",
+                  "correct": false,
+                  "fix": "Downtown has a lot of tall apartment buildings.",
+                  "explanation": "Compound nouns keep the first noun singular: apartment buildings."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "apartment building",
+                  "image": "/img/city/apartment-building.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Apartment building\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Apartment building\" → Building or structure."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"apartment building\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Apartment building\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "crosswalk",
+                  "image": "/img/city/crosswalk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Crosswalk\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Crosswalk\" → Walking & cycling."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"crosswalk\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Crosswalk\" → Pedestrians."
+                    }
+                  ]
+                },
+                {
+                  "word": "streetlight",
+                  "image": "/img/city/streetlight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Streetlight\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Streetlight\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"streetlight\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Streetlight\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "street sign",
+                  "image": "/img/city/street-sign.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Street sign\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Street sign\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"street sign\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Street sign\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "sidewalk",
+                  "image": "/img/city/sidewalk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Sidewalk\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sidewalk\" → Walking & cycling."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"sidewalk\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sidewalk\" → Pedestrians."
+                    }
+                  ]
+                },
+                {
+                  "word": "bike lane",
+                  "image": "/img/city/bike-lane.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Bike lane\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bike lane\" → Walking & cycling."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"bike lane\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Bike lane\" → Cyclists."
+                    }
+                  ]
+                },
+                {
+                  "word": "fountain",
+                  "image": "/img/city/fountain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Fountain\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fountain\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"fountain\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fountain\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "tunnel",
+                  "image": "/img/city/tunnel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Tunnel\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tunnel\" → Traffic & roads."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"tunnel\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tunnel\" → Drivers."
+                    }
+                  ]
+                },
+                {
+                  "word": "intersection",
+                  "image": "/img/city/intersection.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Intersection\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Intersection\" → Traffic & roads."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"intersection\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Intersection\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "bridge",
+                  "image": "/img/city/bridge.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Bridge\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Bridge\" → Building or structure."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"bridge\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Bridge\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "bench",
+                  "image": "/img/city/bench.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Bench\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Bench\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"bench\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bench\" → Pedestrians."
+                    }
+                  ]
+                },
+                {
+                  "word": "trash can",
+                  "image": "/img/city/trash-can.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Trash can\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Trash can\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"trash can\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Trash can\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "statue",
+                  "image": "/img/city/statue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Statue\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Statue\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"statue\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Statue\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "traffic lights",
+                  "image": "/img/city/traffic-lights.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Traffic lights\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Traffic lights\" → Traffic & roads."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"traffic lights\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Traffic lights\" → Drivers."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Go down this street and turn right at the intersection.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The quickest way downtown is to go through the tunnel.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He stopped because the traffic light was red.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There aren’t any trash cans, so the sidewalk is really dirty.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There’s a big statue of a horse next to the fountain in the main square.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I don’t like riding my bike here because there are no bike lanes.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Tourist: Excuse me, how do I get to the museum? Local: Cross the bridge, walk past the fountain and turn left at the traffic lights. It’s the big building next to the statue.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is next to the museum?",
+                  "options": [
+                    "A fountain",
+                    "A statue",
+                    "A bridge",
+                    "A tunnel"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Radio: The city has opened ten kilometers of new bike lanes this month, and cyclists say the streets are much safer now.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What has the city opened?",
+                  "options": [
+                    "New tunnels",
+                    "New sidewalks",
+                    "New bike lanes",
+                    "New bridges"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Mom: Where did you park? Dad: Under the apartment building, but I had to drive around the block twice — the intersection was closed.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did Dad drive around the block twice?",
+                  "options": [
+                    "He couldn’t find the apartment building",
+                    "The tunnel was closed",
+                    "The traffic light was red",
+                    "The intersection was closed"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Police officer: Sir, you can’t cross here. Please use the crosswalk by the streetlight. Man: Sorry, officer — I didn’t see the sign.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where should the man cross?",
+                  "options": [
+                    "At the crosswalk",
+                    "At the bridge",
+                    "At the intersection",
+                    "In the tunnel"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Guide: This bench was placed here in 1920, and the streetlights around the square are the oldest in the city. Please put your rubbish in the trash cans.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the oldest in the city?",
+                  "options": [
+                    "The bench",
+                    "The streetlights",
+                    "The trash cans",
+                    "The square"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Neighbor: They’re building a new bridge over the river, so the old tunnel will close next year. The street signs already show the new route.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will close next year?",
+                  "options": [
+                    "The bridge",
+                    "The street signs",
+                    "The tunnel",
+                    "The river"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Give directions",
+                  "situation": "A tourist asks how to get from the school to the nearest park. Give clear directions using at least three city features.",
+                  "mandatory": [
+                    "intersection",
+                    "traffic lights",
+                    "crosswalk"
+                  ],
+                  "taboo": [
+                    "left",
+                    "right"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "City complaint",
+                  "situation": "Call the city council to complain about the state of your street (dirty sidewalks, broken streetlights, no trash cans).",
+                  "mandatory": [
+                    "sidewalk",
+                    "streetlight",
+                    "trash can"
+                  ],
+                  "taboo": [
+                    "problem",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Perfect neighborhood",
+                  "situation": "Describe your ideal neighborhood: what features it has and why they matter.",
+                  "mandatory": [
+                    "bike lane",
+                    "bench",
+                    "fountain"
+                  ],
+                  "taboo": [
+                    "nice",
+                    "good"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Tour guide",
+                  "situation": "You are a guide showing the main square of your city. Describe what visitors can see.",
+                  "mandatory": [
+                    "statue",
+                    "fountain",
+                    "apartment building"
+                  ],
+                  "taboo": [
+                    "thing",
+                    "there is"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Bridge or tunnel?",
+                  "situation": "Debate: the city must connect two neighborhoods across a river. One team argues for a bridge, the other for a tunnel.",
+                  "mandatory": [
+                    "bridge",
+                    "tunnel",
+                    "traffic"
+                  ],
+                  "taboo": [
+                    "better",
+                    "cheaper"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lost in the city",
+                  "situation": "Roleplay: a lost cyclist calls a friend. The friend guides them home using the street signs and landmarks.",
+                  "mandatory": [
+                    "street sign",
+                    "bike lane",
+                    "intersection"
+                  ],
+                  "taboo": [
+                    "GPS",
+                    "map"
+                  ],
+                  "seconds": 45
+                }
+              ]
+            },
+            {
+              "id": "L3U7T4",
+              "name": "7A - Grammar: Present Perfect with Yet & Already",
+              "steal": [
+                {
+                  "prompt": "Have you been to the new café ______?",
+                  "options": [
+                    "already",
+                    "yet",
+                    "ever",
+                    "just"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Yet\" at the end of a question."
+                },
+                {
+                  "prompt": "Yes, I’ve ______ been there. It’s great!",
+                  "options": [
+                    "yet",
+                    "ever",
+                    "already",
+                    "still"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Already\" before the main verb in affirmative sentences."
+                },
+                {
+                  "prompt": "No, I ______ been there yet.",
+                  "options": [
+                    "don’t",
+                    "didn’t",
+                    "hasn’t",
+                    "haven’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "I / you / we / they haven’t + past participle."
+                },
+                {
+                  "prompt": "The bus has ______ left the station — we missed it!",
+                  "options": [
+                    "already",
+                    "yet",
+                    "never",
+                    "ago"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Already\" = before now / earlier than expected."
+                },
+                {
+                  "prompt": "He ______ paid the bill yet.",
+                  "options": [
+                    "haven’t",
+                    "hasn’t",
+                    "doesn’t",
+                    "didn’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "He / she / it hasn’t + past participle."
+                },
+                {
+                  "prompt": "Has she ______ to the police yet?",
+                  "options": [
+                    "speak",
+                    "speaks",
+                    "spoken",
+                    "spoke"
+                  ],
+                  "answer": 2,
+                  "explanation": "Have/has + past participle: spoken."
+                },
+                {
+                  "prompt": "We’ve already ______ the news.",
+                  "options": [
+                    "hear",
+                    "heard",
+                    "hearing",
+                    "hears"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past participle: heard."
+                },
+                {
+                  "prompt": "Have you ______ to the mall yet? — No, not yet.",
+                  "options": [
+                    "been",
+                    "go",
+                    "went",
+                    "gone"
+                  ],
+                  "answer": 0,
+                  "explanation": "Have you been to…? (been = visited and come back)."
+                },
+                {
+                  "prompt": "Have you finished your homework? — ______",
+                  "options": [
+                    "Yes, I already.",
+                    "Yes, I have.",
+                    "Yes, I did yet.",
+                    "No, I haven’t already."
+                  ],
+                  "answer": 1,
+                  "explanation": "Short answer: Yes, I have. / No, I haven’t."
+                },
+                {
+                  "prompt": "They ______ the new bridge across the river yet.",
+                  "options": [
+                    "haven’t built",
+                    "didn’t build",
+                    "haven’t build",
+                    "hasn’t built"
+                  ],
+                  "answer": 0,
+                  "explanation": "They haven’t + past participle (built)."
+                },
+                {
+                  "prompt": "\"Yet\" is used in…",
+                  "options": [
+                    "affirmative sentences only",
+                    "questions and negatives",
+                    "negatives only",
+                    "questions only"
+                  ],
+                  "answer": 1,
+                  "explanation": "Yet → questions and negatives, at the end."
+                },
+                {
+                  "prompt": "Where does \"yet\" usually go?",
+                  "options": [
+                    "before the main verb",
+                    "after the subject",
+                    "at the end of the sentence",
+                    "before \"have\""
+                  ],
+                  "answer": 2,
+                  "explanation": "Yet goes at the end of the sentence or question."
+                },
+                {
+                  "prompt": "Where does \"already\" usually go in a statement?",
+                  "options": [
+                    "before the main verb",
+                    "at the beginning",
+                    "after the object",
+                    "before the subject"
+                  ],
+                  "answer": 0,
+                  "explanation": "I have ALREADY eaten."
+                },
+                {
+                  "prompt": "\"Have you already finished?!\" — Why is \"already\" used in the question?",
+                  "options": [
+                    "to ask if it is finished",
+                    "to show surprise it happened so fast",
+                    "to say it is not finished",
+                    "to talk about the past"
+                  ],
+                  "answer": 1,
+                  "explanation": "Already in a question = surprise."
+                },
+                {
+                  "prompt": "\"Do you want to go out for lunch?\" — \"No thanks, I’ve already eaten.\" This means…",
+                  "options": [
+                    "I ate earlier than you expected",
+                    "I haven’t eaten",
+                    "I will eat later",
+                    "I never eat lunch"
+                  ],
+                  "answer": 0,
+                  "explanation": "Already = before now / earlier than expected."
+                },
+                {
+                  "prompt": "\"They haven’t found the keys yet.\" This means…",
+                  "options": [
+                    "they found the keys",
+                    "they expect to find them, but haven’t so far",
+                    "they never lost the keys",
+                    "they don’t want the keys"
+                  ],
+                  "answer": 1,
+                  "explanation": "Yet = we expect it to happen, but it hasn’t so far."
+                },
+                {
+                  "prompt": "Find the mistake: \"The city hasn’t built the new bike lane already.\"",
+                  "options": [
+                    "hasn’t → haven’t",
+                    "already → yet",
+                    "built → build",
+                    "no mistake"
+                  ],
+                  "answer": 1,
+                  "explanation": "Negatives use \"yet\", not \"already\"."
+                },
+                {
+                  "prompt": "Find the mistake: \"I have yet seen the statue in the square.\"",
+                  "options": [
+                    "have → has",
+                    "yet → already",
+                    "seen → saw",
+                    "no mistake"
+                  ],
+                  "answer": 1,
+                  "explanation": "Affirmative → already."
+                },
+                {
+                  "prompt": "Find the mistake: \"Has they fixed the traffic lights at the intersection yet?\"",
+                  "options": [
+                    "Has → Have",
+                    "fixed → fix",
+                    "yet → already",
+                    "no mistake"
+                  ],
+                  "answer": 0,
+                  "explanation": "They → have."
+                },
+                {
+                  "prompt": "Find the mistake: \"We’ve already crossed the bridge yet.\"",
+                  "options": [
+                    "crossed → cross",
+                    "remove \"yet\"",
+                    "We’ve → We’s",
+                    "no mistake"
+                  ],
+                  "answer": 1,
+                  "explanation": "Don’t use already and yet together."
+                },
+                {
+                  "prompt": "Choose the correct sentence.",
+                  "options": [
+                    "Have you crossed the new bridge already yet?",
+                    "Have you crossed the new bridge yet?",
+                    "Did you crossed the new bridge yet?",
+                    "Have you yet crossed the new bridge?"
+                  ],
+                  "answer": 1,
+                  "explanation": "Have + subject + past participle + yet?"
+                },
+                {
+                  "prompt": "Choose the correct sentence.",
+                  "options": [
+                    "The workers have already installed the new streetlights.",
+                    "The workers have installed already the new streetlights.",
+                    "The workers already have installed the new streetlights yet.",
+                    "The workers has already installed the new streetlights."
+                  ],
+                  "answer": 0,
+                  "explanation": "Have already + past participle."
+                },
+                {
+                  "prompt": "In American English, \"yet\" and \"already\" can also be used with the…",
+                  "options": [
+                    "past continuous",
+                    "future",
+                    "simple past",
+                    "present continuous"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"We already gave him the papers.\" (US simple past)."
+                },
+                {
+                  "prompt": "Which two sentences mean the same? \"Did the supermarket open yet?\" and…",
+                  "options": [
+                    "Has the supermarket opened yet?",
+                    "Is the supermarket open already?",
+                    "Has the supermarket already open?",
+                    "Does the supermarket open yet?"
+                  ],
+                  "answer": 0,
+                  "explanation": "US simple past = present perfect with yet."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Have you been to the new café yet?",
+                  "correct": true,
+                  "explanation": "Correct: yet at the end of a question."
+                },
+                {
+                  "sentence": "Yes, I’ve already been there.",
+                  "correct": true,
+                  "explanation": "Correct: already before the main verb."
+                },
+                {
+                  "sentence": "No, I haven’t been there already.",
+                  "correct": false,
+                  "fix": "No, I haven’t been there yet.",
+                  "explanation": "Negatives take \"yet\", not \"already\"."
+                },
+                {
+                  "sentence": "The bus has already left the station.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He hasn’t paid the bill yet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Has she spoken to the police yet?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We have yet heard the news.",
+                  "correct": false,
+                  "fix": "We have already heard the news.",
+                  "explanation": "Affirmative sentences use \"already\"."
+                },
+                {
+                  "sentence": "They haven’t found the keys yet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Have you finished your science project already? That was fast!",
+                  "correct": true,
+                  "explanation": "Correct: already in a question shows surprise."
+                },
+                {
+                  "sentence": "I already have seen the statue in the main square.",
+                  "correct": false,
+                  "fix": "I have already seen the statue in the main square.",
+                  "explanation": "Already goes between \"have\" and the past participle."
+                },
+                {
+                  "sentence": "The city hasn’t finished the new tunnel yet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Has the traffic light at the intersection been repaired yet?",
+                  "correct": true,
+                  "explanation": "Correct (passive with yet)."
+                },
+                {
+                  "sentence": "She has already cross the bridge on her bike.",
+                  "correct": false,
+                  "fix": "She has already crossed the bridge on her bike.",
+                  "explanation": "Past participle: crossed."
+                },
+                {
+                  "sentence": "Yet we haven’t found a bench to sit on.",
+                  "correct": false,
+                  "fix": "We haven’t found a bench to sit on yet.",
+                  "explanation": "Yet goes at the end."
+                },
+                {
+                  "sentence": "Have they put trash cans on the new sidewalk yet?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I haven’t seen the fountain yet, but I’ve already seen the statue.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Did you cross the crosswalk yet? (American English)",
+                  "correct": true,
+                  "explanation": "Correct in American English: simple past with yet."
+                },
+                {
+                  "sentence": "We’ve already gave him the street map.",
+                  "correct": false,
+                  "fix": "We’ve already given him the street map. / We already gave him the street map.",
+                  "explanation": "Have + past participle (given), or simple past without \"have\"."
+                },
+                {
+                  "sentence": "Has the supermarket opened yet? — No, not yet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They have already built three new apartment buildings this year.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He hasn’t rode in the new bike lane yet.",
+                  "correct": false,
+                  "fix": "He hasn’t ridden in the new bike lane yet.",
+                  "explanation": "Past participle of ride: ridden."
+                },
+                {
+                  "sentence": "Have you already been to the top of the bridge? Wow!",
+                  "correct": true,
+                  "explanation": "Correct: already for surprise."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "apartment building",
+                  "image": "/img/city/apartment-building.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Apartment building\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Apartment building\" → Building or structure."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"apartment building\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Apartment building\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "crosswalk",
+                  "image": "/img/city/crosswalk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Crosswalk\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Crosswalk\" → Walking & cycling."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"crosswalk\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Crosswalk\" → Pedestrians."
+                    }
+                  ]
+                },
+                {
+                  "word": "streetlight",
+                  "image": "/img/city/streetlight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Streetlight\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Streetlight\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"streetlight\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Streetlight\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "street sign",
+                  "image": "/img/city/street-sign.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Street sign\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Street sign\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"street sign\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Street sign\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "sidewalk",
+                  "image": "/img/city/sidewalk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Sidewalk\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sidewalk\" → Walking & cycling."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"sidewalk\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sidewalk\" → Pedestrians."
+                    }
+                  ]
+                },
+                {
+                  "word": "bike lane",
+                  "image": "/img/city/bike-lane.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Bike lane\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bike lane\" → Walking & cycling."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"bike lane\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Bike lane\" → Cyclists."
+                    }
+                  ]
+                },
+                {
+                  "word": "fountain",
+                  "image": "/img/city/fountain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Fountain\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fountain\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"fountain\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fountain\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "tunnel",
+                  "image": "/img/city/tunnel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Tunnel\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tunnel\" → Traffic & roads."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"tunnel\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tunnel\" → Drivers."
+                    }
+                  ]
+                },
+                {
+                  "word": "intersection",
+                  "image": "/img/city/intersection.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Intersection\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Intersection\" → Traffic & roads."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"intersection\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Intersection\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "bridge",
+                  "image": "/img/city/bridge.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Bridge\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Bridge\" → Building or structure."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"bridge\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Bridge\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "bench",
+                  "image": "/img/city/bench.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Bench\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Bench\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"bench\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bench\" → Pedestrians."
+                    }
+                  ]
+                },
+                {
+                  "word": "trash can",
+                  "image": "/img/city/trash-can.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Trash can\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Trash can\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"trash can\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Trash can\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "statue",
+                  "image": "/img/city/statue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Statue\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Statue\" → Street furniture / decoration."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"statue\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Statue\" → Everyone."
+                    }
+                  ]
+                },
+                {
+                  "word": "traffic lights",
+                  "image": "/img/city/traffic-lights.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Traffic lights\" — what kind of city feature is it?",
+                      "options": [
+                        "Traffic & roads",
+                        "Walking & cycling",
+                        "Building or structure",
+                        "Street furniture / decoration"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Traffic lights\" → Traffic & roads."
+                    },
+                    {
+                      "prompt": "Who mainly uses \"traffic lights\"?",
+                      "options": [
+                        "Drivers",
+                        "Pedestrians",
+                        "Cyclists",
+                        "Everyone"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Traffic lights\" → Drivers."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Have you been to the new café yet? — Yes, I’ve already been there.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The bus has already left the station.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They haven’t fixed the traffic lights at the intersection yet.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Has she spoken to the police yet? — No, she hasn’t.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve already crossed the new bridge, but I haven’t seen the fountain yet.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you already finished your homework? That was fast!",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Ana: Have you seen the new statue in the square yet? Leo: Not yet, but I’ve already seen photos. Ana: Let’s go this afternoon!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Has Leo seen the statue?",
+                  "options": [
+                    "Yes, this morning",
+                    "No, only photos",
+                    "Yes, with Ana",
+                    "He doesn’t want to"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Manager: Has the crew finished the bike lane yet? Worker: They’ve already painted the lines, but they haven’t put up the street signs yet.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What haven’t the workers done yet?",
+                  "options": [
+                    "Painted the lines",
+                    "Finished the crosswalk",
+                    "Put up the street signs",
+                    "Started the work"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Dad: Hurry up, the bus leaves at eight! Son: Relax, I’ve already packed my bag and I’ve already eaten breakfast. Dad: But you haven’t put your shoes on yet!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What hasn’t the son done yet?",
+                  "options": [
+                    "Eaten breakfast",
+                    "Packed his bag",
+                    "Caught the bus",
+                    "Put his shoes on"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "News: The city has already opened the new tunnel under the river, but the old bridge hasn’t closed yet — drivers can use both until March.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What has already happened?",
+                  "options": [
+                    "The tunnel opened",
+                    "The bridge closed",
+                    "Drivers stopped using the bridge",
+                    "March arrived"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Kim: Have you paid the electricity bill yet? Jo: I’ve already paid it — I did it on Monday. Kim: Great. And the rent? Jo: Not yet.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What has Jo already paid?",
+                  "options": [
+                    "The rent",
+                    "The electricity bill",
+                    "Both",
+                    "Neither"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Teacher: Has everyone handed in the project? Student: Most of us have already handed it in, but Marco hasn’t finished yet.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who hasn’t finished yet?",
+                  "options": [
+                    "Everyone",
+                    "The teacher",
+                    "Marco",
+                    "Most students"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Moving checklist",
+                  "situation": "You are moving to a new apartment building. Tell your partner what you have already done and what you haven’t done yet.",
+                  "mandatory": [
+                    "already",
+                    "yet",
+                    "haven’t"
+                  ],
+                  "taboo": [
+                    "tomorrow",
+                    "later"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "City progress report",
+                  "situation": "You are the mayor. Report on the city’s projects: what has already been built and what hasn’t been finished yet.",
+                  "mandatory": [
+                    "has already",
+                    "hasn’t … yet",
+                    "bike lane"
+                  ],
+                  "taboo": [
+                    "will",
+                    "going to"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Tourist check-in",
+                  "situation": "Ask your partner (a tourist) which places in your city they have visited yet and recommend the ones they haven’t seen.",
+                  "mandatory": [
+                    "Have you … yet?",
+                    "already",
+                    "statue"
+                  ],
+                  "taboo": [
+                    "did you",
+                    "go"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Surprise!",
+                  "situation": "Your partner finished a big task incredibly fast. Express surprise with \"already\" questions and find out how they did it.",
+                  "mandatory": [
+                    "Have you already",
+                    "yet",
+                    "finished"
+                  ],
+                  "taboo": [
+                    "wow",
+                    "fast"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Party prep",
+                  "situation": "Two friends are organizing a party tonight. Check what each of you has already done and what is still not done.",
+                  "mandatory": [
+                    "already",
+                    "not yet",
+                    "bought"
+                  ],
+                  "taboo": [
+                    "okay",
+                    "fine"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Weekend so far",
+                  "situation": "It’s Saturday afternoon. Tell the class what you have already done this weekend and what you haven’t done yet.",
+                  "mandatory": [
+                    "I’ve already",
+                    "I haven’t … yet",
+                    "been"
+                  ],
+                  "taboo": [
+                    "yesterday",
+                    "today"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
