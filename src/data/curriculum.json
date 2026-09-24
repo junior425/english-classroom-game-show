@@ -20381,6 +20381,595 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U4T3",
+              "name": "4A - Grammar: Quantifiers",
+              "steal": [
+                {
+                  "prompt": "Can I have ______ sugar in my coffee, please?",
+                  "options": [
+                    "a few",
+                    "a little",
+                    "many",
+                    "few"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"A little\" + uncountable noun (sugar)."
+                },
+                {
+                  "prompt": "I only have ______ close friends, but they’re very loyal.",
+                  "options": [
+                    "a few",
+                    "a little",
+                    "much",
+                    "any"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"A few\" + plural countable noun (friends)."
+                },
+                {
+                  "prompt": "There isn’t ______ milk left. Can you get some more?",
+                  "options": [
+                    "many",
+                    "a few",
+                    "much",
+                    "no"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Not much\" + uncountable in negatives."
+                },
+                {
+                  "prompt": "She doesn’t have ______ friends on Facebook.",
+                  "options": [
+                    "much",
+                    "a little",
+                    "no",
+                    "many"
+                  ],
+                  "answer": 3,
+                  "explanation": "\"Not many\" + plural countable in negatives."
+                },
+                {
+                  "prompt": "We also use \"(very) little\" and \"(very) few\" to mean…",
+                  "options": [
+                    "not much / not many",
+                    "a lot",
+                    "enough",
+                    "none"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Little / few\" without \"a\" = not much / not many (negative idea)."
+                },
+                {
+                  "prompt": "Choose the negative idea: \"She has ______ friends in New York — she’s lonely.\"",
+                  "options": [
+                    "a few",
+                    "very few",
+                    "a lot of",
+                    "lots of"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Very few\" = almost none."
+                },
+                {
+                  "prompt": "I have ______ friends in the U.S.",
+                  "options": [
+                    "much",
+                    "a little",
+                    "lots of",
+                    "too much"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"A lot of / lots of\" in affirmative sentences with countable or uncountable nouns."
+                },
+                {
+                  "prompt": "She reads ______ books — about one a week.",
+                  "options": [
+                    "much",
+                    "a little",
+                    "any",
+                    "a lot of"
+                  ],
+                  "answer": 3,
+                  "explanation": "\"A lot of\" + plural countable."
+                },
+                {
+                  "prompt": "Do you have ______ homework tonight? — Yes, loads!",
+                  "options": [
+                    "a lot of",
+                    "many",
+                    "few",
+                    "little"
+                  ],
+                  "answer": 0,
+                  "explanation": "Questions about quantity: \"a lot of\" (or \"much\") + uncountable."
+                },
+                {
+                  "prompt": "Which quantifier does NOT fit? \"We had ______ fun at the party.\"",
+                  "options": [
+                    "a lot of",
+                    "lots of",
+                    "many",
+                    "so much"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Many\" is only for countable nouns; \"fun\" is uncountable."
+                },
+                {
+                  "prompt": "Which sentence is the most natural in informal English?",
+                  "options": [
+                    "I have a lot of relatives in Miami.",
+                    "I have much relatives in Miami.",
+                    "I have many of relatives in Miami.",
+                    "I have little relatives in Miami."
+                  ],
+                  "answer": 0,
+                  "explanation": "\"A lot of\" is the most common in affirmative sentences."
+                },
+                {
+                  "prompt": "I don’t have ______ money. = I have ______ money.",
+                  "options": [
+                    "some / no",
+                    "any / no",
+                    "no / any",
+                    "any / any"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Not … any\" = \"no\" + noun."
+                },
+                {
+                  "prompt": "There are ______ tickets left. = There aren’t ______ tickets left.",
+                  "options": [
+                    "any / no",
+                    "none / any",
+                    "no / any",
+                    "no / no"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"No tickets\" = \"not any tickets\"."
+                },
+                {
+                  "prompt": "How many students got 100% on the exam? — ______.",
+                  "options": [
+                    "No",
+                    "Any",
+                    "Nothing",
+                    "None"
+                  ],
+                  "answer": 3,
+                  "explanation": "Short answer without a noun → \"None\"."
+                },
+                {
+                  "prompt": "Which sentence is INCORRECT?",
+                  "options": [
+                    "I have no time today.",
+                    "I don’t have any time today.",
+                    "I don’t have no time today.",
+                    "I have none."
+                  ],
+                  "answer": 2,
+                  "explanation": "Double negative — use \"don’t have any\" or \"have no\"."
+                },
+                {
+                  "prompt": "You’ve put too ______ sugar in my coffee!",
+                  "options": [
+                    "much",
+                    "many",
+                    "lot",
+                    "few"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Too much\" + uncountable = more than is necessary."
+                },
+                {
+                  "prompt": "There are too ______ people in this room. It’s crowded!",
+                  "options": [
+                    "much",
+                    "many",
+                    "lots",
+                    "enough"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Too many\" + plural countable."
+                },
+                {
+                  "prompt": "We use \"enough\" to mean…",
+                  "options": [
+                    "less than is necessary",
+                    "more than is necessary",
+                    "the right amount or number",
+                    "nothing at all"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Enough\" = as much or as many as is necessary."
+                },
+                {
+                  "prompt": "I don’t have ______ money for a vacation this year.",
+                  "options": [
+                    "too much",
+                    "too many",
+                    "a few",
+                    "enough"
+                  ],
+                  "answer": 3,
+                  "explanation": "\"Not enough\" = less than is necessary."
+                },
+                {
+                  "prompt": "There aren’t ______ chairs for everyone — we need two more.",
+                  "options": [
+                    "enough",
+                    "too many",
+                    "too much",
+                    "a lot"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Not enough\" + plural countable."
+                },
+                {
+                  "prompt": "Which quantifier means \"more than is necessary\" for a countable noun?",
+                  "options": [
+                    "too much",
+                    "too many",
+                    "enough",
+                    "a lot of"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Too many\" for countable; \"too much\" for uncountable."
+                },
+                {
+                  "prompt": "Choose the correct sentence.",
+                  "options": [
+                    "This box isn’t enough big.",
+                    "This box isn’t big enough.",
+                    "This box is too much big.",
+                    "This box is big too much."
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Enough\" goes after adjectives (big enough) but before nouns (enough money)."
+                },
+                {
+                  "prompt": "Complete: \"There are ______ people here that I can’t find my friends.\"",
+                  "options": [
+                    "so much",
+                    "too much",
+                    "so many",
+                    "a little"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"So many\" + plural countable."
+                },
+                {
+                  "prompt": "Complete the dialogue: \"How much time do we have?\" — \"______. The show starts in two minutes!\"",
+                  "options": [
+                    "A lot of",
+                    "Lots of",
+                    "Very little",
+                    "Enough"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Very little\" = almost no time."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Can I have a little milk in my tea, please?",
+                  "correct": true,
+                  "explanation": "Correct: a little + uncountable."
+                },
+                {
+                  "sentence": "I have a few relatives who live in Canada.",
+                  "correct": true,
+                  "explanation": "Correct: a few + plural countable."
+                },
+                {
+                  "sentence": "There isn’t many time — hurry up!",
+                  "correct": false,
+                  "fix": "There isn’t much time — hurry up!",
+                  "explanation": "\"Time\" is uncountable → much."
+                },
+                {
+                  "sentence": "We don’t have much friends in this city yet.",
+                  "correct": false,
+                  "fix": "We don’t have many friends in this city yet.",
+                  "explanation": "\"Friends\" is countable → many."
+                },
+                {
+                  "sentence": "She has lots of colleagues, but very few close friends.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I have a lot of homework to do tonight.",
+                  "correct": true,
+                  "explanation": "Correct: a lot of + uncountable."
+                },
+                {
+                  "sentence": "He has too much problems at work.",
+                  "correct": false,
+                  "fix": "He has too many problems at work.",
+                  "explanation": "\"Problems\" is countable → too many."
+                },
+                {
+                  "sentence": "There are too many sugar in this cake.",
+                  "correct": false,
+                  "fix": "There is too much sugar in this cake.",
+                  "explanation": "\"Sugar\" is uncountable → too much."
+                },
+                {
+                  "sentence": "I don’t have no money left.",
+                  "correct": false,
+                  "fix": "I don’t have any money left. / I have no money left.",
+                  "explanation": "Double negative: use \"not … any\" or \"no\"."
+                },
+                {
+                  "sentence": "There are no tickets left for tonight’s show.",
+                  "correct": true,
+                  "explanation": "Correct: no + noun."
+                },
+                {
+                  "sentence": "How many students passed? — None.",
+                  "correct": true,
+                  "explanation": "Correct: \"none\" stands alone without a noun."
+                },
+                {
+                  "sentence": "How many people came? — No.",
+                  "correct": false,
+                  "fix": "How many people came? — None.",
+                  "explanation": "Without a noun, use \"none\"."
+                },
+                {
+                  "sentence": "We don’t have money enough for a vacation this year.",
+                  "correct": false,
+                  "fix": "We don’t have enough money for a vacation this year.",
+                  "explanation": "\"Enough\" goes BEFORE a noun."
+                },
+                {
+                  "sentence": "This coffee isn’t hot enough.",
+                  "correct": true,
+                  "explanation": "Correct: enough goes AFTER an adjective."
+                },
+                {
+                  "sentence": "There aren’t enough chairs for all the guests.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I have a little friends in London, so I rarely visit.",
+                  "correct": false,
+                  "fix": "I have few friends in London, so I rarely visit.",
+                  "explanation": "\"A little\" is for uncountable nouns; \"friends\" needs \"(a) few\"."
+                },
+                {
+                  "sentence": "He drinks too much coffee — about eight cups a day.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I know a lot of people, but I don’t have many close friends.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Is there any milk in the fridge? — No, there’s none.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "There was so much people at the concert that we couldn’t move.",
+                  "correct": false,
+                  "fix": "There were so many people at the concert that we couldn’t move.",
+                  "explanation": "\"People\" is plural countable → so many."
+                },
+                {
+                  "sentence": "She has very little time for hobbies these days.",
+                  "correct": true,
+                  "explanation": "Correct: very little = not much."
+                },
+                {
+                  "sentence": "We had lot of fun at the reunion.",
+                  "correct": false,
+                  "fix": "We had a lot of fun at the reunion.",
+                  "explanation": "The phrase is \"a lot of\" or \"lots of\"."
+                }
+              ],
+              "pictures": [],
+              "listening": [
+                {
+                  "text": "There’s not much traffic in my village, but there are a few buses every hour.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can I have a little sugar in my coffee, please?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I know a lot of people, but I don’t have many close friends.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There are no tickets left, so none of us can go to the concert.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You’ve put too much salt in the soup and there aren’t enough plates.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She has very little free time, so she rarely gets together with friends.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Waiter: Would you like some more coffee? Customer: Just a little, thanks. Oh, and could we have a few more napkins? There aren’t enough for everyone.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the customer ask for?",
+                  "options": [
+                    "A lot of coffee and no napkins",
+                    "A little coffee and a few napkins",
+                    "No coffee and many napkins",
+                    "Too much coffee"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Emma: How many people are coming to the party? Raj: Too many! I invited a few colleagues, but they’re all bringing partners, and we don’t have enough chairs.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is Raj’s problem?",
+                  "options": [
+                    "Nobody is coming",
+                    "He has too much food",
+                    "Not enough chairs for the guests",
+                    "Too few colleagues"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Weather report: There was very little rain in the region this spring, and farmers say there won’t be enough water for the summer crops.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How much rain was there this spring?",
+                  "options": [
+                    "A lot",
+                    "Too much",
+                    "Enough",
+                    "Very little"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Chris: Did many students pass the exam? Dana: None, actually. There was too much material and too little time to study.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many students passed?",
+                  "options": [
+                    "None",
+                    "A few",
+                    "Many",
+                    "Enough"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Tour guide: This town has lots of history but not many hotels, so book early. There are only a few restaurants, but the food is excellent.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the town have a lot of?",
+                  "options": [
+                    "Hotels",
+                    "History",
+                    "Restaurants",
+                    "Tourists"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Mom: You spend too much time on your phone and you don’t do enough exercise. Teen: I do a little! I walk to school every day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the teenager say about exercise?",
+                  "options": [
+                    "She does none",
+                    "She does too much",
+                    "She does a little",
+                    "She does a lot"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Restaurant complaint",
+                  "situation": "Roleplay: a customer complains about a dish (too much salt, not enough sauce, too few vegetables) and the waiter responds.",
+                  "mandatory": [
+                    "too much",
+                    "not enough",
+                    "a few"
+                  ],
+                  "taboo": [
+                    "bad",
+                    "terrible"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "City vs village",
+                  "situation": "Debate: \"Life is better in a big city than in a small town.\" Compare traffic, people, jobs and free time using quantifiers.",
+                  "mandatory": [
+                    "a lot of",
+                    "very little",
+                    "too many"
+                  ],
+                  "taboo": [
+                    "big",
+                    "small"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Party planning",
+                  "situation": "You are organizing a class party with a small budget. Decide together how much food, how many drinks and how many chairs you need.",
+                  "mandatory": [
+                    "enough",
+                    "how many",
+                    "a little"
+                  ],
+                  "taboo": [
+                    "money",
+                    "buy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Fridge check",
+                  "situation": "Describe what’s in your fridge at home right now: what you have a lot of, a little of, none of, and what you need to buy.",
+                  "mandatory": [
+                    "lots of",
+                    "none",
+                    "any"
+                  ],
+                  "taboo": [
+                    "food",
+                    "eat"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Time management",
+                  "situation": "Give advice to a friend who says: \"I have too much work and no free time.\" Use quantifiers to describe the problem and the solution.",
+                  "mandatory": [
+                    "too much",
+                    "a few",
+                    "enough"
+                  ],
+                  "taboo": [
+                    "busy",
+                    "stress"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel review",
+                  "situation": "Review a place you visited: how many tourists, how much noise, how many restaurants, and whether there was enough to do.",
+                  "mandatory": [
+                    "many",
+                    "a lot of",
+                    "not enough"
+                  ],
+                  "taboo": [
+                    "good",
+                    "nice"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
