@@ -2684,6 +2684,1836 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U4T3",
+              "name": "4A - Vocabulary: Daily Routine Verbs",
+              "steal": [
+                {
+                  "prompt": "I ______ at 7:00 and then I take a shower.",
+                  "options": [
+                    "go to bed",
+                    "get up",
+                    "get home",
+                    "finish work"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get up = leave your bed in the morning."
+                },
+                {
+                  "prompt": "After my shower I ______ — jeans and a T-shirt.",
+                  "options": [
+                    "get dressed",
+                    "get up",
+                    "do housework",
+                    "read a book"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get dressed = put on your clothes."
+                },
+                {
+                  "prompt": "She ______ at 8:15 and drives to the office.",
+                  "options": [
+                    "gets home",
+                    "goes to bed",
+                    "leaves home",
+                    "starts work"
+                  ],
+                  "answer": 2,
+                  "explanation": "Leave home = go out of your house."
+                },
+                {
+                  "prompt": "He ______ at 9:00 and finishes at 5:00.",
+                  "options": [
+                    "starts work",
+                    "gets up",
+                    "goes to bed",
+                    "gets dressed"
+                  ],
+                  "answer": 0,
+                  "explanation": "Start work ↔ finish work."
+                },
+                {
+                  "prompt": "We ______ on Saturdays at the supermarket.",
+                  "options": [
+                    "take a shower",
+                    "go grocery shopping",
+                    "read a book",
+                    "get dressed"
+                  ],
+                  "answer": 1,
+                  "explanation": "Grocery shopping = buying food."
+                },
+                {
+                  "prompt": "My grandfather ______ every morning to hear the news.",
+                  "options": [
+                    "listens to the radio",
+                    "does homework",
+                    "gets dressed",
+                    "goes to bed"
+                  ],
+                  "answer": 0,
+                  "explanation": "Listen TO the radio."
+                },
+                {
+                  "prompt": "I ______ on Sundays: I clean the floor and wash the clothes.",
+                  "options": [
+                    "do homework",
+                    "do housework",
+                    "start work",
+                    "read a book"
+                  ],
+                  "answer": 1,
+                  "explanation": "Housework = cleaning at home; homework = school work."
+                },
+                {
+                  "prompt": "Students ______ after school.",
+                  "options": [
+                    "do housework",
+                    "finish work",
+                    "do homework",
+                    "get up"
+                  ],
+                  "answer": 2,
+                  "explanation": "Homework is for school."
+                },
+                {
+                  "prompt": "She ______ at 6:00 p.m. and gets home at 6:30.",
+                  "options": [
+                    "starts work",
+                    "finishes work",
+                    "gets up",
+                    "leaves home"
+                  ],
+                  "answer": 1,
+                  "explanation": "Finish work = stop working."
+                },
+                {
+                  "prompt": "Dad ______ at 7:00 p.m. and we have dinner.",
+                  "options": [
+                    "gets home",
+                    "leaves home",
+                    "gets up",
+                    "starts work"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get home = arrive at home."
+                },
+                {
+                  "prompt": "I ______ at 11:00 p.m. because I’m tired.",
+                  "options": [
+                    "get up",
+                    "get dressed",
+                    "go to bed",
+                    "start work"
+                  ],
+                  "answer": 2,
+                  "explanation": "Go to bed = go to sleep."
+                },
+                {
+                  "prompt": "Before I sleep, I ______ for twenty minutes.",
+                  "options": [
+                    "read a book",
+                    "take a shower",
+                    "leave home",
+                    "go grocery shopping"
+                  ],
+                  "answer": 0,
+                  "explanation": "Reading in bed at night."
+                },
+                {
+                  "prompt": "Which verb goes with \"a shower\"?",
+                  "options": [
+                    "do",
+                    "go",
+                    "take",
+                    "get"
+                  ],
+                  "answer": 2,
+                  "explanation": "Take a shower (have a shower in UK English)."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "go to the bed",
+                    "go to bed",
+                    "go bed",
+                    "go at bed"
+                  ],
+                  "answer": 1,
+                  "explanation": "Go to bed — no article."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "get up",
+                    "get on",
+                    "get down",
+                    "get in"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get up = leave your bed."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "do the housework and do homework",
+                    "make housework",
+                    "go housework",
+                    "take housework"
+                  ],
+                  "answer": 0,
+                  "explanation": "DO housework / DO homework."
+                },
+                {
+                  "prompt": "Which one is the opposite of \"start work\"?",
+                  "options": [
+                    "leave home",
+                    "finish work",
+                    "get up",
+                    "get home"
+                  ],
+                  "answer": 1,
+                  "explanation": "Start ↔ finish."
+                },
+                {
+                  "prompt": "Which one is the opposite of \"leave home\"?",
+                  "options": [
+                    "get home",
+                    "go to bed",
+                    "take a shower",
+                    "get dressed"
+                  ],
+                  "answer": 0,
+                  "explanation": "Leave ↔ get (arrive) home."
+                },
+                {
+                  "prompt": "Which one is the opposite of \"get up\"?",
+                  "options": [
+                    "get dressed",
+                    "start work",
+                    "go to bed",
+                    "read a book"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get up ↔ go to bed."
+                },
+                {
+                  "prompt": "Put the morning in order: 1 ______, 2 take a shower, 3 get dressed.",
+                  "options": [
+                    "go to bed",
+                    "finish work",
+                    "get home",
+                    "get up"
+                  ],
+                  "answer": 3,
+                  "explanation": "First you get up."
+                },
+                {
+                  "prompt": "\"Listen ______ the radio.\"",
+                  "options": [
+                    "at",
+                    "to",
+                    "in",
+                    "on"
+                  ],
+                  "answer": 1,
+                  "explanation": "Listen TO something."
+                },
+                {
+                  "prompt": "\"Go ______ shopping.\"",
+                  "options": [
+                    "groceries",
+                    "grocery",
+                    "the grocery",
+                    "a grocery"
+                  ],
+                  "answer": 1,
+                  "explanation": "Go grocery shopping (no article)."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "shour",
+                    "shower",
+                    "showr",
+                    "shawer"
+                  ],
+                  "answer": 1,
+                  "explanation": "s-h-o-w-e-r."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "grocery",
+                    "grosery",
+                    "groceri",
+                    "grocerry"
+                  ],
+                  "answer": 0,
+                  "explanation": "g-r-o-c-e-r-y."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I get up at six o’clock every day.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She takes a shower before breakfast.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He gets dressed and leaves home at eight.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We go to the bed at eleven.",
+                  "correct": false,
+                  "fix": "We go to bed at eleven.",
+                  "explanation": "No article: go to bed."
+                },
+                {
+                  "sentence": "I make my homework after dinner.",
+                  "correct": false,
+                  "fix": "I do my homework after dinner.",
+                  "explanation": "DO homework, not make."
+                },
+                {
+                  "sentence": "They start work at nine and finish work at five.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My mother listens the radio in the kitchen.",
+                  "correct": false,
+                  "fix": "My mother listens to the radio in the kitchen.",
+                  "explanation": "Listen TO the radio."
+                },
+                {
+                  "sentence": "I go grocery shopping on Saturday mornings.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He get home at seven every evening.",
+                  "correct": false,
+                  "fix": "He gets home at seven every evening.",
+                  "explanation": "Third person: gets."
+                },
+                {
+                  "sentence": "I read a book in bed before I sleep.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She does housework on Sunday afternoons.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We take a shower in the morning and go to bed at night.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Do you get up early on weekdays?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He doesn’t finish work until eight.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I get up, I get dressed and I leave the home.",
+                  "correct": false,
+                  "fix": "I get up, I get dressed and I leave home.",
+                  "explanation": "Leave home — no article."
+                },
+                {
+                  "sentence": "My sister do her homework at the library.",
+                  "correct": false,
+                  "fix": "My sister does her homework at the library.",
+                  "explanation": "Third person: does."
+                },
+                {
+                  "sentence": "They go to grocery shopping every Friday.",
+                  "correct": false,
+                  "fix": "They go grocery shopping every Friday.",
+                  "explanation": "Go grocery shopping — no \"to\"."
+                },
+                {
+                  "sentence": "What time do you start work?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I listen to the radio when I do housework.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She takes shower at night.",
+                  "correct": false,
+                  "fix": "She takes a shower at night.",
+                  "explanation": "Take A shower."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "get up",
+                  "image": "/img/routine/get-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"get up\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get up\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"get up\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get up\" → In bed."
+                    }
+                  ]
+                },
+                {
+                  "word": "take a shower",
+                  "image": "/img/routine/take-a-shower.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"take a shower\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take a shower\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"take a shower\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take a shower\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "get dressed",
+                  "image": "/img/routine/get-dressed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"get dressed\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get dressed\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"get dressed\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get dressed\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "leave home",
+                  "image": "/img/routine/leave-home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"leave home\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Leave home\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"leave home\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Leave home\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "start work",
+                  "image": "/img/routine/start-work.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"start work\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Start work\" → During the day."
+                    },
+                    {
+                      "prompt": "Where do you usually \"start work\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Start work\" → At work / school."
+                    }
+                  ]
+                },
+                {
+                  "word": "go grocery shopping",
+                  "image": "/img/routine/go-grocery-shopping.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"go grocery shopping\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Go grocery shopping\" → During the day."
+                    },
+                    {
+                      "prompt": "Where do you usually \"go grocery shopping\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go grocery shopping\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "listen to the radio",
+                  "image": "/img/routine/listen-to-the-radio.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"listen to the radio\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Listen to the radio\" → In the evening."
+                    },
+                    {
+                      "prompt": "Where do you usually \"listen to the radio\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Listen to the radio\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "do housework",
+                  "image": "/img/routine/do-housework.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"do housework\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Do housework\" → During the day."
+                    },
+                    {
+                      "prompt": "Where do you usually \"do housework\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Do housework\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "finish work",
+                  "image": "/img/routine/finish-work.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"finish work\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Finish work\" → In the evening."
+                    },
+                    {
+                      "prompt": "Where do you usually \"finish work\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Finish work\" → At work / school."
+                    }
+                  ]
+                },
+                {
+                  "word": "get home",
+                  "image": "/img/routine/get-home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"get home\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get home\" → In the evening."
+                    },
+                    {
+                      "prompt": "Where do you usually \"get home\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get home\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "go to bed",
+                  "image": "/img/routine/go-to-bed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"go to bed\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Go to bed\" → At night."
+                    },
+                    {
+                      "prompt": "Where do you usually \"go to bed\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Go to bed\" → In bed."
+                    }
+                  ]
+                },
+                {
+                  "word": "read a book",
+                  "image": "/img/routine/read-a-book.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"read a book\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Read a book\" → At night."
+                    },
+                    {
+                      "prompt": "Where do you usually \"read a book\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Read a book\" → In bed."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I get up at seven o’clock and take a shower.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She gets dressed and leaves home at eight.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We start work at nine and finish work at five.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He listens to the radio in the kitchen.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They go grocery shopping on Saturdays.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I read a book and go to bed at eleven.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Tom: What time do you get up? Anna: At six thirty. Then I take a shower and get dressed. I leave home at half past seven.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What time does Anna leave home?",
+                  "options": [
+                    "6:30",
+                    "7:00",
+                    "7:30",
+                    "8:00"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My dad starts work at eight in the morning. He finishes work at four and gets home at five.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What time does Dad get home?",
+                  "options": [
+                    "4:00",
+                    "5:00",
+                    "6:00",
+                    "8:00"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "On Sundays I do housework in the morning. In the afternoon I go grocery shopping with my mum.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the speaker do on Sunday afternoon?",
+                  "options": [
+                    "Housework",
+                    "Homework",
+                    "Grocery shopping",
+                    "Reads a book"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Lucy: Do you listen to the radio at night? Ben: No, I read a book in bed and go to bed at ten.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does Ben do at night?",
+                  "options": [
+                    "He listens to the radio",
+                    "He reads a book",
+                    "He does homework",
+                    "He takes a shower"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "After school, Maria does her homework. Then she has dinner and goes to bed at nine thirty.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does Maria do first after school?",
+                  "options": [
+                    "Has dinner",
+                    "Goes to bed",
+                    "Does her homework",
+                    "Takes a shower"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Mark: I never take a shower in the morning. I take a shower at night, before I go to bed.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When does Mark take a shower?",
+                  "options": [
+                    "In the morning",
+                    "At lunchtime",
+                    "At night",
+                    "At work"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "My Morning",
+                  "situation": "Describe your morning routine from the moment you wake up until you arrive at school or work.",
+                  "mandatory": [
+                    "get up",
+                    "take a shower",
+                    "leave home"
+                  ],
+                  "taboo": [
+                    "then"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Evening",
+                  "situation": "Describe what you do after work or school until you go to sleep.",
+                  "mandatory": [
+                    "get home",
+                    "read a book",
+                    "go to bed"
+                  ],
+                  "taboo": [
+                    "TV"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "A Busy Weekend",
+                  "situation": "Tell your partner about your typical Saturday. Include chores and shopping.",
+                  "mandatory": [
+                    "do housework",
+                    "go grocery shopping",
+                    "listen to the radio"
+                  ],
+                  "taboo": [
+                    "Netflix"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Interview",
+                  "situation": "You are a journalist. Interview a famous person about their daily routine. Your partner is the star!",
+                  "mandatory": [
+                    "start work",
+                    "finish work",
+                    "get dressed"
+                  ],
+                  "taboo": [
+                    "What time"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Two Different Lives",
+                  "situation": "Compare a student’s day with a doctor’s day. Which is harder?",
+                  "mandatory": [
+                    "do homework",
+                    "start work",
+                    "go to bed"
+                  ],
+                  "taboo": [
+                    "easy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess My Job",
+                  "situation": "Describe your daily routine without saying your job. Your team guesses what you do.",
+                  "mandatory": [
+                    "leave home",
+                    "get home",
+                    "finish work"
+                  ],
+                  "taboo": [
+                    "office",
+                    "hospital"
+                  ],
+                  "seconds": 45
+                }
+              ]
+            },
+            {
+              "id": "L1U4T4",
+              "name": "4A - Grammar: Frequency Adverbs",
+              "steal": [
+                {
+                  "prompt": "Choose the correct order: He ______ a shower in the morning.",
+                  "options": [
+                    "takes always",
+                    "always takes",
+                    "always take",
+                    "take always"
+                  ],
+                  "answer": 1,
+                  "explanation": "Adverb BEFORE the main verb: always takes."
+                },
+                {
+                  "prompt": "Choose the correct order: I ______ at home in the evening.",
+                  "options": [
+                    "always am",
+                    "am always",
+                    "always be",
+                    "be always"
+                  ],
+                  "answer": 1,
+                  "explanation": "Adverb AFTER the verb be: am always."
+                },
+                {
+                  "prompt": "Julia ______ gets up early. (most days)",
+                  "options": [
+                    "never",
+                    "usually",
+                    "sometimes",
+                    "always"
+                  ],
+                  "answer": 1,
+                  "explanation": "Usually = most of the time (about 80%)."
+                },
+                {
+                  "prompt": "My parents ______ drink coffee. (0%)",
+                  "options": [
+                    "always",
+                    "often",
+                    "sometimes",
+                    "never"
+                  ],
+                  "answer": 3,
+                  "explanation": "Never = 0%."
+                },
+                {
+                  "prompt": "I’m ______ late for class. (not often, 30%)",
+                  "options": [
+                    "always",
+                    "never",
+                    "sometimes",
+                    "usually"
+                  ],
+                  "answer": 2,
+                  "explanation": "Sometimes = about 30%."
+                },
+                {
+                  "prompt": "They ______ go to the gym on Friday. (100%)",
+                  "options": [
+                    "always",
+                    "never",
+                    "sometimes",
+                    "often"
+                  ],
+                  "answer": 0,
+                  "explanation": "Always = 100%."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "I sometimes play soccer on the weekend.",
+                    "I play sometimes soccer on the weekend.",
+                    "Sometimes I play soccer sometimes.",
+                    "I play soccer sometimes on."
+                  ],
+                  "answer": 0,
+                  "explanation": "Adverb before the main verb."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "She is never late.",
+                    "She never is late.",
+                    "She is late never.",
+                    "Never she is late."
+                  ],
+                  "answer": 0,
+                  "explanation": "After be: is never."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "My children don’t never get up early.",
+                    "My children never get up early.",
+                    "My children never don’t get up early.",
+                    "My children don’t get up never."
+                  ],
+                  "answer": 1,
+                  "explanation": "Never is negative — use an affirmative verb."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "You often get home after 9:00 p.m.",
+                    "You get often home after 9:00 p.m.",
+                    "You get home often after 9:00 p.m. often.",
+                    "Often you get often home."
+                  ],
+                  "answer": 0,
+                  "explanation": "Adverb before the main verb."
+                },
+                {
+                  "prompt": "Order from 100% to 0%: always → ______ → often → sometimes → never.",
+                  "options": [
+                    "never",
+                    "usually",
+                    "sometimes",
+                    "often"
+                  ],
+                  "answer": 1,
+                  "explanation": "always, usually, often, sometimes, never."
+                },
+                {
+                  "prompt": "Which adverb means about 0%?",
+                  "options": [
+                    "always",
+                    "usually",
+                    "often",
+                    "never"
+                  ],
+                  "answer": 3,
+                  "explanation": "Never = 0%."
+                },
+                {
+                  "prompt": "Which adverb means 100%?",
+                  "options": [
+                    "sometimes",
+                    "often",
+                    "always",
+                    "usually"
+                  ],
+                  "answer": 2,
+                  "explanation": "Always = 100%."
+                },
+                {
+                  "prompt": "He ______ listens to the radio. He listens every single day.",
+                  "options": [
+                    "never",
+                    "sometimes",
+                    "always",
+                    "often"
+                  ],
+                  "answer": 2,
+                  "explanation": "Every day = always."
+                },
+                {
+                  "prompt": "We ______ do housework on Sundays — maybe once a month.",
+                  "options": [
+                    "always",
+                    "sometimes",
+                    "usually",
+                    "never"
+                  ],
+                  "answer": 1,
+                  "explanation": "Once a month = sometimes."
+                },
+                {
+                  "prompt": "I ______ go grocery shopping. My husband does it.",
+                  "options": [
+                    "never",
+                    "always",
+                    "usually",
+                    "often"
+                  ],
+                  "answer": 0,
+                  "explanation": "Never = I don’t do it."
+                },
+                {
+                  "prompt": "Complete: \"She ______ usually ______ work at nine.\"",
+                  "options": [
+                    "— / starts",
+                    "is / start",
+                    "does / start",
+                    "is / starts"
+                  ],
+                  "answer": 0,
+                  "explanation": "She usually starts work — no auxiliary in affirmative."
+                },
+                {
+                  "prompt": "Complete: \"They ______ often ______ tired after work.\"",
+                  "options": [
+                    "— / are",
+                    "are / —",
+                    "do / are",
+                    "are / be"
+                  ],
+                  "answer": 1,
+                  "explanation": "They are often tired — adverb after be."
+                },
+                {
+                  "prompt": "Complete: \"I ______ read a book before I go to bed.\"",
+                  "options": [
+                    "am usually",
+                    "usually am",
+                    "usually",
+                    "do usually"
+                  ],
+                  "answer": 2,
+                  "explanation": "I usually read — adverb before the main verb."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "Do you always get up early?",
+                    "Do you get always up early?",
+                    "Always do you get up early?",
+                    "Do always you get up early?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Do you always + verb…?"
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "I’m always at home in the evening.",
+                    "I always am at home in the evening.",
+                    "I always at home in the evening.",
+                    "Am I always home in the evening?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Am always — adverb after be."
+                },
+                {
+                  "prompt": "Which frequency adverb is used with the simple present to talk about…",
+                  "options": [
+                    "routines",
+                    "the past",
+                    "the future",
+                    "right now"
+                  ],
+                  "answer": 0,
+                  "explanation": "Frequency adverbs + simple present = routines."
+                },
+                {
+                  "prompt": "\"He often finishes work late.\" How often?",
+                  "options": [
+                    "0%",
+                    "30%",
+                    "60–70%",
+                    "100%"
+                  ],
+                  "answer": 2,
+                  "explanation": "Often = many times, but not always."
+                },
+                {
+                  "prompt": "Which sentence has the adverb in the WRONG place?",
+                  "options": [
+                    "I usually have lunch at work.",
+                    "She is sometimes late.",
+                    "We never go to bed early.",
+                    "He gets always dressed quickly."
+                  ],
+                  "answer": 3,
+                  "explanation": "Should be: He always gets dressed quickly."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "He always takes a shower in the morning.",
+                  "correct": true,
+                  "explanation": "Correct: adverb before the main verb."
+                },
+                {
+                  "sentence": "I always am at home in the evening.",
+                  "correct": false,
+                  "fix": "I’m always at home in the evening.",
+                  "explanation": "Adverb AFTER be."
+                },
+                {
+                  "sentence": "Julia usually gets up early.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My children don’t never get up early.",
+                  "correct": false,
+                  "fix": "My children never get up early.",
+                  "explanation": "Never + affirmative verb (no double negative)."
+                },
+                {
+                  "sentence": "You often get home after 9:00 p.m.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I’m sometimes late for class.",
+                  "correct": true,
+                  "explanation": "Correct: adverb after be."
+                },
+                {
+                  "sentence": "My parents never drink coffee.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She goes always to bed at eleven.",
+                  "correct": false,
+                  "fix": "She always goes to bed at eleven.",
+                  "explanation": "Adverb before the main verb."
+                },
+                {
+                  "sentence": "We are usually tired after work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They play sometimes soccer on the weekend.",
+                  "correct": false,
+                  "fix": "They sometimes play soccer on the weekend.",
+                  "explanation": "Adverb before the main verb."
+                },
+                {
+                  "sentence": "I usually have lunch at work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He never does his homework.",
+                  "correct": true,
+                  "explanation": "Correct: never + affirmative verb."
+                },
+                {
+                  "sentence": "She is never late for work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Do you always listen to the radio in the car?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My brother never don’t read books.",
+                  "correct": false,
+                  "fix": "My brother never reads books.",
+                  "explanation": "Never is already negative."
+                },
+                {
+                  "sentence": "We often go grocery shopping on Saturdays.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I never am late for class.",
+                  "correct": false,
+                  "fix": "I’m never late for class.",
+                  "explanation": "Adverb after be."
+                },
+                {
+                  "sentence": "He usually finish work at six.",
+                  "correct": false,
+                  "fix": "He usually finishes work at six.",
+                  "explanation": "Third person: finishes."
+                },
+                {
+                  "sentence": "They always are happy on Fridays.",
+                  "correct": false,
+                  "fix": "They are always happy on Fridays.",
+                  "explanation": "Adverb after be."
+                },
+                {
+                  "sentence": "She sometimes does housework in the evening.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Always I get up at seven.",
+                  "correct": false,
+                  "fix": "I always get up at seven.",
+                  "explanation": "Adverb between subject and verb."
+                },
+                {
+                  "sentence": "We never get home before eight.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "get up",
+                  "image": "/img/routine/get-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"get up\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get up\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"get up\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get up\" → In bed."
+                    }
+                  ]
+                },
+                {
+                  "word": "take a shower",
+                  "image": "/img/routine/take-a-shower.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"take a shower\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take a shower\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"take a shower\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take a shower\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "get dressed",
+                  "image": "/img/routine/get-dressed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"get dressed\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get dressed\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"get dressed\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get dressed\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "leave home",
+                  "image": "/img/routine/leave-home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"leave home\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Leave home\" → In the morning."
+                    },
+                    {
+                      "prompt": "Where do you usually \"leave home\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Leave home\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "start work",
+                  "image": "/img/routine/start-work.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"start work\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Start work\" → During the day."
+                    },
+                    {
+                      "prompt": "Where do you usually \"start work\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Start work\" → At work / school."
+                    }
+                  ]
+                },
+                {
+                  "word": "go grocery shopping",
+                  "image": "/img/routine/go-grocery-shopping.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"go grocery shopping\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Go grocery shopping\" → During the day."
+                    },
+                    {
+                      "prompt": "Where do you usually \"go grocery shopping\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go grocery shopping\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "listen to the radio",
+                  "image": "/img/routine/listen-to-the-radio.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"listen to the radio\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Listen to the radio\" → In the evening."
+                    },
+                    {
+                      "prompt": "Where do you usually \"listen to the radio\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Listen to the radio\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "do housework",
+                  "image": "/img/routine/do-housework.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"do housework\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Do housework\" → During the day."
+                    },
+                    {
+                      "prompt": "Where do you usually \"do housework\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Do housework\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "finish work",
+                  "image": "/img/routine/finish-work.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"finish work\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Finish work\" → In the evening."
+                    },
+                    {
+                      "prompt": "Where do you usually \"finish work\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Finish work\" → At work / school."
+                    }
+                  ]
+                },
+                {
+                  "word": "get home",
+                  "image": "/img/routine/get-home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"get home\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get home\" → In the evening."
+                    },
+                    {
+                      "prompt": "Where do you usually \"get home\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get home\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "go to bed",
+                  "image": "/img/routine/go-to-bed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"go to bed\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Go to bed\" → At night."
+                    },
+                    {
+                      "prompt": "Where do you usually \"go to bed\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Go to bed\" → In bed."
+                    }
+                  ]
+                },
+                {
+                  "word": "read a book",
+                  "image": "/img/routine/read-a-book.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do people usually \"read a book\"?",
+                      "options": [
+                        "In the morning",
+                        "During the day",
+                        "In the evening",
+                        "At night"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Read a book\" → At night."
+                    },
+                    {
+                      "prompt": "Where do you usually \"read a book\"?",
+                      "options": [
+                        "At home",
+                        "At work / school",
+                        "Outside / in town",
+                        "In bed"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Read a book\" → In bed."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "He always takes a shower in the morning.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Julia usually gets up early.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m sometimes late for class.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My parents never drink coffee.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You often get home after nine p.m.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m always at home in the evening.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Sam: Do you always get up early? Kate: No, I usually get up at eight, but on Sundays I sometimes get up at eleven!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What time does Kate usually get up?",
+                  "options": [
+                    "At six",
+                    "At eight",
+                    "At eleven",
+                    "At nine"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My brother never does housework. My sister often helps my mum, and I always wash the dishes.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who never does housework?",
+                  "options": [
+                    "My brother",
+                    "My sister",
+                    "My mum",
+                    "Me"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Paul: Are you often late for work? Emma: No, I’m never late. I always leave home at seven thirty.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How often is Emma late for work?",
+                  "options": [
+                    "Always",
+                    "Often",
+                    "Sometimes",
+                    "Never"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "We usually go grocery shopping on Saturday, but we sometimes go on Friday evening after work.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When do they usually go grocery shopping?",
+                  "options": [
+                    "On Friday",
+                    "On Saturday",
+                    "On Sunday",
+                    "Every day"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Dan: I often listen to the radio in the car. Lisa: Really? I never listen to the radio. I always listen to music on my phone.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does Lisa always do?",
+                  "options": [
+                    "Listens to the radio",
+                    "Listens to music on her phone",
+                    "Drives the car",
+                    "Talks to Dan"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Grandma is always at home in the afternoon. She usually reads a book and sometimes watches TV.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does Grandma usually do in the afternoon?",
+                  "options": [
+                    "Goes shopping",
+                    "Watches TV",
+                    "Reads a book",
+                    "Does housework"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "How Often?",
+                  "situation": "Tell your partner how often you do five things in your daily routine. Use at least three adverbs.",
+                  "mandatory": [
+                    "always",
+                    "sometimes",
+                    "never"
+                  ],
+                  "taboo": [
+                    "every day"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Perfect Student",
+                  "situation": "Describe the routine of the perfect student. Your partner describes the worst student!",
+                  "mandatory": [
+                    "always",
+                    "never",
+                    "usually"
+                  ],
+                  "taboo": [
+                    "good",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Family’s Habits",
+                  "situation": "Talk about the routines of three people in your family. What do they usually or never do?",
+                  "mandatory": [
+                    "usually",
+                    "often",
+                    "never"
+                  ],
+                  "taboo": [
+                    "my mum"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Weekend vs. Weekday",
+                  "situation": "Compare what you usually do on weekdays with what you sometimes do on weekends.",
+                  "mandatory": [
+                    "usually",
+                    "sometimes",
+                    "get up"
+                  ],
+                  "taboo": [
+                    "work"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Find Someone Who…",
+                  "situation": "Ask your partner questions to find something they always do and something they never do.",
+                  "mandatory": [
+                    "Do you always",
+                    "Do you ever",
+                    "never"
+                  ],
+                  "taboo": [
+                    "yes",
+                    "no"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Late Friend",
+                  "situation": "Your friend is always late. Complain politely and ask why. Your partner explains their routine.",
+                  "mandatory": [
+                    "always",
+                    "late",
+                    "sometimes"
+                  ],
+                  "taboo": [
+                    "sorry"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
