@@ -18165,6 +18165,1953 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L3U7T5",
+              "name": "7B - Vocabulary: Transportation",
+              "steal": [
+                {
+                  "prompt": "The trains, subways, and buses people use to travel are called ______.",
+                  "options": [
+                    "rush hour",
+                    "public transportation",
+                    "a parking lot",
+                    "a platform"
+                  ],
+                  "answer": 1,
+                  "explanation": "Public transportation = buses, trains, subways."
+                },
+                {
+                  "prompt": "The area in a station where you get on and off a train is the ______.",
+                  "options": [
+                    "platform",
+                    "parking space",
+                    "traffic jam",
+                    "checkout"
+                  ],
+                  "answer": 0,
+                  "explanation": "You wait on the platform."
+                },
+                {
+                  "prompt": "A person traveling in a bus, train or taxi (but not driving) is a ______.",
+                  "options": [
+                    "commuter",
+                    "driver",
+                    "passenger",
+                    "pedestrian"
+                  ],
+                  "answer": 2,
+                  "explanation": "Passenger = someone who travels but does not drive."
+                },
+                {
+                  "prompt": "Someone who travels to work each day is a ______.",
+                  "options": [
+                    "passenger",
+                    "commuter",
+                    "tourist",
+                    "pilot"
+                  ],
+                  "answer": 1,
+                  "explanation": "Commuter = travels to work every day."
+                },
+                {
+                  "prompt": "An area or building where people leave their cars is a ______.",
+                  "options": [
+                    "platform",
+                    "parking lot",
+                    "rush hour",
+                    "subway"
+                  ],
+                  "answer": 1,
+                  "explanation": "Parking lot = many cars."
+                },
+                {
+                  "prompt": "The time of day when most people are driving to or from work is ______.",
+                  "options": [
+                    "rush hour",
+                    "on time",
+                    "delayed",
+                    "free time"
+                  ],
+                  "answer": 0,
+                  "explanation": "Rush hour = 7–9 a.m. / 5–7 p.m."
+                },
+                {
+                  "prompt": "A place where you can leave a single car is a ______.",
+                  "options": [
+                    "parking lot",
+                    "parking space",
+                    "platform",
+                    "stop"
+                  ],
+                  "answer": 1,
+                  "explanation": "Parking space = one car."
+                },
+                {
+                  "prompt": "\"The plane is ______\" means it is late.",
+                  "options": [
+                    "on time",
+                    "delayed",
+                    "in stock",
+                    "early"
+                  ],
+                  "answer": 1,
+                  "explanation": "Delayed = late."
+                },
+                {
+                  "prompt": "\"The train left ______\" means exactly at the planned time.",
+                  "options": [
+                    "delayed",
+                    "late",
+                    "on time",
+                    "in time"
+                  ],
+                  "answer": 2,
+                  "explanation": "On time = not late."
+                },
+                {
+                  "prompt": "A long line of cars that move very slowly is a ______.",
+                  "options": [
+                    "rush hour",
+                    "traffic jam",
+                    "parking lot",
+                    "platform"
+                  ],
+                  "answer": 1,
+                  "explanation": "Traffic jam."
+                },
+                {
+                  "prompt": "I’m going into town anyway, so I can ______ you a ride to the mall.",
+                  "options": [
+                    "take",
+                    "make",
+                    "give",
+                    "do"
+                  ],
+                  "answer": 2,
+                  "explanation": "Give someone a ride."
+                },
+                {
+                  "prompt": "It ______ me nearly two hours to get to work in the morning.",
+                  "options": [
+                    "takes",
+                    "spends",
+                    "lasts",
+                    "costs"
+                  ],
+                  "answer": 0,
+                  "explanation": "It takes + time."
+                },
+                {
+                  "prompt": "I prefer to ______ my bike to work — it’s faster than waiting.",
+                  "options": [
+                    "drive",
+                    "ride",
+                    "go",
+                    "take"
+                  ],
+                  "answer": 1,
+                  "explanation": "Ride a bike; drive a car."
+                },
+                {
+                  "prompt": "It’s much quicker to go ______ car than by bus.",
+                  "options": [
+                    "in",
+                    "on",
+                    "by",
+                    "with"
+                  ],
+                  "answer": 2,
+                  "explanation": "By car / by bus / by taxi."
+                },
+                {
+                  "prompt": "I have to ______ a bus and the subway to work.",
+                  "options": [
+                    "ride",
+                    "drive",
+                    "take",
+                    "go"
+                  ],
+                  "answer": 2,
+                  "explanation": "Take the bus / take the subway."
+                },
+                {
+                  "prompt": "I ______ the bus this morning — that’s why I was late!",
+                  "options": [
+                    "lost",
+                    "missed",
+                    "passed",
+                    "delayed"
+                  ],
+                  "answer": 1,
+                  "explanation": "Miss the bus (not \"lose\")."
+                },
+                {
+                  "prompt": "I usually ______ out of the office at 5:30 and get home about 7.",
+                  "options": [
+                    "get",
+                    "go",
+                    "drive",
+                    "take"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get out of the office."
+                },
+                {
+                  "prompt": "You’ll find one ______ the station — there are lots of taxis.",
+                  "options": [
+                    "outside",
+                    "on",
+                    "inside of",
+                    "over"
+                  ],
+                  "answer": 0,
+                  "explanation": "Outside the station."
+                },
+                {
+                  "prompt": "I always ______ to people on the way to work. It makes the trip nicer.",
+                  "options": [
+                    "say",
+                    "speak",
+                    "talk",
+                    "tell"
+                  ],
+                  "answer": 2,
+                  "explanation": "Talk to people."
+                },
+                {
+                  "prompt": "I ______ on the train because I had to work late.",
+                  "options": [
+                    "miss",
+                    "was late",
+                    "got the wrong",
+                    "missed the last"
+                  ],
+                  "answer": 3,
+                  "explanation": "Miss the last train."
+                },
+                {
+                  "prompt": "The train was delayed, so we waited ______ the platform for fifty minutes.",
+                  "options": [
+                    "in",
+                    "at",
+                    "on",
+                    "over"
+                  ],
+                  "answer": 2,
+                  "explanation": "On the platform."
+                },
+                {
+                  "prompt": "Which of these is NOT public transportation?",
+                  "options": [
+                    "subway",
+                    "bus",
+                    "taxi",
+                    "train"
+                  ],
+                  "answer": 2,
+                  "explanation": "A taxi is private hire, not mass transit."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "comuter",
+                    "commuter",
+                    "commutter",
+                    "comutter"
+                  ],
+                  "answer": 1,
+                  "explanation": "c-o-m-m-u-t-e-r."
+                },
+                {
+                  "prompt": "\"There are no ______ near the office, so I take the subway.\" Choose the best word.",
+                  "options": [
+                    "platforms",
+                    "parking spaces",
+                    "passengers",
+                    "rush hours"
+                  ],
+                  "answer": 1,
+                  "explanation": "No parking spaces → don’t drive."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "There is no public transportation in my village, so I drive everywhere.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The train leaves from platform 4.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I lost the bus this morning, so I took a taxi.",
+                  "correct": false,
+                  "fix": "I missed the bus this morning, so I took a taxi.",
+                  "explanation": "Miss the bus, not lose."
+                },
+                {
+                  "sentence": "It takes me forty minutes to get to work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Can you give me a ride to the station?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I go to work in bus every day.",
+                  "correct": false,
+                  "fix": "I go to work by bus every day.",
+                  "explanation": "By bus / by car."
+                },
+                {
+                  "sentence": "The flight is delayed because of the weather.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Rush hour in this city is from 7 to 9 a.m.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I drive my bike to school every day.",
+                  "correct": false,
+                  "fix": "I ride my bike to school every day.",
+                  "explanation": "Ride a bike, drive a car."
+                },
+                {
+                  "sentence": "We were stuck in a traffic jam for two hours.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I couldn’t find a parking space near the theater.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The passengers are waiting in the platform.",
+                  "correct": false,
+                  "fix": "The passengers are waiting on the platform.",
+                  "explanation": "On the platform."
+                },
+                {
+                  "sentence": "Most commuters take the subway to downtown.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The bus arrived on time for once!",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I got a taxi outside the station.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The parking lot is full — there aren’t any spaces left.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "There were too much passengers on the train this morning.",
+                  "correct": false,
+                  "fix": "There were too many passengers on the train this morning.",
+                  "explanation": "Passengers is countable → too many."
+                },
+                {
+                  "sentence": "I take a bus and then the subway to work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He makes me a ride to school every day.",
+                  "correct": false,
+                  "fix": "He gives me a ride to school every day.",
+                  "explanation": "Give a ride."
+                },
+                {
+                  "sentence": "I always talk with people on the way to work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The train was delay for fifty minutes.",
+                  "correct": false,
+                  "fix": "The train was delayed for fifty minutes.",
+                  "explanation": "Delayed = adjective/participle."
+                },
+                {
+                  "sentence": "If you leave now, you won’t miss the bus.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "parking lot",
+                  "image": "/img/transport/parking-lot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Parking lot\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Parking lot\" → Place."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"parking lot\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Parking lot\" → Only for drivers."
+                    }
+                  ]
+                },
+                {
+                  "word": "commuter",
+                  "image": "/img/transport/commuter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Commuter\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Commuter\" → Person."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"commuter\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Commuter\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "delayed",
+                  "image": "/img/transport/delayed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Delayed\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Delayed\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"delayed\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Delayed\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "on time",
+                  "image": "/img/transport/on-time.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"On time\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"On time\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"on time\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"On time\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "parking space",
+                  "image": "/img/transport/parking-space.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Parking space\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Parking space\" → Place."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"parking space\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Parking space\" → Only for drivers."
+                    }
+                  ]
+                },
+                {
+                  "word": "passenger",
+                  "image": "/img/transport/passenger.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Passenger\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Passenger\" → Person."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"passenger\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Passenger\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "platform",
+                  "image": "/img/transport/platform.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Platform\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Platform\" → Place."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"platform\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Platform\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "public transportation",
+                  "image": "/img/transport/public-transportation.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Public transportation\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Public transportation\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"public transportation\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Public transportation\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "rush hour",
+                  "image": "/img/transport/rush-hour.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Rush hour\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Rush hour\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"rush hour\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Rush hour\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "traffic jam",
+                  "image": "/img/transport/traffic-jam.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Traffic jam\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Traffic jam\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"traffic jam\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Traffic jam\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "subway",
+                  "image": "/img/transport/subway.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Subway\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Subway\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"subway\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Subway\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "taxi",
+                  "image": "/img/transport/taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Taxi\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Taxi\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"taxi\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Taxi\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "miss the bus",
+                  "image": "/img/transport/miss-the-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Miss the bus\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Miss the bus\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"miss the bus\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Miss the bus\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "ride a bike",
+                  "image": "/img/transport/bike-ride.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Ride a bike\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Ride a bike\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"ride a bike\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Ride a bike\" → Good news."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "The train is delayed, so the passengers are waiting on the platform.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It takes me nearly two hours to get to work in rush hour.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I missed the bus, so I took a taxi outside the station.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There are no parking spaces near the office, so I take the subway.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can you give me a ride to the mall?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Most commuters prefer public transportation to driving.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Attention passengers: the 8:15 train to Boston is delayed by twenty minutes. It will now depart from platform 6, not platform 4.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where will the train leave from?",
+                  "options": [
+                    "Platform 4",
+                    "Platform 6",
+                    "Platform 8",
+                    "The parking lot"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I used to drive to work, but the traffic jams were terrible and I could never find a parking space. Now I ride my bike and I’m never late.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How does the speaker get to work now?",
+                  "options": [
+                    "By car",
+                    "By bus",
+                    "By bike",
+                    "By taxi"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Hi Sam, I’m stuck in a traffic jam on the highway. Can you tell the boss I’ll be about half an hour late?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why is the speaker late?",
+                  "options": [
+                    "He missed the bus",
+                    "He’s in a traffic jam",
+                    "The train is delayed",
+                    "He couldn’t find a taxi"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’m going into town anyway, so I can give you a ride to the station. But we have to leave before five, or we’ll get caught in rush hour.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why do they need to leave before five?",
+                  "options": [
+                    "The train leaves at five",
+                    "To avoid rush hour",
+                    "The parking lot closes",
+                    "The station is far"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Every morning I take a bus and then the subway. The whole trip takes about fifty minutes if everything is on time.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many types of transportation does the speaker use?",
+                  "options": [
+                    "One",
+                    "Two",
+                    "Three",
+                    "None"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Sorry, I missed the last train. Is there a bus, or should I just get a taxi outside the station?",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What happened to the speaker?",
+                  "options": [
+                    "The train was delayed",
+                    "She missed the last train",
+                    "She lost her ticket",
+                    "She found a taxi"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Your Commute",
+                  "situation": "Describe how you get to work or school every day, how long it takes and what goes wrong.",
+                  "mandatory": [
+                    "commuter",
+                    "rush hour",
+                    "it takes"
+                  ],
+                  "taboo": [
+                    "car"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Station Announcement",
+                  "situation": "You work at a train station. Announce a delayed train and tell the passengers what to do.",
+                  "mandatory": [
+                    "delayed",
+                    "platform",
+                    "passengers"
+                  ],
+                  "taboo": [
+                    "sorry"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Late Again",
+                  "situation": "Call your boss: you missed the bus and you are stuck in a traffic jam in a taxi.",
+                  "mandatory": [
+                    "missed the bus",
+                    "traffic jam",
+                    "taxi"
+                  ],
+                  "taboo": [
+                    "late"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Car vs Public Transportation",
+                  "situation": "Debate: should cities ban cars downtown? Give two reasons each.",
+                  "mandatory": [
+                    "public transportation",
+                    "parking space",
+                    "subway"
+                  ],
+                  "taboo": [
+                    "pollution"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Give Me a Ride",
+                  "situation": "Persuade a friend to give you a ride to the airport tomorrow morning at 6 a.m.",
+                  "mandatory": [
+                    "give me a ride",
+                    "on time",
+                    "parking lot"
+                  ],
+                  "taboo": [
+                    "please"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Tourist Help",
+                  "situation": "A tourist asks how to get from the station to the museum. Explain the options.",
+                  "mandatory": [
+                    "take the bus",
+                    "ride a bike",
+                    "outside"
+                  ],
+                  "taboo": [
+                    "walk"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U7T6",
+              "name": "7C - Grammar: Present Perfect with For & Since",
+              "steal": [
+                {
+                  "prompt": "How long ______ you lived in Brazil?",
+                  "options": [
+                    "do",
+                    "have",
+                    "are",
+                    "did"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present perfect: have + past participle."
+                },
+                {
+                  "prompt": "I’ve lived here all my life. (still true) — Which is WRONG?",
+                  "options": [
+                    "I’ve lived here all my life.",
+                    "I have lived here all my life.",
+                    "I live here all my life.",
+                    "I’ve been here all my life."
+                  ],
+                  "answer": 2,
+                  "explanation": "Use present perfect for a situation that started in the past and is still true."
+                },
+                {
+                  "prompt": "I’ve worked for this company ______ 2010.",
+                  "options": [
+                    "for",
+                    "since",
+                    "from",
+                    "during"
+                  ],
+                  "answer": 1,
+                  "explanation": "Since + a point in time."
+                },
+                {
+                  "prompt": "I haven’t spoken to Fred ______ last summer.",
+                  "options": [
+                    "for",
+                    "since",
+                    "during",
+                    "ago"
+                  ],
+                  "answer": 1,
+                  "explanation": "Since + fixed time in the past."
+                },
+                {
+                  "prompt": "Have you known Mark ______ you were a child?",
+                  "options": [
+                    "for",
+                    "since",
+                    "during",
+                    "until"
+                  ],
+                  "answer": 1,
+                  "explanation": "Since + clause: since you were a child."
+                },
+                {
+                  "prompt": "This computer hasn’t worked ______ years.",
+                  "options": [
+                    "since",
+                    "for",
+                    "ago",
+                    "from"
+                  ],
+                  "answer": 1,
+                  "explanation": "For + a period of time."
+                },
+                {
+                  "prompt": "Joseph has been a teacher ______ two months.",
+                  "options": [
+                    "since",
+                    "ago",
+                    "for",
+                    "from"
+                  ],
+                  "answer": 2,
+                  "explanation": "For + period."
+                },
+                {
+                  "prompt": "Which is a PERIOD of time (use \"for\")?",
+                  "options": [
+                    "1997",
+                    "Monday",
+                    "a long time",
+                    "last summer"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"For a long time\"."
+                },
+                {
+                  "prompt": "Which is a POINT in time (use \"since\")?",
+                  "options": [
+                    "a few seconds",
+                    "a couple of hours",
+                    "yesterday",
+                    "twenty years"
+                  ],
+                  "answer": 2,
+                  "explanation": "\"Since yesterday\"."
+                },
+                {
+                  "prompt": "Which group takes \"since\"?",
+                  "options": [
+                    "a long time · 20 years · a week",
+                    "9:30 a.m. · April · 1997",
+                    "a few seconds · a couple of hours",
+                    "ages · months · six weeks"
+                  ],
+                  "answer": 1,
+                  "explanation": "Points in time → since."
+                },
+                {
+                  "prompt": "I ______ my bike to work since 2015.",
+                  "options": [
+                    "ride",
+                    "am riding",
+                    "have ridden",
+                    "rode"
+                  ],
+                  "answer": 2,
+                  "explanation": "Present perfect: have ridden."
+                },
+                {
+                  "prompt": "We haven’t spoken to each other ______ a year — since last winter’s trip.",
+                  "options": [
+                    "since",
+                    "for",
+                    "ago",
+                    "during"
+                  ],
+                  "answer": 1,
+                  "explanation": "For a year / since last winter."
+                },
+                {
+                  "prompt": "The train hasn’t ______ on time ______ last month!",
+                  "options": [
+                    "arrive / for",
+                    "arrived / since",
+                    "arriving / since",
+                    "arrived / for"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past participle + since + point."
+                },
+                {
+                  "prompt": "How long ______ commuters ______ on this platform?",
+                  "options": [
+                    "have / waited",
+                    "did / wait",
+                    "do / wait",
+                    "has / waited"
+                  ],
+                  "answer": 0,
+                  "explanation": "How long + have + past participle."
+                },
+                {
+                  "prompt": "I moved to Istanbul in the middle of July. It’s December now. → I’ve lived in Istanbul ______ five months.",
+                  "options": [
+                    "since",
+                    "for",
+                    "ago",
+                    "from"
+                  ],
+                  "answer": 1,
+                  "explanation": "For five months / since the middle of July."
+                },
+                {
+                  "prompt": "I bought my own car when I was 19. I’m 25 now. → I ______ my own car for six years.",
+                  "options": [
+                    "have",
+                    "had",
+                    "'ve had",
+                    "have have"
+                  ],
+                  "answer": 2,
+                  "explanation": "Present perfect: ’ve had."
+                },
+                {
+                  "prompt": "The last time I was on an airplane was in August. → I ______ on an airplane since August.",
+                  "options": [
+                    "wasn’t",
+                    "haven’t been",
+                    "am not",
+                    "didn’t be"
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative present perfect."
+                },
+                {
+                  "prompt": "I saw Zach at the airport six months ago. → I haven’t seen Zach ______ six months.",
+                  "options": [
+                    "since",
+                    "for",
+                    "in",
+                    "during"
+                  ],
+                  "answer": 1,
+                  "explanation": "For + six months."
+                },
+                {
+                  "prompt": "I gave up English in 2005. → I ______ English since 2005. (not study)",
+                  "options": [
+                    "didn’t study",
+                    "don’t study",
+                    "haven’t studied",
+                    "wasn’t studying"
+                  ],
+                  "answer": 2,
+                  "explanation": "Still true now → present perfect."
+                },
+                {
+                  "prompt": "Choose the correct form: \"He didn’t speak / hasn’t spoken to his mom since he got back.\"",
+                  "options": [
+                    "didn’t speak",
+                    "hasn’t spoken",
+                    "both",
+                    "neither"
+                  ],
+                  "answer": 1,
+                  "explanation": "Situation continues to now → present perfect."
+                },
+                {
+                  "prompt": "\"I ______ this car since 2015. Before that, I ______ a smaller one.\"",
+                  "options": [
+                    "have had / had",
+                    "had / have had",
+                    "have had / have had",
+                    "had / had"
+                  ],
+                  "answer": 0,
+                  "explanation": "Still have it → present perfect; finished → simple past."
+                },
+                {
+                  "prompt": "\"We know / We’ve known each other for ten years.\" Which is correct?",
+                  "options": [
+                    "We know",
+                    "We’ve known",
+                    "both",
+                    "We knew"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present perfect (not present simple) with for."
+                },
+                {
+                  "prompt": "\"How long did you live in Chicago?\" This question means the person…",
+                  "options": [
+                    "still lives there",
+                    "doesn’t live there anymore",
+                    "is moving there",
+                    "never lived there"
+                  ],
+                  "answer": 1,
+                  "explanation": "Simple past → finished period."
+                },
+                {
+                  "prompt": "\"How long have you lived in Chicago?\" This question means the person…",
+                  "options": [
+                    "still lives there",
+                    "moved away",
+                    "is visiting",
+                    "was born there"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present perfect → unfinished, still true."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "How long have you lived in Brazil?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "How long are you living in Brazil?",
+                  "correct": false,
+                  "fix": "How long have you lived in Brazil?",
+                  "explanation": "Use present perfect for how long."
+                },
+                {
+                  "sentence": "I’ve lived here all my life.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I live here all my life.",
+                  "correct": false,
+                  "fix": "I’ve lived here all my life.",
+                  "explanation": "Present perfect, not present simple."
+                },
+                {
+                  "sentence": "We’ve worked for this company since 2010.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I haven’t spoken to Fred since last summer.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "This computer hasn’t worked since years.",
+                  "correct": false,
+                  "fix": "This computer hasn’t worked for years.",
+                  "explanation": "For + period."
+                },
+                {
+                  "sentence": "Joseph has been a teacher for two months.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Have you known Mark since you were a child?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I know Mark for twenty years.",
+                  "correct": false,
+                  "fix": "I’ve known Mark for twenty years.",
+                  "explanation": "Present perfect with for."
+                },
+                {
+                  "sentence": "I’ve lived in Istanbul since the middle of July.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I haven’t been on an airplane since August.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I haven’t seen Zach since six months.",
+                  "correct": false,
+                  "fix": "I haven’t seen Zach for six months.",
+                  "explanation": "For + period."
+                },
+                {
+                  "sentence": "I haven’t studied English since 2005.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I lived in Uruguay for ten years. (I don’t live there now)",
+                  "correct": true,
+                  "explanation": "Correct — finished period → simple past."
+                },
+                {
+                  "sentence": "I have moved to Uruguay ten years ago.",
+                  "correct": false,
+                  "fix": "I moved to Uruguay ten years ago.",
+                  "explanation": "Ago → simple past."
+                },
+                {
+                  "sentence": "When did you start working here?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Jo has known me since I was sixteen years old.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I haven’t spoke to my boss since Monday.",
+                  "correct": false,
+                  "fix": "I haven’t spoken to my boss since Monday.",
+                  "explanation": "Past participle: spoken."
+                },
+                {
+                  "sentence": "I worked in Washington from 2012 to 2015.",
+                  "correct": true,
+                  "explanation": "Correct — finished period."
+                },
+                {
+                  "sentence": "I’ve been a commuter for as long as I can remember.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The train is delayed since 8:15.",
+                  "correct": false,
+                  "fix": "The train has been delayed since 8:15.",
+                  "explanation": "Present perfect with since."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "parking lot",
+                  "image": "/img/transport/parking-lot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Parking lot\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Parking lot\" → Place."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"parking lot\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Parking lot\" → Only for drivers."
+                    }
+                  ]
+                },
+                {
+                  "word": "commuter",
+                  "image": "/img/transport/commuter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Commuter\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Commuter\" → Person."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"commuter\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Commuter\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "delayed",
+                  "image": "/img/transport/delayed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Delayed\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Delayed\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"delayed\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Delayed\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "on time",
+                  "image": "/img/transport/on-time.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"On time\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"On time\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"on time\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"On time\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "parking space",
+                  "image": "/img/transport/parking-space.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Parking space\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Parking space\" → Place."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"parking space\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Parking space\" → Only for drivers."
+                    }
+                  ]
+                },
+                {
+                  "word": "passenger",
+                  "image": "/img/transport/passenger.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Passenger\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Passenger\" → Person."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"passenger\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Passenger\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "platform",
+                  "image": "/img/transport/platform.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Platform\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Platform\" → Place."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"platform\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Platform\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "public transportation",
+                  "image": "/img/transport/public-transportation.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Public transportation\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Public transportation\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"public transportation\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Public transportation\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "rush hour",
+                  "image": "/img/transport/rush-hour.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Rush hour\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Rush hour\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"rush hour\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Rush hour\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "traffic jam",
+                  "image": "/img/transport/traffic-jam.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Traffic jam\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Traffic jam\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"traffic jam\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Traffic jam\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "subway",
+                  "image": "/img/transport/subway.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Subway\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Subway\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"subway\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Subway\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "taxi",
+                  "image": "/img/transport/taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Taxi\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Taxi\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"taxi\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Taxi\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "miss the bus",
+                  "image": "/img/transport/miss-the-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Miss the bus\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Miss the bus\" → Time / situation."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"miss the bus\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Miss the bus\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "ride a bike",
+                  "image": "/img/transport/bike-ride.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Ride a bike\" — what kind of word is it?",
+                      "options": [
+                        "Place",
+                        "Person",
+                        "Vehicle or service",
+                        "Time / situation"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Ride a bike\" → Vehicle or service."
+                    },
+                    {
+                      "prompt": "For a traveller, is \"ride a bike\" usually…",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Only for drivers"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Ride a bike\" → Good news."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "How long have you lived in Brazil?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve worked for this company since 2010.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I haven’t spoken to Fred since last summer.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "This computer hasn’t worked for years.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you known Mark since you were a child?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I lived in Uruguay for ten years, but I moved to Chicago in 2015.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I moved to Istanbul in the middle of July, and now it’s December. I love it here, although I still haven’t learned much Turkish.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How long has the speaker lived in Istanbul?",
+                  "options": [
+                    "For five months",
+                    "For a year",
+                    "Since December",
+                    "For two weeks"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I bought my first car when I was nineteen. I’m twenty-five now and I still drive the same car — it’s old but it works.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How long has the speaker had the car?",
+                  "options": [
+                    "For nineteen years",
+                    "For six years",
+                    "Since he was twenty-five",
+                    "For a year"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Jo and I have known each other since we were sixteen. We met at school and we’ve been friends ever since.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When did Jo and the speaker meet?",
+                  "options": [
+                    "Last year",
+                    "When they were sixteen",
+                    "At work",
+                    "Sixteen years ago"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I worked in Washington from 2012 to 2015. Then I moved to Chicago, and I’ve lived here since then.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where does the speaker live now?",
+                  "options": [
+                    "Washington",
+                    "Chicago",
+                    "Neither",
+                    "Both"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I haven’t been on an airplane since August. The last time was a trip to Mexico with my sister.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When did the speaker last fly?",
+                  "options": [
+                    "Last week",
+                    "In August",
+                    "Never",
+                    "Yesterday"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Frank has been a commuter for twenty years. He hasn’t missed a single train since he started his job.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is true about Frank?",
+                  "options": [
+                    "He drives to work",
+                    "He often misses trains",
+                    "He has commuted for twenty years",
+                    "He started his job last year"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "How Long?",
+                  "situation": "Interview your partner: how long have they lived in their home, known their best friend and studied English?",
+                  "mandatory": [
+                    "How long have you",
+                    "for",
+                    "since"
+                  ],
+                  "taboo": [
+                    "ago"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Life Timeline",
+                  "situation": "Talk about your life: where you lived before (simple past) and where you live now (present perfect).",
+                  "mandatory": [
+                    "I lived",
+                    "I’ve lived",
+                    "since"
+                  ],
+                  "taboo": [
+                    "then"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Old Things",
+                  "situation": "Describe three things you have had for a long time (a phone, a car, a bike…).",
+                  "mandatory": [
+                    "I’ve had",
+                    "for",
+                    "still"
+                  ],
+                  "taboo": [
+                    "new"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Commuter Interview",
+                  "situation": "You are a journalist interviewing a commuter about how long they have taken the same train and what has changed.",
+                  "mandatory": [
+                    "have you taken",
+                    "since",
+                    "for"
+                  ],
+                  "taboo": [
+                    "years"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Long-lost Friend",
+                  "situation": "You meet a friend you haven’t seen for years. Ask and answer about what has happened since.",
+                  "mandatory": [
+                    "haven’t seen you",
+                    "since",
+                    "how long"
+                  ],
+                  "taboo": [
+                    "remember"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Job Interview",
+                  "situation": "Answer the interviewer: how long have you worked in your field and how long did you stay at your last job?",
+                  "mandatory": [
+                    "I’ve worked",
+                    "I worked",
+                    "for"
+                  ],
+                  "taboo": [
+                    "experience"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
