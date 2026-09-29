@@ -27066,6 +27066,2176 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U5T3",
+              "name": "5A - Vocabulary: Money & Shopping",
+              "steal": [
+                {
+                  "prompt": "The machine at the station didn’t accept my ______, so we had to pay with ______.",
+                  "options": [
+                    "coins / a loan",
+                    "credit card / cash",
+                    "mortgage / taxes",
+                    "ATM / a cart"
+                  ],
+                  "answer": 1,
+                  "explanation": "Card refused → pay in cash."
+                },
+                {
+                  "prompt": "I want to ______ for a car, so I put $200 into my ______ every month.",
+                  "options": [
+                    "waste / cart",
+                    "lend / loan",
+                    "save up / savings account",
+                    "borrow / mortgage"
+                  ],
+                  "answer": 2,
+                  "explanation": "Save up = keep money for something big."
+                },
+                {
+                  "prompt": "I needed $100, so I went to the ______. They give me five $20 ______.",
+                  "options": [
+                    "ATM / bills",
+                    "loan / coins",
+                    "checkout / items",
+                    "bank / taxes"
+                  ],
+                  "answer": 0,
+                  "explanation": "ATMs give bills (notes)."
+                },
+                {
+                  "prompt": "I got a ______ from my bank to buy my car and I pay it back every month.",
+                  "options": [
+                    "mortgage",
+                    "tax",
+                    "loan",
+                    "coin"
+                  ],
+                  "answer": 2,
+                  "explanation": "A loan is money you borrow and repay."
+                },
+                {
+                  "prompt": "My uncle is very ______. He has four houses, six cars and a boat.",
+                  "options": [
+                    "broke",
+                    "wealthy",
+                    "in stock",
+                    "in debt"
+                  ],
+                  "answer": 1,
+                  "explanation": "Wealthy = rich."
+                },
+                {
+                  "prompt": "I pay a lot of ______ to the government — about 25% of what I earn.",
+                  "options": [
+                    "taxes",
+                    "loans",
+                    "coins",
+                    "cash"
+                  ],
+                  "answer": 0,
+                  "explanation": "Taxes go to the government."
+                },
+                {
+                  "prompt": "In cafés, people normally leave a tip for the waiter. A few ______ are sometimes enough.",
+                  "options": [
+                    "mortgages",
+                    "cards",
+                    "loans",
+                    "coins"
+                  ],
+                  "answer": 3,
+                  "explanation": "Small tips = coins."
+                },
+                {
+                  "prompt": "Jim realised he was completely ______ — he didn’t even have enough money to take the bus home.",
+                  "options": [
+                    "wealthy",
+                    "broke",
+                    "in stock",
+                    "delivered"
+                  ],
+                  "answer": 1,
+                  "explanation": "Broke = no money at all."
+                },
+                {
+                  "prompt": "Can we stop at the ______? I need some cash.",
+                  "options": [
+                    "loan",
+                    "cart",
+                    "ATM",
+                    "checkout"
+                  ],
+                  "answer": 2,
+                  "explanation": "You get cash from an ATM."
+                },
+                {
+                  "prompt": "Could you ______ me $50? I’ll give it back to you tomorrow.",
+                  "options": [
+                    "borrow",
+                    "lend",
+                    "spend",
+                    "pay"
+                  ],
+                  "answer": 1,
+                  "explanation": "Lend TO someone; borrow FROM someone."
+                },
+                {
+                  "prompt": "Can I ______ $50 from you until Friday?",
+                  "options": [
+                    "lend",
+                    "borrow",
+                    "owe",
+                    "save"
+                  ],
+                  "answer": 1,
+                  "explanation": "Borrow = take temporarily."
+                },
+                {
+                  "prompt": "I don’t like to lend money ______ friends.",
+                  "options": [
+                    "for",
+                    "at",
+                    "to",
+                    "from"
+                  ],
+                  "answer": 2,
+                  "explanation": "Lend money TO someone."
+                },
+                {
+                  "prompt": "Can I pay ______ credit card?",
+                  "options": [
+                    "with",
+                    "by",
+                    "in",
+                    "on"
+                  ],
+                  "answer": 1,
+                  "explanation": "Pay BY card / pay IN cash."
+                },
+                {
+                  "prompt": "My sister spends over $400 ______ clothes every month!",
+                  "options": [
+                    "for",
+                    "in",
+                    "on",
+                    "at"
+                  ],
+                  "answer": 2,
+                  "explanation": "Spend money ON something."
+                },
+                {
+                  "prompt": "I went to the ATM to take $200 ______ my savings account.",
+                  "options": [
+                    "from",
+                    "out of",
+                    "off",
+                    "both \"from\" and \"out of\""
+                  ],
+                  "answer": 3,
+                  "explanation": "Take money out of / from an account."
+                },
+                {
+                  "prompt": "Martin still owes $500 ______ his brother.",
+                  "options": [
+                    "for",
+                    "from",
+                    "at",
+                    "to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Owe money TO someone."
+                },
+                {
+                  "prompt": "Could you pay me ______ the money you owe me before the end of the week?",
+                  "options": [
+                    "back",
+                    "off",
+                    "up",
+                    "out"
+                  ],
+                  "answer": 0,
+                  "explanation": "Pay someone back = return the money."
+                },
+                {
+                  "prompt": "I pay $50 ______ a savings account for my grandchildren every month.",
+                  "options": [
+                    "on",
+                    "into",
+                    "at",
+                    "for"
+                  ],
+                  "answer": 1,
+                  "explanation": "Pay money INTO an account."
+                },
+                {
+                  "prompt": "Shopping online: \"Only 6 available!\" means the item is…",
+                  "options": [
+                    "sold out",
+                    "in stock",
+                    "on delivery",
+                    "in your cart"
+                  ],
+                  "answer": 1,
+                  "explanation": "In stock = available to buy."
+                },
+                {
+                  "prompt": "Online: you put products in your ______ and then go to the ______.",
+                  "options": [
+                    "cart / checkout",
+                    "checkout / stock",
+                    "item / delivery",
+                    "stock / cart"
+                  ],
+                  "answer": 0,
+                  "explanation": "Cart → checkout."
+                },
+                {
+                  "prompt": "\"Next-day ______ available\" means the shop sends it to your house tomorrow.",
+                  "options": [
+                    "checkout",
+                    "stock",
+                    "item",
+                    "delivery"
+                  ],
+                  "answer": 3,
+                  "explanation": "Delivery = sending the goods."
+                },
+                {
+                  "prompt": "\"I ordered it online and it arrived the following day.\" Here \"it\" is an…",
+                  "options": [
+                    "ATM",
+                    "item",
+                    "account",
+                    "income"
+                  ],
+                  "answer": 1,
+                  "explanation": "An item = one product."
+                },
+                {
+                  "prompt": "Which is NOT a way to pay?",
+                  "options": [
+                    "cash",
+                    "credit card",
+                    "coins",
+                    "mortgage"
+                  ],
+                  "answer": 3,
+                  "explanation": "A mortgage is a loan for a house."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "morgage",
+                    "mortgage",
+                    "mortgadge",
+                    "mortage"
+                  ],
+                  "answer": 1,
+                  "explanation": "m-o-r-t-g-a-g-e (silent t)."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Can I pay by credit card?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I don’t like to lend money for friends.",
+                  "correct": false,
+                  "fix": "I don’t like to lend money to friends.",
+                  "explanation": "Lend TO."
+                },
+                {
+                  "sentence": "My sister spends over $400 on clothes every month.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Can I borrow you $20 until tomorrow?",
+                  "correct": false,
+                  "fix": "Can I borrow $20 from you? / Can you lend me $20?",
+                  "explanation": "Borrow FROM; lend TO."
+                },
+                {
+                  "sentence": "Martin still owes $500 to his brother.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I took $200 out of my savings account.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I pay $50 into a savings account every month.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He’s completely broke — he’s very wealthy.",
+                  "correct": false,
+                  "fix": "He’s completely broke — he has no money at all.",
+                  "explanation": "Broke ≠ wealthy."
+                },
+                {
+                  "sentence": "Could you pay me back the money you owe me?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We got a mortgage to buy our apartment.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I need some cashes from the ATM.",
+                  "correct": false,
+                  "fix": "I need some cash from the ATM.",
+                  "explanation": "Cash is uncountable."
+                },
+                {
+                  "sentence": "The bike is in stock and next-day delivery is available.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Add the item to your cart and go to the checkout.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I’m saving up for a new laptop.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She wastes a lot of money in lottery tickets.",
+                  "correct": false,
+                  "fix": "She wastes a lot of money on lottery tickets.",
+                  "explanation": "Waste / spend money ON."
+                },
+                {
+                  "sentence": "I paid the bill with cash.",
+                  "correct": true,
+                  "explanation": "Correct (also: in cash)."
+                },
+                {
+                  "sentence": "How much money do you pay in taxes?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My grandfather lent me $1,000 to start my business.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The bank gave me a loan to buy a car.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I owe my landlord for $300.",
+                  "correct": false,
+                  "fix": "I owe my landlord $300.",
+                  "explanation": "Owe someone an amount — no \"for\"."
+                },
+                {
+                  "sentence": "The ATM only gives me $20 bills.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He is a wealthy man, so he never worries about money.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "credit card",
+                  "image": "/img/money/credit-card.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"credit card\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Credit card\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"credit card\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Credit card\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "wealthy",
+                  "image": "/img/money/wealthy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"wealthy\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Wealthy\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"wealthy\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Wealthy\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "broke",
+                  "image": "/img/money/broke.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"broke\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Broke\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"broke\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Broke\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "coins",
+                  "image": "/img/money/coins.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"coins\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Coins\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"coins\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Coins\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "savings account",
+                  "image": "/img/money/savings-account.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"savings account\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Savings account\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"savings account\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Savings account\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "cash",
+                  "image": "/img/money/cash.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"cash\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cash\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"cash\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cash\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "loan",
+                  "image": "/img/money/loan.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"loan\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Loan\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"loan\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Loan\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "mortgage",
+                  "image": "/img/money/mortgage.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"mortgage\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mortgage\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"mortgage\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mortgage\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "taxes",
+                  "image": "/img/money/taxes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"taxes\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Taxes\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"taxes\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Taxes\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "ATM",
+                  "image": "/img/money/atm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"ATM\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"ATM\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"ATM\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"ATM\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "save up",
+                  "image": "/img/money/save-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"save up\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Save up\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"save up\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Save up\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "waste money",
+                  "image": "/img/money/waste-money.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"waste money\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Waste money\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"waste money\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waste money\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "borrow / lend",
+                  "image": "/img/money/borrow-lend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"borrow / lend\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Borrow / lend\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"borrow / lend\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Borrow / lend\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "in stock",
+                  "image": "/img/money/in-stock.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"in stock\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"In stock\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"in stock\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In stock\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "delivery",
+                  "image": "/img/money/delivery.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"delivery\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Delivery\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"delivery\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Delivery\" → Depends on the shop."
+                    }
+                  ]
+                },
+                {
+                  "word": "checkout",
+                  "image": "/img/money/checkout.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"checkout\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Checkout\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"checkout\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Checkout\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "cart",
+                  "image": "/img/money/cart.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"cart\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Cart\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"cart\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cart\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "item",
+                  "image": "/img/money/item.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"item\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Item\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"item\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Item\" → Neutral."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Can I pay by credit card, or do you only take cash?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I take two hundred dollars out of my savings account every month.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Could you lend me fifty dollars until Friday?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The bike is in stock and next-day delivery is available.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My sister spends over four hundred dollars on clothes every month.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He was completely broke, so he asked the bank for a loan.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, I’d like to pay for these shoes. — Sure. Cash or card? — Card, please. — Sorry, our machine is down. There’s an ATM just across the street.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the customer have to do?",
+                  "options": [
+                    "Pay by credit card",
+                    "Get cash from the ATM",
+                    "Come back tomorrow",
+                    "Order the shoes online"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I finally paid off my car loan yesterday. Now the only thing I owe is the mortgage on the house.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the speaker still owe?",
+                  "options": [
+                    "A car loan",
+                    "Taxes",
+                    "A mortgage",
+                    "Money to a friend"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I added three items to my cart, but when I got to the checkout one of them was out of stock.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many items could she actually buy?",
+                  "options": [
+                    "One",
+                    "Two",
+                    "Three",
+                    "None"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My grandmother puts fifty dollars into a savings account for each grandchild every month. She says she’s saving up for our university fees.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why does the grandmother save the money?",
+                  "options": [
+                    "To buy a car",
+                    "To pay her taxes",
+                    "For the grandchildren’s university",
+                    "To go shopping"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Martin still owes me five hundred dollars. He promised to pay me back after he gets paid on the thirtieth.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When will Martin pay the money back?",
+                  "options": [
+                    "Today",
+                    "After payday",
+                    "Never",
+                    "Next year"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Free delivery on orders over sixty dollars! Otherwise delivery costs eight dollars and takes three to five days.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How can you get free delivery?",
+                  "options": [
+                    "Pay in cash",
+                    "Spend more than sixty dollars",
+                    "Use a credit card",
+                    "Wait five days"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "At the Bank",
+                  "situation": "You want a loan to buy a car. Convince the bank manager you can pay it back.",
+                  "mandatory": [
+                    "loan",
+                    "savings account",
+                    "pay back"
+                  ],
+                  "taboo": [
+                    "borrow"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Broke Friend",
+                  "situation": "Your friend is broke again and wants to borrow money. Give advice on how to stop wasting money.",
+                  "mandatory": [
+                    "broke",
+                    "waste money",
+                    "save up"
+                  ],
+                  "taboo": [
+                    "lend"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Online Shopping Problem",
+                  "situation": "Call customer service: the item you ordered is not in stock and the delivery is late.",
+                  "mandatory": [
+                    "in stock",
+                    "delivery",
+                    "checkout"
+                  ],
+                  "taboo": [
+                    "cart"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Cash or Card?",
+                  "situation": "Debate: is it better to pay by credit card or in cash? Give at least two reasons.",
+                  "mandatory": [
+                    "credit card",
+                    "cash",
+                    "ATM"
+                  ],
+                  "taboo": [
+                    "coins"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Wealthy for a Day",
+                  "situation": "You have just become wealthy. Explain what you will spend on, pay into, and give to whom.",
+                  "mandatory": [
+                    "wealthy",
+                    "spend on",
+                    "pay into"
+                  ],
+                  "taboo": [
+                    "rich"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Taxes & Mortgage",
+                  "situation": "Explain to a teenager what taxes and a mortgage are and why adults worry about them.",
+                  "mandatory": [
+                    "taxes",
+                    "mortgage",
+                    "owe"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U5T4",
+              "name": "5A - Grammar: Zero & First Conditional; Future Time Clauses",
+              "steal": [
+                {
+                  "prompt": "If you ______ money, you ______ to pay it back. (general truth)",
+                  "options": [
+                    "borrow / will need",
+                    "borrow / need",
+                    "will borrow / need",
+                    "borrowed / need"
+                  ],
+                  "answer": 1,
+                  "explanation": "Zero conditional: if + present, present."
+                },
+                {
+                  "prompt": "If I ______ my bank manager for a loan, he’ll say no.",
+                  "options": [
+                    "will ask",
+                    "asked",
+                    "ask",
+                    "am asking"
+                  ],
+                  "answer": 2,
+                  "explanation": "First conditional: if + present, will."
+                },
+                {
+                  "prompt": "Tell me if you ______ some cash.",
+                  "options": [
+                    "will need",
+                    "need",
+                    "needed",
+                    "would need"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present after if — even in a future situation."
+                },
+                {
+                  "prompt": "You can’t open an account ______ you have some ID.",
+                  "options": [
+                    "if",
+                    "unless",
+                    "when",
+                    "until"
+                  ],
+                  "answer": 1,
+                  "explanation": "Unless = if not."
+                },
+                {
+                  "prompt": "I won’t be able to go shopping ______ I get paid this Friday.",
+                  "options": [
+                    "unless",
+                    "when",
+                    "until",
+                    "as soon as"
+                  ],
+                  "answer": 2,
+                  "explanation": "Until = up to that moment."
+                },
+                {
+                  "prompt": "I’ll lend you some money ______ I go to the ATM.",
+                  "options": [
+                    "after",
+                    "unless",
+                    "before",
+                    "if not"
+                  ],
+                  "answer": 0,
+                  "explanation": "After = later than."
+                },
+                {
+                  "prompt": "If I have money, I normally ______ for a walk on my lunch break.",
+                  "options": [
+                    "will go",
+                    "go",
+                    "am going",
+                    "would go"
+                  ],
+                  "answer": 1,
+                  "explanation": "Zero conditional — routine → present simple."
+                },
+                {
+                  "prompt": "I usually ride my bike to work if it ______ a nice day.",
+                  "options": [
+                    "it's",
+                    "will be",
+                    "is",
+                    "it will be"
+                  ],
+                  "answer": 2,
+                  "explanation": "Zero conditional: if + present."
+                },
+                {
+                  "prompt": "If we take the bus, we ______ there more quickly.",
+                  "options": [
+                    "get",
+                    "'ll get",
+                    "got",
+                    "'re getting"
+                  ],
+                  "answer": 1,
+                  "explanation": "First conditional → will."
+                },
+                {
+                  "prompt": "If John ______ leave now, he won’t get to school on time.",
+                  "options": [
+                    "doesn’t",
+                    "won’t",
+                    "didn’t",
+                    "isn’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative in the if-clause: present (doesn’t)."
+                },
+                {
+                  "prompt": "You’ll be fired tomorrow if you ______ to bed now.",
+                  "options": [
+                    "won’t go",
+                    "don’t go",
+                    "didn’t go",
+                    "not go"
+                  ],
+                  "answer": 1,
+                  "explanation": "If + present simple negative."
+                },
+                {
+                  "prompt": "Which sentence is correctly punctuated?",
+                  "options": [
+                    "If it’s nice this weekend we’ll go camping.",
+                    "We’ll go camping, if it’s nice this weekend.",
+                    "If it’s nice this weekend, we’ll go camping.",
+                    "If, it’s nice this weekend we’ll go camping."
+                  ],
+                  "answer": 2,
+                  "explanation": "Comma only when the if-clause comes first."
+                },
+                {
+                  "prompt": "We ______ use the imperative in the main clause: \"If you see Matthew tomorrow, ______ him about the party.\"",
+                  "options": [
+                    "can / tell",
+                    "can’t / you tell",
+                    "can / will tell",
+                    "can / telling"
+                  ],
+                  "answer": 0,
+                  "explanation": "Imperative is fine in the main clause."
+                },
+                {
+                  "prompt": "\"Unless you work harder, you won’t pass your exams\" = \"______\"",
+                  "options": [
+                    "If you work harder, you won’t pass.",
+                    "If you don’t work harder, you won’t pass.",
+                    "When you work harder, you’ll pass.",
+                    "You won’t pass if you pass."
+                  ],
+                  "answer": 1,
+                  "explanation": "Unless = if … not."
+                },
+                {
+                  "prompt": "I’ll buy a new phone ______ I get paid.",
+                  "options": [
+                    "when",
+                    "if",
+                    "unless",
+                    "when I’ll"
+                  ],
+                  "answer": 0,
+                  "explanation": "When = you are sure it will happen."
+                },
+                {
+                  "prompt": "She ______ call you back ______ she finishes her homework.",
+                  "options": [
+                    "will / when",
+                    "will / when she will",
+                    "calls / until",
+                    "would / after"
+                  ],
+                  "answer": 0,
+                  "explanation": "Future time clause: will + when + present."
+                },
+                {
+                  "prompt": "Before we go out, ______ a quick shower.",
+                  "options": [
+                    "I’ll take",
+                    "I take always",
+                    "I’m taken",
+                    "I will took"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present in the time clause, will in the main clause."
+                },
+                {
+                  "prompt": "We’ll wash the dishes ______ we have lunch.",
+                  "options": [
+                    "after",
+                    "unless",
+                    "if not",
+                    "will after"
+                  ],
+                  "answer": 0,
+                  "explanation": "After = later than."
+                },
+                {
+                  "prompt": "I’ll call you ______ we arrive at the airport.",
+                  "options": [
+                    "as soon as",
+                    "as soon",
+                    "until",
+                    "unless"
+                  ],
+                  "answer": 0,
+                  "explanation": "As soon as = immediately when."
+                },
+                {
+                  "prompt": "Which sentence is WRONG?",
+                  "options": [
+                    "I’ll call you when I get home.",
+                    "I’ll call you when I’ll get home.",
+                    "Call me as soon as you arrive.",
+                    "We won’t start until everyone is here."
+                  ],
+                  "answer": 1,
+                  "explanation": "No will after when."
+                },
+                {
+                  "prompt": "Which sentence is WRONG?",
+                  "options": [
+                    "If you heat ice, it melts.",
+                    "If you heat ice, it will melt.",
+                    "If you will heat ice, it melts.",
+                    "Ice melts if you heat it."
+                  ],
+                  "answer": 2,
+                  "explanation": "No will in the if-clause."
+                },
+                {
+                  "prompt": "\"If you heat ice, it melts.\" This is a…",
+                  "options": [
+                    "first conditional",
+                    "zero conditional",
+                    "second conditional",
+                    "future time clause"
+                  ],
+                  "answer": 1,
+                  "explanation": "General truth = zero conditional."
+                },
+                {
+                  "prompt": "\"If we don’t hurry, we’ll miss the bus.\" This is a…",
+                  "options": [
+                    "zero conditional",
+                    "first conditional",
+                    "second conditional",
+                    "imperative"
+                  ],
+                  "answer": 1,
+                  "explanation": "Possible future result = first conditional."
+                },
+                {
+                  "prompt": "Money version: \"If I ______ up enough money, I ______ a car next year.\"",
+                  "options": [
+                    "save / will buy",
+                    "will save / buy",
+                    "saved / will buy",
+                    "save / bought"
+                  ],
+                  "answer": 0,
+                  "explanation": "First conditional with save up."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "If you borrow money, you need to pay it back.",
+                  "correct": true,
+                  "explanation": "Correct — zero conditional."
+                },
+                {
+                  "sentence": "If I will ask my bank manager for a loan, he’ll say no.",
+                  "correct": false,
+                  "fix": "If I ask my bank manager for a loan, he’ll say no.",
+                  "explanation": "No will in the if-clause."
+                },
+                {
+                  "sentence": "Tell me if you need some cash.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "You can’t open an account if you have some ID.",
+                  "correct": false,
+                  "fix": "You can’t open an account unless you have some ID.",
+                  "explanation": "Unless = if not."
+                },
+                {
+                  "sentence": "I won’t be able to go shopping until I get paid this Friday.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I’ll lend you some money after I’ll go to the ATM.",
+                  "correct": false,
+                  "fix": "I’ll lend you some money after I go to the ATM.",
+                  "explanation": "Present after \"after\"."
+                },
+                {
+                  "sentence": "If I have money, I normally go for a walk on my lunch break.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "If we take the bus, we get there more quickly tomorrow.",
+                  "correct": false,
+                  "fix": "If we take the bus, we’ll get there more quickly.",
+                  "explanation": "Future result → will."
+                },
+                {
+                  "sentence": "If John doesn’t leave now, he won’t get to school on time.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We’ll go camping if it’s nice this weekend.",
+                  "correct": true,
+                  "explanation": "Correct — no comma needed here."
+                },
+                {
+                  "sentence": "If you see Matthew tomorrow, tell him about the party.",
+                  "correct": true,
+                  "explanation": "Correct — imperative in the main clause."
+                },
+                {
+                  "sentence": "Unless you don’t work harder, you won’t pass your exams.",
+                  "correct": false,
+                  "fix": "Unless you work harder, you won’t pass your exams.",
+                  "explanation": "Unless already means \"if not\"."
+                },
+                {
+                  "sentence": "I’ll buy a new phone when I’ll get paid.",
+                  "correct": false,
+                  "fix": "I’ll buy a new phone when I get paid.",
+                  "explanation": "Present after when."
+                },
+                {
+                  "sentence": "She won’t call you back until she finishes her homework.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Before we go out, I’ll take a quick shower.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We’ll wash the dishes after we have lunch.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I’ll call you as soon as we will arrive at the airport.",
+                  "correct": false,
+                  "fix": "I’ll call you as soon as we arrive at the airport.",
+                  "explanation": "Present after as soon as."
+                },
+                {
+                  "sentence": "If you heat ice, it melts.",
+                  "correct": true,
+                  "explanation": "Correct — zero conditional."
+                },
+                {
+                  "sentence": "If I save up enough, I buy a car next year.",
+                  "correct": false,
+                  "fix": "If I save up enough, I’ll buy a car next year.",
+                  "explanation": "Future result → will."
+                },
+                {
+                  "sentence": "If you pay by credit card, you will get a receipt by email.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Unless the item is in stock, they won’t deliver it tomorrow.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "When I’m broke, I always borrow money from my sister.",
+                  "correct": true,
+                  "explanation": "Correct — zero conditional with when."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "credit card",
+                  "image": "/img/money/credit-card.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"credit card\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Credit card\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"credit card\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Credit card\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "wealthy",
+                  "image": "/img/money/wealthy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"wealthy\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Wealthy\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"wealthy\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Wealthy\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "broke",
+                  "image": "/img/money/broke.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"broke\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Broke\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"broke\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Broke\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "coins",
+                  "image": "/img/money/coins.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"coins\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Coins\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"coins\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Coins\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "savings account",
+                  "image": "/img/money/savings-account.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"savings account\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Savings account\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"savings account\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Savings account\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "cash",
+                  "image": "/img/money/cash.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"cash\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cash\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"cash\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cash\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "loan",
+                  "image": "/img/money/loan.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"loan\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Loan\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"loan\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Loan\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "mortgage",
+                  "image": "/img/money/mortgage.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"mortgage\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mortgage\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"mortgage\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mortgage\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "taxes",
+                  "image": "/img/money/taxes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"taxes\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Taxes\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"taxes\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Taxes\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "ATM",
+                  "image": "/img/money/atm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"ATM\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"ATM\" → Ways to pay / money itself."
+                    },
+                    {
+                      "prompt": "Is \"ATM\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"ATM\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "save up",
+                  "image": "/img/money/save-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"save up\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Save up\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"save up\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Save up\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "waste money",
+                  "image": "/img/money/waste-money.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"waste money\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Waste money\" → Personal finances (people & habits)."
+                    },
+                    {
+                      "prompt": "Is \"waste money\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waste money\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "borrow / lend",
+                  "image": "/img/money/borrow-lend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"borrow / lend\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Borrow / lend\" → Borrowing & debt."
+                    },
+                    {
+                      "prompt": "Is \"borrow / lend\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Borrow / lend\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "in stock",
+                  "image": "/img/money/in-stock.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"in stock\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"In stock\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"in stock\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In stock\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "delivery",
+                  "image": "/img/money/delivery.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"delivery\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Delivery\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"delivery\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Delivery\" → Depends on the shop."
+                    }
+                  ]
+                },
+                {
+                  "word": "checkout",
+                  "image": "/img/money/checkout.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"checkout\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Checkout\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"checkout\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Checkout\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "cart",
+                  "image": "/img/money/cart.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"cart\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Cart\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"cart\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cart\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "item",
+                  "image": "/img/money/item.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"item\" belong to?",
+                      "options": [
+                        "Ways to pay / money itself",
+                        "Borrowing & debt",
+                        "Personal finances (people & habits)",
+                        "Online shopping"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Item\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"item\" usually good or bad news for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the shop"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Item\" → Neutral."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "If you borrow money, you need to pay it back.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If I ask my bank manager for a loan, he’ll say no.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You can’t open an account unless you have some ID.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I won’t be able to go shopping until I get paid this Friday.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ll call you as soon as we arrive at the airport.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If you see Matthew tomorrow, tell him about the party.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If we take the bus, we’ll get there more quickly. But if we walk, we’ll save the fare and get some exercise.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the advantage of walking?",
+                  "options": [
+                    "It is quicker",
+                    "It saves money",
+                    "It is more comfortable",
+                    "The bus is full"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’ll lend you some money after I go to the ATM. There’s one next to the supermarket, so wait for me here.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When will the speaker lend the money?",
+                  "options": [
+                    "Right now",
+                    "After going to the ATM",
+                    "Tomorrow",
+                    "Never"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "If it’s a nice day, I usually ride my bike to work. If it rains, I take the bus.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the speaker do when it rains?",
+                  "options": [
+                    "Rides a bike",
+                    "Walks",
+                    "Takes the bus",
+                    "Stays at home"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Unless you leave now, John, you won’t get to school on time and Mrs Green will be furious.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will happen if John doesn’t leave now?",
+                  "options": [
+                    "He’ll get to school on time",
+                    "He’ll be late",
+                    "He’ll miss the bus home",
+                    "He’ll see Mrs Green early"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’ll finish my homework before we have dinner, and then I’ll wash the dishes as soon as we finish eating.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What will the speaker do first?",
+                  "options": [
+                    "Wash the dishes",
+                    "Have dinner",
+                    "Finish homework",
+                    "Go to bed"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "If I save up enough money this year, I’ll buy a second-hand car. If not, I’ll keep using my bike.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will the speaker do if he doesn’t save enough?",
+                  "options": [
+                    "Buy a new car",
+                    "Get a loan",
+                    "Keep using his bike",
+                    "Take the bus"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Money Plans",
+                  "situation": "Explain what you will do with your money when you get paid, before you go shopping, and after you pay your bills.",
+                  "mandatory": [
+                    "when",
+                    "before",
+                    "after"
+                  ],
+                  "taboo": [
+                    "tomorrow"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Life Rules",
+                  "situation": "Give three zero-conditional rules about money in your family, e.g. \"If I borrow money, I…\".",
+                  "mandatory": [
+                    "if",
+                    "always",
+                    "never"
+                  ],
+                  "taboo": [
+                    "will"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Warning a Friend",
+                  "situation": "Your friend wastes money online. Warn them about what will happen unless they change.",
+                  "mandatory": [
+                    "unless",
+                    "won't",
+                    "until"
+                  ],
+                  "taboo": [
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Plan the Trip",
+                  "situation": "Plan a trip with your partner: what will you do as soon as you arrive, and if it rains?",
+                  "mandatory": [
+                    "as soon as",
+                    "we'll",
+                    "if"
+                  ],
+                  "taboo": [
+                    "then"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Bank Manager Interview",
+                  "situation": "You are the bank manager. Tell the customer what will happen if they don’t pay back the loan on time.",
+                  "mandatory": [
+                    "if you don’t",
+                    "you'll",
+                    "as soon as"
+                  ],
+                  "taboo": [
+                    "problem"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Shop Assistant",
+                  "situation": "Explain the shop’s rules to a customer: what happens if an item is out of stock, when delivery arrives, etc.",
+                  "mandatory": [
+                    "if",
+                    "when",
+                    "in stock"
+                  ],
+                  "taboo": [
+                    "sorry"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
