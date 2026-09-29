@@ -4514,6 +4514,2056 @@
                   "seconds": 45
                 }
               ]
+            },
+            {
+              "id": "L1U4T5",
+              "name": "4C - Vocabulary: Adjectives (2)",
+              "steal": [
+                {
+                  "prompt": "I always have a ______ tea for breakfast.",
+                  "options": [
+                    "cold",
+                    "hot",
+                    "long",
+                    "noisy"
+                  ],
+                  "answer": 1,
+                  "explanation": "Hot tea — the opposite of cold."
+                },
+                {
+                  "prompt": "It’s sometimes ______ in the mornings, but that’s OK — it’s only a ______ walk.",
+                  "options": [
+                    "hot / long",
+                    "cold / short",
+                    "clean / large",
+                    "noisy / slow"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cold mornings; a short walk."
+                },
+                {
+                  "prompt": "I live in a ______ house with eight students.",
+                  "options": [
+                    "small",
+                    "short",
+                    "large",
+                    "slow"
+                  ],
+                  "answer": 2,
+                  "explanation": "Large = big; eight students need a big house."
+                },
+                {
+                  "prompt": "My roommates are really ______. We always make dinner together.",
+                  "options": [
+                    "unfriendly",
+                    "horrible",
+                    "dirty",
+                    "friendly"
+                  ],
+                  "answer": 3,
+                  "explanation": "Friendly people are nice to you."
+                },
+                {
+                  "prompt": "After dinner there are a lot of ______ dishes.",
+                  "options": [
+                    "dirty",
+                    "clean",
+                    "quiet",
+                    "fast"
+                  ],
+                  "answer": 0,
+                  "explanation": "Dishes are dirty after you eat."
+                },
+                {
+                  "prompt": "My roommates play music, so the house is sometimes ______.",
+                  "options": [
+                    "quiet",
+                    "noisy",
+                    "cold",
+                    "small"
+                  ],
+                  "answer": 1,
+                  "explanation": "Music → noisy."
+                },
+                {
+                  "prompt": "I usually work in the library — it’s always ______ there.",
+                  "options": [
+                    "noisy",
+                    "hot",
+                    "quiet",
+                    "dirty"
+                  ],
+                  "answer": 2,
+                  "explanation": "Libraries are quiet."
+                },
+                {
+                  "prompt": "What is the opposite of \"cold\"?",
+                  "options": [
+                    "cool",
+                    "hot",
+                    "nice",
+                    "clean"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cold ↔ hot."
+                },
+                {
+                  "prompt": "What is the opposite of \"clean\"?",
+                  "options": [
+                    "dirty",
+                    "quiet",
+                    "large",
+                    "slow"
+                  ],
+                  "answer": 0,
+                  "explanation": "Clean ↔ dirty."
+                },
+                {
+                  "prompt": "What is the opposite of \"fast\"?",
+                  "options": [
+                    "long",
+                    "short",
+                    "slow",
+                    "small"
+                  ],
+                  "answer": 2,
+                  "explanation": "Fast ↔ slow."
+                },
+                {
+                  "prompt": "What is the opposite of \"friendly\"?",
+                  "options": [
+                    "horrible",
+                    "nice",
+                    "quiet",
+                    "unfriendly"
+                  ],
+                  "answer": 3,
+                  "explanation": "Friendly ↔ unfriendly."
+                },
+                {
+                  "prompt": "What is the opposite of \"nice\"?",
+                  "options": [
+                    "horrible",
+                    "dirty",
+                    "noisy",
+                    "cold"
+                  ],
+                  "answer": 0,
+                  "explanation": "Nice ↔ horrible."
+                },
+                {
+                  "prompt": "What is the opposite of \"large\"?",
+                  "options": [
+                    "short",
+                    "small",
+                    "slow",
+                    "quiet"
+                  ],
+                  "answer": 1,
+                  "explanation": "Large ↔ small."
+                },
+                {
+                  "prompt": "What is the opposite of \"long\"?",
+                  "options": [
+                    "small",
+                    "slow",
+                    "short",
+                    "fast"
+                  ],
+                  "answer": 2,
+                  "explanation": "Long ↔ short."
+                },
+                {
+                  "prompt": "What is the opposite of \"noisy\"?",
+                  "options": [
+                    "clean",
+                    "nice",
+                    "slow",
+                    "quiet"
+                  ],
+                  "answer": 3,
+                  "explanation": "Noisy ↔ quiet."
+                },
+                {
+                  "prompt": "A cheetah is ______; a tortoise is ______.",
+                  "options": [
+                    "slow / fast",
+                    "fast / slow",
+                    "large / small",
+                    "long / short"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cheetahs are fast."
+                },
+                {
+                  "prompt": "A snowman is ______.",
+                  "options": [
+                    "hot",
+                    "cold",
+                    "dirty",
+                    "noisy"
+                  ],
+                  "answer": 1,
+                  "explanation": "Snow is cold."
+                },
+                {
+                  "prompt": "A rock concert is ______.",
+                  "options": [
+                    "quiet",
+                    "clean",
+                    "noisy",
+                    "cold"
+                  ],
+                  "answer": 2,
+                  "explanation": "Concerts are loud/noisy."
+                },
+                {
+                  "prompt": "Flowers on a table are ______; a trash can full of garbage is ______.",
+                  "options": [
+                    "horrible / nice",
+                    "nice / horrible",
+                    "small / large",
+                    "clean / dirty"
+                  ],
+                  "answer": 1,
+                  "explanation": "Nice ↔ horrible."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "a house large",
+                    "a large house",
+                    "an house large",
+                    "large a house"
+                  ],
+                  "answer": 1,
+                  "explanation": "Adjective BEFORE the noun."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "They are very friendlies.",
+                    "They are very friendly.",
+                    "They are friendlys.",
+                    "They friendly are."
+                  ],
+                  "answer": 1,
+                  "explanation": "Adjectives have no plural form."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "The coffee is hot.",
+                    "The coffee hot is.",
+                    "Hot is the coffee it.",
+                    "The coffee are hot."
+                  ],
+                  "answer": 0,
+                  "explanation": "be + adjective."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "frendly",
+                    "friendly",
+                    "friendley",
+                    "freindly"
+                  ],
+                  "answer": 1,
+                  "explanation": "f-r-i-e-n-d-l-y."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "horible",
+                    "horrable",
+                    "horrible",
+                    "horribel"
+                  ],
+                  "answer": 2,
+                  "explanation": "h-o-r-r-i-b-l-e."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "My roommates are really friendly.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I live in a house large with eight students.",
+                  "correct": false,
+                  "fix": "I live in a large house with eight students.",
+                  "explanation": "Adjective before the noun."
+                },
+                {
+                  "sentence": "It’s only a short walk to school.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The library is always quiet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "After dinner there are a lot of dirties dishes.",
+                  "correct": false,
+                  "fix": "After dinner there are a lot of dirty dishes.",
+                  "explanation": "Adjectives don’t take -s."
+                },
+                {
+                  "sentence": "I have a hot tea for breakfast.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The house is sometimes noisy because they play music.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My teacher is very nice and friendly.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "This car is very fast but the bus is slowly.",
+                  "correct": false,
+                  "fix": "This car is very fast but the bus is slow.",
+                  "explanation": "Slow is the adjective; slowly is an adverb."
+                },
+                {
+                  "sentence": "It’s cold in the mornings in Seattle.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The kitchen is clean but the bathroom is dirty.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He has a small apartment near the university.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The people in my class are unfriendlies.",
+                  "correct": false,
+                  "fix": "The people in my class are unfriendly.",
+                  "explanation": "No plural on adjectives."
+                },
+                {
+                  "sentence": "The weather is horrible today.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She has long hair and a short brother.",
+                  "correct": true,
+                  "explanation": "Correct (grammatically!)."
+                },
+                {
+                  "sentence": "Is your coffee hot or cold?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My roommate is a friendly.",
+                  "correct": false,
+                  "fix": "My roommate is friendly.",
+                  "explanation": "No article before an adjective alone."
+                },
+                {
+                  "sentence": "The classroom is large and quiet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The music is very noisy in the evening.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I don’t like this restaurant. The food is horrible and the waiters are unfriendly.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "cold",
+                  "image": "/img/adjectives/cold.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"cold\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cold\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"cold\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cold\" → Weather / temperature."
+                    }
+                  ]
+                },
+                {
+                  "word": "hot",
+                  "image": "/img/adjectives/hot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"hot\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hot\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"hot\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Hot\" → Weather / temperature."
+                    }
+                  ]
+                },
+                {
+                  "word": "clean",
+                  "image": "/img/adjectives/clean.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"clean\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Clean\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"clean\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Clean\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "dirty",
+                  "image": "/img/adjectives/dirty.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"dirty\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Dirty\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"dirty\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Dirty\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "fast",
+                  "image": "/img/adjectives/fast.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"fast\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Fast\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"fast\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fast\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "slow",
+                  "image": "/img/adjectives/slow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"slow\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Slow\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"slow\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Slow\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "friendly",
+                  "image": "/img/adjectives/friendly.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"friendly\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Friendly\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"friendly\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Friendly\" → People."
+                    }
+                  ]
+                },
+                {
+                  "word": "unfriendly",
+                  "image": "/img/adjectives/unfriendly.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"unfriendly\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Unfriendly\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"unfriendly\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Unfriendly\" → People."
+                    }
+                  ]
+                },
+                {
+                  "word": "nice",
+                  "image": "/img/adjectives/nice.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"nice\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Nice\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"nice\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Nice\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "horrible",
+                  "image": "/img/adjectives/horrible.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"horrible\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Horrible\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"horrible\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Horrible\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "large",
+                  "image": "/img/adjectives/large.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"large\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Large\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"large\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Large\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "small",
+                  "image": "/img/adjectives/small.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"small\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Small\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"small\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Small\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "long",
+                  "image": "/img/adjectives/long.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"long\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Long\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"long\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Long\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "short",
+                  "image": "/img/adjectives/short.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"short\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Short\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"short\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Short\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "noisy",
+                  "image": "/img/adjectives/noisy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"noisy\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Noisy\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"noisy\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Noisy\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "quiet",
+                  "image": "/img/adjectives/quiet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"quiet\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Quiet\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"quiet\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Quiet\" → Things, places or sounds."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I live in a large house with eight students.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My roommates are really friendly.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s cold in the mornings, but it’s only a short walk.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There are a lot of dirty dishes after dinner.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The house is sometimes noisy, so I work in the library.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The library is always quiet.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, I’m Matt. I always have a hot tea for breakfast, then I go to school on foot. It’s only a short walk.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How does Matt go to school?",
+                  "options": [
+                    "By bus",
+                    "By car",
+                    "On foot",
+                    "By bike"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Anna: Is your new apartment large? Ben: No, it’s small, but it’s clean and very quiet.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is Ben’s apartment like?",
+                  "options": [
+                    "Large and noisy",
+                    "Small and dirty",
+                    "Small, clean and quiet",
+                    "Large and clean"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The people in my office are friendly, but my boss is a little unfriendly. He never says good morning.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is unfriendly?",
+                  "options": [
+                    "The people in the office",
+                    "The boss",
+                    "The speaker",
+                    "Nobody"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Kate: How’s the weather in Seattle? Tom: It’s cold and it rains a lot. It’s horrible today!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the weather like today?",
+                  "options": [
+                    "Hot and nice",
+                    "Cold and horrible",
+                    "Warm and quiet",
+                    "Hot and dirty"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Our new car is fast, but the old bus to school is very slow. It takes forty minutes.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is slow?",
+                  "options": [
+                    "The new car",
+                    "The school",
+                    "The old bus",
+                    "The walk"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Lisa: This restaurant is nice! The food is good and the waiters are friendly. Dan: Yes, but it’s a bit noisy.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the problem with the restaurant?",
+                  "options": [
+                    "The food is horrible",
+                    "The waiters are unfriendly",
+                    "It is noisy",
+                    "It is dirty"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "My House",
+                  "situation": "Describe your house or apartment and the people you live with. Use at least three adjectives.",
+                  "mandatory": [
+                    "large",
+                    "quiet",
+                    "friendly"
+                  ],
+                  "taboo": [
+                    "good",
+                    "bad"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Opposites Game",
+                  "situation": "Say a sentence with an adjective. Your partner answers with the opposite adjective in a new sentence.",
+                  "mandatory": [
+                    "hot",
+                    "clean",
+                    "fast"
+                  ],
+                  "taboo": [
+                    "not"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Worst Restaurant",
+                  "situation": "You had dinner at a horrible restaurant. Tell your friend everything that was wrong.",
+                  "mandatory": [
+                    "horrible",
+                    "dirty",
+                    "unfriendly"
+                  ],
+                  "taboo": [
+                    "terrible"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Perfect City",
+                  "situation": "Describe your perfect city: the weather, the people, the streets and the noise.",
+                  "mandatory": [
+                    "nice",
+                    "clean",
+                    "quiet"
+                  ],
+                  "taboo": [
+                    "beautiful"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Roommate Wanted",
+                  "situation": "You need a new roommate. Describe your house and the roommate you want.",
+                  "mandatory": [
+                    "small",
+                    "friendly",
+                    "noisy"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess the Animal",
+                  "situation": "Describe an animal with adjectives (fast, slow, large, small…). Your team guesses.",
+                  "mandatory": [
+                    "fast",
+                    "large",
+                    "small"
+                  ],
+                  "taboo": [
+                    "dog",
+                    "cat"
+                  ],
+                  "seconds": 45
+                }
+              ]
+            },
+            {
+              "id": "L1U4T6",
+              "name": "4C - Grammar: Simple Present Wh- Questions",
+              "steal": [
+                {
+                  "prompt": "______ does your brother go to the gym? — On Mondays.",
+                  "options": [
+                    "What",
+                    "When",
+                    "Who",
+                    "Why"
+                  ],
+                  "answer": 1,
+                  "explanation": "When = a day / time."
+                },
+                {
+                  "prompt": "______ time does the class start? — At nine.",
+                  "options": [
+                    "What",
+                    "When",
+                    "How",
+                    "Which"
+                  ],
+                  "answer": 0,
+                  "explanation": "What time = the hour."
+                },
+                {
+                  "prompt": "______ do you drink at work? — Coffee.",
+                  "options": [
+                    "Who",
+                    "Where",
+                    "What",
+                    "How"
+                  ],
+                  "answer": 2,
+                  "explanation": "What = a thing."
+                },
+                {
+                  "prompt": "______ do you work with? — With Julian.",
+                  "options": [
+                    "What",
+                    "Who",
+                    "Where",
+                    "When"
+                  ],
+                  "answer": 1,
+                  "explanation": "Who = a person."
+                },
+                {
+                  "prompt": "______ do you live? — In Seattle.",
+                  "options": [
+                    "Where",
+                    "When",
+                    "What",
+                    "How"
+                  ],
+                  "answer": 0,
+                  "explanation": "Where = a place."
+                },
+                {
+                  "prompt": "______ do you get up early on Saturday? — Because I work.",
+                  "options": [
+                    "Where",
+                    "How",
+                    "Who",
+                    "Why"
+                  ],
+                  "answer": 3,
+                  "explanation": "Why = a reason."
+                },
+                {
+                  "prompt": "______ keys do you have? — Three.",
+                  "options": [
+                    "How much",
+                    "How many",
+                    "How",
+                    "What"
+                  ],
+                  "answer": 1,
+                  "explanation": "How many = a number."
+                },
+                {
+                  "prompt": "______ is Julian? — He’s twenty-five.",
+                  "options": [
+                    "How old",
+                    "How many",
+                    "How",
+                    "What"
+                  ],
+                  "answer": 0,
+                  "explanation": "How old = age."
+                },
+                {
+                  "prompt": "______ do you get to work? — By bus.",
+                  "options": [
+                    "Why",
+                    "Where",
+                    "How",
+                    "When"
+                  ],
+                  "answer": 2,
+                  "explanation": "How = a manner."
+                },
+                {
+                  "prompt": "Choose the correct order.",
+                  "options": [
+                    "What you have for breakfast?",
+                    "What do you have for breakfast?",
+                    "What have you for breakfast?",
+                    "What do have you for breakfast?"
+                  ],
+                  "answer": 1,
+                  "explanation": "Question word + do + subject + verb."
+                },
+                {
+                  "prompt": "Choose the correct order.",
+                  "options": [
+                    "When does she see her friends?",
+                    "When she sees her friends?",
+                    "When does she sees her friends?",
+                    "When do she see her friends?"
+                  ],
+                  "answer": 0,
+                  "explanation": "She → does + base verb."
+                },
+                {
+                  "prompt": "Choose the correct order.",
+                  "options": [
+                    "Where do his parents work?",
+                    "Where does his parents work?",
+                    "Where his parents work?",
+                    "Where work his parents?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Parents (plural) → do."
+                },
+                {
+                  "prompt": "Choose the correct order.",
+                  "options": [
+                    "Why I am cold?",
+                    "Why am I cold?",
+                    "Why do I am cold?",
+                    "Why do I be cold?"
+                  ],
+                  "answer": 1,
+                  "explanation": "With be: question word + am/is/are + subject."
+                },
+                {
+                  "prompt": "Choose the correct order.",
+                  "options": [
+                    "What time is the bus?",
+                    "What time the bus is?",
+                    "What time does the bus is?",
+                    "What time do the bus?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Question word + is + subject."
+                },
+                {
+                  "prompt": "Choose the correct order.",
+                  "options": [
+                    "How do you are today?",
+                    "How you are today?",
+                    "How are you today?",
+                    "How are today you?"
+                  ],
+                  "answer": 2,
+                  "explanation": "How + are + you."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "Where does he lives?",
+                    "Where does he live?",
+                    "Where do he live?",
+                    "Where he lives?"
+                  ],
+                  "answer": 1,
+                  "explanation": "After does, use the base verb."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "Why is the house noisy?",
+                    "Why does the house noisy?",
+                    "Why the house is noisy?",
+                    "Why is noisy the house?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Adjective → verb be."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "Who do you live with?",
+                    "Who you live with?",
+                    "Who does you live with?",
+                    "Who live you with?"
+                  ],
+                  "answer": 0,
+                  "explanation": "You → do."
+                },
+                {
+                  "prompt": "Which question needs \"do/does\"?",
+                  "options": [
+                    "What time is it?",
+                    "How old are you?",
+                    "Where do you work?",
+                    "Why is it cold?"
+                  ],
+                  "answer": 2,
+                  "explanation": "Work is a main verb → do."
+                },
+                {
+                  "prompt": "Which question needs \"is/are\"?",
+                  "options": [
+                    "Where does she live?",
+                    "What do you drink?",
+                    "How old is your sister?",
+                    "When do they finish work?"
+                  ],
+                  "answer": 2,
+                  "explanation": "Age → be."
+                },
+                {
+                  "prompt": "\"Who do you work with?\" asks about…",
+                  "options": [
+                    "a place",
+                    "a person",
+                    "a reason",
+                    "a time"
+                  ],
+                  "answer": 1,
+                  "explanation": "Who = person."
+                },
+                {
+                  "prompt": "\"How many roommates do you have?\" asks about…",
+                  "options": [
+                    "an age",
+                    "a manner",
+                    "a number",
+                    "a thing"
+                  ],
+                  "answer": 2,
+                  "explanation": "How many = number."
+                },
+                {
+                  "prompt": "Complete: \"What ______ your roommates ______ in the evening?\"",
+                  "options": [
+                    "does / do",
+                    "do / do",
+                    "do / does",
+                    "are / do"
+                  ],
+                  "answer": 1,
+                  "explanation": "Roommates (plural) → do; main verb do."
+                },
+                {
+                  "prompt": "Complete: \"Why ______ the library always quiet?\"",
+                  "options": [
+                    "does",
+                    "do",
+                    "is",
+                    "are"
+                  ],
+                  "answer": 2,
+                  "explanation": "Quiet is an adjective → is."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "When does your brother go to the gym?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "What time the class starts?",
+                  "correct": false,
+                  "fix": "What time does the class start?",
+                  "explanation": "Need does + base verb."
+                },
+                {
+                  "sentence": "Who do you work with?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Where does his parents work?",
+                  "correct": false,
+                  "fix": "Where do his parents work?",
+                  "explanation": "Plural subject → do."
+                },
+                {
+                  "sentence": "Why do you get up early on Saturday?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "How many keys you have?",
+                  "correct": false,
+                  "fix": "How many keys do you have?",
+                  "explanation": "Missing do."
+                },
+                {
+                  "sentence": "How old is Julian?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Why I am cold?",
+                  "correct": false,
+                  "fix": "Why am I cold?",
+                  "explanation": "With be, invert: am I."
+                },
+                {
+                  "sentence": "What do you have for breakfast?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "When does she sees her friends?",
+                  "correct": false,
+                  "fix": "When does she see her friends?",
+                  "explanation": "Base verb after does."
+                },
+                {
+                  "sentence": "What time is the bus?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "How are you today?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Where do you live?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Why does the house is noisy?",
+                  "correct": false,
+                  "fix": "Why is the house noisy?",
+                  "explanation": "Adjective → use be, not does."
+                },
+                {
+                  "sentence": "How do you get to work?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "What does your roommate drink at work?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Who does live with you?",
+                  "correct": false,
+                  "fix": "Who lives with you? / Who do you live with?",
+                  "explanation": "Subject questions don’t use does."
+                },
+                {
+                  "sentence": "How old are your roommates?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Where is the library?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "What time do you finish work?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Why are the dishes dirty?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "How many students does live in the house?",
+                  "correct": false,
+                  "fix": "How many students live in the house?",
+                  "explanation": "Subject question → no does."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "cold",
+                  "image": "/img/adjectives/cold.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"cold\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cold\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"cold\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cold\" → Weather / temperature."
+                    }
+                  ]
+                },
+                {
+                  "word": "hot",
+                  "image": "/img/adjectives/hot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"hot\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hot\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"hot\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Hot\" → Weather / temperature."
+                    }
+                  ]
+                },
+                {
+                  "word": "clean",
+                  "image": "/img/adjectives/clean.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"clean\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Clean\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"clean\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Clean\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "dirty",
+                  "image": "/img/adjectives/dirty.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"dirty\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Dirty\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"dirty\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Dirty\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "fast",
+                  "image": "/img/adjectives/fast.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"fast\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Fast\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"fast\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Fast\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "slow",
+                  "image": "/img/adjectives/slow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"slow\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Slow\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"slow\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Slow\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "friendly",
+                  "image": "/img/adjectives/friendly.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"friendly\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Friendly\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"friendly\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Friendly\" → People."
+                    }
+                  ]
+                },
+                {
+                  "word": "unfriendly",
+                  "image": "/img/adjectives/unfriendly.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"unfriendly\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Unfriendly\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"unfriendly\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Unfriendly\" → People."
+                    }
+                  ]
+                },
+                {
+                  "word": "nice",
+                  "image": "/img/adjectives/nice.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"nice\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Nice\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"nice\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Nice\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "horrible",
+                  "image": "/img/adjectives/horrible.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"horrible\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Horrible\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"horrible\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Horrible\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "large",
+                  "image": "/img/adjectives/large.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"large\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Large\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"large\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Large\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "small",
+                  "image": "/img/adjectives/small.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"small\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Small\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"small\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Small\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "long",
+                  "image": "/img/adjectives/long.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"long\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Long\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"long\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Long\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "short",
+                  "image": "/img/adjectives/short.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"short\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Short\" → Neutral (it depends)."
+                    },
+                    {
+                      "prompt": "What can \"short\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Short\" → Size or length."
+                    }
+                  ]
+                },
+                {
+                  "word": "noisy",
+                  "image": "/img/adjectives/noisy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"noisy\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Noisy\" → Negative."
+                    },
+                    {
+                      "prompt": "What can \"noisy\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Noisy\" → Things, places or sounds."
+                    }
+                  ]
+                },
+                {
+                  "word": "quiet",
+                  "image": "/img/adjectives/quiet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"quiet\" a positive, negative or neutral adjective?",
+                      "options": [
+                        "Positive",
+                        "Negative",
+                        "Neutral (it depends)",
+                        "Not an adjective"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Quiet\" → Positive."
+                    },
+                    {
+                      "prompt": "What can \"quiet\" describe best?",
+                      "options": [
+                        "Weather / temperature",
+                        "People",
+                        "Size or length",
+                        "Things, places or sounds"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Quiet\" → Things, places or sounds."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "When does your brother go to the gym?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "What time does the class start?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Who do you work with?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Why do you get up early on Saturday?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "How many keys do you have?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "How old is Julian?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Interviewer: Where do you live, Matt? Matt: In Seattle, in a large house with eight students.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What question does the interviewer ask?",
+                  "options": [
+                    "When do you live?",
+                    "Where do you live?",
+                    "Who do you live with?",
+                    "How old are you?"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Anna: What time does the bus leave? Ben: At half past eight. Anna: And how do you get to the bus stop? Ben: I walk.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How does Ben get to the bus stop?",
+                  "options": [
+                    "By car",
+                    "By bike",
+                    "He walks",
+                    "By taxi"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Kate: Why is the house so noisy? Tom: Because my roommates play music every evening.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why is the house noisy?",
+                  "options": [
+                    "The TV is on",
+                    "The roommates play music",
+                    "The street is busy",
+                    "The dog barks"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Lisa: Who do you have lunch with? Dan: With Julian and Maria. We usually eat in the park.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where do they usually have lunch?",
+                  "options": [
+                    "At work",
+                    "In the park",
+                    "At home",
+                    "In a restaurant"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Paul: How many roommates do you have? Emma: Three. Paul: And how old are they? Emma: They’re all twenty.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many roommates does Emma have?",
+                  "options": [
+                    "Two",
+                    "Three",
+                    "Four",
+                    "Eight"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Sam: What do you drink at work? Julia: Coffee in the morning and tea in the afternoon. I never drink soda.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does Julia drink in the afternoon?",
+                  "options": [
+                    "Coffee",
+                    "Soda",
+                    "Tea",
+                    "Water"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Interview a Classmate",
+                  "situation": "Ask your partner five wh- questions about their daily life. Your partner answers in full sentences.",
+                  "mandatory": [
+                    "Where do you",
+                    "What time do you",
+                    "Who do you"
+                  ],
+                  "taboo": [
+                    "yes",
+                    "no"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The New Neighbour",
+                  "situation": "You meet a new neighbour. Ask questions to find out about their job, family and routine.",
+                  "mandatory": [
+                    "Where",
+                    "How old",
+                    "Why"
+                  ],
+                  "taboo": [
+                    "name"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Twenty Questions",
+                  "situation": "Your partner thinks of a famous person. Ask wh- questions to guess who it is.",
+                  "mandatory": [
+                    "Where does",
+                    "What does",
+                    "How old is"
+                  ],
+                  "taboo": [
+                    "famous"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Job Interview",
+                  "situation": "You are the boss. Interview your partner for a job at a café. Ask about experience and routine.",
+                  "mandatory": [
+                    "What time do you",
+                    "How do you",
+                    "When do you"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lost Tourist",
+                  "situation": "A tourist asks you questions about your city: the bus, the time, the places. Answer politely.",
+                  "mandatory": [
+                    "What time is",
+                    "Where is",
+                    "How many"
+                  ],
+                  "taboo": [
+                    "I don’t know"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Ask the Teacher",
+                  "situation": "Prepare five wh- questions for your teacher about their life and routine, then ask them!",
+                  "mandatory": [
+                    "Why do you",
+                    "Who do you",
+                    "What do you"
+                  ],
+                  "taboo": [
+                    "school"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
