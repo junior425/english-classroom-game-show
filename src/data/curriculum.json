@@ -6834,6 +6834,2010 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U5T3",
+              "name": "5A - Vocabulary: Common Verbs (2)",
+              "steal": [
+                {
+                  "prompt": "Simon ______ Portuguese and Spanish.",
+                  "options": [
+                    "plays",
+                    "speaks",
+                    "sings",
+                    "drives"
+                  ],
+                  "answer": 1,
+                  "explanation": "Speak a language."
+                },
+                {
+                  "prompt": "I ______ salsa on the weekend.",
+                  "options": [
+                    "play",
+                    "swim",
+                    "dance",
+                    "cook"
+                  ],
+                  "answer": 2,
+                  "explanation": "Dance salsa."
+                },
+                {
+                  "prompt": "Sharon can ______ basketball very well.",
+                  "options": [
+                    "play",
+                    "do",
+                    "make",
+                    "dance"
+                  ],
+                  "answer": 0,
+                  "explanation": "Play + sport."
+                },
+                {
+                  "prompt": "My father ______ a bus. He’s a bus driver.",
+                  "options": [
+                    "travels",
+                    "drives",
+                    "takes care of",
+                    "arrives"
+                  ],
+                  "answer": 1,
+                  "explanation": "Drive a bus / a car."
+                },
+                {
+                  "prompt": "I always ______ my son with his homework.",
+                  "options": [
+                    "give",
+                    "call",
+                    "help",
+                    "meet"
+                  ],
+                  "answer": 2,
+                  "explanation": "Help someone with something."
+                },
+                {
+                  "prompt": "We usually ______ at 8 a.m. at the office.",
+                  "options": [
+                    "arrive",
+                    "travel",
+                    "meet",
+                    "take care"
+                  ],
+                  "answer": 0,
+                  "explanation": "Arrive at + place."
+                },
+                {
+                  "prompt": "I sometimes ______ my friend’s dog when she travels.",
+                  "options": [
+                    "help",
+                    "take care of",
+                    "give",
+                    "call"
+                  ],
+                  "answer": 1,
+                  "explanation": "Take care of = look after."
+                },
+                {
+                  "prompt": "We ______ music with my friends on Saturdays.",
+                  "options": [
+                    "sing",
+                    "play",
+                    "cook",
+                    "give"
+                  ],
+                  "answer": 1,
+                  "explanation": "Play music / an instrument."
+                },
+                {
+                  "prompt": "I always ______ my mother on Sundays. We talk for an hour.",
+                  "options": [
+                    "meet",
+                    "help",
+                    "call",
+                    "give"
+                  ],
+                  "answer": 2,
+                  "explanation": "Call = phone."
+                },
+                {
+                  "prompt": "You never ______ me flowers!",
+                  "options": [
+                    "help",
+                    "take",
+                    "give",
+                    "meet"
+                  ],
+                  "answer": 2,
+                  "explanation": "Give someone something."
+                },
+                {
+                  "prompt": "Lucía ______ delicious fish. She’s a great cook.",
+                  "options": [
+                    "plays",
+                    "cooks",
+                    "sings",
+                    "drives"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cook fish / dinner."
+                },
+                {
+                  "prompt": "She ______ the piano. She practices every day.",
+                  "options": [
+                    "plays",
+                    "sings",
+                    "dances",
+                    "drives"
+                  ],
+                  "answer": 0,
+                  "explanation": "Play the piano (with \"the\")."
+                },
+                {
+                  "prompt": "My parents ______ in Italy every summer. They love it there.",
+                  "options": [
+                    "arrive",
+                    "travel",
+                    "call",
+                    "drive"
+                  ],
+                  "answer": 1,
+                  "explanation": "Travel in / to a place."
+                },
+                {
+                  "prompt": "We ______ our friends at the café after class.",
+                  "options": [
+                    "give",
+                    "call",
+                    "meet",
+                    "help"
+                  ],
+                  "answer": 2,
+                  "explanation": "Meet friends."
+                },
+                {
+                  "prompt": "In summer we ______ in the ocean every morning.",
+                  "options": [
+                    "dance",
+                    "travel",
+                    "swim",
+                    "play"
+                  ],
+                  "answer": 2,
+                  "explanation": "Swim in the ocean / pool."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "play the soccer",
+                    "play soccer",
+                    "play a soccer",
+                    "play at soccer"
+                  ],
+                  "answer": 1,
+                  "explanation": "Sports: no article."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "play piano the",
+                    "play a piano",
+                    "play the piano",
+                    "play at piano"
+                  ],
+                  "answer": 2,
+                  "explanation": "Instruments: play THE piano."
+                },
+                {
+                  "prompt": "I ______ my grandmother with the shopping every Friday.",
+                  "options": [
+                    "help",
+                    "meet",
+                    "give",
+                    "call"
+                  ],
+                  "answer": 0,
+                  "explanation": "Help someone with something."
+                },
+                {
+                  "prompt": "The plane ______ at the airport at 10:30.",
+                  "options": [
+                    "travels",
+                    "arrives",
+                    "drives",
+                    "meets"
+                  ],
+                  "answer": 1,
+                  "explanation": "Arrive at the airport."
+                },
+                {
+                  "prompt": "We ______ by bus to the beach. It’s cheap.",
+                  "options": [
+                    "drive",
+                    "arrive",
+                    "travel",
+                    "swim"
+                  ],
+                  "answer": 2,
+                  "explanation": "Travel BY bus."
+                },
+                {
+                  "prompt": "He ______ a gift to his teacher every year.",
+                  "options": [
+                    "helps",
+                    "takes",
+                    "gives",
+                    "calls"
+                  ],
+                  "answer": 2,
+                  "explanation": "Give a gift."
+                },
+                {
+                  "prompt": "Ana ______ very well — she is in a band.",
+                  "options": [
+                    "sings",
+                    "swims",
+                    "drives",
+                    "meets"
+                  ],
+                  "answer": 0,
+                  "explanation": "Sing in a band."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "grandmather",
+                    "grandmother",
+                    "granmother",
+                    "grandmoter"
+                  ],
+                  "answer": 1,
+                  "explanation": "g-r-a-n-d-m-o-t-h-e-r."
+                },
+                {
+                  "prompt": "\"Look after\" means the same as ______.",
+                  "options": [
+                    "give",
+                    "call",
+                    "meet",
+                    "take care of"
+                  ],
+                  "answer": 3,
+                  "explanation": "Take care of = look after."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Simon speaks Portuguese.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I dance salsa on the weekend.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Sharon plays the basketball.",
+                  "correct": false,
+                  "fix": "Sharon plays basketball.",
+                  "explanation": "Sports: no \"the\"."
+                },
+                {
+                  "sentence": "My father drives a bus.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I always help my son with his homework.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We usually arrive to the office at 8.",
+                  "correct": false,
+                  "fix": "We usually arrive at the office at 8.",
+                  "explanation": "Arrive AT a place."
+                },
+                {
+                  "sentence": "I sometimes take care my friend’s dog.",
+                  "correct": false,
+                  "fix": "I sometimes take care of my friend’s dog.",
+                  "explanation": "Take care OF."
+                },
+                {
+                  "sentence": "We play music with our friends.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I always call my mother on Sundays.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "You never give me flowers!",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Lucía cooks delicious fish.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She plays piano every day.",
+                  "correct": false,
+                  "fix": "She plays the piano every day.",
+                  "explanation": "Instruments: play THE piano."
+                },
+                {
+                  "sentence": "My parents travel in Italy every summer.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We meet with our friends at the café.",
+                  "correct": true,
+                  "explanation": "Correct (meet / meet with)."
+                },
+                {
+                  "sentence": "We swim in the ocean every morning.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He gives a gift to his teacher.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We travel in bus to the beach.",
+                  "correct": false,
+                  "fix": "We travel by bus to the beach.",
+                  "explanation": "Travel BY bus."
+                },
+                {
+                  "sentence": "She sing very well.",
+                  "correct": false,
+                  "fix": "She sings very well.",
+                  "explanation": "Third person -s."
+                },
+                {
+                  "sentence": "I speak Italian and English.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He drive a car to work.",
+                  "correct": false,
+                  "fix": "He drives a car to work.",
+                  "explanation": "Third person -s."
+                },
+                {
+                  "sentence": "The plane arrives at the airport at 10:30.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I help to my grandmother every Friday.",
+                  "correct": false,
+                  "fix": "I help my grandmother every Friday.",
+                  "explanation": "Help + person (no \"to\")."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "arrive at the airport",
+                  "image": "/img/verbs/arrive-at-the-airport.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Arrive at the airport\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Arrive at the airport\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"arrive at the airport\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Arrive at the airport\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "call my mother",
+                  "image": "/img/verbs/call-my-mother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Call my mother\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Call my mother\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"call my mother\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Call my mother\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "take care of my daughter",
+                  "image": "/img/verbs/take-care-of-my-daughter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Take care of my daughter\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take care of my daughter\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"take care of my daughter\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take care of my daughter\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "cook fish",
+                  "image": "/img/verbs/cook-fish.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Cook fish\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Cook fish\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"cook fish\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cook fish\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "dance salsa",
+                  "image": "/img/verbs/dance-salsa.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Dance salsa\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Dance salsa\" → Music & art."
+                    },
+                    {
+                      "prompt": "Where do you usually \"dance salsa\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Dance salsa\" → At a party or event."
+                    }
+                  ]
+                },
+                {
+                  "word": "drive a car",
+                  "image": "/img/verbs/drive-a-car.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Drive a car\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Drive a car\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"drive a car\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Drive a car\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "give a gift",
+                  "image": "/img/verbs/give-a-gift.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Give a gift\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Give a gift\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"give a gift\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Give a gift\" → At a party or event."
+                    }
+                  ]
+                },
+                {
+                  "word": "help my grandmother",
+                  "image": "/img/verbs/help-my-grandmother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Help my grandmother\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Help my grandmother\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"help my grandmother\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Help my grandmother\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "meet friends",
+                  "image": "/img/verbs/meet-friends.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Meet friends\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Meet friends\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"meet friends\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Meet friends\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "play soccer",
+                  "image": "/img/verbs/play-soccer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Play soccer\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Play soccer\" → Sports & body."
+                    },
+                    {
+                      "prompt": "Where do you usually \"play soccer\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Play soccer\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "play the piano",
+                  "image": "/img/verbs/play-the-piano.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Play the piano\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Play the piano\" → Music & art."
+                    },
+                    {
+                      "prompt": "Where do you usually \"play the piano\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Play the piano\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "sing",
+                  "image": "/img/verbs/sing.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Sing\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sing\" → Music & art."
+                    },
+                    {
+                      "prompt": "Where do you usually \"sing\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Sing\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "speak Italian",
+                  "image": "/img/verbs/speak-italian.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Speak Italian\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Speak Italian\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"speak Italian\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Speak Italian\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "swim in the ocean",
+                  "image": "/img/verbs/swim-in-the-ocean.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Swim in the ocean\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Swim in the ocean\" → Sports & body."
+                    },
+                    {
+                      "prompt": "Where do you usually \"swim in the ocean\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Swim in the ocean\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "travel by bus",
+                  "image": "/img/verbs/travel-by-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Travel by bus\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Travel by bus\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"travel by bus\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Travel by bus\" → Outside / in town."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I always call my mother on Sundays.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My father drives a bus.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We meet friends at the café after class.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She plays the piano every day.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We travel by bus to the beach.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I help my grandmother with the shopping.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "On Saturdays I play soccer in the morning and I meet my friends in the afternoon. In the evening I cook fish for my family.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the speaker do in the evening?",
+                  "options": [
+                    "Plays soccer",
+                    "Meets friends",
+                    "Cooks fish",
+                    "Swims"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My sister is very busy. She takes care of her daughter, she helps my grandmother, and she calls my mother every day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who does the sister take care of?",
+                  "options": [
+                    "Her daughter",
+                    "Her grandmother",
+                    "Her mother",
+                    "Her dog"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "We arrive at the airport at ten thirty. Then we travel by bus to the hotel and swim in the ocean.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How do they go to the hotel?",
+                  "options": [
+                    "By car",
+                    "By taxi",
+                    "By bus",
+                    "By train"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Paolo speaks Italian and sings in a band. He can’t dance salsa, but he plays the piano really well.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can’t Paolo do?",
+                  "options": [
+                    "Sing",
+                    "Speak Italian",
+                    "Play the piano",
+                    "Dance salsa"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "It’s my mother’s birthday today. I give her a gift and we dance salsa at the party.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do they do at the party?",
+                  "options": [
+                    "Swim",
+                    "Dance salsa",
+                    "Play soccer",
+                    "Cook"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I never drive a car in the city. I travel by bus or I meet my friends and we walk.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How does the speaker travel in the city?",
+                  "options": [
+                    "By car",
+                    "By bus or on foot",
+                    "By bike",
+                    "By taxi"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "My Weekend",
+                  "situation": "Tell your partner five things you do on the weekend using the verbs from the lesson.",
+                  "mandatory": [
+                    "meet friends",
+                    "play",
+                    "cook"
+                  ],
+                  "taboo": [
+                    "sleep"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Family Helpers",
+                  "situation": "Describe how you help people in your family.",
+                  "mandatory": [
+                    "help",
+                    "take care of",
+                    "call"
+                  ],
+                  "taboo": [
+                    "work"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Travel Day",
+                  "situation": "Describe a travel day: how you travel, when you arrive and what you do.",
+                  "mandatory": [
+                    "travel by",
+                    "arrive at",
+                    "swim"
+                  ],
+                  "taboo": [
+                    "plane"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Birthday Party",
+                  "situation": "You are at a friend’s birthday party. Describe what people do there.",
+                  "mandatory": [
+                    "give a gift",
+                    "dance",
+                    "sing"
+                  ],
+                  "taboo": [
+                    "cake"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Talent Show",
+                  "situation": "Present yourself for a talent show: what you play, sing or dance.",
+                  "mandatory": [
+                    "play the piano",
+                    "sing",
+                    "dance salsa"
+                  ],
+                  "taboo": [
+                    "good"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Guess the Verb",
+                  "situation": "Mime three of the verbs from the lesson. Your team says the full phrase.",
+                  "mandatory": [
+                    "drive a car",
+                    "speak Italian",
+                    "play soccer"
+                  ],
+                  "taboo": [
+                    "verb"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U5T4",
+              "name": "5A - Grammar: Can & Can't",
+              "steal": [
+                {
+                  "prompt": "I ______ play the piano. I practice every day.",
+                  "options": [
+                    "can",
+                    "can’t",
+                    "am can",
+                    "cans"
+                  ],
+                  "answer": 0,
+                  "explanation": "Can = ability."
+                },
+                {
+                  "prompt": "My grandmother ______ drive. She never learned.",
+                  "options": [
+                    "can",
+                    "can’t",
+                    "doesn’t can",
+                    "not can"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can’t = no ability."
+                },
+                {
+                  "prompt": "______ you speak Portuguese?",
+                  "options": [
+                    "Do can",
+                    "Can",
+                    "Are",
+                    "Do"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can before the subject in questions."
+                },
+                {
+                  "prompt": "What ______ he cook?",
+                  "options": [
+                    "can",
+                    "does can",
+                    "can he",
+                    "is"
+                  ],
+                  "answer": 0,
+                  "explanation": "What can he cook?"
+                },
+                {
+                  "prompt": "She ______ Italian very well.",
+                  "options": [
+                    "can speaks",
+                    "cans speak",
+                    "can speak",
+                    "can to speak"
+                  ],
+                  "answer": 2,
+                  "explanation": "Can + base verb (no -s, no \"to\")."
+                },
+                {
+                  "prompt": "Can he cook Chinese food? — Yes, he ______.",
+                  "options": [
+                    "can",
+                    "does",
+                    "cans",
+                    "is"
+                  ],
+                  "answer": 0,
+                  "explanation": "Short answer: Yes, he can."
+                },
+                {
+                  "prompt": "Can they swim? — No, they ______.",
+                  "options": [
+                    "don’t",
+                    "can’t",
+                    "aren’t",
+                    "not can"
+                  ],
+                  "answer": 1,
+                  "explanation": "Short answer: No, they can’t."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "He can swims.",
+                    "He cans swim.",
+                    "He can swim.",
+                    "He can to swim."
+                  ],
+                  "answer": 2,
+                  "explanation": "Can + base form for all subjects."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "I can’t play the violin.",
+                    "I don’t can play the violin.",
+                    "I can’t to play the violin.",
+                    "I no can play the violin."
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative: can’t + base verb."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "You can dance salsa?",
+                    "Can you dance salsa?",
+                    "Do you can dance salsa?",
+                    "Can dance you salsa?"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can + subject + verb."
+                },
+                {
+                  "prompt": "We use can/can’t with ______ to say we are good at something.",
+                  "options": [
+                    "good",
+                    "well",
+                    "nice",
+                    "very"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"She can speak English well.\""
+                },
+                {
+                  "prompt": "She can speak English ______.",
+                  "options": [
+                    "good",
+                    "well",
+                    "goodly",
+                    "best"
+                  ],
+                  "answer": 1,
+                  "explanation": "Adverb: well."
+                },
+                {
+                  "prompt": "They ______ swim well, so they don’t go to the ocean.",
+                  "options": [
+                    "can",
+                    "can’t",
+                    "can not to",
+                    "don’t can"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can’t swim well."
+                },
+                {
+                  "prompt": "\"Cannot\" is the long form of ______.",
+                  "options": [
+                    "can",
+                    "can’t",
+                    "couldn’t",
+                    "don’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can’t = cannot."
+                },
+                {
+                  "prompt": "My brother can ______ a gift really well — he chooses perfect presents.",
+                  "options": [
+                    "gives",
+                    "give",
+                    "to give",
+                    "giving"
+                  ],
+                  "answer": 1,
+                  "explanation": "Base form after can."
+                },
+                {
+                  "prompt": "Can your mother ______ fish? — Yes, she ______.",
+                  "options": [
+                    "cooks / can",
+                    "cook / can",
+                    "cook / does",
+                    "cooking / can"
+                  ],
+                  "answer": 1,
+                  "explanation": "Base verb + short answer with can."
+                },
+                {
+                  "prompt": "I/You/He/She/It/We/They ______ swim. Which is true about \"can\"?",
+                  "options": [
+                    "It changes for he/she/it",
+                    "It is the same for all subjects",
+                    "It needs \"do\"",
+                    "It needs \"to\""
+                  ],
+                  "answer": 1,
+                  "explanation": "Same form for everyone."
+                },
+                {
+                  "prompt": "______ can you meet me? — At the café at 6.",
+                  "options": [
+                    "Where",
+                    "What",
+                    "Who",
+                    "Why"
+                  ],
+                  "answer": 0,
+                  "explanation": "Where can you meet me?"
+                },
+                {
+                  "prompt": "Which is the correct negative?",
+                  "options": [
+                    "She can’t drive a car.",
+                    "She can’t drives a car.",
+                    "She doesn’t can drive.",
+                    "She isn’t can drive."
+                  ],
+                  "answer": 0,
+                  "explanation": "Can’t + base verb."
+                },
+                {
+                  "prompt": "Tom can sing but he ______ dance.",
+                  "options": [
+                    "can",
+                    "can’t",
+                    "don’t",
+                    "isn’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "Contrast: can … but can’t."
+                },
+                {
+                  "prompt": "Can you help me with my homework? — Sorry, I ______ right now.",
+                  "options": [
+                    "can’t",
+                    "don’t",
+                    "not",
+                    "no can"
+                  ],
+                  "answer": 0,
+                  "explanation": "Short answer: I can’t."
+                },
+                {
+                  "prompt": "\"My daughter can swim in the ocean.\" Here \"can\" talks about…",
+                  "options": [
+                    "permission only",
+                    "ability",
+                    "the past",
+                    "the future"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can = ability."
+                },
+                {
+                  "prompt": "How ______ can she speak Italian? — Very well!",
+                  "options": [
+                    "good",
+                    "many",
+                    "well",
+                    "much"
+                  ],
+                  "answer": 2,
+                  "explanation": "How well…?"
+                },
+                {
+                  "prompt": "Which word order is correct?",
+                  "options": [
+                    "Can speak you Italian?",
+                    "You can speak Italian?",
+                    "Can you speak Italian?",
+                    "Speak you can Italian?"
+                  ],
+                  "answer": 2,
+                  "explanation": "Can + subject + verb."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I can play the piano.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My grandmother can’t drive.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Can you speak Portuguese?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "What can he cook?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She can speaks Italian.",
+                  "correct": false,
+                  "fix": "She can speak Italian.",
+                  "explanation": "No -s after can."
+                },
+                {
+                  "sentence": "He cans swim very well.",
+                  "correct": false,
+                  "fix": "He can swim very well.",
+                  "explanation": "Can never takes -s."
+                },
+                {
+                  "sentence": "I can to dance salsa.",
+                  "correct": false,
+                  "fix": "I can dance salsa.",
+                  "explanation": "No \"to\" after can."
+                },
+                {
+                  "sentence": "Do you can play soccer?",
+                  "correct": false,
+                  "fix": "Can you play soccer?",
+                  "explanation": "No \"do\" with can."
+                },
+                {
+                  "sentence": "Yes, he can.",
+                  "correct": true,
+                  "explanation": "Correct short answer."
+                },
+                {
+                  "sentence": "No, they can’t.",
+                  "correct": true,
+                  "explanation": "Correct short answer."
+                },
+                {
+                  "sentence": "She can speak English well.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They can’t swim good.",
+                  "correct": false,
+                  "fix": "They can’t swim well.",
+                  "explanation": "Use the adverb \"well\"."
+                },
+                {
+                  "sentence": "We can meet friends at the café tonight.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I don’t can cook fish.",
+                  "correct": false,
+                  "fix": "I can’t cook fish.",
+                  "explanation": "Negative: can’t."
+                },
+                {
+                  "sentence": "My daughter can’t drive a car yet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Can your father drives a bus?",
+                  "correct": false,
+                  "fix": "Can your father drive a bus?",
+                  "explanation": "Base verb after can."
+                },
+                {
+                  "sentence": "My friends can sing and dance.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Where can we swim in the ocean?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I no can help you today.",
+                  "correct": false,
+                  "fix": "I can’t help you today.",
+                  "explanation": "Negative: can’t."
+                },
+                {
+                  "sentence": "She can play the piano and the guitar well.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Can she travel by bus alone? — Yes, she can.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He can’t speak Italian, but he can speak Spanish.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "arrive at the airport",
+                  "image": "/img/verbs/arrive-at-the-airport.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Arrive at the airport\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Arrive at the airport\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"arrive at the airport\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Arrive at the airport\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "call my mother",
+                  "image": "/img/verbs/call-my-mother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Call my mother\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Call my mother\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"call my mother\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Call my mother\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "take care of my daughter",
+                  "image": "/img/verbs/take-care-of-my-daughter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Take care of my daughter\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take care of my daughter\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"take care of my daughter\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take care of my daughter\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "cook fish",
+                  "image": "/img/verbs/cook-fish.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Cook fish\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Cook fish\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"cook fish\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cook fish\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "dance salsa",
+                  "image": "/img/verbs/dance-salsa.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Dance salsa\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Dance salsa\" → Music & art."
+                    },
+                    {
+                      "prompt": "Where do you usually \"dance salsa\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Dance salsa\" → At a party or event."
+                    }
+                  ]
+                },
+                {
+                  "word": "drive a car",
+                  "image": "/img/verbs/drive-a-car.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Drive a car\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Drive a car\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"drive a car\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Drive a car\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "give a gift",
+                  "image": "/img/verbs/give-a-gift.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Give a gift\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Give a gift\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"give a gift\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Give a gift\" → At a party or event."
+                    }
+                  ]
+                },
+                {
+                  "word": "help my grandmother",
+                  "image": "/img/verbs/help-my-grandmother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Help my grandmother\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Help my grandmother\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"help my grandmother\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Help my grandmother\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "meet friends",
+                  "image": "/img/verbs/meet-friends.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Meet friends\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Meet friends\" → People & family."
+                    },
+                    {
+                      "prompt": "Where do you usually \"meet friends\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Meet friends\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "play soccer",
+                  "image": "/img/verbs/play-soccer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Play soccer\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Play soccer\" → Sports & body."
+                    },
+                    {
+                      "prompt": "Where do you usually \"play soccer\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Play soccer\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "play the piano",
+                  "image": "/img/verbs/play-the-piano.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Play the piano\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Play the piano\" → Music & art."
+                    },
+                    {
+                      "prompt": "Where do you usually \"play the piano\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Play the piano\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "sing",
+                  "image": "/img/verbs/sing.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Sing\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sing\" → Music & art."
+                    },
+                    {
+                      "prompt": "Where do you usually \"sing\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Sing\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "speak Italian",
+                  "image": "/img/verbs/speak-italian.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Speak Italian\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Speak Italian\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"speak Italian\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Speak Italian\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "swim in the ocean",
+                  "image": "/img/verbs/swim-in-the-ocean.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Swim in the ocean\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Swim in the ocean\" → Sports & body."
+                    },
+                    {
+                      "prompt": "Where do you usually \"swim in the ocean\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Swim in the ocean\" → Outside / in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "travel by bus",
+                  "image": "/img/verbs/travel-by-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "\"Travel by bus\" — what kind of activity is it?",
+                      "options": [
+                        "Music & art",
+                        "Sports & body",
+                        "People & family",
+                        "Travel & everyday life"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Travel by bus\" → Travel & everyday life."
+                    },
+                    {
+                      "prompt": "Where do you usually \"travel by bus\"?",
+                      "options": [
+                        "At home",
+                        "Outside / in town",
+                        "At a party or event",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Travel by bus\" → Outside / in town."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I can play the piano.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My grandmother can’t drive.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can you speak Portuguese?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "What can he cook?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She can speak English well.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They can’t swim well.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, I’m Marta. I can speak Spanish and Italian, and I can cook fish very well. But I can’t sing and I can’t drive.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What can Marta do?",
+                  "options": [
+                    "Sing",
+                    "Drive",
+                    "Cook fish",
+                    "Swim"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Can you play the piano, Tom? — No, I can’t. But I can play the guitar and I can sing.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can Tom play?",
+                  "options": [
+                    "The piano",
+                    "The guitar",
+                    "The violin",
+                    "Nothing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My daughter is six. She can swim in the pool, but she can’t swim in the ocean yet.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where can the daughter swim?",
+                  "options": [
+                    "In the ocean",
+                    "In the pool",
+                    "In the river",
+                    "Nowhere"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Can your grandmother dance salsa? — Yes, she can! She dances very well. But she can’t drive a car.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can’t the grandmother do?",
+                  "options": [
+                    "Dance salsa",
+                    "Dance well",
+                    "Drive a car",
+                    "Speak"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Excuse me, can you help me? I can’t find the platform for the bus to the airport.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the speaker’s problem?",
+                  "options": [
+                    "He can’t drive",
+                    "He can’t find the platform",
+                    "He can’t speak English",
+                    "He can’t swim"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "In our family everyone can cook. My father can cook fish, my mother can cook pasta and I can cook eggs. Only the dog can’t cook!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who can’t cook?",
+                  "options": [
+                    "The father",
+                    "The mother",
+                    "The speaker",
+                    "The dog"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "What Can You Do?",
+                  "situation": "Tell your partner three things you can do and two things you can’t do.",
+                  "mandatory": [
+                    "I can",
+                    "I can’t",
+                    "well"
+                  ],
+                  "taboo": [
+                    "good"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Interview",
+                  "situation": "Ask your partner five \"Can you…?\" questions and report the answers to the class.",
+                  "mandatory": [
+                    "Can you",
+                    "Yes, I can",
+                    "No, I can’t"
+                  ],
+                  "taboo": [
+                    "do you"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Job Application",
+                  "situation": "You want a job in a hotel. Tell the manager what you can do (languages, cooking, driving…).",
+                  "mandatory": [
+                    "I can speak",
+                    "I can drive",
+                    "I can cook"
+                  ],
+                  "taboo": [
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Superhero",
+                  "situation": "Invent a superhero and describe what he or she can and can’t do.",
+                  "mandatory": [
+                    "He can",
+                    "She can’t",
+                    "very well"
+                  ],
+                  "taboo": [
+                    "fly"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Family Talents",
+                  "situation": "Describe what the people in your family can and can’t do.",
+                  "mandatory": [
+                    "can play",
+                    "can’t drive",
+                    "can sing"
+                  ],
+                  "taboo": [
+                    "work"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Find Someone Who…",
+                  "situation": "Ask the other team questions to find someone who can dance salsa, swim in the ocean and speak Italian.",
+                  "mandatory": [
+                    "Can you",
+                    "dance salsa",
+                    "speak Italian"
+                  ],
+                  "taboo": [
+                    "please"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
