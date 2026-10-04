@@ -68,13 +68,13 @@
     <h1>English Game Show</h1>
     <p style="font-size:13pt;color:#e8e2ff;max-width:130mm">Portal web de juegos competitivos de inglés para pantallas gigantes de salón<br>(Split-Screen · Equipo vs Equipo)</p>
     <div style="margin-top:24pt">
-      <span class="badge">7 modos de juego</span>
-      <span class="badge">6 niveles · 72 unidades · 146 topics</span>
+      <span class="badge">8 modos de juego</span>
+      <span class="badge">6 niveles · 72 unidades · 163 topics</span>
       <span class="badge">100 % en inglés</span>
     </div>
     <div class="url">Aplicación: <b>https://english-classroom-game-show.vercel.app</b><br>
       Código fuente: <b>github.com/junior425/english-classroom-game-show</b></div>
-    <p style="margin-top:36pt;font-size:10pt;color:#bbb">Guía para el profesor · Versión 1.0 · Septiembre 2026</p>
+    <p style="margin-top:36pt;font-size:10pt;color:#bbb">Guía para el profesor · Versión 1.1 · Octubre 2026</p>
   </div>
 </div>
 
@@ -84,7 +84,7 @@
   <ol class="toc">
     <li><b>Introducción y arquitectura</b>
       <ul><li>¿Qué es English Game Show?</li><li>Arquitectura técnica</li><li>El menú jerárquico: Level → Unit → Topic</li><li>Flujo de trabajo: del libro de texto al juego</li><li>El marcador gigante (Scoreboard)</li></ul></li>
-    <li><b>Guía detallada de los 7 modos de juego</b>
+    <li><b>Guía detallada de los 8 modos de juego</b>
       <ul>
         <li>Modo 1: Point Steal (Robo de Puntos)</li>
         <li>Modo 2: Grammar Auction (Subasta Gramatical)</li>
@@ -93,6 +93,7 @@
         <li>Modo 5: Picture Quiz (Quiz de Vocabulario Visual)</li>
         <li>Modo 6: Audio Detective (Comprensión Auditiva &amp; Dictado)</li>
         <li>Modo 7: Speaking Roleplay &amp; Taboo (Fluidez Oral)</li>
+        <li>Modo 8: 15-Minute Arcade Speed (Calentamiento de 15 minutos)</li>
       </ul></li>
     <li><b>Instrucciones de operación en el aula</b>
       <ul><li>Proyección y pantalla completa (F11)</li><li>Manejo de marcadores</li><li>Audio: efectos (Tone.js) y voces (Web Speech API / ElevenLabs)</li><li>Rutina sugerida para una clase</li><li>Solución de problemas</li></ul></li>
@@ -135,7 +136,7 @@
     <div><b>3. Topic / Grammar</b>2 temas por unidad (más los temas extra añadidos desde el libro)</div>
   </div>
   <p>Debajo aparecen las <b>7 tarjetas de modo de juego</b>. Cada tarjeta muestra cuántas preguntas, oraciones, imágenes, pistas o escenas tiene el topic seleccionado (p. ej. "PLAY · 20 QUESTIONS"). Si un topic no tiene contenido para un modo (por ejemplo, no tiene imágenes), esa tarjeta aparece atenuada con el texto "No pictures for this topic yet".</p>
-  <p>En la lista de topics, unos íconos indican el contenido extra disponible: <b>🖼️</b> imágenes (Modo 5), <b>🎧</b> pistas de audio (Modo 6) y <b>🎤</b> escenas de speaking (Modo 7).</p>
+  <p>En la lista de topics, unos íconos indican el contenido extra disponible: <b>🖼️</b> imágenes (Modo 5), <b>🎧</b> pistas de audio (Modo 6) y <b>🎤</b> escenas de speaking (Modo 7). El Modo 8 está disponible en todos los topics y usa automáticamente el contenido que exista.</p>
 </div>
 
 <div>
@@ -171,7 +172,7 @@
 
 <!-- 2. MODOS -->
 <div class="page">
-  <h2>2. Guía detallada de los 7 modos de juego</h2>
+  <h2>2. Guía detallada de los 8 modos de juego</h2>
 
   <div class="mode-head" style="page-break-before:auto"><div class="num">1</div><div><div class="t">🦹 Point Steal — Robo de Puntos</div><div class="s">Preguntas rápidas de opción múltiple · Gramática y vocabulario · 2-3 min por pregunta</div></div></div>
 
@@ -430,6 +431,43 @@
   </ul>
 </div>
 
+<div class="page">
+  <div class="mode-head"><div class="num">8</div><div><div class="t">🕹️ 15-Minute Arcade Speed — Calentamiento de 15 minutos</div><div class="s">Reloj global 15:00 → 0:00 · 3 fases automáticas de 5 min · Música arcade · Todos los topics</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Un <i>warm-up</i> de exactamente 15 minutos para dos filas de estudiantes (Team A vs Team B). El reloj gigante no se detiene y la pantalla rota sola por tres fases de 5 minutos usando el contenido del Level → Unit → Topic seleccionado: imágenes y audio, mímica y trampas gramaticales. Al llegar a 0:00 la pantalla se bloquea con fuegos artificiales y anuncia al equipo ganador.</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>Forma dos filas frente a la pantalla. La primera pareja de cada fila compite; al terminar la tarjeta pasan al final de la fila (<b>"NEXT PAIR ▶"</b>).</li>
+    <li>El profesor pulsa <b>"▶ START 15:00"</b>. Arranca la música de fondo estilo arcade y el reloj global. Arriba a la izquierda está el <b>control de audio</b>: botón 🎵 para silenciar/activar la música y una barra de volumen, útiles para dar una instrucción sin apagar el juego.</li>
+    <li><b>Fase 1 (15:00 → 10:00) — Speed Pictures &amp; Sound.</b> Aparece la imagen del vocabulario o un altavoz; la app pronuncia la palabra o frase con voz nativa (Web Speech API). Los dos estudiantes al frente compiten por <b>decirla o deletrearla en 5 segundos</b> (reloj rojo a la derecha con tic-tac acelerado). "🔊 Play Again" repite el audio; "👁 Reveal" muestra la respuesta.</li>
+    <li><b>Fase 2 (10:00 → 5:00) — Back-to-Screen Charades.</b> Los dos estudiantes al frente se ponen <b>de espaldas al televisor</b>. En pantalla aparece en texto gigante la acción o situación ("ACT THIS OUT: …") para que sus compañeros de fila la actúen sin hablar. El primero en adivinar gana; <b>15 segundos por turno</b>.</li>
+    <li><b>Fase 3 (5:00 → 0:00) — Grammar Trap Express.</b> Oraciones rápidas, correctas o con trampa gramatical, con <b>10 segundos</b> para decir "CORRECT" o corregirla al vuelo. "👁 Reveal" muestra la solución y la explicación.</li>
+    <li>El cambio de fase es automático (banner y sonido). Si al topic le falta contenido para una fase, la pantalla lo indica y el profesor usa "NEXT PAIR" o el marcador manual hasta la siguiente fase.</li>
+    <li>A las <b>0:00</b> suena la fanfarria, salen fuegos artificiales y la pantalla queda bloqueada con el nombre del equipo ganador (o "IT'S A TIE!"). "Main Menu" vuelve al dashboard conservando los puntos.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Acción</th><th>Puntos</th><th>Sonido</th></tr>
+    <tr><td>"✅ CORRECT +100" del equipo que acierta (pasa a la siguiente tarjeta)</td><td class="n pos">+100</td><td>Campana triunfal</td></tr>
+    <tr><td>"❌ INCORRECT −50" (respuesta errónea o habló en español)</td><td class="n neg">−50</td><td>Buzzer de error</td></tr>
+    <tr><td>"🦹 STEAL": el rival responde tras el fallo del otro</td><td class="n pos">100 robados al rival</td><td>Efecto de robo</td></tr>
+    <tr><td>Últimos 5 segundos de cada tarjeta</td><td class="n">—</td><td>Tic-tac acelerado</td></tr>
+    <tr><td>0:00</td><td class="n">Bloqueo final</td><td>Fanfarria + fuegos artificiales</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Úsalo al inicio de la clase: 15 minutos exactos, sin pausas, con la música a volumen medio (50-60 %). Baja o silencia la música con el botón 🎵 solo para instrucciones.</li>
+    <li>Regla de oro: <b>solo la pareja al frente responde</b>; el resto de la fila ayuda únicamente en la fase de mímica (sin palabras).</li>
+    <li>En Basic acepta la palabra bien pronunciada; en Intermediate/Advanced exige el deletreo o la oración completa corregida.</li>
+    <li>Prepara el topic antes de pulsar START: topics con 🖼️ 🎧 🎤 dan la experiencia completa; en topics solo de gramática la Fase 1 usa preguntas y la Fase 2 usa oraciones para dramatizar.</li>
+    <li>Conecta los parlantes y prueba el volumen con la pantalla de inicio del modo antes de arrancar el reloj.</li>
+  </ul>
+</div>
+
 <!-- 3. OPERACIÓN -->
 <div class="page">
   <h2>3. Instrucciones de operación en el aula</h2>
@@ -477,8 +515,8 @@
   <table>
     <tr><th style="width:14%">Tiempo</th><th style="width:30%">Actividad</th><th>Modo / notas</th></tr>
     <tr><td>0-5 min</td><td>Setup y nombres de equipo</td><td>Pantalla completa (F11), "Reset Scoreboard", elegir Level → Unit → Topic del día.</td></tr>
-    <tr><td>5-15 min</td><td>Calentamiento</td><td><b>Modo 1 Point Steal</b> (6-8 preguntas) o <b>Modo 5 Picture Quiz</b> si el topic es de vocabulario.</td></tr>
-    <tr><td>15-30 min</td><td>Práctica controlada</td><td><b>Modo 2 Grammar Auction</b> (8-10 oraciones) o <b>Modo 4 The Trapdoor</b>.</td></tr>
+    <tr><td>5-20 min</td><td>Calentamiento</td><td><b>Modo 8 Arcade Speed</b> (15 min exactos, 3 fases automáticas) o, si hay poco tiempo, <b>Modo 1 Point Steal</b> / <b>Modo 5 Picture Quiz</b>.</td></tr>
+    <tr><td>20-30 min</td><td>Práctica controlada</td><td><b>Modo 2 Grammar Auction</b> (8-10 oraciones) o <b>Modo 4 The Trapdoor</b>.</td></tr>
     <tr><td>30-40 min</td><td>Listening</td><td><b>Modo 6 Audio Detective</b>: 3 dictados + 3 comprensiones.</td></tr>
     <tr><td>40-52 min</td><td>Producción oral</td><td><b>Modo 7 Speaking Roleplay</b>: 2 escenas por equipo.</td></tr>
     <tr><td>52-58 min</td><td>Ronda relámpago</td><td><b>Modo 3 Pressure Bomb</b>: 1-2 mechas para cerrar con energía.</td></tr>
@@ -488,6 +526,7 @@
   <h3>3.5 Solución de problemas</h3>
   <table>
     <tr><th style="width:36%">Problema</th><th>Solución</th></tr>
+    <tr><td>La música del Modo 8 no suena o está muy alta</td><td>Usa el botón 🎵 (mute) y la barra de volumen arriba a la izquierda; la música arranca solo al pulsar START (gesto del usuario).</td></tr>
     <tr><td>No se oyen los efectos de sonido</td><td>Verifica el volumen del sistema y del navegador; haz clic en cualquier botón (el audio se activa con un gesto del usuario). Recarga la página si persiste.</td></tr>
     <tr><td>El botón PLAY AUDIO no habla (Modo 6)</td><td>El navegador no tiene voces en inglés. Usa Edge (Windows) o instala voces (sección 3.3). Mientras tanto, pulsa "Reveal transcript" y lee la frase en voz alta.</td></tr>
     <tr><td>Un modo aparece atenuado ("No pictures/tracks/scenes for this topic yet")</td><td>Ese topic aún no tiene contenido para ese modo. Elige un topic con 🖼️ / 🎧 / 🎤 (p. ej. Basic 1 → Unit 3 → 3A) o solicita que se agregue contenido.</td></tr>
@@ -507,6 +546,7 @@
     <tr><td>5 · Picture Quiz</td><td class="pos">+100</td><td>0</td><td class="pos">+50</td><td>Timer 15 s · identify / spelling / category</td></tr>
     <tr><td>6 · Audio Detective</td><td class="pos">+100</td><td class="neg">−50 (dictado)</td><td class="pos">+50 (comprensión)</td><td>Máx. 3 plays · timer 20 s · en-US / en-GB</td></tr>
     <tr><td>7 · Speaking Roleplay</td><td class="pos">+100 ganador · +50 ambos</td><td>0 (No points)</td><td>—</td><td>Taboo −50 · timer 45-60 s · veredicto del profesor</td></tr>
+    <tr><td>8 · Arcade Speed</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">100 del rival</td><td>Reloj 15:00 · 5 s / 15 s / 10 s por tarjeta · música con mute/volumen</td></tr>
     <tr><td>Marcador manual</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">Steal 100 del rival</td><td>Disponible en todo momento</td></tr>
   </table>
   <p class="foot">Manual de Uso: English Game Show · https://english-classroom-game-show.vercel.app · github.com/junior425/english-classroom-game-show</p>

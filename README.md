@@ -27,6 +27,11 @@ Live: https://english-classroom-game-show.vercel.app
 - **Mode 7 – Speaking Roleplay & Taboo** (topics with `speaking`): a situation card with 3 mandatory words,
   optional taboo words (−50 per slip) and a 45–60 s timer. The teacher awards +100 to the winner, +50 to
   both, or nothing.
+- **Mode 8 – 15-Minute Arcade Speed** (all topics): a 15:00 warm-up clock that rotates automatically through
+  three 5-minute phases — Speed Pictures & Sound (image + TTS, 5 s per card), Back-to-Screen Charades (giant
+  "act this out" text, 15 s) and Grammar Trap Express (correct-or-trap sentences, 10 s) — with arcade BGM
+  (mute/volume control), tick/bell/buzzer SFX and a fireworks finale that locks the screen and names the winner.
+  CORRECT +100, INCORRECT −50, STEAL 100.
 
 Listening and speaking cards live in `scripts/content/listening-speaking.mjs`, keyed by level and topic
 name; currently Basic 1 "3A - Vocabulary: Food & Drinks" and Advanced 1 Unit 1 have cards.
