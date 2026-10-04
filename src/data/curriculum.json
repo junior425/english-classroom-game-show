@@ -33456,6 +33456,1592 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U6T3",
+              "name": "6A - Vocabulary: Work & Careers",
+              "steal": [
+                {
+                  "prompt": "Mark is so angry with his boss that he’s decided to ______. He’s leaving at the end of the month.",
+                  "options": [
+                    "retire",
+                    "resign",
+                    "be laid off",
+                    "get fired"
+                  ],
+                  "answer": 1,
+                  "explanation": "Resign = leave your job by your own decision."
+                },
+                {
+                  "prompt": "Eighty workers ______ at that company last week. They lost their jobs because the company is losing money.",
+                  "options": [
+                    "got a promotion",
+                    "were laid off",
+                    "retired",
+                    "resigned"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be laid off = lose your job because the company has no money / work."
+                },
+                {
+                  "prompt": "Dan ______ from his last job because he was always late.",
+                  "options": [
+                    "was laid off",
+                    "got fired",
+                    "resigned",
+                    "retired"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get fired = be dismissed because of YOUR behaviour."
+                },
+                {
+                  "prompt": "I’m ______ to learn how to use the company’s new software.",
+                  "options": [
+                    "doing an internship",
+                    "looking for a job",
+                    "taking a training course",
+                    "getting a degree"
+                  ],
+                  "answer": 2,
+                  "explanation": "A training course teaches a specific skill."
+                },
+                {
+                  "prompt": "Two years after he joined the company as an assistant manager, Leo ______. He became the manager.",
+                  "options": [
+                    "got a promotion",
+                    "got fired",
+                    "did a job placement",
+                    "retired"
+                  ],
+                  "answer": 0,
+                  "explanation": "Promotion = a higher position."
+                },
+                {
+                  "prompt": "Ed wants to ______ working in a big hotel, so he took a summer job as a receptionist in Miami.",
+                  "options": [
+                    "retire",
+                    "get experience",
+                    "resign",
+                    "be laid off"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get experience = practise a job to learn it."
+                },
+                {
+                  "prompt": "I’d like to ______ when I’m 60 and have a lot of time to enjoy life.",
+                  "options": [
+                    "resign",
+                    "get fired",
+                    "retire",
+                    "be laid off"
+                  ],
+                  "answer": 2,
+                  "explanation": "Retire = stop working because of your age."
+                },
+                {
+                  "prompt": "Before I can work as a nurse, I need to ______ in nursing, so I’m studying hard.",
+                  "options": [
+                    "get a degree",
+                    "get fired",
+                    "retire",
+                    "get a promotion"
+                  ],
+                  "answer": 0,
+                  "explanation": "A degree = a university qualification."
+                },
+                {
+                  "prompt": "Sally ______ in a lawyer’s office: they didn’t pay her a salary, but after six months they offered her a job.",
+                  "options": [
+                    "got a promotion",
+                    "did an internship",
+                    "retired",
+                    "was laid off"
+                  ],
+                  "answer": 1,
+                  "explanation": "Internship = unpaid / low-paid work to learn."
+                },
+                {
+                  "prompt": "As part of my program, I’m ______ at a design studio. I’m learning graphic design on the job.",
+                  "options": [
+                    "doing a job placement",
+                    "getting fired",
+                    "resigning",
+                    "retiring"
+                  ],
+                  "answer": 0,
+                  "explanation": "A job placement is organised by your school or program."
+                },
+                {
+                  "prompt": "Tim is unemployed, but he is ______ as a salesclerk. I’m sure he’ll ______ soon.",
+                  "options": [
+                    "retiring / resign",
+                    "looking for a job / get a job",
+                    "getting fired / retire",
+                    "doing an internship / be laid off"
+                  ],
+                  "answer": 1,
+                  "explanation": "Look for a job → get a job."
+                },
+                {
+                  "prompt": "Ana isn’t happy with the same tasks every day. She wants to ______, so she’s studying coding at night.",
+                  "options": [
+                    "get fired",
+                    "retire",
+                    "learn new skills",
+                    "be laid off"
+                  ],
+                  "answer": 2,
+                  "explanation": "Learn new skills = develop new abilities."
+                },
+                {
+                  "prompt": "Which TWO expressions mean you lose your job?",
+                  "options": [
+                    "resign / retire",
+                    "be laid off / get fired",
+                    "get a job / get a promotion",
+                    "do an internship / do a job placement"
+                  ],
+                  "answer": 1,
+                  "explanation": "Laid off (company’s fault) vs fired (your fault)."
+                },
+                {
+                  "prompt": "What is the difference? \"He was laid off\" vs \"He got fired\".",
+                  "options": [
+                    "No difference",
+                    "Laid off = company problems; fired = the worker did something wrong",
+                    "Laid off = he left; fired = he stayed",
+                    "Fired = retired early"
+                  ],
+                  "answer": 1,
+                  "explanation": "Key distinction in the lesson."
+                },
+                {
+                  "prompt": "Someone who works for different companies from home, without one boss, works ______.",
+                  "options": [
+                    "freelance",
+                    "unemployed",
+                    "internship",
+                    "placement"
+                  ],
+                  "answer": 0,
+                  "explanation": "Freelance = self-employed."
+                },
+                {
+                  "prompt": "Complete: \"She ______ a degree in business and then ______ a job at a bank.\"",
+                  "options": [
+                    "did / took",
+                    "got / got",
+                    "made / did",
+                    "took / made"
+                  ],
+                  "answer": 1,
+                  "explanation": "GET a degree, GET a job."
+                },
+                {
+                  "prompt": "Complete the collocation: \"______ an internship\".",
+                  "options": [
+                    "get",
+                    "make",
+                    "do",
+                    "take"
+                  ],
+                  "answer": 2,
+                  "explanation": "DO an internship / DO a job placement."
+                },
+                {
+                  "prompt": "Complete the collocation: \"______ a training course\".",
+                  "options": [
+                    "take",
+                    "make",
+                    "get",
+                    "go"
+                  ],
+                  "answer": 0,
+                  "explanation": "TAKE a training course."
+                },
+                {
+                  "prompt": "Which word is a JOB?",
+                  "options": [
+                    "promotion",
+                    "salesclerk",
+                    "degree",
+                    "placement"
+                  ],
+                  "answer": 1,
+                  "explanation": "A salesclerk sells things in a shop."
+                },
+                {
+                  "prompt": "A person who welcomes visitors at a hotel desk is a ______.",
+                  "options": [
+                    "receptionist",
+                    "lawyer",
+                    "nurse",
+                    "manager"
+                  ],
+                  "answer": 0,
+                  "explanation": "Receptionist — Ed’s summer job."
+                },
+                {
+                  "prompt": "\"I’m ______\" means you don’t have a job right now.",
+                  "options": [
+                    "retired",
+                    "unemployed",
+                    "promoted",
+                    "experienced"
+                  ],
+                  "answer": 1,
+                  "explanation": "Unemployed = without a job."
+                },
+                {
+                  "prompt": "Odd one out: which is NOT about leaving a job?",
+                  "options": [
+                    "retire",
+                    "resign",
+                    "get fired",
+                    "get experience"
+                  ],
+                  "answer": 3,
+                  "explanation": "Get experience is about learning at work."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "promosion",
+                    "promotion",
+                    "promossion",
+                    "promotian"
+                  ],
+                  "answer": 1,
+                  "explanation": "p-r-o-m-o-t-i-o-n."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "internship",
+                    "intership",
+                    "internshipp",
+                    "enternship"
+                  ],
+                  "answer": 0,
+                  "explanation": "i-n-t-e-r-n-s-h-i-p."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Mark has decided to resign because he’s angry with his boss.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Eighty workers were laid off last week.",
+                  "correct": true,
+                  "explanation": "Correct: BE laid off (passive)."
+                },
+                {
+                  "sentence": "Dan was fired off because he was always late.",
+                  "correct": false,
+                  "fix": "Dan got fired / was fired because he was always late.",
+                  "explanation": "Fired (no \"off\"); laid OFF."
+                },
+                {
+                  "sentence": "I’m making a training course to learn the new software.",
+                  "correct": false,
+                  "fix": "I’m taking a training course…",
+                  "explanation": "TAKE a course."
+                },
+                {
+                  "sentence": "Leo got a promotion and became the manager.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Ed wants to get experience in a big hotel.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I’d like to retire me when I’m 60.",
+                  "correct": false,
+                  "fix": "I’d like to retire when I’m 60.",
+                  "explanation": "Retire is not reflexive."
+                },
+                {
+                  "sentence": "Before I work as a nurse, I need to make a degree in nursing.",
+                  "correct": false,
+                  "fix": "…I need to get a degree in nursing.",
+                  "explanation": "GET a degree."
+                },
+                {
+                  "sentence": "Sally made an internship in a lawyer’s office.",
+                  "correct": false,
+                  "fix": "Sally did an internship…",
+                  "explanation": "DO an internship."
+                },
+                {
+                  "sentence": "I’m doing a job placement at a design studio.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Tim is unemployed, so he’s looking a job.",
+                  "correct": false,
+                  "fix": "He’s looking for a job.",
+                  "explanation": "Look FOR a job."
+                },
+                {
+                  "sentence": "She wants to learn new skills, so she’s studying coding.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He was fired because the company is losing money.",
+                  "correct": false,
+                  "fix": "He was laid off because the company is losing money.",
+                  "explanation": "Company problems → laid off."
+                },
+                {
+                  "sentence": "My grandfather retired at 65 and now he travels a lot.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I work like a freelance graphic designer.",
+                  "correct": false,
+                  "fix": "I work as a freelance graphic designer.",
+                  "explanation": "Work AS + job."
+                },
+                {
+                  "sentence": "Leo got promoted to manager after two years.",
+                  "correct": true,
+                  "explanation": "Correct: get promoted / get a promotion."
+                },
+                {
+                  "sentence": "She resigned from her job and started looking for a new one.",
+                  "correct": true,
+                  "explanation": "Correct: resign FROM."
+                },
+                {
+                  "sentence": "I did a degree in nursing and now I am a nurse.",
+                  "correct": true,
+                  "explanation": "Correct: do / get a degree are both possible."
+                },
+                {
+                  "sentence": "He has a lot of experiences in hotel work.",
+                  "correct": false,
+                  "fix": "He has a lot of experience in hotel work.",
+                  "explanation": "Experience (work knowledge) is uncountable."
+                },
+                {
+                  "sentence": "They’re going to lay off twenty people next month.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I get an internship last summer.",
+                  "correct": false,
+                  "fix": "I did / got an internship last summer.",
+                  "explanation": "Past tense needed: did / got."
+                },
+                {
+                  "sentence": "Tim works as a salesclerk in a clothes shop.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "be laid off",
+                  "image": "/img/work/be-laid-off.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"be laid off\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Be laid off\" → Leaving a job."
+                    },
+                    {
+                      "prompt": "Is \"be laid off\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Be laid off\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "get a degree",
+                  "image": "/img/work/get-a-degree.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"get a degree\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get a degree\" → Getting ready (studying / training)."
+                    },
+                    {
+                      "prompt": "Is \"get a degree\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get a degree\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "take a training course",
+                  "image": "/img/work/take-a-training-course.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"take a training course\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take a training course\" → Getting ready (studying / training)."
+                    },
+                    {
+                      "prompt": "Is \"take a training course\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take a training course\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "get a job",
+                  "image": "/img/work/get-a-job.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"get a job\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get a job\" → Finding & starting a job."
+                    },
+                    {
+                      "prompt": "Is \"get a job\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get a job\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "retire",
+                  "image": "/img/work/retire.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"retire\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Retire\" → Leaving a job."
+                    },
+                    {
+                      "prompt": "Is \"retire\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Retire\" → Depends on the person."
+                    }
+                  ]
+                },
+                {
+                  "word": "get a promotion",
+                  "image": "/img/work/get-a-promotion.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"get a promotion\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get a promotion\" → Moving up at work."
+                    },
+                    {
+                      "prompt": "Is \"get a promotion\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get a promotion\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "do an internship",
+                  "image": "/img/work/do-an-internship.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"do an internship\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Do an internship\" → Getting ready (studying / training)."
+                    },
+                    {
+                      "prompt": "Is \"do an internship\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Do an internship\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "resign",
+                  "image": "/img/work/resign.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"resign\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Resign\" → Leaving a job."
+                    },
+                    {
+                      "prompt": "Is \"resign\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Resign\" → Depends on the person."
+                    }
+                  ]
+                },
+                {
+                  "word": "look for a job",
+                  "image": "/img/work/look-for-a-job.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"look for a job\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Look for a job\" → Finding & starting a job."
+                    },
+                    {
+                      "prompt": "Is \"look for a job\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Look for a job\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "learn new skills",
+                  "image": "/img/work/learn-new-skills.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"learn new skills\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Learn new skills\" → Moving up at work."
+                    },
+                    {
+                      "prompt": "Is \"learn new skills\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Learn new skills\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "get experience",
+                  "image": "/img/work/get-experience.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"get experience\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get experience\" → Moving up at work."
+                    },
+                    {
+                      "prompt": "Is \"get experience\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get experience\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "get fired",
+                  "image": "/img/work/get-fired.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"get fired\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get fired\" → Leaving a job."
+                    },
+                    {
+                      "prompt": "Is \"get fired\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get fired\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "do a job placement",
+                  "image": "/img/work/do-a-job-placement.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"do a job placement\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Do a job placement\" → Getting ready (studying / training)."
+                    },
+                    {
+                      "prompt": "Is \"do a job placement\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Do a job placement\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "work freelance",
+                  "image": "/img/work/freelance.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"work freelance\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Work freelance\" → Finding & starting a job."
+                    },
+                    {
+                      "prompt": "Is \"work freelance\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Work freelance\" → Depends on the person."
+                    }
+                  ]
+                },
+                {
+                  "word": "unemployed",
+                  "image": "/img/work/unemployed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which stage of a career does \"unemployed\" belong to?",
+                      "options": [
+                        "Getting ready (studying / training)",
+                        "Finding & starting a job",
+                        "Moving up at work",
+                        "Leaving a job"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Unemployed\" → Finding & starting a job."
+                    },
+                    {
+                      "prompt": "Is \"unemployed\" usually good or bad news for the worker?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Unemployed\" → Bad news."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Mark is so angry with his boss that he has decided to resign.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Eighty workers were laid off at that company last week.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m taking a training course to learn the new software.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Sally did an internship in a lawyer’s office for six months.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’d like to retire when I’m sixty and enjoy life.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Tim is unemployed, but he’s looking for a job as a salesclerk.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Dan lost his job last month. It wasn’t because the company had problems — he was late almost every day, so his manager finally let him go.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What happened to Dan?",
+                  "options": [
+                    "He was laid off",
+                    "He got fired",
+                    "He resigned",
+                    "He retired"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Two years ago Leo joined the company as an assistant manager. He worked hard, learned new skills, and last week they made him the manager.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What has Leo just got?",
+                  "options": [
+                    "An internship",
+                    "A degree",
+                    "A promotion",
+                    "A job placement"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Ed wants to work in a big hotel one day, so this summer he took a job as a receptionist at the largest hotel in Miami.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did Ed take the summer job?",
+                  "options": [
+                    "To get experience",
+                    "To get a degree",
+                    "Because he was fired",
+                    "To retire early"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "As part of my program, I’m working at a design studio three days a week. They don’t pay much, but I’m learning graphic design.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the speaker doing?",
+                  "options": [
+                    "A job placement",
+                    "Retiring",
+                    "Resigning",
+                    "Looking for a job"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Before I can work as a nurse I need a degree in nursing, so I’m studying hard and I hope to get into nursing school in the fall.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the speaker need first?",
+                  "options": [
+                    "A promotion",
+                    "A degree",
+                    "An internship",
+                    "To be laid off"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The factory is losing money, so they’re going to lay off a hundred workers in January. Sally is worried she’ll be one of them.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why will the workers lose their jobs?",
+                  "options": [
+                    "They are always late",
+                    "They want to retire",
+                    "The company has money problems",
+                    "They resigned"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "The Job Interview",
+                  "situation": "One of you is the manager, the other wants the job. Talk about your degree, your experience and your skills.",
+                  "mandatory": [
+                    "get a degree",
+                    "get experience",
+                    "learn new skills"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Breaking the News",
+                  "situation": "You are the boss. Tell an employee that the company is losing money and explain the difference between being laid off and being fired.",
+                  "mandatory": [
+                    "be laid off",
+                    "get fired",
+                    "resign"
+                  ],
+                  "taboo": [
+                    "sorry"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Career Advice",
+                  "situation": "Your friend is unemployed. Advise them: an internship, a job placement or a training course?",
+                  "mandatory": [
+                    "do an internship",
+                    "take a training course",
+                    "look for a job"
+                  ],
+                  "taboo": [
+                    "work"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Time to Retire?",
+                  "situation": "Debate: should people retire at 60 or keep working? Give two reasons each.",
+                  "mandatory": [
+                    "retire",
+                    "get a promotion",
+                    "experience"
+                  ],
+                  "taboo": [
+                    "old"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "I Quit!",
+                  "situation": "You want to resign. Explain to your boss why, politely, and what you plan to do next.",
+                  "mandatory": [
+                    "resign",
+                    "freelance",
+                    "new skills"
+                  ],
+                  "taboo": [
+                    "hate"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Career Path",
+                  "situation": "Tell the story of your (real or imaginary) career from your first job placement to today.",
+                  "mandatory": [
+                    "do a job placement",
+                    "get a job",
+                    "get a promotion"
+                  ],
+                  "taboo": [
+                    "then"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U6T4",
+              "name": "6A - Grammar: Present Perfect & Simple Past (already / yet / recently)",
+              "steal": [
+                {
+                  "prompt": "I ______ never ______ fired from a job.",
+                  "options": [
+                    "have / been",
+                    "was / been",
+                    "have / be",
+                    "did / be"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present perfect: have + past participle (been)."
+                },
+                {
+                  "prompt": "Ivan ______ already ______ work, and it’s only 3 p.m.",
+                  "options": [
+                    "did / finish",
+                    "has / finished",
+                    "has / finish",
+                    "is / finished"
+                  ],
+                  "answer": 1,
+                  "explanation": "Has already finished."
+                },
+                {
+                  "prompt": "My dad ______ retired for twelve years.",
+                  "options": [
+                    "has been",
+                    "was",
+                    "is",
+                    "has"
+                  ],
+                  "answer": 0,
+                  "explanation": "Duration up to now → present perfect + for."
+                },
+                {
+                  "prompt": "I’ve been to Australia twice. I last ______ there two years ago.",
+                  "options": [
+                    "have gone",
+                    "went",
+                    "have been",
+                    "go"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Two years ago\" → simple past."
+                },
+                {
+                  "prompt": "______ you ever ______ abroad for work?",
+                  "options": [
+                    "Did / travel",
+                    "Have / travelled",
+                    "Have / travel",
+                    "Do / travelled"
+                  ],
+                  "answer": 1,
+                  "explanation": "Experience in life → present perfect."
+                },
+                {
+                  "prompt": "I’ve already spoken ______ Tony about the promotion.",
+                  "options": [
+                    "with",
+                    "to",
+                    "at",
+                    "for"
+                  ],
+                  "answer": 1,
+                  "explanation": "Speak TO someone."
+                },
+                {
+                  "prompt": "Have you written that report ______?",
+                  "options": [
+                    "already",
+                    "just",
+                    "yet",
+                    "still"
+                  ],
+                  "answer": 2,
+                  "explanation": "YET in questions and negatives, at the end."
+                },
+                {
+                  "prompt": "I haven’t finished it ______. / I ______ haven’t finished it.",
+                  "options": [
+                    "yet / still",
+                    "still / yet",
+                    "already / yet",
+                    "yet / just"
+                  ],
+                  "answer": 0,
+                  "explanation": "Yet (end) / still (before haven’t)."
+                },
+                {
+                  "prompt": "I ______ for ten years at this company.",
+                  "options": [
+                    "work",
+                    "have worked",
+                    "worked",
+                    "am working"
+                  ],
+                  "answer": 1,
+                  "explanation": "Started in the past, still true → present perfect."
+                },
+                {
+                  "prompt": "She’s lived here ______ 1985.",
+                  "options": [
+                    "for",
+                    "since",
+                    "during",
+                    "ago"
+                  ],
+                  "answer": 1,
+                  "explanation": "Since + point in time."
+                },
+                {
+                  "prompt": "This is the best book I ______ read.",
+                  "options": [
+                    "ever",
+                    "have ever",
+                    "did ever",
+                    "never"
+                  ],
+                  "answer": 1,
+                  "explanation": "The best … I’ve ever + past participle."
+                },
+                {
+                  "prompt": "I ______ in London for five years. (I still live there.)",
+                  "options": [
+                    "lived",
+                    "have lived",
+                    "live",
+                    "was living"
+                  ],
+                  "answer": 1,
+                  "explanation": "Still true → present perfect."
+                },
+                {
+                  "prompt": "I ______ in London for five years. (I don’t live there now.)",
+                  "options": [
+                    "have lived",
+                    "lived",
+                    "live",
+                    "have been living"
+                  ],
+                  "answer": 1,
+                  "explanation": "Finished period → simple past."
+                },
+                {
+                  "prompt": "He’s only read one chapter of the book ______.",
+                  "options": [
+                    "yesterday",
+                    "so far",
+                    "last week",
+                    "ago"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"So far\" = until now → present perfect."
+                },
+                {
+                  "prompt": "We ______ a great vacation. (We’re not on vacation now.)",
+                  "options": [
+                    "have had",
+                    "had",
+                    "have",
+                    "are having"
+                  ],
+                  "answer": 1,
+                  "explanation": "Completed → simple past."
+                },
+                {
+                  "prompt": "I ______ that book last summer.",
+                  "options": [
+                    "have read",
+                    "read",
+                    "have been reading",
+                    "am reading"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"Last summer\" → simple past."
+                },
+                {
+                  "prompt": "I got home two hours ______.",
+                  "options": [
+                    "since",
+                    "for",
+                    "ago",
+                    "yet"
+                  ],
+                  "answer": 2,
+                  "explanation": "Time + ago → simple past."
+                },
+                {
+                  "prompt": "______ did you arrive?",
+                  "options": [
+                    "When",
+                    "How long",
+                    "Since when have",
+                    "Yet"
+                  ],
+                  "answer": 0,
+                  "explanation": "When + simple past."
+                },
+                {
+                  "prompt": "We ______ recently ______ to a new office.",
+                  "options": [
+                    "have / moved",
+                    "did / move",
+                    "have / move",
+                    "were / moved"
+                  ],
+                  "answer": 0,
+                  "explanation": "Recently → present perfect (or simple past)."
+                },
+                {
+                  "prompt": "I ______ saw your text message. (a moment ago)",
+                  "options": [
+                    "have just",
+                    "just",
+                    "already",
+                    "yet"
+                  ],
+                  "answer": 1,
+                  "explanation": "American English: \"I just saw\" (simple past with just)."
+                },
+                {
+                  "prompt": "Have you ever met Ana’s sister? — Yes, I’ve met her. I ______ to her at Ana’s birthday party last month.",
+                  "options": [
+                    "have talked",
+                    "talked",
+                    "talk",
+                    "have been talking"
+                  ],
+                  "answer": 1,
+                  "explanation": "Question in present perfect, details in simple past."
+                },
+                {
+                  "prompt": "I’ve heard that Simona ______ the company.",
+                  "options": [
+                    "leaves",
+                    "is leaving",
+                    "left yet",
+                    "has leave"
+                  ],
+                  "answer": 1,
+                  "explanation": "Reporting news: \"is leaving\"."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "I have seen him yesterday.",
+                    "I saw him yesterday.",
+                    "I have saw him yesterday.",
+                    "I seen him yesterday."
+                  ],
+                  "answer": 1,
+                  "explanation": "Yesterday → simple past."
+                },
+                {
+                  "prompt": "Which word order is correct?",
+                  "options": [
+                    "I have finished already my work.",
+                    "I already have finished my work.",
+                    "I have already finished my work.",
+                    "Already I have finished my work."
+                  ],
+                  "answer": 2,
+                  "explanation": "Already goes between have and the participle."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I’ve never been fired from a job.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Ivan has already finished work, and it’s only 3 p.m.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "My dad has been retired since twelve years.",
+                  "correct": false,
+                  "fix": "My dad has been retired for twelve years.",
+                  "explanation": "For + period."
+                },
+                {
+                  "sentence": "I’ve been to Australia twice. I last went there two years ago.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Have you ever travelled abroad for work?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Have you written that report already?",
+                  "correct": false,
+                  "fix": "Have you written that report yet?",
+                  "explanation": "Questions → yet."
+                },
+                {
+                  "sentence": "I still haven’t finished it.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I’ve worked here for ten years.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She has lived here since 1985.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "This is the best book I ever read.",
+                  "correct": false,
+                  "fix": "This is the best book I’ve ever read.",
+                  "explanation": "Superlative + present perfect."
+                },
+                {
+                  "sentence": "I have lived in London for five years, but then I moved to Paris.",
+                  "correct": false,
+                  "fix": "I lived in London for five years, but then I moved to Paris.",
+                  "explanation": "Finished period → simple past."
+                },
+                {
+                  "sentence": "He’s only read one chapter so far.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We have had a great vacation last summer.",
+                  "correct": false,
+                  "fix": "We had a great vacation last summer.",
+                  "explanation": "Last summer → simple past."
+                },
+                {
+                  "sentence": "I got home two hours ago.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "When have you arrived?",
+                  "correct": false,
+                  "fix": "When did you arrive?",
+                  "explanation": "When + simple past."
+                },
+                {
+                  "sentence": "We’ve recently moved to a new office.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I just saw your text message.",
+                  "correct": true,
+                  "explanation": "Correct (US English: just + simple past)."
+                },
+                {
+                  "sentence": "Yes, I’ve met her. I’ve talked to her at Ana’s party last month.",
+                  "correct": false,
+                  "fix": "I talked to her at Ana’s party last month.",
+                  "explanation": "Details with \"last month\" → simple past."
+                },
+                {
+                  "sentence": "I’ve heard that Simona is leaving the company.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Did you ever work abroad in your life?",
+                  "correct": false,
+                  "fix": "Have you ever worked abroad?",
+                  "explanation": "Life experience → present perfect."
+                },
+                {
+                  "sentence": "Leo has got a promotion in 2023.",
+                  "correct": false,
+                  "fix": "Leo got a promotion in 2023.",
+                  "explanation": "In 2023 → simple past."
+                },
+                {
+                  "sentence": "I haven’t looked for a new job yet.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [],
+              "listening": [
+                {
+                  "text": "I’ve never been fired from a job.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Ivan has already finished work, and it’s only three p.m.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My dad has been retired for twelve years.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve been to Australia twice. I last went there two years ago.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you written that report yet?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We’ve recently moved to a new office.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you ever met Ana’s sister? — Yes, I’ve met her. I talked to her at Ana’s birthday party last month.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When did the speaker talk to Ana’s sister?",
+                  "options": [
+                    "Yesterday",
+                    "Last month",
+                    "This morning",
+                    "Never"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I lived in London for five years, and then I moved to Madrid in 2019. I’ve lived here since then and I love it.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where does the speaker live now?",
+                  "options": [
+                    "London",
+                    "Madrid",
+                    "Nowhere",
+                    "Australia"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’ve worked at this company for ten years. I started as an intern, and I got my first promotion in my second year.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How long has the speaker worked at the company?",
+                  "options": [
+                    "Two years",
+                    "Ten years",
+                    "Since last year",
+                    "One year"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Have you finished the report yet? — Not yet. I’ve only written the introduction so far, but I’ll finish it before five.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How much of the report has he written?",
+                  "options": [
+                    "All of it",
+                    "Only the introduction",
+                    "Nothing",
+                    "Half of it"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I just saw your message. Sorry, I got home two hours ago and fell asleep on the sofa.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When did the speaker get home?",
+                  "options": [
+                    "Just now",
+                    "Two hours ago",
+                    "This morning",
+                    "Yesterday"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’ve heard that Simona is leaving the company. She resigned last Friday and her last day is at the end of the month.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When did Simona resign?",
+                  "options": [
+                    "Today",
+                    "Last Friday",
+                    "At the end of the month",
+                    "She hasn’t resigned"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Have You Ever…?",
+                  "situation": "Interview your partner about work experiences: \"Have you ever…?\" Then ask for details with \"When / Where did you…?\".",
+                  "mandatory": [
+                    "Have you ever",
+                    "When did you",
+                    "I’ve never"
+                  ],
+                  "taboo": [
+                    "yesterday"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Progress Report",
+                  "situation": "You are the boss asking about a project. Use yet, already and so far.",
+                  "mandatory": [
+                    "yet",
+                    "already",
+                    "so far"
+                  ],
+                  "taboo": [
+                    "finish"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Life Timeline",
+                  "situation": "Tell your partner where you have lived and worked, and for how long, using for and since.",
+                  "mandatory": [
+                    "for",
+                    "since",
+                    "I’ve lived"
+                  ],
+                  "taboo": [
+                    "years"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Recent News",
+                  "situation": "Share three pieces of recent news about your company or school, using recently and just.",
+                  "mandatory": [
+                    "recently",
+                    "just",
+                    "I’ve heard"
+                  ],
+                  "taboo": [
+                    "new"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "The Best Ever",
+                  "situation": "Describe the best job, trip or book you have ever had / read, then give details in the simple past.",
+                  "mandatory": [
+                    "the best … I’ve ever",
+                    "last year",
+                    "ago"
+                  ],
+                  "taboo": [
+                    "good"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Catching Up",
+                  "situation": "Two old colleagues meet after five years. Ask what has changed and what happened.",
+                  "mandatory": [
+                    "Have you … yet?",
+                    "still",
+                    "two years ago"
+                  ],
+                  "taboo": [
+                    "hello"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
