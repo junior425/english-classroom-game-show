@@ -2,6 +2,7 @@ import * as Tone from 'tone'
 
 let ready = false
 let synth, fx, blip, bass, noise, suspenseLoop
+let bgmBus, bgmParts = null, bgmVolume = 0.6, bgmMuted = false
 
 export async function initAudio() {
   if (ready) return
@@ -17,10 +18,12 @@ export async function initAudio() {
   bass = new Tone.MembraneSynth().toDestination()
   noise = new Tone.NoiseSynth({ noise: { type: 'white' }, envelope: { attack: 0.005, decay: 0.3, sustain: 0 } }).toDestination()
   noise.volume.value = -10
+  bgmBus = new Tone.Volume(volToDb(bgmVolume)).toDestination()
   ready = true
 }
 
 const now = () => Tone.now()
+const volToDb = (v) => (v <= 0 ? -80 : 20 * Math.log10(v) - 6)
 
 function seq(inst, notes, step, dur = step) {
   const t = now()
@@ -99,6 +102,27 @@ const raw = {
     bass.triggerAttackRelease('C1', 0.5, t + 0.95)
     noise.triggerAttackRelease(0.2, t + 0.95)
   },
+  tick(urgent = false) { if (ready) blip.triggerAttackRelease(urgent ? 'E6' : 'A5', 0.06) },
+  bell() { if (ready) { seq(synth, ['G5', 'C6', 'E6'], 0.07, 0.5); setTimeout(() => synth.triggerAttackRelease(['C6', 'G6'], 0.9), 250) } },
+  buzzer() {
+    if (!ready) return
+    const s = new Tone.Synth({ oscillator: { type: 'square' }, envelope: { attack: 0.01, decay: 0.1, sustain: 0.8, release: 0.1 } }).toDestination()
+    s.volume.value = -8
+    const t = now()
+    s.triggerAttackRelease('A2', 0.45, t)
+    noise.triggerAttackRelease(0.15, t)
+    setTimeout(() => s.dispose(), 1500)
+  },
+  fanfare() {
+    if (!ready) return
+    const t = now()
+    const melody = ['C5', 'C5', 'C5', 'E5', 'G5', null, 'E5', 'G5', 'C6', 'C6', 'E6', 'G6']
+    melody.forEach((n, i) => n && synth.triggerAttackRelease(n, 0.22, t + i * 0.13))
+    setTimeout(() => synth.triggerAttackRelease(['C5', 'E5', 'G5', 'C6', 'E6'], 2.2), 1700)
+    for (let i = 0; i < 8; i++) {
+      setTimeout(() => { bass.triggerAttackRelease('C1', 0.4); noise.triggerAttackRelease(0.6) }, 400 + i * 420)
+    }
+  },
   reveal() { if (ready) { noise.triggerAttackRelease(0.4); bass.triggerAttackRelease('C1', 0.6) } },
   suspenseStart() {
     if (!ready || suspenseLoop) return
@@ -125,6 +149,48 @@ const raw = {
     Tone.getTransport().stop()
   },
 }
+
+// Arcade background music: a fast chiptune loop on its own volume bus, independent from the SFX.
+const rawBgm = {
+  start() {
+    if (!ready || bgmParts) return
+    const lead = new Tone.Synth({ oscillator: { type: 'square' }, envelope: { attack: 0.005, decay: 0.12, sustain: 0.1, release: 0.08 } }).connect(bgmBus)
+    lead.volume.value = -14
+    const bassS = new Tone.Synth({ oscillator: { type: 'triangle' }, envelope: { attack: 0.005, decay: 0.2, sustain: 0.3, release: 0.1 } }).connect(bgmBus)
+    bassS.volume.value = -10
+    const kick = new Tone.MembraneSynth({ pitchDecay: 0.03, octaves: 6 }).connect(bgmBus)
+    kick.volume.value = -8
+    const hat = new Tone.NoiseSynth({ noise: { type: 'white' }, envelope: { attack: 0.001, decay: 0.04, sustain: 0 } }).connect(bgmBus)
+    hat.volume.value = -22
+    const leadLine = ['E5', 'G5', 'A5', 'G5', 'E5', 'D5', 'E5', null, 'C5', 'E5', 'G5', 'E5', 'A5', 'G5', 'E5', null,
+      'D5', 'F5', 'A5', 'F5', 'D5', 'C5', 'D5', null, 'G5', 'B5', 'D6', 'B5', 'G5', 'A5', 'B5', 'D6']
+    const bassLine = ['A2', 'A2', 'A3', 'A2', 'F2', 'F2', 'F3', 'F2', 'C3', 'C3', 'C4', 'C3', 'G2', 'G2', 'G3', 'G2']
+    const leadPart = new Tone.Sequence((time, n) => n && lead.triggerAttackRelease(n, '16n', time), leadLine, '8n')
+    const bassPart = new Tone.Sequence((time, n) => bassS.triggerAttackRelease(n, '8n', time), bassLine, '8n')
+    const drumPart = new Tone.Sequence((time, i) => {
+      if (i % 2 === 0) kick.triggerAttackRelease(i % 4 === 0 ? 'C1' : 'G1', '16n', time)
+      hat.triggerAttackRelease('16n', time + Tone.Time('16n').toSeconds())
+    }, [0, 1, 2, 3], '8n')
+    const transport = Tone.getTransport()
+    transport.bpm.value = 160
+    leadPart.start(0); bassPart.start(0); drumPart.start(0)
+    transport.start()
+    bgmParts = { parts: [leadPart, bassPart, drumPart], synths: [lead, bassS, kick, hat] }
+  },
+  stop() {
+    if (!bgmParts) return
+    bgmParts.parts.forEach((p) => { p.stop(); p.dispose() })
+    bgmParts.synths.forEach((s) => s.dispose())
+    bgmParts = null
+    if (!suspenseLoop) Tone.getTransport().stop()
+  },
+  setVolume(v) { bgmVolume = v; if (bgmBus) bgmBus.volume.rampTo(bgmMuted ? -80 : volToDb(v), 0.1) },
+  setMuted(m) { bgmMuted = m; if (bgmBus) bgmBus.volume.rampTo(m ? -80 : volToDb(bgmVolume), 0.1) },
+  playing() { return !!bgmParts },
+}
+export const bgm = Object.fromEntries(
+  Object.entries(rawBgm).map(([name, fn]) => [name, (...args) => { try { return fn(...args) } catch { return undefined } }]),
+)
 
 // A sound effect must never break the game: Tone scheduling errors are ignored.
 export const sfx = Object.fromEntries(

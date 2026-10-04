@@ -77,6 +77,14 @@ const MODES = [
     unit: 'scenes',
     vocabOnly: true,
   },
+  {
+    id: 'arcade',
+    icon: '🕹️',
+    title: 'MODE 8: 15-MINUTE ARCADE SPEED',
+    desc: (<>Warm-up for two rows: a <b className="text-gold">15:00 clock</b> rotates through <b className="text-cyan-300">Speed Pictures & Sound</b>, <b className="text-fuchsia-300">Back-to-Screen Charades</b> and <b className="text-yellow-300">Grammar Trap Express</b> (5 min each) with arcade music, SFX and a fireworks finale.</>),
+    count: (t) => (t.steal?.length ?? 0) + (t.auction?.length ?? 0) + (t.pictures?.length ?? 0),
+    unit: 'cards',
+  },
 ]
 
 export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, onResetScores, onRenameTeams }) {
