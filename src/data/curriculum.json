@@ -33187,6 +33187,1949 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L5U5T5",
+              "name": "5C - Vocabulary: Shopping",
+              "steal": [
+                {
+                  "prompt": "Santelli Go II Mountain Bike — $420. \"______ (5 available)\" means you can buy it now.",
+                  "options": [
+                    "Sold out",
+                    "In stock",
+                    "Checkout",
+                    "Return"
+                  ],
+                  "answer": 1,
+                  "explanation": "In stock = available."
+                },
+                {
+                  "prompt": "\"Next-day ______ available\" means the shop sends it to your house tomorrow.",
+                  "options": [
+                    "checkout",
+                    "delivery",
+                    "browse",
+                    "item"
+                  ],
+                  "answer": 1,
+                  "explanation": "Delivery = sending the goods."
+                },
+                {
+                  "prompt": "\"Go to the ______ and pay.\" Online, this is the page where you pay.",
+                  "options": [
+                    "cart",
+                    "checkout",
+                    "stock",
+                    "return"
+                  ],
+                  "answer": 1,
+                  "explanation": "Checkout = where you pay."
+                },
+                {
+                  "prompt": "\"You have one ______ in your ______.\"",
+                  "options": [
+                    "cart / item",
+                    "item / cart",
+                    "product / stock",
+                    "offer / return"
+                  ],
+                  "answer": 1,
+                  "explanation": "One item in your cart."
+                },
+                {
+                  "prompt": "\"Click here to see other Santelli ______.\" (things a company makes and sells)",
+                  "options": [
+                    "salesclerks",
+                    "checkouts",
+                    "products",
+                    "deliveries"
+                  ],
+                  "answer": 2,
+                  "explanation": "Products = things for sale."
+                },
+                {
+                  "prompt": "I usually prefer ______ shopping because I like to see the products before I choose.",
+                  "options": [
+                    "online",
+                    "in-store",
+                    "sold-out",
+                    "checkout"
+                  ],
+                  "answer": 1,
+                  "explanation": "In-store = in a physical shop."
+                },
+                {
+                  "prompt": "I like to ______ different products before I decide what I want.",
+                  "options": [
+                    "return",
+                    "deliver",
+                    "browse",
+                    "order"
+                  ],
+                  "answer": 2,
+                  "explanation": "Browse = look at things casually."
+                },
+                {
+                  "prompt": "A ______ said there was a special offer on the Cam2.",
+                  "options": [
+                    "salesclerk",
+                    "cart",
+                    "checkout",
+                    "delivery"
+                  ],
+                  "answer": 0,
+                  "explanation": "A salesclerk sells things in a store."
+                },
+                {
+                  "prompt": "There was a ______ on the camera — $350 instead of $500.",
+                  "options": [
+                    "return",
+                    "checkout",
+                    "special offer",
+                    "stock"
+                  ],
+                  "answer": 2,
+                  "explanation": "Special offer = lower price than normal."
+                },
+                {
+                  "prompt": "At $350 the camera was very ______ — a good price.",
+                  "options": [
+                    "sold out",
+                    "reasonable",
+                    "in stock",
+                    "expensive"
+                  ],
+                  "answer": 1,
+                  "explanation": "Reasonable = a good, fair price."
+                },
+                {
+                  "prompt": "I decided to buy one, but it was ______, so there were none left.",
+                  "options": [
+                    "in stock",
+                    "reasonable",
+                    "sold out",
+                    "on offer"
+                  ],
+                  "answer": 2,
+                  "explanation": "Sold out = no more left to buy."
+                },
+                {
+                  "prompt": "The store had none, so I ______ it online instead.",
+                  "options": [
+                    "returned",
+                    "browsed",
+                    "ordered",
+                    "sold"
+                  ],
+                  "answer": 2,
+                  "explanation": "Order online = buy on the Internet."
+                },
+                {
+                  "prompt": "They sent me the wrong model, so I had to ______ it.",
+                  "options": [
+                    "browse",
+                    "return",
+                    "deliver",
+                    "stock"
+                  ],
+                  "answer": 1,
+                  "explanation": "Return = take or send something back."
+                },
+                {
+                  "prompt": "Match: \"a person who sells things in a store\" =",
+                  "options": [
+                    "customer",
+                    "salesclerk",
+                    "delivery driver",
+                    "manager"
+                  ],
+                  "answer": 1,
+                  "explanation": "Salesclerk."
+                },
+                {
+                  "prompt": "Match: \"take or send something back\" =",
+                  "options": [
+                    "return",
+                    "browse",
+                    "order",
+                    "deliver"
+                  ],
+                  "answer": 0,
+                  "explanation": "Return."
+                },
+                {
+                  "prompt": "Match: \"no more left to buy\" =",
+                  "options": [
+                    "in stock",
+                    "reasonable",
+                    "sold out",
+                    "special offer"
+                  ],
+                  "answer": 2,
+                  "explanation": "Sold out."
+                },
+                {
+                  "prompt": "Match: \"a lower price than normal\" =",
+                  "options": [
+                    "reasonable",
+                    "special offer",
+                    "checkout",
+                    "delivery"
+                  ],
+                  "answer": 1,
+                  "explanation": "Special offer."
+                },
+                {
+                  "prompt": "Match: \"bought it on the Internet\" =",
+                  "options": [
+                    "browsed it",
+                    "returned it",
+                    "ordered it online",
+                    "delivered it"
+                  ],
+                  "answer": 2,
+                  "explanation": "Ordered it online."
+                },
+                {
+                  "prompt": "Which word is an ADJECTIVE?",
+                  "options": [
+                    "salesclerk",
+                    "reasonable",
+                    "delivery",
+                    "checkout"
+                  ],
+                  "answer": 1,
+                  "explanation": "Reasonable describes a price."
+                },
+                {
+                  "prompt": "Which is NOT something you can do with a product?",
+                  "options": [
+                    "browse it",
+                    "return it",
+                    "order it",
+                    "salesclerk it"
+                  ],
+                  "answer": 3,
+                  "explanation": "Salesclerk is a noun (person)."
+                },
+                {
+                  "prompt": "The opposite of \"in stock\" is…",
+                  "options": [
+                    "in-store",
+                    "sold out",
+                    "on offer",
+                    "reasonable"
+                  ],
+                  "answer": 1,
+                  "explanation": "In stock ↔ sold out."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "salesclerck",
+                    "salesclerk",
+                    "salecklerk",
+                    "sailsclerk"
+                  ],
+                  "answer": 1,
+                  "explanation": "s-a-l-e-s-c-l-e-r-k."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "delivery",
+                    "delivry",
+                    "deliverry",
+                    "dilivery"
+                  ],
+                  "answer": 0,
+                  "explanation": "d-e-l-i-v-e-r-y."
+                },
+                {
+                  "prompt": "\"Free delivery on orders over $60.\" Which word is the noun for \"things you ordered\"?",
+                  "options": [
+                    "orders",
+                    "delivery",
+                    "free",
+                    "over"
+                  ],
+                  "answer": 0,
+                  "explanation": "Orders = things you asked to buy."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "The bike is in stock and next-day delivery is available.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Go to the checkout and pay.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "You have one item in your cart.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I prefer in-store shopping because I like to browse the products.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "A salesclerk said there was a special offer on the camera.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The price was very reasonable, so I decided to buy one.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The camera was sold out, so I ordered it online instead.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They sent me the wrong model, so I had to return it.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The camera was sold out, so I bought one in the store.",
+                  "correct": false,
+                  "fix": "The camera was sold out, so I ordered it online.",
+                  "explanation": "Sold out = none left in the store."
+                },
+                {
+                  "sentence": "The price was reasonable: $2,000 for a T-shirt.",
+                  "correct": false,
+                  "fix": "The price was reasonable: $20 for a T-shirt.",
+                  "explanation": "Reasonable = a fair price."
+                },
+                {
+                  "sentence": "I like to browse the products online before I buy.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Please add the item in your cart.",
+                  "correct": false,
+                  "fix": "Please add the item to your cart.",
+                  "explanation": "Add TO your cart."
+                },
+                {
+                  "sentence": "Next-day delivery is available for $8.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The special offer is only until Sunday.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The jacket is in stock — there are none left.",
+                  "correct": false,
+                  "fix": "The jacket is sold out — there are none left.",
+                  "explanation": "In stock ≠ sold out."
+                },
+                {
+                  "sentence": "I returned the shoes because they were too small.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The salesclerk helped me find my size.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I ordered it in the Internet.",
+                  "correct": false,
+                  "fix": "I ordered it online / on the Internet.",
+                  "explanation": "Online or ON the Internet."
+                },
+                {
+                  "sentence": "Go to the checkout and pay by credit card.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Only three items are available, so hurry!",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Click here to see other Santelli products.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I prefer to shop in-store because I can browse.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "products",
+                  "image": "/img/shopping/products.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"products\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Products\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"products\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Products\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "delivery",
+                  "image": "/img/money/delivery.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"delivery\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Delivery\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"delivery\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Delivery\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "in stock",
+                  "image": "/img/money/in-stock.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"in stock\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"In stock\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"in stock\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In stock\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "checkout",
+                  "image": "/img/shopping/checkout-online.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"checkout\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Checkout\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"checkout\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Checkout\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "cart",
+                  "image": "/img/money/cart.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"cart\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cart\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"cart\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cart\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "item",
+                  "image": "/img/money/item.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"item\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Item\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"item\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Item\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "in-store",
+                  "image": "/img/shopping/in-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"in-store\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"In-store\" → In a physical store."
+                    },
+                    {
+                      "prompt": "Is \"in-store\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"In-store\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "browse",
+                  "image": "/img/shopping/browse.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"browse\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Browse\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"browse\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Browse\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "salesclerk",
+                  "image": "/img/shopping/salesclerk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"salesclerk\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Salesclerk\" → In a physical store."
+                    },
+                    {
+                      "prompt": "Is \"salesclerk\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Salesclerk\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "special offer",
+                  "image": "/img/shopping/special-offer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"special offer\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Special offer\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"special offer\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Special offer\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "reasonable",
+                  "image": "/img/shopping/reasonable.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"reasonable\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Reasonable\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"reasonable\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Reasonable\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "sold out",
+                  "image": "/img/shopping/sold-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"sold out\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sold out\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"sold out\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sold out\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "order online",
+                  "image": "/img/shopping/order-online.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"order online\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Order online\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"order online\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Order online\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "return",
+                  "image": "/img/shopping/return.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"return\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Return\" → After you buy."
+                    },
+                    {
+                      "prompt": "Is \"return\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Return\" → Depends on the price."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "The bike is in stock and next-day delivery is available.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Go to the checkout and pay. You have one item in your cart.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I prefer in-store shopping because I like to browse the products.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "A salesclerk said there was a special offer on the camera.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It was sold out, so I ordered it online instead.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They sent me the wrong model, so I had to return it.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I usually prefer in-store shopping because I like to browse different products and see them before I choose what I want.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why does the speaker prefer in-store shopping?",
+                  "options": [
+                    "It is cheaper",
+                    "She can see the products first",
+                    "Delivery is slow",
+                    "She likes salesclerks"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Last month I went shopping for a new camera. A salesclerk said there was a special offer on the Cam2, and at three hundred and fifty dollars it was very reasonable.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What was the price of the Cam2?",
+                  "options": [
+                    "$250",
+                    "$350",
+                    "$450",
+                    "$500"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I decided to buy one, but it was sold out, so I ordered it online instead. When it arrived, they had sent me the Cam1, so I had to return it.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did the speaker return the camera?",
+                  "options": [
+                    "It was broken",
+                    "It was too expensive",
+                    "It was the wrong model",
+                    "It arrived late"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Santelli Go Two Mountain Bike, four hundred and twenty dollars. In stock, five available. Next-day delivery available. Click Buy to go to the checkout.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many bikes are available?",
+                  "options": [
+                    "Two",
+                    "Four",
+                    "Five",
+                    "Twenty"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Excuse me, do you have this jacket in a medium? — Sorry, the medium is sold out, but I can order one online for you and you can pick it up in-store on Thursday.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the salesclerk offer to do?",
+                  "options": [
+                    "Give a special offer",
+                    "Order the jacket online",
+                    "Return the jacket",
+                    "Sell a large size"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Free delivery on all orders over sixty dollars this weekend only! Browse our special offers online or visit us in-store.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How can you get free delivery?",
+                  "options": [
+                    "Pay in cash",
+                    "Spend over sixty dollars",
+                    "Visit the store",
+                    "Return an item"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "At the Checkout",
+                  "situation": "You are the salesclerk. The customer wants a special offer, next-day delivery and to know if the item is in stock.",
+                  "mandatory": [
+                    "in stock",
+                    "delivery",
+                    "checkout"
+                  ],
+                  "taboo": [
+                    "price"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Wrong Model",
+                  "situation": "Call the online shop: they delivered the wrong item and you want to return it.",
+                  "mandatory": [
+                    "return",
+                    "item",
+                    "order online"
+                  ],
+                  "taboo": [
+                    "angry"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Online vs In-store",
+                  "situation": "Debate: is it better to shop online or in-store? Give two reasons each.",
+                  "mandatory": [
+                    "browse",
+                    "in-store",
+                    "delivery"
+                  ],
+                  "taboo": [
+                    "Internet"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Sold Out!",
+                  "situation": "The product your partner wants is sold out. Suggest alternatives and a reasonable price.",
+                  "mandatory": [
+                    "sold out",
+                    "reasonable",
+                    "special offer"
+                  ],
+                  "taboo": [
+                    "cheap"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Shopping Story",
+                  "situation": "Tell the story of the last thing you bought: where you browsed, what the salesclerk said, how you paid.",
+                  "mandatory": [
+                    "salesclerk",
+                    "products",
+                    "cart"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Describe the Website",
+                  "situation": "Describe an online shop page to someone who can’t see it: products, stock, delivery, cart and checkout.",
+                  "mandatory": [
+                    "cart",
+                    "checkout",
+                    "in stock"
+                  ],
+                  "taboo": [
+                    "click"
+                  ],
+                  "seconds": 45
+                }
+              ]
+            },
+            {
+              "id": "L5U5T6",
+              "name": "5C - Grammar: Predictions: will, be going to, may/might",
+              "steal": [
+                {
+                  "prompt": "I’m sure Emily ______ her present.",
+                  "options": [
+                    "is loving",
+                    "will love",
+                    "loves",
+                    "might loves"
+                  ],
+                  "answer": 1,
+                  "explanation": "Will for a prediction based on opinion."
+                },
+                {
+                  "prompt": "I ______ think we’ll have time to go to the museum today.",
+                  "options": [
+                    "don’t",
+                    "won’t",
+                    "not",
+                    "doesn’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative form of think + will."
+                },
+                {
+                  "prompt": "There are lots of people here. It’s ______ be a great party!",
+                  "options": [
+                    "will",
+                    "going to",
+                    "might to",
+                    "may to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be going to: prediction based on evidence we can see."
+                },
+                {
+                  "prompt": "It ______ rain later this afternoon. (possible, not sure)",
+                  "options": [
+                    "will",
+                    "is going to",
+                    "might",
+                    "definitely"
+                  ],
+                  "answer": 2,
+                  "explanation": "Might = maybe it will."
+                },
+                {
+                  "prompt": "We ______ not stay at home for Thanksgiving this year.",
+                  "options": [
+                    "will",
+                    "may",
+                    "going to",
+                    "probably"
+                  ],
+                  "answer": 1,
+                  "explanation": "May not = perhaps we won’t."
+                },
+                {
+                  "prompt": "Which phrase do we often use before will / won’t?",
+                  "options": [
+                    "In my view…",
+                    "Yesterday…",
+                    "Last year…",
+                    "Already…"
+                  ],
+                  "answer": 0,
+                  "explanation": "In my view, I think, I expect (that)…"
+                },
+                {
+                  "prompt": "In my view, Germany ______ win the next World Cup.",
+                  "options": [
+                    "will",
+                    "is going to",
+                    "may be",
+                    "wins"
+                  ],
+                  "answer": 0,
+                  "explanation": "Opinion → will."
+                },
+                {
+                  "prompt": "It ______ be easy for him to find a cheap apartment in the city.",
+                  "options": [
+                    "won’t",
+                    "doesn’t",
+                    "isn’t",
+                    "not will"
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative prediction: won’t."
+                },
+                {
+                  "prompt": "Do you think ______ her present?",
+                  "options": [
+                    "she will like",
+                    "she’ll like",
+                    "will she like",
+                    "both A and B"
+                  ],
+                  "answer": 3,
+                  "explanation": "Do you think + subject + will."
+                },
+                {
+                  "prompt": "To make a negative prediction with will, we normally say…",
+                  "options": [
+                    "I think he won’t get the job.",
+                    "I don’t think he’ll get the job.",
+                    "I don’t think he gets the job.",
+                    "I think not he will get the job."
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative form of think, then will."
+                },
+                {
+                  "prompt": "Look at how full the parking lot is. The mall ______ be really busy.",
+                  "options": [
+                    "will may",
+                    "might to",
+                    "is going to",
+                    "definitely"
+                  ],
+                  "answer": 2,
+                  "explanation": "Evidence we can see → be going to."
+                },
+                {
+                  "prompt": "Everyone says Toronto is an amazing city — you ______ a great vacation.",
+                  "options": [
+                    "going to have",
+                    "are going to have",
+                    "might to have",
+                    "will going to have"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be going to + base form, based on what we know."
+                },
+                {
+                  "prompt": "He’ll ______ buy a new car next year. (less certain)",
+                  "options": [
+                    "definitely",
+                    "probably",
+                    "may",
+                    "might"
+                  ],
+                  "answer": 1,
+                  "explanation": "Probably = less certain."
+                },
+                {
+                  "prompt": "Sarah will ______ go to college. (more certain)",
+                  "options": [
+                    "probably",
+                    "may",
+                    "definitely",
+                    "might"
+                  ],
+                  "answer": 2,
+                  "explanation": "Definitely = more certain."
+                },
+                {
+                  "prompt": "Where does \"probably\" go? \"She ______ go to college.\"",
+                  "options": [
+                    "probably is going to",
+                    "is going to probably",
+                    "is probably going to",
+                    "is going probably to"
+                  ],
+                  "answer": 2,
+                  "explanation": "After be, before going to."
+                },
+                {
+                  "prompt": "It’ll probably rain when we’re on vacation. → With \"won’t\": \"It ______ rain.\"",
+                  "options": [
+                    "won’t probably",
+                    "probably won’t",
+                    "won’t definitely",
+                    "probably not will"
+                  ],
+                  "answer": 1,
+                  "explanation": "Probably / definitely BEFORE won’t."
+                },
+                {
+                  "prompt": "I ______ miss the party!",
+                  "options": [
+                    "definitely won’t",
+                    "won’t definitely",
+                    "definitely not will",
+                    "will not definitely"
+                  ],
+                  "answer": 0,
+                  "explanation": "Definitely before won’t."
+                },
+                {
+                  "prompt": "We ______ go on vacation this year. = Perhaps we won’t go.",
+                  "options": [
+                    "may not",
+                    "won’t",
+                    "aren’t going to",
+                    "definitely won’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "May not = perhaps not."
+                },
+                {
+                  "prompt": "It might rain later, so take an umbrella. \"Might\" means…",
+                  "options": [
+                    "Certainly",
+                    "Maybe",
+                    "Never",
+                    "Already"
+                  ],
+                  "answer": 1,
+                  "explanation": "Might = maybe."
+                },
+                {
+                  "prompt": "Which form follows may / might?",
+                  "options": [
+                    "to + verb",
+                    "verb + -ing",
+                    "base form",
+                    "past participle"
+                  ],
+                  "answer": 2,
+                  "explanation": "Might + base form: might rain."
+                },
+                {
+                  "prompt": "Which sentence is WRONG?",
+                  "options": [
+                    "It might rain later.",
+                    "It might to rain later.",
+                    "It may rain later.",
+                    "It’s going to rain later."
+                  ],
+                  "answer": 1,
+                  "explanation": "No \"to\" after might."
+                },
+                {
+                  "prompt": "Shopping: \"The camera is nearly sold out — it ______ sell out before Friday.\" (evidence)",
+                  "options": [
+                    "is going to",
+                    "might to",
+                    "will may",
+                    "probably"
+                  ],
+                  "answer": 0,
+                  "explanation": "Evidence → be going to."
+                },
+                {
+                  "prompt": "Shopping: \"I don’t think the shop ______ accept returns after 30 days.\"",
+                  "options": [
+                    "will",
+                    "is",
+                    "won’t",
+                    "does"
+                  ],
+                  "answer": 0,
+                  "explanation": "I don’t think + will."
+                },
+                {
+                  "prompt": "Shopping: \"The delivery ______ arrive tomorrow, but I’m not sure.\"",
+                  "options": [
+                    "will definitely",
+                    "might",
+                    "is going to",
+                    "definitely"
+                  ],
+                  "answer": 1,
+                  "explanation": "Not sure → might."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I’m sure Emily will love her present.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I don’t think we’ll have time to go to the museum today.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I think we won’t have time to go to the museum today.",
+                  "correct": false,
+                  "fix": "I don’t think we’ll have time to go to the museum today.",
+                  "explanation": "Negative form of think + will."
+                },
+                {
+                  "sentence": "There are lots of people here. It’s going to be a great party!",
+                  "correct": true,
+                  "explanation": "Correct — evidence we can see."
+                },
+                {
+                  "sentence": "It might rain later this afternoon.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "It might to rain later this afternoon.",
+                  "correct": false,
+                  "fix": "It might rain later this afternoon.",
+                  "explanation": "No \"to\" after might."
+                },
+                {
+                  "sentence": "We may not stay at home for Thanksgiving this year.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "In my view, Germany will win the next World Cup.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Do you think will she like her present?",
+                  "correct": false,
+                  "fix": "Do you think she’ll like her present?",
+                  "explanation": "Do you think + subject + will."
+                },
+                {
+                  "sentence": "Look at the parking lot. The mall is going to be really busy.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He’ll probably buy a new car next year.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He probably will buys a new car next year.",
+                  "correct": false,
+                  "fix": "He’ll probably buy a new car next year.",
+                  "explanation": "Will + base form; probably after will."
+                },
+                {
+                  "sentence": "Sarah will definitely go to college.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She’s definitely going to go to college.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "It won’t probably rain when we’re on vacation.",
+                  "correct": false,
+                  "fix": "It probably won’t rain when we’re on vacation.",
+                  "explanation": "Probably before won’t."
+                },
+                {
+                  "sentence": "I definitely won’t miss the party.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "It may rain later, so take an umbrella.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Everyone says Toronto is amazing — you’re going to have a great vacation.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The camera is nearly sold out — it’s going to sell out before Friday.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I don’t think the shop will accept returns after thirty days.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The delivery mights arrive tomorrow.",
+                  "correct": false,
+                  "fix": "The delivery might arrive tomorrow.",
+                  "explanation": "Might has no -s."
+                },
+                {
+                  "sentence": "It won’t be easy for him to find a cheap apartment in the city.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "products",
+                  "image": "/img/shopping/products.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"products\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Products\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"products\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Products\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "delivery",
+                  "image": "/img/money/delivery.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"delivery\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Delivery\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"delivery\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Delivery\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "in stock",
+                  "image": "/img/money/in-stock.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"in stock\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"In stock\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"in stock\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In stock\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "checkout",
+                  "image": "/img/shopping/checkout-online.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"checkout\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Checkout\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"checkout\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Checkout\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "cart",
+                  "image": "/img/money/cart.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"cart\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cart\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"cart\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cart\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "item",
+                  "image": "/img/money/item.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"item\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Item\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"item\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Item\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "in-store",
+                  "image": "/img/shopping/in-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"in-store\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"In-store\" → In a physical store."
+                    },
+                    {
+                      "prompt": "Is \"in-store\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"In-store\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "browse",
+                  "image": "/img/shopping/browse.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"browse\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Browse\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"browse\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Browse\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "salesclerk",
+                  "image": "/img/shopping/salesclerk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"salesclerk\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Salesclerk\" → In a physical store."
+                    },
+                    {
+                      "prompt": "Is \"salesclerk\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Salesclerk\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "special offer",
+                  "image": "/img/shopping/special-offer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"special offer\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Special offer\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"special offer\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Special offer\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "reasonable",
+                  "image": "/img/shopping/reasonable.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"reasonable\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Reasonable\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"reasonable\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Reasonable\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "sold out",
+                  "image": "/img/shopping/sold-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"sold out\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sold out\" → Both online and in-store."
+                    },
+                    {
+                      "prompt": "Is \"sold out\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sold out\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "order online",
+                  "image": "/img/shopping/order-online.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"order online\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Order online\" → Online shopping."
+                    },
+                    {
+                      "prompt": "Is \"order online\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Order online\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "return",
+                  "image": "/img/shopping/return.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually meet \"return\"?",
+                      "options": [
+                        "Online shopping",
+                        "In a physical store",
+                        "Both online and in-store",
+                        "After you buy"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Return\" → After you buy."
+                    },
+                    {
+                      "prompt": "Is \"return\" good or bad news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the price"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Return\" → Depends on the price."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m sure Emily will love her present.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I don’t think we’ll have time to go to the museum today.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There are lots of people here. It’s going to be a great party!",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It might rain later this afternoon, so take an umbrella.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He’ll probably buy a new car next year.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I definitely won’t miss the party.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Look at how full the parking lot is. The mall is going to be really busy. Let’s come back tomorrow morning instead.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why does the speaker think the mall will be busy?",
+                  "options": [
+                    "It is Saturday",
+                    "The parking lot is full",
+                    "There is a special offer",
+                    "A friend told her"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "In my view, Germany will win the next World Cup. They have the best young players and a great coach.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the prediction based on?",
+                  "options": [
+                    "Evidence they can see now",
+                    "The speaker’s opinion",
+                    "A newspaper",
+                    "Last year’s results"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "We may not stay at home for Thanksgiving this year. We might go to my sister’s in Chicago, but we haven’t decided yet.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How sure are the speakers about Thanksgiving?",
+                  "options": [
+                    "Completely sure",
+                    "Not sure yet",
+                    "They will definitely stay home",
+                    "They are going to Chicago for sure"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Sarah will definitely go to college. She’s probably going to study medicine, but she might change her mind.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is Sarah certain about?",
+                  "options": [
+                    "Studying medicine",
+                    "Going to college",
+                    "Changing her mind",
+                    "Nothing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The camera is nearly sold out — only two left. It’s going to sell out before Friday, so if you want it, order it online tonight.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why should you order tonight?",
+                  "options": [
+                    "Delivery is free",
+                    "It is going to sell out",
+                    "The price will go up",
+                    "The shop closes"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "It’ll probably rain when we’re on vacation, but I don’t think it’ll be cold. I definitely won’t pack a winter coat.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will the speaker NOT take?",
+                  "options": [
+                    "An umbrella",
+                    "A winter coat",
+                    "A raincoat",
+                    "Sunglasses"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Fortune Teller",
+                  "situation": "Predict your partner’s next five years: job, travel, family. Use will, probably and definitely.",
+                  "mandatory": [
+                    "will",
+                    "probably",
+                    "definitely"
+                  ],
+                  "taboo": [
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Weather Forecast",
+                  "situation": "Present tomorrow’s weather for three cities. Use might, may and is going to.",
+                  "mandatory": [
+                    "might",
+                    "going to",
+                    "may"
+                  ],
+                  "taboo": [
+                    "will"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Shopping Predictions",
+                  "situation": "Look at a shop: the parking lot is full and the shelves are empty. Predict what is going to happen today.",
+                  "mandatory": [
+                    "going to",
+                    "sold out",
+                    "won't"
+                  ],
+                  "taboo": [
+                    "think"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Party Plans",
+                  "situation": "You are organising a party. Say who will come, who might not come and what will definitely happen.",
+                  "mandatory": [
+                    "I don’t think",
+                    "might not",
+                    "definitely"
+                  ],
+                  "taboo": [
+                    "sure"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Future of Shopping",
+                  "situation": "Debate: will people stop shopping in-store in twenty years? Give opinions with \"In my view…\".",
+                  "mandatory": [
+                    "in my view",
+                    "will",
+                    "probably"
+                  ],
+                  "taboo": [
+                    "Internet"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel Advice",
+                  "situation": "Your friend is going to Toronto. Predict what the trip will be like and what they may need.",
+                  "mandatory": [
+                    "you’re going to",
+                    "may",
+                    "it'll"
+                  ],
+                  "taboo": [
+                    "hope"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
