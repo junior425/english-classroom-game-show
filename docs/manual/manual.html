@@ -68,8 +68,8 @@
     <h1>English Game Show</h1>
     <p style="font-size:13pt;color:#e8e2ff;max-width:130mm">Portal web de juegos competitivos de inglés para pantallas gigantes de salón<br>(Split-Screen · Equipo vs Equipo)</p>
     <div style="margin-top:24pt">
-      <span class="badge">8 modos de juego</span>
-      <span class="badge">6 niveles · 72 unidades · 163 topics</span>
+      <span class="badge">9 modos de juego</span>
+      <span class="badge">6 niveles · 72 unidades · 165 topics</span>
       <span class="badge">100 % en inglés</span>
     </div>
     <div class="url">Aplicación: <b>https://english-classroom-game-show.vercel.app</b><br>
@@ -84,7 +84,7 @@
   <ol class="toc">
     <li><b>Introducción y arquitectura</b>
       <ul><li>¿Qué es English Game Show?</li><li>Arquitectura técnica</li><li>El menú jerárquico: Level → Unit → Topic</li><li>Flujo de trabajo: del libro de texto al juego</li><li>El marcador gigante (Scoreboard)</li></ul></li>
-    <li><b>Guía detallada de los 8 modos de juego</b>
+    <li><b>Guía detallada de los 9 modos de juego</b>
       <ul>
         <li>Modo 1: Point Steal (Robo de Puntos)</li>
         <li>Modo 2: Grammar Auction (Subasta Gramatical)</li>
@@ -94,6 +94,7 @@
         <li>Modo 6: Audio Detective (Comprensión Auditiva &amp; Dictado)</li>
         <li>Modo 7: Speaking Roleplay &amp; Taboo (Fluidez Oral)</li>
         <li>Modo 8: 15-Minute Arcade Speed (Calentamiento de 15 minutos)</li>
+        <li>Modo 9: Neuro-Speaking · The Chunk Express (Fluidez con chunks, imágenes y reconocimiento de voz)</li>
       </ul></li>
     <li><b>Instrucciones de operación en el aula</b>
       <ul><li>Proyección y pantalla completa (F11)</li><li>Manejo de marcadores</li><li>Audio: efectos (Tone.js) y voces (Web Speech API / ElevenLabs)</li><li>Rutina sugerida para una clase</li><li>Solución de problemas</li></ul></li>
@@ -136,7 +137,7 @@
     <div><b>3. Topic / Grammar</b>2 temas por unidad (más los temas extra añadidos desde el libro)</div>
   </div>
   <p>Debajo aparecen las <b>7 tarjetas de modo de juego</b>. Cada tarjeta muestra cuántas preguntas, oraciones, imágenes, pistas o escenas tiene el topic seleccionado (p. ej. "PLAY · 20 QUESTIONS"). Si un topic no tiene contenido para un modo (por ejemplo, no tiene imágenes), esa tarjeta aparece atenuada con el texto "No pictures for this topic yet".</p>
-  <p>En la lista de topics, unos íconos indican el contenido extra disponible: <b>🖼️</b> imágenes (Modo 5), <b>🎧</b> pistas de audio (Modo 6) y <b>🎤</b> escenas de speaking (Modo 7). El Modo 8 está disponible en todos los topics y usa automáticamente el contenido que exista.</p>
+  <p>En la lista de topics, unos íconos indican el contenido extra disponible: <b>🖼️</b> imágenes (Modo 5), <b>🎧</b> pistas de audio (Modo 6) y <b>🎤</b> escenas de speaking (Modo 7). Los Modos 8 y 9 están disponibles en todos los topics y usan automáticamente el contenido que exista.</p>
 </div>
 
 <div>
@@ -172,7 +173,7 @@
 
 <!-- 2. MODOS -->
 <div class="page">
-  <h2>2. Guía detallada de los 8 modos de juego</h2>
+  <h2>2. Guía detallada de los 9 modos de juego</h2>
 
   <div class="mode-head" style="page-break-before:auto"><div class="num">1</div><div><div class="t">🦹 Point Steal — Robo de Puntos</div><div class="s">Preguntas rápidas de opción múltiple · Gramática y vocabulario · 2-3 min por pregunta</div></div></div>
 
@@ -468,6 +469,43 @@
   </ul>
 </div>
 
+<!-- MODO 9 -->
+<div class="page">
+  <div class="mode-head"><div class="num">9</div><div><div class="t">🧠 Neuro-Speaking · The Chunk Express — Fluidez con chunks</div><div class="s">Chunk frame gigante · Carrusel de imágenes cada 6-8 s · Reconocimiento de voz · Shadowing · Todos los topics</div></div></div>
+
+  <h4>Objetivo</h4>
+  <p>Acelerar la producción oral y eliminar la traducción mental (español → inglés) entrenando <b>chunks</b>: bloques fijos de lenguaje que el estudiante completa en voz alta con lo que ve en la imagen, sin pausas. Combina estímulo visual (<i>visual priming</i>), ritmo de metrónomo y pausas de <i>shadowing</i> (escuchar y repetir en eco).</p>
+
+  <h4>Dinámica paso a paso</h4>
+  <ol>
+    <li>Selecciona Level → Unit → Topic. Los chunks se eligen según el nivel: <b>Basic</b> usa frases de supervivencia de 3-4 palabras ("Can I have a ____, please?", "I like ____."); <b>Intermediate</b> usa opinión y experiencia ("Have you ever ____?", "I'd rather ____ than…"); <b>Advanced</b> usa conectores e hipótesis ("It turns out that ____…", "Had I known about ____…").</li>
+    <li>En la pantalla de inicio elige los <b>segundos por imagen (6 / 7 / 8)</b>, activa o desactiva el <b>reconocimiento de voz 🎙️</b> y ajusta el volumen 🔊. Pulsa <b>"🚂 ALL ABOARD! START"</b>.</li>
+    <li>Arriba queda fijo el <b>Chunk frame gigante</b> con el hueco en dorado. En el centro aparece la imagen a pantalla completa (topics con 🖼️) o la palabra clave en texto gigante (topics sin imágenes, tomada de las escenas de speaking y de las respuestas correctas). La barra de progreso baja de verde a amarillo y rojo con un <b>metrónomo</b> de un golpe por segundo.</li>
+    <li>El estudiante (o la pareja) al frente dice la <b>oración completa</b> en voz alta. El equipo que habla alterna en cada imagen (borde azul = Team A, borde rosa = Team B).</li>
+    <li>Con el micrófono activado, la app escucha (Web Speech API, Chrome/Edge): si reconoce la palabra de la imagen y la mayor parte del chunk, lanza un <b>destello verde +100</b> y salta sola a la siguiente imagen. Lo que oye el micrófono se muestra en la franja inferior.</li>
+    <li><b>"🔁 Listen &amp; Repeat"</b> (shadowing): pausa el reloj, reproduce la oración con voz nativa (en-US en Basic/Intermediate, en-GB en Advanced), deja <b>3 segundos de silencio</b> para que toda la clase repita en eco y la reproduce por segunda vez para fijar entonación y acento; luego el reloj continúa.</li>
+    <li>Si se acaba el tiempo suena el buzzer, la pantalla parpadea en rojo ("⏰ NEXT!") y el turno pasa al otro equipo. Al terminar todas las imágenes aparece el marcador final.</li>
+  </ol>
+
+  <h4>Puntuación</h4>
+  <table>
+    <tr><th>Acción</th><th>Puntos</th><th>Sonido</th></tr>
+    <tr><td>Oración reconocida por el micrófono o "✅ Fluent +100" del profesor</td><td class="n pos">+100</td><td>Arpegio de éxito + destello verde</td></tr>
+    <tr><td>Tiempo agotado o "❌ Missed"</td><td class="n">0 (pasa el turno)</td><td>Buzzer + destello rojo</td></tr>
+    <tr><td>"⚡ … steals +50": el rival completa el chunk tras el fallo</td><td class="n pos">50 robados al rival</td><td>Efecto de robo</td></tr>
+    <tr><td>Cada segundo de la tarjeta</td><td class="n">—</td><td>Metrónomo (acento al empezar)</td></tr>
+  </table>
+
+  <h4>Cómo lo dirige el profesor en el salón</h4>
+  <ul>
+    <li>Coloca el portátil o un micrófono USB cerca del estudiante que habla; el navegador pedirá permiso de micrófono la primera vez (acepta "Permitir"). Si no hay micrófono o el aula es muy ruidosa, desactiva 🎙️ y usa los botones <b>Fluent / Missed</b>: el juego funciona igual.</li>
+    <li>Regla: <b>nada de español ni pausas largas</b>. Si el estudiante traduce mentalmente, pulsa "Listen &amp; Repeat" y que toda la clase repita el chunk dos veces antes de seguir.</li>
+    <li>Empieza con 8 s por imagen y baja a 6 s cuando la fila ya domine el chunk. En Basic acepta la oración aunque falle un artículo; en Intermediate/Advanced exige el chunk completo con la entonación del modelo.</li>
+    <li>Topics con 🖼️ (vocabulario ilustrado) dan la experiencia visual completa; en topics de gramática la palabra aparece en texto gigante y el chunk sigue siendo el foco.</li>
+    <li>La voz es la del navegador (Web Speech API, gratis). La integración con ElevenLabs (audios hiperrealistas pregenerados) está prevista como opción futura; ver 3.3.</li>
+  </ul>
+</div>
+
 <!-- 3. OPERACIÓN -->
 <div class="page">
   <h2>3. Instrucciones de operación en el aula</h2>
@@ -526,6 +564,7 @@
   <h3>3.5 Solución de problemas</h3>
   <table>
     <tr><th style="width:36%">Problema</th><th>Solución</th></tr>
+    <tr><td>El micrófono del Modo 9 no reconoce nada</td><td>Usa Chrome o Edge con conexión a internet (el reconocimiento es online), permite el micrófono en el candado de la barra de direcciones y acerca el equipo al estudiante; si no, desactiva 🎙️ y usa los botones Fluent / Missed.</td></tr>
     <tr><td>La música del Modo 8 no suena o está muy alta</td><td>Usa el botón 🎵 (mute) y la barra de volumen arriba a la izquierda; la música arranca solo al pulsar START (gesto del usuario).</td></tr>
     <tr><td>No se oyen los efectos de sonido</td><td>Verifica el volumen del sistema y del navegador; haz clic en cualquier botón (el audio se activa con un gesto del usuario). Recarga la página si persiste.</td></tr>
     <tr><td>El botón PLAY AUDIO no habla (Modo 6)</td><td>El navegador no tiene voces en inglés. Usa Edge (Windows) o instala voces (sección 3.3). Mientras tanto, pulsa "Reveal transcript" y lee la frase en voz alta.</td></tr>
@@ -547,6 +586,7 @@
     <tr><td>6 · Audio Detective</td><td class="pos">+100</td><td class="neg">−50 (dictado)</td><td class="pos">+50 (comprensión)</td><td>Máx. 3 plays · timer 20 s · en-US / en-GB</td></tr>
     <tr><td>7 · Speaking Roleplay</td><td class="pos">+100 ganador · +50 ambos</td><td>0 (No points)</td><td>—</td><td>Taboo −50 · timer 45-60 s · veredicto del profesor</td></tr>
     <tr><td>8 · Arcade Speed</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">100 del rival</td><td>Reloj 15:00 · 5 s / 15 s / 10 s por tarjeta · música con mute/volumen</td></tr>
+    <tr><td>9 · Chunk Express</td><td class="pos">+100 (voz o profesor)</td><td>0 (pasa el turno)</td><td class="pos">+50 del rival</td><td>6-8 s por imagen · metrónomo · shadowing 2× con pausa de 3 s</td></tr>
     <tr><td>Marcador manual</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">Steal 100 del rival</td><td>Disponible en todo momento</td></tr>
   </table>
   <p class="foot">Manual de Uso: English Game Show · https://english-classroom-game-show.vercel.app · github.com/junior425/english-classroom-game-show</p>

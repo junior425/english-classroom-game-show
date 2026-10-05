@@ -85,6 +85,14 @@ const MODES = [
     count: (t) => (t.steal?.length ?? 0) + (t.auction?.length ?? 0) + (t.pictures?.length ?? 0),
     unit: 'cards',
   },
+  {
+    id: 'chunk',
+    icon: '🧠',
+    title: 'MODE 9: NEURO-SPEAKING · THE CHUNK EXPRESS',
+    desc: (<>Fluency drill: a giant <b className="text-gold">chunk frame</b> on top, a full-screen <b className="text-cyan-300">picture carousel</b> every 6–8 s with a metronome bar, <b className="text-emerald-300">speech recognition</b> that awards +100 automatically, and a <b className="text-fuchsia-300">Listen & Repeat</b> shadowing button.</>),
+    count: (t) => t.pictures?.length || new Set([...(t.speaking ?? []).flatMap((s) => s.mandatory ?? []), ...(t.steal ?? []).map((q) => q.options?.[q.answer]).filter((a) => a && a.split(' ').length <= 4 && !/[/?]/.test(a))]).size,
+    unit: 'chunks',
+  },
 ]
 
 export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, onResetScores, onRenameTeams }) {

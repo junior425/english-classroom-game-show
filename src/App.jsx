@@ -12,6 +12,7 @@ import PictureGame from './components/PictureGame.jsx'
 import ListeningGame from './components/ListeningGame.jsx'
 import SpeakingGame from './components/SpeakingGame.jsx'
 import ArcadeGame from './components/ArcadeGame.jsx'
+import ChunkGame from './components/ChunkGame.jsx'
 import Confetti from './components/Confetti.jsx'
 
 const DEFAULT_TEAMS = [
@@ -109,6 +110,7 @@ export default function App() {
             {screen === 'listening' && <ListeningGame key={selection.topic} {...game} />}
             {screen === 'speaking' && <SpeakingGame key={selection.topic} {...game} />}
             {screen === 'arcade' && <ArcadeGame key={selection.topic} {...game} />}
+            {screen === 'chunk' && <ChunkGame key={selection.topic} {...game} />}
           </div>
         </div>
       )}

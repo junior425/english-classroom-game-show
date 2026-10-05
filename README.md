@@ -32,6 +32,12 @@ Live: https://english-classroom-game-show.vercel.app
   "act this out" text, 15 s) and Grammar Trap Express (correct-or-trap sentences, 10 s) — with arcade BGM
   (mute/volume control), tick/bell/buzzer SFX and a fireworks finale that locks the screen and names the winner.
   CORRECT +100, INCORRECT −50, STEAL 100.
+- **Mode 9 – Neuro-Speaking: The Chunk Express** (all topics): a giant level-tiered chunk frame
+  (Basic survival chunks, Intermediate opinion chunks, Advanced hedging/hypothesis chunks) over a full-screen
+  picture carousel that changes every 6–8 s with a metronome progress bar. Browser speech recognition
+  (Web Speech API) awards +100 and advances automatically when the spoken sentence matches; a Listen & Repeat
+  button plays the chunk with a native TTS voice, pauses 3 s for the class to echo, then plays it again.
+  Teacher fallback buttons: Fluent +100, Missed, steal +50. Mute/volume control and Team A/B scoring.
 
 Listening and speaking cards live in `scripts/content/listening-speaking.mjs`, keyed by level and topic
 name; currently Basic 1 "3A - Vocabulary: Food & Drinks" and Advanced 1 Unit 1 have cards.

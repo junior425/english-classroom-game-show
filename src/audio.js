@@ -102,6 +102,8 @@ const raw = {
     bass.triggerAttackRelease('C1', 0.5, t + 0.95)
     noise.triggerAttackRelease(0.2, t + 0.95)
   },
+  metro(accent = false) { if (ready) blip.triggerAttackRelease(accent ? 'C6' : 'G5', accent ? 0.08 : 0.04) },
+  flashGood() { if (ready) seq(synth, ['E5', 'G5', 'C6', 'E6'], 0.06, 0.3) },
   tick(urgent = false) { if (ready) blip.triggerAttackRelease(urgent ? 'E6' : 'A5', 0.06) },
   bell() { if (ready) { seq(synth, ['G5', 'C6', 'E6'], 0.07, 0.5); setTimeout(() => synth.triggerAttackRelease(['C6', 'G6'], 0.9), 250) } },
   buzzer() {
