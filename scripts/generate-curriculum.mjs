@@ -14,6 +14,7 @@ import basic1Unit3Extras from './content/basic1-unit3-extras.mjs'
 import basic1Unit4Extras from './content/basic1-unit4-extras.mjs'
 import basic1Unit4cExtras from './content/basic1-unit4c-extras.mjs'
 import basic1Unit5Extras from './content/basic1-unit5-extras.mjs'
+import basic1Unit6Extras from './content/basic1-unit6-extras.mjs'
 import intermediate1Unit6Extras from './content/intermediate1-unit6-extras.mjs'
 import intermediate1Unit7Extras from './content/intermediate1-unit7-extras.mjs'
 import intermediate1Unit7cExtras from './content/intermediate1-unit7c-extras.mjs'
@@ -28,7 +29,7 @@ const here = dirname(fileURLToPath(import.meta.url))
 
 // Extra topics appended to a unit after its two base topics: { 'Level name': { unitIndex: content } }
 const EXTRAS = {
-  'Basic 1': { 2: basic1Unit3Extras, 3: { ...basic1Unit4Extras, ...basic1Unit4cExtras }, 4: basic1Unit5Extras },
+  'Basic 1': { 2: basic1Unit3Extras, 3: { ...basic1Unit4Extras, ...basic1Unit4cExtras }, 4: basic1Unit5Extras, 5: basic1Unit6Extras },
   'Intermediate 1': { 5: intermediate1Unit6Extras, 6: { ...intermediate1Unit7Extras, ...intermediate1Unit7cExtras } },
   'Advanced 1': { 2: advanced1Unit3Extras, 3: advanced1Unit4Extras, 4: { ...advanced1Unit5Extras, ...advanced1Unit5cExtras }, 5: advanced1Unit6Extras },
 }

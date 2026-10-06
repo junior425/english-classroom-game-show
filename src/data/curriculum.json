@@ -9108,6 +9108,2972 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U6T3",
+              "name": "6A - Vocabulary: Places in Town",
+              "steal": [
+                {
+                  "prompt": "You need money. You go to the ______.",
+                  "options": [
+                    "bank",
+                    "park",
+                    "club",
+                    "school"
+                  ],
+                  "answer": 0,
+                  "explanation": "A bank has money."
+                },
+                {
+                  "prompt": "You wait for the bus at the ______.",
+                  "options": [
+                    "train station",
+                    "bus stop",
+                    "post office",
+                    "hotel"
+                  ],
+                  "answer": 1,
+                  "explanation": "Bus stop = place to wait for a bus."
+                },
+                {
+                  "prompt": "You drink coffee and eat cake at a ______.",
+                  "options": [
+                    "hospital",
+                    "museum",
+                    "café",
+                    "bank"
+                  ],
+                  "answer": 2,
+                  "explanation": "Café = small place for coffee."
+                },
+                {
+                  "prompt": "People dance at night at a ______.",
+                  "options": [
+                    "club",
+                    "school",
+                    "park",
+                    "bank"
+                  ],
+                  "answer": 0,
+                  "explanation": "Club = dancing and music at night."
+                },
+                {
+                  "prompt": "You are very sick. You go to the ______.",
+                  "options": [
+                    "hotel",
+                    "hospital",
+                    "grocery store",
+                    "movie theater"
+                  ],
+                  "answer": 1,
+                  "explanation": "Hospital = doctors and nurses."
+                },
+                {
+                  "prompt": "Tourists sleep at a ______.",
+                  "options": [
+                    "museum",
+                    "post office",
+                    "hotel",
+                    "police station"
+                  ],
+                  "answer": 2,
+                  "explanation": "Hotel = place to sleep when you travel."
+                },
+                {
+                  "prompt": "You watch a movie at the ______.",
+                  "options": [
+                    "movie theater",
+                    "train station",
+                    "bank",
+                    "hospital"
+                  ],
+                  "answer": 0,
+                  "explanation": "Movie theater = cinema."
+                },
+                {
+                  "prompt": "You see old paintings and dinosaurs at a ______.",
+                  "options": [
+                    "club",
+                    "museum",
+                    "restaurant",
+                    "bus stop"
+                  ],
+                  "answer": 1,
+                  "explanation": "Museum = art and history."
+                },
+                {
+                  "prompt": "Children play and people walk the dog in the ______.",
+                  "options": [
+                    "park",
+                    "hotel",
+                    "bank",
+                    "post office"
+                  ],
+                  "answer": 0,
+                  "explanation": "Park = green place outside."
+                },
+                {
+                  "prompt": "Police officers work at the ______.",
+                  "options": [
+                    "post office",
+                    "hospital",
+                    "police station",
+                    "school"
+                  ],
+                  "answer": 2,
+                  "explanation": "Police station = where the police work."
+                },
+                {
+                  "prompt": "You send a letter at the ______.",
+                  "options": [
+                    "post office",
+                    "police station",
+                    "museum",
+                    "club"
+                  ],
+                  "answer": 0,
+                  "explanation": "Post office = letters and packages."
+                },
+                {
+                  "prompt": "You have dinner with your family at a ______.",
+                  "options": [
+                    "grocery store",
+                    "restaurant",
+                    "train station",
+                    "bank"
+                  ],
+                  "answer": 1,
+                  "explanation": "Restaurant = you eat a meal."
+                },
+                {
+                  "prompt": "Students study at ______.",
+                  "options": [
+                    "school",
+                    "a club",
+                    "a hotel",
+                    "the bank"
+                  ],
+                  "answer": 0,
+                  "explanation": "School = place for students."
+                },
+                {
+                  "prompt": "There are many stores in one big building. It is a ______.",
+                  "options": [
+                    "shopping mall",
+                    "bus stop",
+                    "park",
+                    "hospital"
+                  ],
+                  "answer": 0,
+                  "explanation": "Shopping mall = many stores together."
+                },
+                {
+                  "prompt": "You buy milk, bread and eggs at the ______.",
+                  "options": [
+                    "grocery store",
+                    "movie theater",
+                    "museum",
+                    "bank"
+                  ],
+                  "answer": 0,
+                  "explanation": "Grocery store = food shop."
+                },
+                {
+                  "prompt": "Trains arrive at the ______.",
+                  "options": [
+                    "bus stop",
+                    "train station",
+                    "post office",
+                    "café"
+                  ],
+                  "answer": 1,
+                  "explanation": "Train station = trains."
+                },
+                {
+                  "prompt": "New York is big. It is a ______.",
+                  "options": [
+                    "town",
+                    "city",
+                    "park",
+                    "village store"
+                  ],
+                  "answer": 1,
+                  "explanation": "A city is big."
+                },
+                {
+                  "prompt": "A ______ is small or medium-sized.",
+                  "options": [
+                    "city",
+                    "town",
+                    "mall",
+                    "station"
+                  ],
+                  "answer": 1,
+                  "explanation": "A town is small or medium-sized."
+                },
+                {
+                  "prompt": "Which place is usually outside?",
+                  "options": [
+                    "park",
+                    "bank",
+                    "hotel",
+                    "movie theater"
+                  ],
+                  "answer": 0,
+                  "explanation": "A park is outside."
+                },
+                {
+                  "prompt": "Which TWO places are about travel?",
+                  "options": [
+                    "bus stop and train station",
+                    "café and restaurant",
+                    "bank and post office",
+                    "school and museum"
+                  ],
+                  "answer": 0,
+                  "explanation": "Buses and trains."
+                },
+                {
+                  "prompt": "Which TWO places are about food and drink?",
+                  "options": [
+                    "café and restaurant",
+                    "bank and hotel",
+                    "police station and hospital",
+                    "school and museum"
+                  ],
+                  "answer": 0,
+                  "explanation": "You eat and drink there."
+                },
+                {
+                  "prompt": "Spelling: which word is correct?",
+                  "options": [
+                    "restaurant",
+                    "restorant",
+                    "resturant",
+                    "restaurent"
+                  ],
+                  "answer": 0,
+                  "explanation": "r-e-s-t-a-u-r-a-n-t."
+                },
+                {
+                  "prompt": "Spelling: which word is correct?",
+                  "options": [
+                    "musem",
+                    "museum",
+                    "museam",
+                    "musium"
+                  ],
+                  "answer": 1,
+                  "explanation": "m-u-s-e-u-m."
+                },
+                {
+                  "prompt": "\"Where is the ______?\" \"Over there, next to the bank.\" (a place to sleep)",
+                  "options": [
+                    "hotel",
+                    "club",
+                    "park",
+                    "bus stop"
+                  ],
+                  "answer": 0,
+                  "explanation": "Hotel."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "There is a bank on Main Street.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I wait for the bus at the bus stop.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We watch movies at the movie theater.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My brother is sick, so he is at the hospital.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I send letters at the post office.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The children play in the park every afternoon.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Let’s have lunch at that restaurant.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The train leaves from the train station at 9:00.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A town is small or medium-sized.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A city is big.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Tokyo is a very big city.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I buy bread at the grocery store.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I buy bread at the bank.",
+                  "correct": false,
+                  "fix": "You buy bread at the grocery store."
+                },
+                {
+                  "sentence": "We sleep at the museum when we travel.",
+                  "correct": false,
+                  "fix": "We sleep at a hotel."
+                },
+                {
+                  "sentence": "The police officers work at the post office.",
+                  "correct": false,
+                  "fix": "They work at the police station."
+                },
+                {
+                  "sentence": "I wait for the train at the bus stop.",
+                  "correct": false,
+                  "fix": "At the train station."
+                },
+                {
+                  "sentence": "My small town is very big.",
+                  "correct": false,
+                  "fix": "A town is small or medium-sized."
+                },
+                {
+                  "sentence": "She studies at the club every morning.",
+                  "correct": false,
+                  "fix": "She studies at school."
+                },
+                {
+                  "sentence": "There is a good coffee in the café.",
+                  "correct": false,
+                  "fix": "Say “good coffee” (uncountable): There is good coffee in the café."
+                },
+                {
+                  "sentence": "We watch a movie at the movie theatre tonight.",
+                  "correct": false,
+                  "fix": "American spelling in this book: movie theater."
+                },
+                {
+                  "sentence": "I go to the shoping mall on Saturdays.",
+                  "correct": false,
+                  "fix": "Spelling: shopping."
+                },
+                {
+                  "sentence": "The hospital is next to the libary.",
+                  "correct": false,
+                  "fix": "Spelling: library."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "bank",
+                  "image": "/img/town/bank.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"bank\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Bank\" → To buy things or get a service."
+                    },
+                    {
+                      "prompt": "Is a \"bank\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Bank\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "bus stop",
+                  "image": "/img/town/bus-stop.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"bus stop\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Bus stop\" → To travel or move around."
+                    },
+                    {
+                      "prompt": "Is a \"bus stop\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bus stop\" → Outside / in the open air."
+                    }
+                  ]
+                },
+                {
+                  "word": "café",
+                  "image": "/img/town/cafe.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"café\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Café\" → To eat, drink or have fun."
+                    },
+                    {
+                      "prompt": "Is a \"café\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Café\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "club",
+                  "image": "/img/town/club.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"club\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Club\" → To eat, drink or have fun."
+                    },
+                    {
+                      "prompt": "Is a \"club\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Club\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "hospital",
+                  "image": "/img/town/hospital.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"hospital\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Hospital\" → To learn, visit or get help."
+                    },
+                    {
+                      "prompt": "Is a \"hospital\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Hospital\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "hotel",
+                  "image": "/img/town/hotel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"hotel\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hotel\" → To buy things or get a service."
+                    },
+                    {
+                      "prompt": "Is a \"hotel\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Hotel\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "movie theater",
+                  "image": "/img/town/movie-theater.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"movie theater\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Movie theater\" → To eat, drink or have fun."
+                    },
+                    {
+                      "prompt": "Is a \"movie theater\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Movie theater\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "museum",
+                  "image": "/img/town/museum.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"museum\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Museum\" → To learn, visit or get help."
+                    },
+                    {
+                      "prompt": "Is a \"museum\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Museum\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "park",
+                  "image": "/img/town/park.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"park\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Park\" → To eat, drink or have fun."
+                    },
+                    {
+                      "prompt": "Is a \"park\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Park\" → Outside / in the open air."
+                    }
+                  ]
+                },
+                {
+                  "word": "police station",
+                  "image": "/img/town/police-station.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"police station\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Police station\" → To learn, visit or get help."
+                    },
+                    {
+                      "prompt": "Is a \"police station\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Police station\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "post office",
+                  "image": "/img/town/post-office.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"post office\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Post office\" → To buy things or get a service."
+                    },
+                    {
+                      "prompt": "Is a \"post office\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Post office\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "restaurant",
+                  "image": "/img/town/restaurant.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"restaurant\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Restaurant\" → To eat, drink or have fun."
+                    },
+                    {
+                      "prompt": "Is a \"restaurant\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Restaurant\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "school",
+                  "image": "/img/town/school.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"school\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"School\" → To learn, visit or get help."
+                    },
+                    {
+                      "prompt": "Is a \"school\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"School\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "shopping mall",
+                  "image": "/img/town/shopping-mall.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"shopping mall\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Shopping mall\" → To buy things or get a service."
+                    },
+                    {
+                      "prompt": "Is a \"shopping mall\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shopping mall\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "grocery store",
+                  "image": "/img/town/grocery-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"grocery store\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Grocery store\" → To buy things or get a service."
+                    },
+                    {
+                      "prompt": "Is a \"grocery store\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Grocery store\" → Inside a building."
+                    }
+                  ]
+                },
+                {
+                  "word": "train station",
+                  "image": "/img/town/train-station.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"train station\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Train station\" → To travel or move around."
+                    },
+                    {
+                      "prompt": "Is a \"train station\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Train station\" → Both."
+                    }
+                  ]
+                },
+                {
+                  "word": "a town",
+                  "image": "/img/town/town.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"a town\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"A town\" → To learn, visit or get help."
+                    },
+                    {
+                      "prompt": "Is a \"a town\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"A town\" → It is a whole place."
+                    }
+                  ]
+                },
+                {
+                  "word": "a city",
+                  "image": "/img/town/city.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Why do people go to a \"a city\"?",
+                      "options": [
+                        "To travel or move around",
+                        "To eat, drink or have fun",
+                        "To buy things or get a service",
+                        "To learn, visit or get help"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"A city\" → To learn, visit or get help."
+                    },
+                    {
+                      "prompt": "Is a \"a city\" usually inside a building or outside?",
+                      "options": [
+                        "Inside a building",
+                        "Outside / in the open air",
+                        "Both",
+                        "It is a whole place"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"A city\" → It is a whole place."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "There is a bank next to the post office on Main Street.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is next to the post office?",
+                  "options": [
+                    "A bank",
+                    "A hotel",
+                    "A school",
+                    "A park"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I wait for the bus at the bus stop in front of the hospital.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is the bus stop?",
+                  "options": [
+                    "In front of the hospital",
+                    "Behind the bank",
+                    "Next to the club",
+                    "In the park"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Let’s have a coffee at the café and then watch a movie at the movie theater.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where do they go first?",
+                  "options": [
+                    "The movie theater",
+                    "The café",
+                    "The park",
+                    "The museum"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My sister is a nurse. She works at the hospital near the train station.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where does the sister work?",
+                  "options": [
+                    "At the train station",
+                    "At the hospital",
+                    "At a hotel",
+                    "At school"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The museum is closed on Mondays, but the park is open every day.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is open every day?",
+                  "options": [
+                    "The museum",
+                    "The park",
+                    "The club",
+                    "The bank"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "There is a police station across from the shopping mall.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We have dinner at a restaurant every Friday.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I buy fruit and milk at the grocery store, and I send letters at the post office.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where does the speaker buy milk?",
+                  "options": [
+                    "At the post office",
+                    "At the grocery store",
+                    "At the mall",
+                    "At the café"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My town is small. There is one school, one bank and a nice park.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Is this a town or a city?",
+                  "options": [
+                    "A town",
+                    "A city",
+                    "A mall",
+                    "A station"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Tourists sleep at the hotel next to the train station and dance at the club at night.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where do tourists dance?",
+                  "options": [
+                    "At the hotel",
+                    "At the club",
+                    "At the station",
+                    "At school"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Mexico City is a very big city.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Excuse me, where is the bank? — Go straight. It is next to the museum.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is the bank?",
+                  "options": [
+                    "Next to the museum",
+                    "Next to the park",
+                    "In the mall",
+                    "Behind the school"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Asking for Directions",
+                  "situation": "Student A is a tourist. Student B lives in the town. A asks where three places are; B explains.",
+                  "mandatory": [
+                    "bank",
+                    "post office",
+                    "next to"
+                  ],
+                  "taboo": [
+                    "map",
+                    "phone",
+                    "GPS"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Town",
+                  "situation": "Describe your town or city: name five places and say what you do there.",
+                  "mandatory": [
+                    "park",
+                    "school",
+                    "restaurant"
+                  ],
+                  "taboo": [
+                    "house",
+                    "home",
+                    "street"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Weekend Plan",
+                  "situation": "Plan a Saturday with your friend: choose four places to visit and in what order.",
+                  "mandatory": [
+                    "café",
+                    "movie theater",
+                    "shopping mall"
+                  ],
+                  "taboo": [
+                    "home",
+                    "sleep",
+                    "TV"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Town or City?",
+                  "situation": "Compare a small town and a big city. Which do you prefer? Say why.",
+                  "mandatory": [
+                    "town",
+                    "city",
+                    "small"
+                  ],
+                  "taboo": [
+                    "people",
+                    "country",
+                    "village"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lost Tourist",
+                  "situation": "A tourist needs a hotel, a hospital and a train station. Help them!",
+                  "mandatory": [
+                    "hotel",
+                    "hospital",
+                    "train station"
+                  ],
+                  "taboo": [
+                    "taxi",
+                    "bus",
+                    "car"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess the Place",
+                  "situation": "Describe a place in town without saying its name. Your team guesses.",
+                  "mandatory": [
+                    "people",
+                    "go",
+                    "there"
+                  ],
+                  "taboo": [
+                    "bank",
+                    "park",
+                    "school",
+                    "hotel"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U6T4",
+              "name": "6B - Vocabulary: Parts of the Body",
+              "steal": [
+                {
+                  "prompt": "You see with your ______.",
+                  "options": [
+                    "ears",
+                    "eyes",
+                    "nose",
+                    "teeth"
+                  ],
+                  "answer": 1,
+                  "explanation": "Eyes = to see."
+                },
+                {
+                  "prompt": "You hear with your ______.",
+                  "options": [
+                    "ears",
+                    "knees",
+                    "hands",
+                    "feet"
+                  ],
+                  "answer": 0,
+                  "explanation": "Ears = to hear."
+                },
+                {
+                  "prompt": "You smell with your ______.",
+                  "options": [
+                    "mouth",
+                    "hair",
+                    "nose",
+                    "arm"
+                  ],
+                  "answer": 2,
+                  "explanation": "Nose = to smell."
+                },
+                {
+                  "prompt": "You eat and speak with your ______.",
+                  "options": [
+                    "mouth",
+                    "leg",
+                    "hand",
+                    "head"
+                  ],
+                  "answer": 0,
+                  "explanation": "Mouth = to eat and speak."
+                },
+                {
+                  "prompt": "You walk with your ______.",
+                  "options": [
+                    "arms",
+                    "legs",
+                    "ears",
+                    "eyes"
+                  ],
+                  "answer": 1,
+                  "explanation": "Legs = to walk."
+                },
+                {
+                  "prompt": "You write with your ______.",
+                  "options": [
+                    "foot",
+                    "knee",
+                    "hand",
+                    "nose"
+                  ],
+                  "answer": 2,
+                  "explanation": "Hand = to write."
+                },
+                {
+                  "prompt": "Your shoes are on your ______.",
+                  "options": [
+                    "hands",
+                    "feet",
+                    "heads",
+                    "arms"
+                  ],
+                  "answer": 1,
+                  "explanation": "Shoes go on your feet."
+                },
+                {
+                  "prompt": "The plural of \"tooth\" is ______.",
+                  "options": [
+                    "tooths",
+                    "teeths",
+                    "teeth",
+                    "toothes"
+                  ],
+                  "answer": 2,
+                  "explanation": "Irregular plural: teeth."
+                },
+                {
+                  "prompt": "The plural of \"foot\" is ______.",
+                  "options": [
+                    "foots",
+                    "feet",
+                    "feets",
+                    "footes"
+                  ],
+                  "answer": 1,
+                  "explanation": "Irregular plural: feet."
+                },
+                {
+                  "prompt": "The plural of \"hand\" is ______.",
+                  "options": [
+                    "hands",
+                    "hend",
+                    "handes",
+                    "hands’"
+                  ],
+                  "answer": 0,
+                  "explanation": "Regular plural: hands."
+                },
+                {
+                  "prompt": "Your eyes, nose and mouth are on your ______.",
+                  "options": [
+                    "face",
+                    "knee",
+                    "leg",
+                    "arm"
+                  ],
+                  "answer": 0,
+                  "explanation": "Face."
+                },
+                {
+                  "prompt": "Your hair is on your ______.",
+                  "options": [
+                    "foot",
+                    "head",
+                    "hand",
+                    "knee"
+                  ],
+                  "answer": 1,
+                  "explanation": "Hair is on your head."
+                },
+                {
+                  "prompt": "Your ______ is in the middle of your leg.",
+                  "options": [
+                    "knee",
+                    "nose",
+                    "ear",
+                    "tooth"
+                  ],
+                  "answer": 0,
+                  "explanation": "Knee = middle of the leg."
+                },
+                {
+                  "prompt": "Your hand is at the end of your ______.",
+                  "options": [
+                    "leg",
+                    "arm",
+                    "head",
+                    "foot"
+                  ],
+                  "answer": 1,
+                  "explanation": "Arm → hand."
+                },
+                {
+                  "prompt": "Your foot is at the end of your ______.",
+                  "options": [
+                    "arm",
+                    "nose",
+                    "leg",
+                    "face"
+                  ],
+                  "answer": 2,
+                  "explanation": "Leg → foot."
+                },
+                {
+                  "prompt": "How many eyes do you have?",
+                  "options": [
+                    "one",
+                    "two",
+                    "ten",
+                    "many"
+                  ],
+                  "answer": 1,
+                  "explanation": "Two eyes."
+                },
+                {
+                  "prompt": "How many teeth does an adult have?",
+                  "options": [
+                    "two",
+                    "ten",
+                    "thirty-two",
+                    "one"
+                  ],
+                  "answer": 2,
+                  "explanation": "About 32 teeth."
+                },
+                {
+                  "prompt": "Which word is singular?",
+                  "options": [
+                    "feet",
+                    "teeth",
+                    "eyes",
+                    "nose"
+                  ],
+                  "answer": 3,
+                  "explanation": "Nose is singular."
+                },
+                {
+                  "prompt": "Which word is plural?",
+                  "options": [
+                    "foot",
+                    "tooth",
+                    "ears",
+                    "head"
+                  ],
+                  "answer": 2,
+                  "explanation": "Ears is plural."
+                },
+                {
+                  "prompt": "\"Open your ______ and say Ahh,\" says the doctor.",
+                  "options": [
+                    "mouth",
+                    "ears",
+                    "eyes",
+                    "hands"
+                  ],
+                  "answer": 0,
+                  "explanation": "Mouth."
+                },
+                {
+                  "prompt": "\"Close your ______ and sleep,\" says Mom.",
+                  "options": [
+                    "hands",
+                    "eyes",
+                    "feet",
+                    "knees"
+                  ],
+                  "answer": 1,
+                  "explanation": "Eyes."
+                },
+                {
+                  "prompt": "Which group is all on the head?",
+                  "options": [
+                    "hair, ears, nose",
+                    "arms, legs, feet",
+                    "hands, knees, body",
+                    "legs, feet, knees"
+                  ],
+                  "answer": 0,
+                  "explanation": "All on the head."
+                },
+                {
+                  "prompt": "Which group is all on the legs?",
+                  "options": [
+                    "knees, feet",
+                    "eyes, teeth",
+                    "hair, hands",
+                    "ears, arms"
+                  ],
+                  "answer": 0,
+                  "explanation": "Knees and feet."
+                },
+                {
+                  "prompt": "Spelling: which word is correct?",
+                  "options": [
+                    "nee",
+                    "knee",
+                    "kne",
+                    "knea"
+                  ],
+                  "answer": 1,
+                  "explanation": "k-n-e-e (silent k)."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I have two eyes and one nose.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My teeth are white.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Her feet are small.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I write with my right hand.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My brother has long hair.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We walk with our legs.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Open your mouth, please.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your knee is part of your leg.",
+                  "correct": true
+                },
+                {
+                  "sentence": "His ears are big.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I have a small face.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I have two foots.",
+                  "correct": false,
+                  "fix": "Irregular plural: feet."
+                },
+                {
+                  "sentence": "My tooths are white.",
+                  "correct": false,
+                  "fix": "Irregular plural: teeth."
+                },
+                {
+                  "sentence": "I have one eyes.",
+                  "correct": false,
+                  "fix": "One eye (singular)."
+                },
+                {
+                  "sentence": "I have two nose.",
+                  "correct": false,
+                  "fix": "People have one nose."
+                },
+                {
+                  "sentence": "Wash your hand before dinner. (both hands)",
+                  "correct": false,
+                  "fix": "Plural: Wash your hands."
+                },
+                {
+                  "sentence": "I have long hairs.",
+                  "correct": false,
+                  "fix": "Hair is uncountable: long hair."
+                },
+                {
+                  "sentence": "She has a long legs.",
+                  "correct": false,
+                  "fix": "No “a” with plural: She has long legs."
+                },
+                {
+                  "sentence": "My head is at the end of my arm.",
+                  "correct": false,
+                  "fix": "My hand is at the end of my arm."
+                },
+                {
+                  "sentence": "I see with my ears.",
+                  "correct": false,
+                  "fix": "I see with my eyes."
+                },
+                {
+                  "sentence": "I walk with my arms.",
+                  "correct": false,
+                  "fix": "I walk with my legs."
+                },
+                {
+                  "sentence": "My feet is cold.",
+                  "correct": false,
+                  "fix": "Feet is plural: My feet are cold."
+                },
+                {
+                  "sentence": "I have two knee.",
+                  "correct": false,
+                  "fix": "Plural: two knees."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "hair",
+                  "image": "/img/body/hair.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"hair\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Hair\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"hair\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hair\" → Many (more than two)."
+                    }
+                  ]
+                },
+                {
+                  "word": "head",
+                  "image": "/img/body/head.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"head\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Head\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"head\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Head\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "ear",
+                  "image": "/img/body/ear.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"ear\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Ear\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"ear\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ear\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "face",
+                  "image": "/img/body/face.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"face\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Face\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"face\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Face\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "eye",
+                  "image": "/img/body/eye.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"eye\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Eye\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"eye\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Eye\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "nose",
+                  "image": "/img/body/nose.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"nose\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Nose\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"nose\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Nose\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "tooth (teeth)",
+                  "image": "/img/body/tooth.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"tooth (teeth)\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tooth (teeth)\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"tooth (teeth)\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Tooth (teeth)\" → Many (more than two)."
+                    }
+                  ]
+                },
+                {
+                  "word": "mouth",
+                  "image": "/img/body/mouth.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"mouth\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mouth\" → On the head or face."
+                    },
+                    {
+                      "prompt": "How many \"mouth\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mouth\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "body",
+                  "image": "/img/body/body.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"body\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Body\" → The whole body."
+                    },
+                    {
+                      "prompt": "How many \"body\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Body\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "arm",
+                  "image": "/img/body/arm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"arm\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Arm\" → On the arm or hand."
+                    },
+                    {
+                      "prompt": "How many \"arm\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Arm\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "hand",
+                  "image": "/img/body/hand.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"hand\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Hand\" → On the arm or hand."
+                    },
+                    {
+                      "prompt": "How many \"hand\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Hand\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "leg",
+                  "image": "/img/body/leg.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"leg\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Leg\" → On the leg or foot."
+                    },
+                    {
+                      "prompt": "How many \"leg\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Leg\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "knee",
+                  "image": "/img/body/knee.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"knee\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Knee\" → On the leg or foot."
+                    },
+                    {
+                      "prompt": "How many \"knee\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Knee\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "foot (feet)",
+                  "image": "/img/body/foot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is the \"foot (feet)\"?",
+                      "options": [
+                        "On the head or face",
+                        "On the arm or hand",
+                        "On the leg or foot",
+                        "The whole body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Foot (feet)\" → On the leg or foot."
+                    },
+                    {
+                      "prompt": "How many \"foot (feet)\" do people usually have?",
+                      "options": [
+                        "One",
+                        "Two",
+                        "Many (more than two)",
+                        "It depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Foot (feet)\" → Two."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I have two eyes, two ears, one nose and one mouth.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many ears does the speaker have?",
+                  "options": [
+                    "One",
+                    "Two",
+                    "Three",
+                    "Many"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My brother has short hair and a big head.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is big?",
+                  "options": [
+                    "His hair",
+                    "His head",
+                    "His nose",
+                    "His feet"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Open your mouth, please. Your teeth look very good.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is speaking?",
+                  "options": [
+                    "A dentist",
+                    "A teacher",
+                    "A police officer",
+                    "A waiter"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My feet are cold. I need socks and shoes.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is cold?",
+                  "options": [
+                    "The hands",
+                    "The feet",
+                    "The ears",
+                    "The knees"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Put your hands on your head. Now touch your knees. Now touch your nose!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do you touch last?",
+                  "options": [
+                    "Your knees",
+                    "Your head",
+                    "Your nose",
+                    "Your feet"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I write with my right hand.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The plural of tooth is teeth.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Ouch! My leg and my knee hurt. I can’t play soccer today.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What hurts?",
+                  "options": [
+                    "The leg and the knee",
+                    "The arm and the hand",
+                    "The ear and the eye",
+                    "The nose and the mouth"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "She has long black hair and brown eyes.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What color are her eyes?",
+                  "options": [
+                    "Black",
+                    "Brown",
+                    "Blue",
+                    "Green"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Babies have no teeth. Adults have thirty-two teeth.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many teeth do adults have?",
+                  "options": [
+                    "Thirty-two",
+                    "Twenty",
+                    "Ten",
+                    "Two"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My feet are big, but my hands are small.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Wash your hands and your face before dinner.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do you wash?",
+                  "options": [
+                    "Hands and face",
+                    "Feet and legs",
+                    "Hair and ears",
+                    "Arms and knees"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Simon Says",
+                  "situation": "Give your team five commands: \"Touch your…\", \"Close your…\". They do the action.",
+                  "mandatory": [
+                    "touch",
+                    "nose",
+                    "knees"
+                  ],
+                  "taboo": [
+                    "Simon",
+                    "please",
+                    "stop"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "At the Doctor",
+                  "situation": "Student A is a patient; Student B is the doctor. A says what hurts; B gives advice.",
+                  "mandatory": [
+                    "hurts",
+                    "head",
+                    "leg"
+                  ],
+                  "taboo": [
+                    "medicine",
+                    "pill",
+                    "pain"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Describe a Friend",
+                  "situation": "Describe a classmate’s hair, eyes and face. The team guesses who it is.",
+                  "mandatory": [
+                    "hair",
+                    "eyes",
+                    "face"
+                  ],
+                  "taboo": [
+                    "name",
+                    "he",
+                    "she"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Monster",
+                  "situation": "Invent a monster: how many eyes, arms, legs and teeth does it have? Describe it.",
+                  "mandatory": [
+                    "eyes",
+                    "arms",
+                    "teeth"
+                  ],
+                  "taboo": [
+                    "scary",
+                    "ugly",
+                    "big"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Body in Numbers",
+                  "situation": "Say how many of each body part you have: \"I have two…, one…\". Make 6 sentences.",
+                  "mandatory": [
+                    "two",
+                    "one",
+                    "hands"
+                  ],
+                  "taboo": [
+                    "body",
+                    "person",
+                    "human"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Plural Challenge",
+                  "situation": "Say the plural of each word your teacher shows (tooth, foot, hand, eye…) in a sentence.",
+                  "mandatory": [
+                    "teeth",
+                    "feet",
+                    "are"
+                  ],
+                  "taboo": [
+                    "tooths",
+                    "foots",
+                    "is"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U6T5",
+              "name": "6A - Grammar: There is / There are",
+              "steal": [
+                {
+                  "prompt": "______ a beautiful park near my house.",
+                  "options": [
+                    "There are",
+                    "There is",
+                    "There have",
+                    "Is there"
+                  ],
+                  "answer": 1,
+                  "explanation": "Singular → there is."
+                },
+                {
+                  "prompt": "______ five hotels in my city.",
+                  "options": [
+                    "There is",
+                    "There are",
+                    "There be",
+                    "They are"
+                  ],
+                  "answer": 1,
+                  "explanation": "Plural → there are."
+                },
+                {
+                  "prompt": "______ an umbrella on the table.",
+                  "options": [
+                    "There are",
+                    "There is",
+                    "There’re",
+                    "There any"
+                  ],
+                  "answer": 1,
+                  "explanation": "Singular: there’s / there is."
+                },
+                {
+                  "prompt": "______ six people on the bus.",
+                  "options": [
+                    "There is",
+                    "There’s",
+                    "There are",
+                    "There am"
+                  ],
+                  "answer": 2,
+                  "explanation": "Plural: there are."
+                },
+                {
+                  "prompt": "There are ______ good stores downtown.",
+                  "options": [
+                    "any",
+                    "some",
+                    "a",
+                    "an"
+                  ],
+                  "answer": 1,
+                  "explanation": "Affirmative plural → some."
+                },
+                {
+                  "prompt": "There aren’t ______ museums in my town.",
+                  "options": [
+                    "some",
+                    "a",
+                    "any",
+                    "no"
+                  ],
+                  "answer": 2,
+                  "explanation": "Negative → any."
+                },
+                {
+                  "prompt": "Are there ______ hotels near here?",
+                  "options": [
+                    "some",
+                    "any",
+                    "a",
+                    "the"
+                  ],
+                  "answer": 1,
+                  "explanation": "Question → any."
+                },
+                {
+                  "prompt": "There’s ______ museum in this town.",
+                  "options": [
+                    "any",
+                    "some",
+                    "no",
+                    "not"
+                  ],
+                  "answer": 2,
+                  "explanation": "Negative with no: There’s no museum."
+                },
+                {
+                  "prompt": "There ______ no museums.",
+                  "options": [
+                    "is",
+                    "are",
+                    "am",
+                    "have"
+                  ],
+                  "answer": 1,
+                  "explanation": "Plural: There are no museums."
+                },
+                {
+                  "prompt": "Is there a restaurant? — Yes, ______.",
+                  "options": [
+                    "there is",
+                    "it is",
+                    "there’s",
+                    "there are"
+                  ],
+                  "answer": 0,
+                  "explanation": "Short answer: Yes, there is."
+                },
+                {
+                  "prompt": "Is there a restaurant? — No, ______.",
+                  "options": [
+                    "there not",
+                    "there isn’t",
+                    "there aren’t",
+                    "it isn’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "No, there isn’t. / No, there’s not."
+                },
+                {
+                  "prompt": "Are there any restaurants? — Yes, ______.",
+                  "options": [
+                    "there’re",
+                    "there is",
+                    "there are",
+                    "they are"
+                  ],
+                  "answer": 2,
+                  "explanation": "Yes, there are. (no contraction)"
+                },
+                {
+                  "prompt": "Are there any banks? — No, ______.",
+                  "options": [
+                    "there aren’t",
+                    "there isn’t",
+                    "there no",
+                    "aren’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "No, there aren’t."
+                },
+                {
+                  "prompt": "______ there a hospital in your town?",
+                  "options": [
+                    "Is",
+                    "Are",
+                    "Does",
+                    "Has"
+                  ],
+                  "answer": 0,
+                  "explanation": "Singular question: Is there…?"
+                },
+                {
+                  "prompt": "______ there any schools near the park?",
+                  "options": [
+                    "Is",
+                    "Are",
+                    "Do",
+                    "Have"
+                  ],
+                  "answer": 1,
+                  "explanation": "Plural question: Are there…?"
+                },
+                {
+                  "prompt": "There’s no theater. = There ______ a theater.",
+                  "options": [
+                    "isn’t",
+                    "aren’t",
+                    "is",
+                    "not"
+                  ],
+                  "answer": 0,
+                  "explanation": "There’s no = There isn’t a."
+                },
+                {
+                  "prompt": "There aren’t any cafés. = There ______ cafés.",
+                  "options": [
+                    "is no",
+                    "are no",
+                    "are any",
+                    "not"
+                  ],
+                  "answer": 1,
+                  "explanation": "There are no cafés."
+                },
+                {
+                  "prompt": "There ______ some bread on the table. (uncountable)",
+                  "options": [
+                    "are",
+                    "is",
+                    "have",
+                    "any"
+                  ],
+                  "answer": 1,
+                  "explanation": "Bread is uncountable → there is."
+                },
+                {
+                  "prompt": "There ______ a lot of people at the bus stop.",
+                  "options": [
+                    "is",
+                    "are",
+                    "am",
+                    "be"
+                  ],
+                  "answer": 1,
+                  "explanation": "People is plural → there are."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "There are a bank.",
+                    "There is a bank.",
+                    "There is banks.",
+                    "There a bank."
+                  ],
+                  "answer": 1,
+                  "explanation": "Singular → there is a."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "There is two parks.",
+                    "There are two park.",
+                    "There are two parks.",
+                    "There two parks."
+                  ],
+                  "answer": 2,
+                  "explanation": "Plural → there are + plural noun."
+                },
+                {
+                  "prompt": "\"There’s\" is the short form of ______.",
+                  "options": [
+                    "there has",
+                    "there is",
+                    "there are",
+                    "they are"
+                  ],
+                  "answer": 1,
+                  "explanation": "There’s = there is."
+                },
+                {
+                  "prompt": "Choose the negative: There are some clubs. →",
+                  "options": [
+                    "There aren’t some clubs.",
+                    "There aren’t any clubs.",
+                    "There isn’t any clubs.",
+                    "There no clubs."
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative → aren’t any."
+                },
+                {
+                  "prompt": "Choose the question: There is a post office. →",
+                  "options": [
+                    "Is there a post office?",
+                    "There is a post office?",
+                    "Are there a post office?",
+                    "Is it a post office?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Is there…?"
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "There’s a beautiful park near my house.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There’s an umbrella on the table.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There are five hotels in my city.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There are six people on the bus.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There are some good stores downtown.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There aren’t any museums.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are there any hotels near here?",
+                  "correct": true
+                },
+                {
+                  "sentence": "There’s no museum in this town.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There are no museums.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is there a restaurant? Yes, there is.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are there any restaurants? No, there aren’t.",
+                  "correct": true
+                },
+                {
+                  "sentence": "There are a park near my house.",
+                  "correct": false,
+                  "fix": "Singular: There is a park."
+                },
+                {
+                  "sentence": "There is five hotels in my city.",
+                  "correct": false,
+                  "fix": "Plural: There are five hotels."
+                },
+                {
+                  "sentence": "There are any good stores downtown.",
+                  "correct": false,
+                  "fix": "Affirmative: There are some good stores."
+                },
+                {
+                  "sentence": "There aren’t some museums.",
+                  "correct": false,
+                  "fix": "Negative: There aren’t any museums."
+                },
+                {
+                  "sentence": "Are there some hotels near here?",
+                  "correct": false,
+                  "fix": "Question: Are there any hotels…?"
+                },
+                {
+                  "sentence": "There’s not no museum.",
+                  "correct": false,
+                  "fix": "One negative: There’s no museum."
+                },
+                {
+                  "sentence": "Is there a restaurant? Yes, there’s.",
+                  "correct": false,
+                  "fix": "Short answer without contraction: Yes, there is."
+                },
+                {
+                  "sentence": "Are there any restaurants? Yes, there’re.",
+                  "correct": false,
+                  "fix": "Yes, there are."
+                },
+                {
+                  "sentence": "Is there any hospitals in your town?",
+                  "correct": false,
+                  "fix": "Plural: Are there any hospitals…?"
+                },
+                {
+                  "sentence": "There is a people on the bus.",
+                  "correct": false,
+                  "fix": "People is plural: There are people on the bus."
+                },
+                {
+                  "sentence": "It is a bank on Main Street. (something exists)",
+                  "correct": false,
+                  "fix": "To say something exists: There is a bank on Main Street."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "bank",
+                  "image": "/img/town/bank.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a bank in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a bank."
+                    }
+                  ]
+                },
+                {
+                  "word": "bus stop",
+                  "image": "/img/town/bus-stop.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a bus stop in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a bus stop."
+                    }
+                  ]
+                },
+                {
+                  "word": "café",
+                  "image": "/img/town/cafe.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a café in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a café."
+                    }
+                  ]
+                },
+                {
+                  "word": "club",
+                  "image": "/img/town/club.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a club in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a club."
+                    }
+                  ]
+                },
+                {
+                  "word": "hospital",
+                  "image": "/img/town/hospital.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a hospital in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a hospital."
+                    }
+                  ]
+                },
+                {
+                  "word": "hotel",
+                  "image": "/img/town/hotel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a hotel in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a hotel."
+                    }
+                  ]
+                },
+                {
+                  "word": "movie theater",
+                  "image": "/img/town/movie-theater.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a movie theater in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a movie theater."
+                    }
+                  ]
+                },
+                {
+                  "word": "museum",
+                  "image": "/img/town/museum.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a museum in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a museum."
+                    }
+                  ]
+                },
+                {
+                  "word": "park",
+                  "image": "/img/town/park.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a park in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a park."
+                    }
+                  ]
+                },
+                {
+                  "word": "police station",
+                  "image": "/img/town/police-station.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a police station in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a police station."
+                    }
+                  ]
+                },
+                {
+                  "word": "post office",
+                  "image": "/img/town/post-office.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a post office in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a post office."
+                    }
+                  ]
+                },
+                {
+                  "word": "restaurant",
+                  "image": "/img/town/restaurant.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a restaurant in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a restaurant."
+                    }
+                  ]
+                },
+                {
+                  "word": "school",
+                  "image": "/img/town/school.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a school in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a school."
+                    }
+                  ]
+                },
+                {
+                  "word": "shopping mall",
+                  "image": "/img/town/shopping-mall.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a shopping mall in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a shopping mall."
+                    }
+                  ]
+                },
+                {
+                  "word": "grocery store",
+                  "image": "/img/town/grocery-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a grocery store in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a grocery store."
+                    }
+                  ]
+                },
+                {
+                  "word": "train station",
+                  "image": "/img/town/train-station.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"______ a train station in my town.\"",
+                      "options": [
+                        "There is",
+                        "There are",
+                        "There have",
+                        "Is there"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular place → There is a train station."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "There is a beautiful park near my house.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is near the house?",
+                  "options": [
+                    "A park",
+                    "A bank",
+                    "A hotel",
+                    "A school"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "There are five hotels in my city, but there aren’t any museums.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many hotels are there?",
+                  "options": [
+                    "Five",
+                    "Four",
+                    "None",
+                    "Two"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "There are some good stores downtown and there is a big shopping mall.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is downtown?",
+                  "options": [
+                    "Some good stores",
+                    "A hospital",
+                    "A police station",
+                    "A club"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Is there a restaurant near here? — No, there isn’t, but there is a café.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is near here?",
+                  "options": [
+                    "A café",
+                    "A restaurant",
+                    "A hotel",
+                    "A bank"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "There are six people on the bus and there is an umbrella on the seat.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many people are on the bus?",
+                  "options": [
+                    "Six",
+                    "Sixteen",
+                    "One",
+                    "Five"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "There is a bank next to the post office.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There aren’t any clubs in my town.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "There is no train station in my town, so I take the bus.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Is there a train station?",
+                  "options": [
+                    "No, there isn’t",
+                    "Yes, there is",
+                    "Yes, there are two",
+                    "No, there aren’t any buses"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Are there any schools in this neighborhood? — Yes, there are. There are two.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many schools are there?",
+                  "options": [
+                    "Two",
+                    "One",
+                    "None",
+                    "Three"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "There is a movie theater, there are three restaurants and there is a small park.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many restaurants are there?",
+                  "options": [
+                    "Three",
+                    "One",
+                    "Two",
+                    "None"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Are there any hotels near here?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "In my town there are no hospitals, but there is a police station.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is there in the town?",
+                  "options": [
+                    "A police station",
+                    "A hospital",
+                    "Two hospitals",
+                    "A museum"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "My Neighborhood",
+                  "situation": "Describe your neighborhood with six sentences using there is / there are / there aren’t any.",
+                  "mandatory": [
+                    "there is",
+                    "there are",
+                    "any"
+                  ],
+                  "taboo": [
+                    "have",
+                    "has",
+                    "exist"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Twenty Questions: The Town",
+                  "situation": "Student B thinks of a town. Student A asks \"Is there a…?\" / \"Are there any…?\" to find out about it.",
+                  "mandatory": [
+                    "Is there",
+                    "Are there",
+                    "yes"
+                  ],
+                  "taboo": [
+                    "have",
+                    "where",
+                    "what"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dream City",
+                  "situation": "Describe your perfect city: what places are there? What places are there not?",
+                  "mandatory": [
+                    "there are",
+                    "some",
+                    "no"
+                  ],
+                  "taboo": [
+                    "want",
+                    "like",
+                    "need"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "In My Bag",
+                  "situation": "Say what is in your bag or on your desk: \"There is a…, there are some…\".",
+                  "mandatory": [
+                    "there is",
+                    "there are",
+                    "some"
+                  ],
+                  "taboo": [
+                    "have",
+                    "got",
+                    "my"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Hotel Receptionist",
+                  "situation": "A guest asks about the hotel: a pool, restaurants, a gym, Wi-Fi. The receptionist answers with short answers.",
+                  "mandatory": [
+                    "Is there",
+                    "there is",
+                    "there isn’t"
+                  ],
+                  "taboo": [
+                    "have",
+                    "yes please",
+                    "room"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Compare Two Towns",
+                  "situation": "Compare your town with your partner’s town: \"In my town there are two banks, but there aren’t any clubs.\"",
+                  "mandatory": [
+                    "there are",
+                    "there aren’t",
+                    "but"
+                  ],
+                  "taboo": [
+                    "have",
+                    "more",
+                    "better"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
