@@ -25622,6 +25622,1706 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L3U9T3",
+              "name": "9A - Vocabulary: Money Verbs",
+              "steal": [
+                {
+                  "prompt": "Excuse me, how much does this necklace ______?",
+                  "options": [
+                    "cost",
+                    "charge",
+                    "earn",
+                    "owe"
+                  ],
+                  "answer": 0,
+                  "explanation": "Things cost money."
+                },
+                {
+                  "prompt": "In my opinion, soccer clubs ______ too much for tickets.",
+                  "options": [
+                    "cost",
+                    "charge",
+                    "spend",
+                    "save"
+                  ],
+                  "answer": 1,
+                  "explanation": "People / companies charge a price."
+                },
+                {
+                  "prompt": "Waiters can ______ a lot of money from tips.",
+                  "options": [
+                    "earn",
+                    "owe",
+                    "lend",
+                    "waste"
+                  ],
+                  "answer": 0,
+                  "explanation": "Earn = receive money for work."
+                },
+                {
+                  "prompt": "Can you ______ me $50 until I get paid next week?",
+                  "options": [
+                    "borrow",
+                    "lend",
+                    "owe",
+                    "charge"
+                  ],
+                  "answer": 1,
+                  "explanation": "Lend = give; borrow = take."
+                },
+                {
+                  "prompt": "He has a rare 1950s Rolex watch. It must ______ a fortune!",
+                  "options": [
+                    "cost",
+                    "be worth",
+                    "charge",
+                    "earn"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be worth = have a value."
+                },
+                {
+                  "prompt": "As well as their apartment in London, they ______ a house in Hollywood.",
+                  "options": [
+                    "owe",
+                    "own",
+                    "borrow",
+                    "lend"
+                  ],
+                  "answer": 1,
+                  "explanation": "Own = it is theirs."
+                },
+                {
+                  "prompt": "They ______ most of their money on clothes.",
+                  "options": [
+                    "spend",
+                    "cost",
+                    "charge",
+                    "earn"
+                  ],
+                  "answer": 0,
+                  "explanation": "Spend money ON something."
+                },
+                {
+                  "prompt": "How much money do you ______ to the bank each month?",
+                  "options": [
+                    "pay back",
+                    "own",
+                    "lend",
+                    "earn"
+                  ],
+                  "answer": 0,
+                  "explanation": "Pay back = return borrowed money."
+                },
+                {
+                  "prompt": "The car isn’t ours yet. We still ______ the bank $5,000.",
+                  "options": [
+                    "own",
+                    "owe",
+                    "lend",
+                    "save"
+                  ],
+                  "answer": 1,
+                  "explanation": "Owe = you must pay."
+                },
+                {
+                  "prompt": "I’ve left all my money at home. Can I ______ $20, please?",
+                  "options": [
+                    "lend",
+                    "borrow",
+                    "charge",
+                    "waste"
+                  ],
+                  "answer": 1,
+                  "explanation": "Borrow = take temporarily."
+                },
+                {
+                  "prompt": "Don’t ______ your money on lottery tickets—you’ll never win!",
+                  "options": [
+                    "save",
+                    "waste",
+                    "earn",
+                    "own"
+                  ],
+                  "answer": 1,
+                  "explanation": "Waste = use badly."
+                },
+                {
+                  "prompt": "He’s trying to ______ for an expensive trip next summer.",
+                  "options": [
+                    "save",
+                    "spend",
+                    "waste",
+                    "charge"
+                  ],
+                  "answer": 0,
+                  "explanation": "Save (up) for something."
+                },
+                {
+                  "prompt": "She’s so rich that she ______ to buy anything she wants.",
+                  "options": [
+                    "can afford",
+                    "owes",
+                    "borrows",
+                    "charges"
+                  ],
+                  "answer": 0,
+                  "explanation": "Can afford = have enough money."
+                },
+                {
+                  "prompt": "We normally ______ on the last day of the month.",
+                  "options": [
+                    "get paid",
+                    "pay back",
+                    "cost",
+                    "are worth"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get paid = receive your salary."
+                },
+                {
+                  "prompt": "I can’t go out tonight. I don’t ______ until next week.",
+                  "options": [
+                    "lend",
+                    "get paid",
+                    "afford",
+                    "cost"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get paid = receive salary."
+                },
+                {
+                  "prompt": "I ______ almost half of my money on rent every month.",
+                  "options": [
+                    "waste",
+                    "save",
+                    "spend",
+                    "earn"
+                  ],
+                  "answer": 2,
+                  "explanation": "Spend on rent (necessary, not waste)."
+                },
+                {
+                  "prompt": "If you give me $200, I’ll ______ you back the money next week.",
+                  "options": [
+                    "borrow",
+                    "pay",
+                    "lend",
+                    "cost"
+                  ],
+                  "answer": 1,
+                  "explanation": "Pay back."
+                },
+                {
+                  "prompt": "I bought the guitar for $500, but it’s now ______ almost double that.",
+                  "options": [
+                    "cost",
+                    "worth",
+                    "earn",
+                    "charged"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be worth = value now."
+                },
+                {
+                  "prompt": "My car is very old, but I can’t ______ to buy a new one right now.",
+                  "options": [
+                    "own",
+                    "spend",
+                    "afford",
+                    "charge"
+                  ],
+                  "answer": 2,
+                  "explanation": "Can’t afford + to + verb."
+                },
+                {
+                  "prompt": "When I finish college, I will ______ the bank more than $10,000.",
+                  "options": [
+                    "owe",
+                    "lend",
+                    "charge",
+                    "earn"
+                  ],
+                  "answer": 0,
+                  "explanation": "Owe money to the bank."
+                },
+                {
+                  "prompt": "I shouldn’t go out this month. I need to ______ for a new computer.",
+                  "options": [
+                    "charge",
+                    "earn",
+                    "save",
+                    "waste"
+                  ],
+                  "answer": 2,
+                  "explanation": "Save for something."
+                },
+                {
+                  "prompt": "Why did you ______ all your money on these comic books?",
+                  "options": [
+                    "pay back",
+                    "waste",
+                    "earn",
+                    "lend"
+                  ],
+                  "answer": 1,
+                  "explanation": "Waste = spend badly."
+                },
+                {
+                  "prompt": "Which preposition? \"I borrowed $100 ______ my brother.\"",
+                  "options": [
+                    "to",
+                    "from",
+                    "at",
+                    "for"
+                  ],
+                  "answer": 1,
+                  "explanation": "Borrow FROM someone."
+                },
+                {
+                  "prompt": "Which preposition? \"She lent $100 ______ her brother.\"",
+                  "options": [
+                    "from",
+                    "at",
+                    "to",
+                    "on"
+                  ],
+                  "answer": 2,
+                  "explanation": "Lend TO someone."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "How much does this necklace cost?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Soccer clubs charge too much for tickets.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Waiters can earn a lot of money from tips.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can you lend me $50 until I get paid?",
+                  "correct": true
+                },
+                {
+                  "sentence": "That Rolex must be worth a fortune.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They spend most of their money on clothes.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We still owe the bank $5,000.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Don’t waste your money on lottery tickets.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She can afford to buy anything she wants.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We get paid on the last day of the month.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m saving for an expensive trip next summer.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can you borrow me $20?",
+                  "correct": false,
+                  "fix": "Can you lend me $20? (lend = give)"
+                },
+                {
+                  "sentence": "I lent $20 from my sister.",
+                  "correct": false,
+                  "fix": "I borrowed $20 from my sister."
+                },
+                {
+                  "sentence": "How much does the shop cost for delivery?",
+                  "correct": false,
+                  "fix": "How much does the shop charge for delivery?"
+                },
+                {
+                  "sentence": "This watch is worth $500 to buy.",
+                  "correct": false,
+                  "fix": "This watch costs $500. (price) / is worth $500 (value)"
+                },
+                {
+                  "sentence": "I spend a lot of money in clothes.",
+                  "correct": false,
+                  "fix": "Spend money ON clothes."
+                },
+                {
+                  "sentence": "We owe a house in Hollywood.",
+                  "correct": false,
+                  "fix": "We own a house in Hollywood."
+                },
+                {
+                  "sentence": "I can’t afford buying a new car.",
+                  "correct": false,
+                  "fix": "I can’t afford to buy a new car."
+                },
+                {
+                  "sentence": "I’ll pay you the money back next week. — I’ll pay back you.",
+                  "correct": false,
+                  "fix": "Pay you back / pay back the money."
+                },
+                {
+                  "sentence": "Teachers don’t get pay very much.",
+                  "correct": false,
+                  "fix": "Teachers don’t get paid very much."
+                },
+                {
+                  "sentence": "He earns $2,000 for the bank every month. (he borrowed it)",
+                  "correct": false,
+                  "fix": "He owes the bank $2,000."
+                },
+                {
+                  "sentence": "I waste money for a new laptop every year.",
+                  "correct": false,
+                  "fix": "I spend money on a new laptop every year."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "owe",
+                  "image": "/img/money-verbs/owe.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"owe\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Owe\" → Money goes out."
+                    },
+                    {
+                      "prompt": "Is \"owe\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Owe\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "borrow",
+                  "image": "/img/money-verbs/borrow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"borrow\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Borrow\" → Money comes in."
+                    },
+                    {
+                      "prompt": "Is \"borrow\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Borrow\" → Depends on the amount."
+                    }
+                  ]
+                },
+                {
+                  "word": "lend",
+                  "image": "/img/money-verbs/lend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"lend\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Lend\" → Money goes out."
+                    },
+                    {
+                      "prompt": "Is \"lend\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Lend\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "can afford",
+                  "image": "/img/money-verbs/can-afford.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"can afford\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Can afford\" → Money goes out."
+                    },
+                    {
+                      "prompt": "Is \"can afford\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Can afford\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "charge",
+                  "image": "/img/money-verbs/charge.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"charge\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Charge\" → It describes a price or value."
+                    },
+                    {
+                      "prompt": "Is \"charge\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Charge\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "cost",
+                  "image": "/img/money-verbs/cost.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"cost\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Cost\" → It describes a price or value."
+                    },
+                    {
+                      "prompt": "Is \"cost\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cost\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "earn",
+                  "image": "/img/money-verbs/earn.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"earn\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Earn\" → Money comes in."
+                    },
+                    {
+                      "prompt": "Is \"earn\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Earn\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "get paid",
+                  "image": "/img/money-verbs/get-paid.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"get paid\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get paid\" → Money comes in."
+                    },
+                    {
+                      "prompt": "Is \"get paid\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Get paid\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "be worth",
+                  "image": "/img/money-verbs/be-worth.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"be worth\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Be worth\" → It describes a price or value."
+                    },
+                    {
+                      "prompt": "Is \"be worth\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Be worth\" → Depends on the amount."
+                    }
+                  ]
+                },
+                {
+                  "word": "own",
+                  "image": "/img/money-verbs/own.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"own\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Own\" → Money stays or is kept."
+                    },
+                    {
+                      "prompt": "Is \"own\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Own\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "pay back",
+                  "image": "/img/money-verbs/pay-back.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"pay back\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Pay back\" → Money goes out."
+                    },
+                    {
+                      "prompt": "Is \"pay back\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pay back\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "save",
+                  "image": "/img/money-verbs/save.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"save\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Save\" → Money stays or is kept."
+                    },
+                    {
+                      "prompt": "Is \"save\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Save\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "spend",
+                  "image": "/img/money-verbs/spend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"spend\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Spend\" → Money goes out."
+                    },
+                    {
+                      "prompt": "Is \"spend\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Spend\" → Depends on the amount."
+                    }
+                  ]
+                },
+                {
+                  "word": "waste",
+                  "image": "/img/money-verbs/waste.svg",
+                  "sorts": [
+                    {
+                      "prompt": "With \"waste\", does money come IN, go OUT, or neither?",
+                      "options": [
+                        "Money comes in",
+                        "Money goes out",
+                        "Money stays or is kept",
+                        "It describes a price or value"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waste\" → Money goes out."
+                    },
+                    {
+                      "prompt": "Is \"waste\" usually good or bad for your wallet?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends on the amount"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Waste\" → Bad news."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Can you lend me fifty dollars until I get paid next week?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They spend most of their money on clothes.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We still owe the bank five thousand dollars.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Don’t waste your money on lottery tickets.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She can afford to buy anything she wants.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "That old watch must be worth a fortune.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I earn about two thousand dollars a month and I get paid on the last day of the month. I spend half of it on rent, and I’m trying to save two hundred dollars a month for a trip to Japan.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How much does the speaker save each month?",
+                  "options": [
+                    "$200",
+                    "$2,000",
+                    "Half of the salary",
+                    "Nothing"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My brother borrowed three hundred dollars from me in May. He paid back one hundred in June, so he still owes me two hundred.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How much does the brother still owe?",
+                  "options": [
+                    "$100",
+                    "$200",
+                    "$300",
+                    "Nothing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "This shop charges twenty dollars for delivery, but if you spend more than one hundred dollars, delivery is free.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When is delivery free?",
+                  "options": [
+                    "Always",
+                    "If you spend over $100",
+                    "If you pay cash",
+                    "Never"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I bought this guitar for five hundred dollars ten years ago. A collector told me it’s now worth almost a thousand dollars. But I own it and I’ll never sell it.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the guitar worth now?",
+                  "options": [
+                    "$500",
+                    "About $1,000",
+                    "$10,000",
+                    "Nothing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Waiters here don’t earn a big salary, but they can earn a lot from tips. Soccer players, on the other hand, earn millions.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How do waiters earn extra money?",
+                  "options": [
+                    "From tips",
+                    "From the bank",
+                    "From lottery tickets",
+                    "From rent"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I can’t afford a new car right now. My old one cost two thousand dollars and I still haven’t paid back the loan.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why can’t the speaker buy a new car?",
+                  "options": [
+                    "The old one is new",
+                    "They still owe money on the old one",
+                    "Cars are free",
+                    "They don’t drive"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Lend Me Some Money",
+                  "situation": "Student A needs to borrow $100. Student B is a careful friend. Negotiate: when and how will A pay it back?",
+                  "mandatory": [
+                    "borrow",
+                    "pay back",
+                    "owe"
+                  ],
+                  "taboo": [
+                    "give",
+                    "free"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Money Habits",
+                  "situation": "Describe your money habits: what you spend on, what you save for and what you waste money on.",
+                  "mandatory": [
+                    "spend",
+                    "save",
+                    "waste"
+                  ],
+                  "taboo": [
+                    "buy",
+                    "shopping"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Is It Worth It?",
+                  "situation": "Debate: are expensive sneakers worth the price? One team says yes, the other says no.",
+                  "mandatory": [
+                    "be worth",
+                    "cost",
+                    "can afford"
+                  ],
+                  "taboo": [
+                    "cheap",
+                    "expensive"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Dream Job",
+                  "situation": "Describe a job: how much people earn, when they get paid, and what they can afford.",
+                  "mandatory": [
+                    "earn",
+                    "get paid",
+                    "afford"
+                  ],
+                  "taboo": [
+                    "salary",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Expensive Restaurant",
+                  "situation": "A waiter charges a customer too much. The customer complains and asks for the bill to be fixed.",
+                  "mandatory": [
+                    "charge",
+                    "cost",
+                    "pay"
+                  ],
+                  "taboo": [
+                    "bill",
+                    "wrong"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "What I Own",
+                  "situation": "Talk about three things you own, how much they cost and whether they are worth it today.",
+                  "mandatory": [
+                    "own",
+                    "cost",
+                    "worth"
+                  ],
+                  "taboo": [
+                    "have",
+                    "got"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U9T4",
+              "name": "9A - Grammar: Used to",
+              "steal": [
+                {
+                  "prompt": "I ______ ride my bike to school every day. (I don’t now)",
+                  "options": [
+                    "used to",
+                    "use to",
+                    "am used to",
+                    "would used to"
+                  ],
+                  "answer": 0,
+                  "explanation": "Used to + base form."
+                },
+                {
+                  "prompt": "I ______ live in a small town.",
+                  "options": [
+                    "use to",
+                    "used to",
+                    "used",
+                    "am used"
+                  ],
+                  "answer": 1,
+                  "explanation": "Used to + base form."
+                },
+                {
+                  "prompt": "I ______ drink so much coffee. (I drink a lot now)",
+                  "options": [
+                    "didn’t used to",
+                    "didn’t use to",
+                    "don’t used to",
+                    "not used to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative: didn’t use to."
+                },
+                {
+                  "prompt": "She didn’t use to ______ spicy food.",
+                  "options": [
+                    "likes",
+                    "liked",
+                    "like",
+                    "liking"
+                  ],
+                  "answer": 2,
+                  "explanation": "Base form after use to."
+                },
+                {
+                  "prompt": "______ play on the school basketball team?",
+                  "options": [
+                    "Did you used to",
+                    "Did you use to",
+                    "Do you used to",
+                    "Used you to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Question: Did … use to."
+                },
+                {
+                  "prompt": "Why ______ have two cars?",
+                  "options": [
+                    "did you use to",
+                    "you used to",
+                    "did you used to",
+                    "use you to"
+                  ],
+                  "answer": 0,
+                  "explanation": "Did + subject + use to."
+                },
+                {
+                  "prompt": "\"I used to have English classes at school\" means the same as…",
+                  "options": [
+                    "I had English classes at school.",
+                    "I have English classes at school.",
+                    "I will have English classes.",
+                    "I am having English classes."
+                  ],
+                  "answer": 0,
+                  "explanation": "Used to ≈ simple past for habits."
+                },
+                {
+                  "prompt": "She ______ be shy when she was younger. (now she isn’t)",
+                  "options": [
+                    "uses to",
+                    "used to",
+                    "is used to",
+                    "use to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past situation no longer true."
+                },
+                {
+                  "prompt": "Which sentence is wrong?",
+                  "options": [
+                    "I bought this shirt last year.",
+                    "I used to buy this shirt last year.",
+                    "I used to buy shirts there.",
+                    "I didn’t use to buy shirts."
+                  ],
+                  "answer": 1,
+                  "explanation": "Used to is NOT for single past actions."
+                },
+                {
+                  "prompt": "They started work at 9:00 this morning. — Can we say \"They used to start work at 9:00 this morning\"?",
+                  "options": [
+                    "Yes, always",
+                    "No: it’s a single action",
+                    "Yes, with did",
+                    "Only in questions"
+                  ],
+                  "answer": 1,
+                  "explanation": "Single actions → simple past."
+                },
+                {
+                  "prompt": "Did you use to go to the beach every day? — Yes, ______.",
+                  "options": [
+                    "I used",
+                    "I did",
+                    "I use to",
+                    "I did use"
+                  ],
+                  "answer": 1,
+                  "explanation": "Short answer: Yes, I did."
+                },
+                {
+                  "prompt": "Did he use to like reggae? — No, ______.",
+                  "options": [
+                    "he didn’t",
+                    "he didn’t use",
+                    "he usedn’t",
+                    "he not"
+                  ],
+                  "answer": 0,
+                  "explanation": "No, he didn’t."
+                },
+                {
+                  "prompt": "George ______ in an expensive apartment. Now he lives in a small house.",
+                  "options": [
+                    "used to live",
+                    "uses to live",
+                    "use to live",
+                    "is used to live"
+                  ],
+                  "answer": 0,
+                  "explanation": "Past situation."
+                },
+                {
+                  "prompt": "George ______ to live in a small house. (Now he does.)",
+                  "options": [
+                    "didn’t use",
+                    "didn’t used",
+                    "doesn’t use",
+                    "wasn’t use"
+                  ],
+                  "answer": 0,
+                  "explanation": "Didn’t use to."
+                },
+                {
+                  "prompt": "He ______ an old car. He used to have a new BMW.",
+                  "options": [
+                    "didn’t use to drive",
+                    "used to drive",
+                    "doesn’t used to drive",
+                    "didn’t used to drive"
+                  ],
+                  "answer": 0,
+                  "explanation": "Now he drives an old car; before he didn’t."
+                },
+                {
+                  "prompt": "He didn’t use to ______ lonely because he saw his family a lot.",
+                  "options": [
+                    "be",
+                    "was",
+                    "being",
+                    "been"
+                  ],
+                  "answer": 0,
+                  "explanation": "Base form: be."
+                },
+                {
+                  "prompt": "He ______ expensive clothes and he never ______ secondhand things.",
+                  "options": [
+                    "used to wear / used to buy",
+                    "used to wear / didn’t use to buy",
+                    "use to wear / buy",
+                    "wore / used to buy"
+                  ],
+                  "answer": 0,
+                  "explanation": "\"Never\" + used to buy."
+                },
+                {
+                  "prompt": "He ______ on luxury vacations, but he ______ himself.",
+                  "options": [
+                    "used to go / didn’t use to enjoy",
+                    "use to go / didn’t enjoy",
+                    "went / used to enjoy",
+                    "used to going / didn’t enjoy"
+                  ],
+                  "answer": 0,
+                  "explanation": "Used to go; didn’t use to enjoy."
+                },
+                {
+                  "prompt": "\"Harry usually takes the bus to work.\" Is this past or present?",
+                  "options": [
+                    "Present habit (usually)",
+                    "Past habit (used to)",
+                    "Future",
+                    "Both"
+                  ],
+                  "answer": 0,
+                  "explanation": "Usually + simple present = now."
+                },
+                {
+                  "prompt": "Which word talks about a PRESENT habit?",
+                  "options": [
+                    "used to",
+                    "usually",
+                    "use to",
+                    "did"
+                  ],
+                  "answer": 1,
+                  "explanation": "Usually = present; used to = past only."
+                },
+                {
+                  "prompt": "He’s not ______ late for class.",
+                  "options": [
+                    "used to be",
+                    "usually",
+                    "use to",
+                    "used to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present: not usually late."
+                },
+                {
+                  "prompt": "How ______ contact your family?",
+                  "options": [
+                    "do you usually",
+                    "did you use to usually",
+                    "you usually",
+                    "use you to"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present habit question."
+                },
+                {
+                  "prompt": "Spelling check: which is correct?",
+                  "options": [
+                    "I didn’t used to smoke.",
+                    "I didn’t use to smoke.",
+                    "I didn’t use smoke.",
+                    "I don’t used to smoke."
+                  ],
+                  "answer": 1,
+                  "explanation": "After did/didn’t: use to."
+                },
+                {
+                  "prompt": "They ______ a house in Spain, but they sold it last year.",
+                  "options": [
+                    "used to have",
+                    "use to have",
+                    "used to had",
+                    "had used to"
+                  ],
+                  "answer": 0,
+                  "explanation": "Used to have."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I used to ride my bike to school every day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I didn’t use to drink so much coffee.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She didn’t use to like spicy food.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Did you use to play on the school basketball team?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I used to be shy when I was younger.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He used to like reggae music when he was younger.",
+                  "correct": true
+                },
+                {
+                  "sentence": "George didn’t use to live in a small house.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He used to wear expensive clothes and he never used to buy secondhand things.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Harry usually takes the bus to work.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Yes, I did. / No, I didn’t.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They used to own a house in Spain, but they sold it last year.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I use to live in a small town.",
+                  "correct": false,
+                  "fix": "Affirmative: used to."
+                },
+                {
+                  "sentence": "I didn’t used to drink coffee.",
+                  "correct": false,
+                  "fix": "After didn’t: use to."
+                },
+                {
+                  "sentence": "Did you used to have two cars?",
+                  "correct": false,
+                  "fix": "Did you use to have two cars?"
+                },
+                {
+                  "sentence": "She used to liked spicy food.",
+                  "correct": false,
+                  "fix": "Base form: used to like."
+                },
+                {
+                  "sentence": "I used to buy this shirt last year.",
+                  "correct": false,
+                  "fix": "Single action: I bought this shirt last year."
+                },
+                {
+                  "sentence": "They used to start work at 9:00 this morning.",
+                  "correct": false,
+                  "fix": "Single action: They started work at 9:00 this morning."
+                },
+                {
+                  "sentence": "Harry used to take the bus to work every day now.",
+                  "correct": false,
+                  "fix": "Present habit: Harry usually takes the bus to work."
+                },
+                {
+                  "sentence": "I’m used to live in London when I was a child.",
+                  "correct": false,
+                  "fix": "I used to live in London when I was a child."
+                },
+                {
+                  "sentence": "Used you to go to the beach every day?",
+                  "correct": false,
+                  "fix": "Did you use to go to the beach every day?"
+                },
+                {
+                  "sentence": "He didn’t use to spent much money, but now he wastes it.",
+                  "correct": false,
+                  "fix": "Base form: didn’t use to spend."
+                },
+                {
+                  "sentence": "Yes, I used. / No, I didn’t use.",
+                  "correct": false,
+                  "fix": "Short answers: Yes, I did. / No, I didn’t."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "owe",
+                  "image": "/img/money-verbs/owe.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ owe a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "borrow",
+                  "image": "/img/money-verbs/borrow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ borrow a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "lend",
+                  "image": "/img/money-verbs/lend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ lend a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "charge",
+                  "image": "/img/money-verbs/charge.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ charge a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "earn",
+                  "image": "/img/money-verbs/earn.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ earn a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "own",
+                  "image": "/img/money-verbs/own.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ own a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "pay back",
+                  "image": "/img/money-verbs/pay-back.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ pay back a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "save",
+                  "image": "/img/money-verbs/save.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ save a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "spend",
+                  "image": "/img/money-verbs/spend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ spend a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "waste",
+                  "image": "/img/money-verbs/waste.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete: \"I ______ waste a lot of money when I was a student.\"",
+                      "options": [
+                        "used to",
+                        "use to",
+                        "used",
+                        "was used to"
+                      ],
+                      "answer": 0,
+                      "explanation": "Past habit → used to + base form."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I used to ride my bike to school every day.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She didn’t use to like spicy food.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Did you use to play on the school basketball team?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I used to be shy when I was younger.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We didn’t use to have so much homework.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Why did you use to have two cars?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "George Kaltsidis lives in a small house in the north of England. He drives an old Ford Fiesta and wears secondhand clothes. However, George used to be a millionaire and lived a life of luxury.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did George use to be?",
+                  "options": [
+                    "A millionaire",
+                    "A teacher",
+                    "A driver",
+                    "A farmer"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "George wasn’t happy, so last year he gave all his money away to charity. He used to drive a new BMW; now he drives an old car and he’s much happier.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did George use to drive?",
+                  "options": [
+                    "An old Ford",
+                    "A new BMW",
+                    "A bus",
+                    "A bike"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "When I was a student I used to waste a lot of money on video games and I didn’t use to save anything. Now I save two hundred dollars every month.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did the speaker use to do?",
+                  "options": [
+                    "Save money",
+                    "Waste money on video games",
+                    "Work at a bank",
+                    "Pay rent"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My grandmother used to live in a small town by the sea. She didn’t use to have a car, so she used to walk everywhere.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How did the grandmother use to travel?",
+                  "options": [
+                    "By car",
+                    "On foot",
+                    "By bus",
+                    "By bike"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Harry usually takes the bus to work and he’s not usually late. But when he was a student he used to drive and he was always late.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How does Harry travel NOW?",
+                  "options": [
+                    "By bus",
+                    "By car",
+                    "He walks",
+                    "By train"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I bought this shirt last year and I started work at nine this morning. Those are single actions, so we don’t use “used to” for them.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why can’t we use “used to” for these sentences?",
+                  "options": [
+                    "They are single actions",
+                    "They are questions",
+                    "They are negative",
+                    "They are about the future"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "When I Was Ten",
+                  "situation": "Tell your partner five things you used to do and three things you didn’t use to do when you were ten.",
+                  "mandatory": [
+                    "used to",
+                    "didn’t use to",
+                    "every day"
+                  ],
+                  "taboo": [
+                    "now",
+                    "today"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Then and Now",
+                  "situation": "Compare your life now with your life five years ago, using “used to” for the past and “usually” for the present.",
+                  "mandatory": [
+                    "used to",
+                    "usually",
+                    "now"
+                  ],
+                  "taboo": [
+                    "before",
+                    "ago"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Interview a Grandparent",
+                  "situation": "Student A is a journalist; Student B is 80 years old. Ask “Did you use to…?” about school, music and money.",
+                  "mandatory": [
+                    "Did you use to",
+                    "Yes, I did",
+                    "No, I didn’t"
+                  ],
+                  "taboo": [
+                    "remember",
+                    "old"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Ex-Millionaire",
+                  "situation": "Retell George’s story: what he used to have and do, and what he does now.",
+                  "mandatory": [
+                    "used to be",
+                    "used to have",
+                    "now he"
+                  ],
+                  "taboo": [
+                    "rich",
+                    "poor"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Money Then",
+                  "situation": "Describe how you used to spend, save or waste money as a child and how that has changed.",
+                  "mandatory": [
+                    "used to spend",
+                    "didn’t use to save",
+                    "waste"
+                  ],
+                  "taboo": [
+                    "allowance",
+                    "parents"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Old Town",
+                  "situation": "Describe how your town or school used to be and what is different today.",
+                  "mandatory": [
+                    "there used to be",
+                    "didn’t use to",
+                    "today"
+                  ],
+                  "taboo": [
+                    "change",
+                    "different"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
