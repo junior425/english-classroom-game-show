@@ -27322,6 +27322,1983 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L3U9T5",
+              "name": "9B - Vocabulary: Shopping",
+              "steal": [
+                {
+                  "prompt": "Can I ______ credit card, or do I have to pay in cash?",
+                  "options": [
+                    "pay by",
+                    "pay with",
+                    "pay for",
+                    "pay on"
+                  ],
+                  "answer": 0,
+                  "explanation": "Pay BY credit card."
+                },
+                {
+                  "prompt": "Do I have to ______ cash?",
+                  "options": [
+                    "pay by",
+                    "pay in",
+                    "pay on",
+                    "pay at"
+                  ],
+                  "answer": 1,
+                  "explanation": "Pay IN cash (pay with cash is also OK)."
+                },
+                {
+                  "prompt": "I’d like to ______ this jacket—it’s too big. Can I get a smaller one?",
+                  "options": [
+                    "return",
+                    "exchange",
+                    "order",
+                    "deliver"
+                  ],
+                  "answer": 1,
+                  "explanation": "Exchange = swap for another item."
+                },
+                {
+                  "prompt": "Can I ______ it for a refund if I don’t like it?",
+                  "options": [
+                    "exchange",
+                    "try on",
+                    "return",
+                    "fit"
+                  ],
+                  "answer": 2,
+                  "explanation": "Return = give it back for your money."
+                },
+                {
+                  "prompt": "Can I ______ these shoes, please?",
+                  "options": [
+                    "fit",
+                    "try on",
+                    "order",
+                    "deliver"
+                  ],
+                  "answer": 1,
+                  "explanation": "Try on clothes or shoes."
+                },
+                {
+                  "prompt": "I need to know how they ______ me.",
+                  "options": [
+                    "try",
+                    "fit",
+                    "exchange",
+                    "deliver"
+                  ],
+                  "answer": 1,
+                  "explanation": "Shoes fit you = they are the right size."
+                },
+                {
+                  "prompt": "You can ______ furniture online. Then the company will deliver it to your house.",
+                  "options": [
+                    "deliver",
+                    "order",
+                    "refund",
+                    "exchange"
+                  ],
+                  "answer": 1,
+                  "explanation": "Order = ask to buy; deliver = bring."
+                },
+                {
+                  "prompt": "The company will ______ it to your house.",
+                  "options": [
+                    "order",
+                    "deliver",
+                    "return",
+                    "fit"
+                  ],
+                  "answer": 1,
+                  "explanation": "Deliver = bring to your address."
+                },
+                {
+                  "prompt": "A product that a store sells at a very good price is a ______.",
+                  "options": [
+                    "receipt",
+                    "bargain",
+                    "refund",
+                    "discount"
+                  ],
+                  "answer": 1,
+                  "explanation": "Bargain = great price."
+                },
+                {
+                  "prompt": "A piece of paper that shows you have bought something is a ______.",
+                  "options": [
+                    "receipt",
+                    "refund",
+                    "discount",
+                    "line"
+                  ],
+                  "answer": 0,
+                  "explanation": "Receipt."
+                },
+                {
+                  "prompt": "A time when a store sells things at a lower price than usual: ______.",
+                  "options": [
+                    "the sales",
+                    "the line",
+                    "the cash register",
+                    "the receipt"
+                  ],
+                  "answer": 0,
+                  "explanation": "Sales."
+                },
+                {
+                  "prompt": "The place in a store where you can try on clothes is the ______.",
+                  "options": [
+                    "department store",
+                    "dressing room",
+                    "shopping center",
+                    "cash register"
+                  ],
+                  "answer": 1,
+                  "explanation": "Dressing room."
+                },
+                {
+                  "prompt": "A place where people stand to wait for something is a ______.",
+                  "options": [
+                    "line",
+                    "sale",
+                    "cart",
+                    "window"
+                  ],
+                  "answer": 0,
+                  "explanation": "Line (US) / queue (UK)."
+                },
+                {
+                  "prompt": "The place where you pay for things in a store is the ______.",
+                  "options": [
+                    "dressing room",
+                    "cash register",
+                    "department store",
+                    "receipt"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cash register."
+                },
+                {
+                  "prompt": "The money that is returned when a product isn’t suitable is a ______.",
+                  "options": [
+                    "discount",
+                    "bargain",
+                    "refund",
+                    "receipt"
+                  ],
+                  "answer": 2,
+                  "explanation": "Refund."
+                },
+                {
+                  "prompt": "An amount or percentage off the usual price is a ______.",
+                  "options": [
+                    "discount",
+                    "refund",
+                    "receipt",
+                    "bargain"
+                  ],
+                  "answer": 0,
+                  "explanation": "Discount."
+                },
+                {
+                  "prompt": "Money in the form of bills and coins is ______.",
+                  "options": [
+                    "cash",
+                    "credit",
+                    "a receipt",
+                    "a refund"
+                  ],
+                  "answer": 0,
+                  "explanation": "Cash."
+                },
+                {
+                  "prompt": "Looking at products in stores without buying anything is ______.",
+                  "options": [
+                    "window shopping",
+                    "returning",
+                    "ordering",
+                    "exchanging"
+                  ],
+                  "answer": 0,
+                  "explanation": "Window shopping."
+                },
+                {
+                  "prompt": "A large store with areas selling different types of products is a ______.",
+                  "options": [
+                    "shopping center",
+                    "department store",
+                    "cash register",
+                    "dressing room"
+                  ],
+                  "answer": 1,
+                  "explanation": "Department store."
+                },
+                {
+                  "prompt": "A covered area with different stores is a ______.",
+                  "options": [
+                    "department store",
+                    "dressing room",
+                    "shopping center",
+                    "line"
+                  ],
+                  "answer": 2,
+                  "explanation": "Shopping center / mall."
+                },
+                {
+                  "prompt": "I’m sorry, I can’t give you a refund if you ______.",
+                  "options": [
+                    "pay with cash",
+                    "don’t have the receipt",
+                    "try it on",
+                    "order it online"
+                  ],
+                  "answer": 1,
+                  "explanation": "No receipt → no refund."
+                },
+                {
+                  "prompt": "Can you offer me a discount ______?",
+                  "options": [
+                    "if I pay with cash",
+                    "in the dressing room",
+                    "at the department store",
+                    "because it was a bargain"
+                  ],
+                  "answer": 0,
+                  "explanation": "Cash discount."
+                },
+                {
+                  "prompt": "I bought this handbag ______ for $15; it was a real bargain!",
+                  "options": [
+                    "on sale",
+                    "in line",
+                    "by card",
+                    "on delivery"
+                  ],
+                  "answer": 0,
+                  "explanation": "On sale = at a reduced price."
+                },
+                {
+                  "prompt": "These shoes don’t fit. I’d like to ______ them for a different color.",
+                  "options": [
+                    "deliver",
+                    "order",
+                    "exchange",
+                    "window shop"
+                  ],
+                  "answer": 2,
+                  "explanation": "Exchange for a different size/color."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Can I pay by credit card, or do I have to pay in cash?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’d like to exchange this jacket for a smaller one.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can I try on these shoes, please?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I need to know how they fit me.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You can order furniture online and the company will deliver it to your house.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m sorry, I can’t give you a refund if you don’t have the receipt.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You can stand in this line for the cash register.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This morning I went window shopping in the shopping center.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I bought this handbag on sale for $15—it was a real bargain!",
+                  "correct": true
+                },
+                {
+                  "sentence": "If you pay with cash, can you offer me a discount?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I bought it at the department store because there was a 30% discount.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can I pay with credit card?",
+                  "correct": false,
+                  "fix": "Pay BY credit card / pay with A credit card."
+                },
+                {
+                  "sentence": "I want to exchange this jacket for a refund.",
+                  "correct": false,
+                  "fix": "Return it for a refund; exchange it for another jacket."
+                },
+                {
+                  "sentence": "Can I fit these shoes, please?",
+                  "correct": false,
+                  "fix": "Can I try on these shoes? (then: do they fit?)"
+                },
+                {
+                  "sentence": "These shoes don’t try on me.",
+                  "correct": false,
+                  "fix": "These shoes don’t fit me."
+                },
+                {
+                  "sentence": "The store will order the sofa to my house tomorrow.",
+                  "correct": false,
+                  "fix": "The store will deliver the sofa to my house."
+                },
+                {
+                  "sentence": "Keep the recipe in case you want to return the shirt.",
+                  "correct": false,
+                  "fix": "Keep the receipt (recipe = cooking instructions)."
+                },
+                {
+                  "sentence": "I made window shopping all afternoon.",
+                  "correct": false,
+                  "fix": "I went window shopping all afternoon."
+                },
+                {
+                  "sentence": "There was a long queue… I mean, a long line of people at the dressing room.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She bought it in the sales with a 50% refund.",
+                  "correct": false,
+                  "fix": "With a 50% discount."
+                },
+                {
+                  "sentence": "It was a real bargain: it cost $300 instead of $30.",
+                  "correct": false,
+                  "fix": "A bargain is cheaper than usual, not more expensive."
+                },
+                {
+                  "sentence": "You can pay at the dressing room.",
+                  "correct": false,
+                  "fix": "You pay at the cash register."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "pay by credit card",
+                  "image": "/img/shopping-9b/pay-by-card.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"pay by credit card\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Pay by credit card\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"pay by credit card\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pay by credit card\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "pay in cash",
+                  "image": "/img/shopping-9b/pay-in-cash.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"pay in cash\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Pay in cash\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"pay in cash\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pay in cash\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "exchange",
+                  "image": "/img/shopping-9b/exchange.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"exchange\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Exchange\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"exchange\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Exchange\" → Depends."
+                    }
+                  ]
+                },
+                {
+                  "word": "return",
+                  "image": "/img/shopping-9b/return.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"return\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Return\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"return\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Return\" → Depends."
+                    }
+                  ]
+                },
+                {
+                  "word": "try on",
+                  "image": "/img/shopping-9b/try-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"try on\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Try on\" → In the store (before you pay)."
+                    },
+                    {
+                      "prompt": "Is \"try on\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Try on\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "fit",
+                  "image": "/img/shopping-9b/fit.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"fit\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Fit\" → In the store (before you pay)."
+                    },
+                    {
+                      "prompt": "Is \"fit\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Fit\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "deliver",
+                  "image": "/img/shopping-9b/deliver.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"deliver\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Deliver\" → Online or at home."
+                    },
+                    {
+                      "prompt": "Is \"deliver\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Deliver\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "order",
+                  "image": "/img/shopping-9b/order.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"order\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Order\" → Online or at home."
+                    },
+                    {
+                      "prompt": "Is \"order\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Order\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "dressing room",
+                  "image": "/img/shopping-9b/dressing-room.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"dressing room\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Dressing room\" → In the store (before you pay)."
+                    },
+                    {
+                      "prompt": "Is \"dressing room\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Dressing room\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "bargain",
+                  "image": "/img/shopping-9b/bargain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"bargain\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bargain\" → In the store (before you pay)."
+                    },
+                    {
+                      "prompt": "Is \"bargain\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Bargain\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "receipt",
+                  "image": "/img/shopping-9b/receipt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"receipt\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Receipt\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"receipt\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Receipt\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "discount",
+                  "image": "/img/shopping-9b/discount.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"discount\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Discount\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"discount\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Discount\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "sales",
+                  "image": "/img/shopping-9b/sales.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"sales\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sales\" → In the store (before you pay)."
+                    },
+                    {
+                      "prompt": "Is \"sales\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sales\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "cash",
+                  "image": "/img/shopping-9b/cash.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"cash\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cash\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"cash\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cash\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "refund",
+                  "image": "/img/shopping-9b/refund.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"refund\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Refund\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"refund\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Refund\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "cash register",
+                  "image": "/img/shopping-9b/cash-register.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"cash register\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cash register\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"cash register\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cash register\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "window shopping",
+                  "image": "/img/shopping-9b/window-shopping.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"window shopping\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Window shopping\" → In the store (before you pay)."
+                    },
+                    {
+                      "prompt": "Is \"window shopping\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Window shopping\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "department store",
+                  "image": "/img/shopping-9b/department-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"department store\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Department store\" → A place or building."
+                    },
+                    {
+                      "prompt": "Is \"department store\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Department store\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "line",
+                  "image": "/img/shopping-9b/line.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"line\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Line\" → At the cash register."
+                    },
+                    {
+                      "prompt": "Is \"line\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Line\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "shopping center",
+                  "image": "/img/shopping-9b/shopping-center.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where does \"shopping center\" usually happen or belong?",
+                      "options": [
+                        "At the cash register",
+                        "In the store (before you pay)",
+                        "Online or at home",
+                        "A place or building"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Shopping center\" → A place or building."
+                    },
+                    {
+                      "prompt": "Is \"shopping center\" usually good news for a shopper?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Shopping center\" → Neutral."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Can I pay by credit card, or do I have to pay in cash?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’d like to exchange this jacket for a smaller one.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can I try on these shoes, please? I need to know how they fit.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m sorry, I can’t give you a refund if you don’t have the receipt.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You can order furniture online and the company will deliver it to your house.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I bought this handbag on sale for fifteen dollars. It was a real bargain!",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Good morning. I bought this jacket last week, but it’s too big. Can I exchange it for a smaller one? — Of course. Do you have the receipt? — Yes, here it is.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why does the customer want to exchange the jacket?",
+                  "options": [
+                    "It’s too big",
+                    "It’s the wrong color",
+                    "It’s too expensive",
+                    "It doesn’t open"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "If you pay in cash today, I can give you a ten percent discount. If you pay by credit card, the price is the same as on the tag.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How can the customer get a discount?",
+                  "options": [
+                    "By paying in cash",
+                    "By paying by card",
+                    "By ordering online",
+                    "By waiting in line"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "The dressing rooms are at the back of the store, next to the cash register. There’s a long line right now because the sales started this morning.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why is there a long line?",
+                  "options": [
+                    "The store is closing",
+                    "The sales started today",
+                    "The cash register is broken",
+                    "It’s raining"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I ordered a sofa online on Monday. The department store delivered it on Thursday, but it doesn’t fit in my living room, so I’m going to return it for a refund.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will the speaker do with the sofa?",
+                  "options": [
+                    "Exchange it",
+                    "Keep it",
+                    "Return it for a refund",
+                    "Sell it"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I love going window shopping at the shopping center on Saturdays. I look at everything, but I don’t buy anything unless it’s a real bargain.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When does the speaker buy something?",
+                  "options": [
+                    "Never",
+                    "Only if it’s a bargain",
+                    "Every Saturday",
+                    "Only online"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’m afraid we don’t accept returns on sale items, but you can exchange them for a different size or color within fourteen days.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can the customer do with a sale item?",
+                  "options": [
+                    "Get a refund",
+                    "Exchange it within 14 days",
+                    "Nothing",
+                    "Return it after a month"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "At the Cash Register",
+                  "situation": "Student A is a customer paying for a jacket. Student B is the salesclerk. Decide how to pay and ask about a discount and the receipt.",
+                  "mandatory": [
+                    "pay by",
+                    "cash",
+                    "receipt"
+                  ],
+                  "taboo": [
+                    "money",
+                    "buy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "It Doesn’t Fit",
+                  "situation": "A customer wants to exchange or return some shoes. The salesclerk explains the store policy.",
+                  "mandatory": [
+                    "exchange",
+                    "return",
+                    "refund"
+                  ],
+                  "taboo": [
+                    "shoes",
+                    "size"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Shopping Online vs. In-Store",
+                  "situation": "Debate: is it better to order online and have things delivered, or try things on in a store?",
+                  "mandatory": [
+                    "order",
+                    "deliver",
+                    "try on"
+                  ],
+                  "taboo": [
+                    "internet",
+                    "shop"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Big Sales",
+                  "situation": "Describe the best bargain you ever found in the sales: where, how much, and why it was a bargain.",
+                  "mandatory": [
+                    "bargain",
+                    "discount",
+                    "sales"
+                  ],
+                  "taboo": [
+                    "cheap",
+                    "price"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Describe the Place",
+                  "situation": "Taboo: describe a department store, a shopping center or a dressing room without saying its name.",
+                  "mandatory": [
+                    "store",
+                    "people",
+                    "clothes"
+                  ],
+                  "taboo": [
+                    "department",
+                    "shopping center",
+                    "dressing room"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Window Shopping Day",
+                  "situation": "Tell your partner about a day at the shopping center: the line, the cash register, window shopping and what you finally bought.",
+                  "mandatory": [
+                    "line",
+                    "window shopping",
+                    "cash register"
+                  ],
+                  "taboo": [
+                    "queue",
+                    "till"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U9T6",
+              "name": "9C - Grammar: The Passive",
+              "steal": [
+                {
+                  "prompt": "\"My brother wrote this book.\" → Passive: This book ______ by my brother.",
+                  "options": [
+                    "was written",
+                    "is written",
+                    "wrote",
+                    "was wrote"
+                  ],
+                  "answer": 0,
+                  "explanation": "was/were + past participle."
+                },
+                {
+                  "prompt": "These coffeemakers ______ in Italy.",
+                  "options": [
+                    "are made",
+                    "is made",
+                    "make",
+                    "are making"
+                  ],
+                  "answer": 0,
+                  "explanation": "Simple present passive, plural."
+                },
+                {
+                  "prompt": "My wallet ______ yesterday at the shopping center.",
+                  "options": [
+                    "was stolen",
+                    "is stolen",
+                    "stole",
+                    "was stole"
+                  ],
+                  "answer": 0,
+                  "explanation": "Simple past passive."
+                },
+                {
+                  "prompt": "Toyota cars ______ in Japan.",
+                  "options": [
+                    "is built",
+                    "are built",
+                    "build",
+                    "were build"
+                  ],
+                  "answer": 1,
+                  "explanation": "Plural → are built."
+                },
+                {
+                  "prompt": "The buildings ______ five years ago.",
+                  "options": [
+                    "are destroyed",
+                    "was destroyed",
+                    "were destroyed",
+                    "destroyed"
+                  ],
+                  "answer": 2,
+                  "explanation": "Plural past → were destroyed."
+                },
+                {
+                  "prompt": "Lots of hotel towels ______ by tourists as souvenirs.",
+                  "options": [
+                    "are taken",
+                    "are took",
+                    "take",
+                    "is taken"
+                  ],
+                  "answer": 0,
+                  "explanation": "are + taken (past participle)."
+                },
+                {
+                  "prompt": "This building ______ in 1985 ______ a Chinese architect.",
+                  "options": [
+                    "was designed / by",
+                    "designed / from",
+                    "was designed / for",
+                    "is designed / by"
+                  ],
+                  "answer": 0,
+                  "explanation": "Passive agent: by."
+                },
+                {
+                  "prompt": "Is your watch ______ of gold?",
+                  "options": [
+                    "make",
+                    "made",
+                    "making",
+                    "makes"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past participle after be."
+                },
+                {
+                  "prompt": "When ______ the book written?",
+                  "options": [
+                    "did",
+                    "was",
+                    "is",
+                    "does"
+                  ],
+                  "answer": 1,
+                  "explanation": "Question: was + subject + participle."
+                },
+                {
+                  "prompt": "Who ______ the music sung by?",
+                  "options": [
+                    "was",
+                    "did",
+                    "does",
+                    "were"
+                  ],
+                  "answer": 0,
+                  "explanation": "Who was the music sung by?"
+                },
+                {
+                  "prompt": "The soccer games ______ in the evening.",
+                  "options": [
+                    "is played",
+                    "are played",
+                    "play",
+                    "are play"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present passive, plural."
+                },
+                {
+                  "prompt": "The movie ______ by Steven Spielberg.",
+                  "options": [
+                    "directed",
+                    "was directed",
+                    "is directing",
+                    "were directed"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past passive, singular."
+                },
+                {
+                  "prompt": "The painting ______ by the artist.",
+                  "options": [
+                    "isn’t signed",
+                    "doesn’t sign",
+                    "isn’t sign",
+                    "wasn’t signing"
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative present passive."
+                },
+                {
+                  "prompt": "Chess ______ in Europe.",
+                  "options": [
+                    "didn’t invent",
+                    "wasn’t invented",
+                    "isn’t invented",
+                    "weren’t invented"
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative past passive."
+                },
+                {
+                  "prompt": "______ these cookies made with butter?",
+                  "options": [
+                    "Are",
+                    "Do",
+                    "Is",
+                    "Were"
+                  ],
+                  "answer": 0,
+                  "explanation": "Yes/no question: Are + subject + participle."
+                },
+                {
+                  "prompt": "______ the workers paid last month? — Yes, they were.",
+                  "options": [
+                    "Was",
+                    "Were",
+                    "Did",
+                    "Are"
+                  ],
+                  "answer": 1,
+                  "explanation": "Were + plural subject."
+                },
+                {
+                  "prompt": "Which sentence focuses on the ACTION, not the person who did it?",
+                  "options": [
+                    "My brother wrote this book.",
+                    "This book was written by my brother.",
+                    "My brother writes books.",
+                    "My brother is a writer."
+                  ],
+                  "answer": 1,
+                  "explanation": "Passive focuses on the action/thing."
+                },
+                {
+                  "prompt": "We use the passive when…",
+                  "options": [
+                    "we don’t know who did the action",
+                    "we want to stress who did it",
+                    "we talk about the future",
+                    "we give orders"
+                  ],
+                  "answer": 0,
+                  "explanation": "Unknown or unimportant agent."
+                },
+                {
+                  "prompt": "Refunds ______ only if you have the receipt.",
+                  "options": [
+                    "are given",
+                    "is given",
+                    "give",
+                    "are gave"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present passive."
+                },
+                {
+                  "prompt": "The discount ______ at the cash register, not online.",
+                  "options": [
+                    "applied",
+                    "is applied",
+                    "are applied",
+                    "is apply"
+                  ],
+                  "answer": 1,
+                  "explanation": "Singular present passive."
+                },
+                {
+                  "prompt": "These shoes ______ by hand in Spain.",
+                  "options": [
+                    "was made",
+                    "were made",
+                    "are make",
+                    "made"
+                  ],
+                  "answer": 1,
+                  "explanation": "Plural past passive."
+                },
+                {
+                  "prompt": "Is this bargain ______ online? — No, it isn’t.",
+                  "options": [
+                    "sold",
+                    "sell",
+                    "selling",
+                    "sells"
+                  ],
+                  "answer": 0,
+                  "explanation": "Is + sold."
+                },
+                {
+                  "prompt": "Were the handbags ______ on sale? — Yes, ______.",
+                  "options": [
+                    "bought / they were",
+                    "bought / they did",
+                    "buy / they were",
+                    "buying / were they"
+                  ],
+                  "answer": 0,
+                  "explanation": "Short answer: Yes, they were."
+                },
+                {
+                  "prompt": "Which is the ACTIVE sentence?",
+                  "options": [
+                    "The order was delivered yesterday.",
+                    "The company delivered the order yesterday.",
+                    "The order is delivered every day.",
+                    "Orders are delivered by van."
+                  ],
+                  "answer": 1,
+                  "explanation": "Active: subject does the action."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "This book was written by my brother.",
+                  "correct": true
+                },
+                {
+                  "sentence": "These coffeemakers are made in Italy.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My wallet was stolen yesterday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Toyota cars are built in Japan.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The buildings were destroyed five years ago.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Lots of hotel towels are taken by tourists as souvenirs.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This building was designed in 1985, by a Chinese architect.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is your watch made of gold?",
+                  "correct": true
+                },
+                {
+                  "sentence": "When was the book written?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Who was the music sung by?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Chess wasn’t invented in Europe.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Refunds are given only with a receipt.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This book was wrote by my brother.",
+                  "correct": false,
+                  "fix": "Past participle: was written."
+                },
+                {
+                  "sentence": "These coffeemakers are make in Italy.",
+                  "correct": false,
+                  "fix": "Are made."
+                },
+                {
+                  "sentence": "My wallet stolen yesterday.",
+                  "correct": false,
+                  "fix": "Missing be: was stolen."
+                },
+                {
+                  "sentence": "Toyota cars is built in Japan.",
+                  "correct": false,
+                  "fix": "Plural: are built."
+                },
+                {
+                  "sentence": "The building were destroyed five years ago.",
+                  "correct": false,
+                  "fix": "Singular: was destroyed."
+                },
+                {
+                  "sentence": "This building was designed from a Chinese architect.",
+                  "correct": false,
+                  "fix": "Agent: by a Chinese architect."
+                },
+                {
+                  "sentence": "Did the book written in 1985?",
+                  "correct": false,
+                  "fix": "Was the book written in 1985?"
+                },
+                {
+                  "sentence": "The painting doesn’t signed by the artist.",
+                  "correct": false,
+                  "fix": "The painting isn’t signed by the artist."
+                },
+                {
+                  "sentence": "Were the workers paid last month? — Yes, they did.",
+                  "correct": false,
+                  "fix": "Yes, they were."
+                },
+                {
+                  "sentence": "The discount is apply at the cash register.",
+                  "correct": false,
+                  "fix": "Is applied."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "dressing room",
+                  "image": "/img/shopping-9b/dressing-room.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The dressing room ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The dressing room ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "bargain",
+                  "image": "/img/shopping-9b/bargain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The bargain ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The bargain ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "receipt",
+                  "image": "/img/shopping-9b/receipt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The receipt ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The receipt ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "discount",
+                  "image": "/img/shopping-9b/discount.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The discount ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The discount ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "cash",
+                  "image": "/img/shopping-9b/cash.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The cash ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The cash ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "refund",
+                  "image": "/img/shopping-9b/refund.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The refund ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The refund ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "cash register",
+                  "image": "/img/shopping-9b/cash-register.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The cash register ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The cash register ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "department store",
+                  "image": "/img/shopping-9b/department-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The department store ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The department store ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "line",
+                  "image": "/img/shopping-9b/line.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The line ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The line ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                },
+                {
+                  "word": "shopping center",
+                  "image": "/img/shopping-9b/shopping-center.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Simple past passive: \"The shopping center ______ checked by the manager yesterday.\"",
+                      "options": [
+                        "was",
+                        "were",
+                        "is",
+                        "did"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + was + past participle."
+                    },
+                    {
+                      "prompt": "Simple present passive: \"The shopping center ______ checked every day.\"",
+                      "options": [
+                        "is",
+                        "are",
+                        "was",
+                        "does"
+                      ],
+                      "answer": 0,
+                      "explanation": "Singular subject + is + past participle."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "This book was written by my brother.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "These coffeemakers are made in Italy.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My wallet was stolen yesterday at the shopping center.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Toyota cars are built in Japan.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "When was the book written? Who was the music sung by?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Lots of hotel towels are taken by tourists as souvenirs.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "This building was designed in 1985 by a Chinese architect. It was destroyed in a fire five years ago and it was rebuilt last year.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When was the building designed?",
+                  "options": [
+                    "In 1985",
+                    "Five years ago",
+                    "Last year",
+                    "In 1958"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "The soccer games are played in the evening, and the tickets are sold online. Refunds aren’t given if you miss the game.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where are the tickets sold?",
+                  "options": [
+                    "At the stadium",
+                    "Online",
+                    "In a department store",
+                    "By phone"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The movie was directed by Steven Spielberg, but the music wasn’t written by him. It was composed by John Williams.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who was the music composed by?",
+                  "options": [
+                    "Steven Spielberg",
+                    "John Williams",
+                    "The actors",
+                    "Nobody knows"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Were the workers paid last month? — No, they weren’t. The money was sent to the wrong bank account, so it was returned.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why weren’t the workers paid?",
+                  "options": [
+                    "The company had no money",
+                    "The money was sent to the wrong account",
+                    "They didn’t work",
+                    "The bank was closed"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "These shoes are made by hand in Spain, and only two hundred pairs are produced every year. That’s why they aren’t sold at a discount.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many pairs are produced every year?",
+                  "options": [
+                    "Two",
+                    "Twenty",
+                    "Two hundred",
+                    "Two thousand"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Chess wasn’t invented in Europe. It was invented in India more than a thousand years ago, and it was brought to Europe by traders.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where was chess invented?",
+                  "options": [
+                    "Europe",
+                    "India",
+                    "China",
+                    "Spain"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Made in…",
+                  "situation": "Talk about three products you own: where they are made, what they are made of and where they were bought.",
+                  "mandatory": [
+                    "is made",
+                    "are made",
+                    "was bought"
+                  ],
+                  "taboo": [
+                    "from",
+                    "factory"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Mystery",
+                  "situation": "Student A is a police officer, Student B a shop owner. Describe what was stolen, when it was taken and what was found.",
+                  "mandatory": [
+                    "was stolen",
+                    "was taken",
+                    "were found"
+                  ],
+                  "taboo": [
+                    "thief",
+                    "robbed"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Famous Things",
+                  "situation": "Quiz your partner: “Who was … painted / written / directed / invented by?” Give three questions each.",
+                  "mandatory": [
+                    "Who was",
+                    "by",
+                    "When was"
+                  ],
+                  "taboo": [
+                    "did",
+                    "made"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Store Rules",
+                  "situation": "Explain the rules of a store using the passive: how refunds are given, where discounts are applied, when orders are delivered.",
+                  "mandatory": [
+                    "are given",
+                    "are delivered",
+                    "is applied"
+                  ],
+                  "taboo": [
+                    "we",
+                    "you must"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My City",
+                  "situation": "Describe your city: when it was founded, what was built there, and what is produced or sold there today.",
+                  "mandatory": [
+                    "was built",
+                    "was founded",
+                    "is produced"
+                  ],
+                  "taboo": [
+                    "they built",
+                    "people"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Active or Passive?",
+                  "situation": "Student A says an active sentence about shopping; Student B changes it to the passive. Swap after each sentence.",
+                  "mandatory": [
+                    "was",
+                    "were",
+                    "is"
+                  ],
+                  "taboo": [
+                    "active",
+                    "passive"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
