@@ -93,6 +93,14 @@ const MODES = [
     count: (t) => t.pictures?.length || new Set([...(t.speaking ?? []).flatMap((s) => s.mandatory ?? []), ...(t.steal ?? []).map((q) => q.options?.[q.answer]).filter((a) => a && a.split(' ').length <= 4 && !/[/?]/.test(a))]).size,
     unit: 'chunks',
   },
+  {
+    id: 'fivew',
+    icon: '🗣️',
+    title: 'MODE 10: THE 5 W’s FLUENCY BUILDER',
+    desc: (<>Anti-freezing speaking drill: a conversation topic from the unit and five giant cards — <b className="text-gold">WHO · WHAT · WHERE · WHEN · WHY</b>. Talk for <b className="text-cyan-300">30 s</b> with a metronome bar; SPACE / <b className="text-emerald-300">NEXT W</b> lights each card green, all five = fireworks +100. Optional mic validation.</>),
+    count: (t) => (t.speaking?.length ?? 0) + Math.min(10, t.pictures?.length || (t.steal?.length ?? 0)) + 8,
+    unit: 'topics',
+  },
 ]
 
 export default function Lobby({ curriculum, selection, onSelect, topic, onPlay, onResetScores, onRenameTeams }) {

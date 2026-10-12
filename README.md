@@ -38,6 +38,11 @@ Live: https://english-classroom-game-show.vercel.app
   (Web Speech API) awards +100 and advances automatically when the spoken sentence matches; a Listen & Repeat
   button plays the chunk with a native TTS voice, pauses 3 s for the class to echo, then plays it again.
   Teacher fallback buttons: Fluent +100, Missed, steal +50. Mute/volume control and Team A/B scoring.
+- **Mode 10 – The 5 W's Fluency Builder** (all topics): anti-freezing speaking drill. A conversation topic from
+  the unit (speaking scenes, then vocabulary-seeded and generic "Tell us about…" prompts) sits above five giant
+  cards — WHO · WHAT · WHERE · WHEN · WHY. A 30 s clock with a metronome progress bar runs while the student
+  talks; SPACE or NEXT W lights each card green, and all five in time triggers fireworks +100 (otherwise +20 per
+  W). Optional speech recognition lights a card automatically when it hears an answer to that W.
 
 Listening and speaking cards live in `scripts/content/listening-speaking.mjs`, keyed by level and topic
 name; currently Basic 1 "3A - Vocabulary: Food & Drinks" and Advanced 1 Unit 1 have cards.
