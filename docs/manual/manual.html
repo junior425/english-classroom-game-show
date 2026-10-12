@@ -95,7 +95,7 @@
         <li>Modo 7: Speaking Roleplay &amp; Taboo (Fluidez Oral)</li>
         <li>Modo 8: 15-Minute Arcade Speed (Calentamiento de 15 minutos)</li>
         <li>Modo 9: Neuro-Speaking · The Chunk Express (Fluidez con chunks, imágenes y reconocimiento de voz)</li>
-        <li>Modo 10: The 5 W's Fluency Builder (Anti-congelamiento: Who · What · Where · When · Why en 30 s)</li>
+        <li>Modo 10: The Fluency Compass (Anti-congelamiento: 5 W's · O.R.E.O. · P.P.P. · Time Travel)</li>
       </ul></li>
     <li><b>Instrucciones de operación en el aula</b>
       <ul><li>Proyección y pantalla completa (F11)</li><li>Manejo de marcadores</li><li>Audio: efectos (Tone.js) y voces (Web Speech API / ElevenLabs)</li><li>Rutina sugerida para una clase</li><li>Solución de problemas</li></ul></li>
@@ -509,38 +509,45 @@
 
 <!-- MODO 10 -->
 <div class="page">
-  <div class="mode-head"><div class="num">10</div><div><div class="t">🗣️ The 5 W's Fluency Builder — Anti-congelamiento</div><div class="s">Tema de conversación de la unidad · 5 tarjetas gigantes WHO · WHAT · WHERE · WHEN · WHY · 30 segundos · Todos los topics</div></div></div>
+  <div class="mode-head"><div class="num">10</div><div><div class="t">🧭 The Fluency Compass — Marcos anti-congelamiento</div><div class="s">Selector de 4 marcos · Prompt de la unidad · 30 ó 45 segundos · Todos los topics</div></div></div>
 
   <h4>Objetivo</h4>
-  <p>Evitar que el estudiante se <b>congele</b> (<i>freezing</i>) al hablar. Con una estructura fija de cinco preguntas, el alumno siempre sabe qué decir a continuación: quién, qué, dónde, cuándo y por qué. Entrena la fluidez narrativa en 30 segundos, sin pausas largas ni traducción mental.</p>
+  <p>Evitar que el estudiante se <b>congele</b> (<i>freezing</i>) al hablar. Un <b>marco visual</b> en pantalla le dice siempre qué decir a continuación. El profesor elige con el <b>selector superior</b> el marco según el nivel o la dinámica de la clase:</p>
+  <table>
+    <tr><th>Marco</th><th>Bloques en pantalla</th><th>Para qué sirve</th><th>Tiempo</th></tr>
+    <tr><td><b>1 · The 5 W's Builder</b></td><td>5 tarjetas horizontales: WHO? · WHAT? · WHERE? · WHEN? · WHY?</td><td>Expandir respuestas cortas en un párrafo de 5 oraciones (narrar).</td><td>30 s</td></tr>
+    <tr><td><b>2 · The O.R.E.O. Debate</b></td><td>4 bloques verticales: OPINION · REASON · EXAMPLE · OPINION</td><td>Opiniones, argumentos y debates formales (Intermediate / Advanced).</td><td>45 s</td></tr>
+    <tr><td><b>3 · P.P.P. Conversation</b></td><td>3 pasos horizontales: POINT · PIVOT · PASS</td><td>Interacción rápida en parejas: respuesta directa, detalle o conector, y pregunta al compañero ("What about you?").</td><td>30 s</td></tr>
+    <tr><td><b>4 · Time Travel</b></td><td>3 columnas de colores: PAST (naranja) · PRESENT (verde) · FUTURE (azul)</td><td>Conectar los 3 tiempos en una sola respuesta: "In the past… / Right now… / In the future…".</td><td>45 s</td></tr>
+  </table>
 
   <h4>Dinámica paso a paso</h4>
   <ol>
-    <li>Selecciona Level → Unit → Topic. El modo toma los <b>temas de conversación</b> de las escenas de speaking del topic (🎤), añade temas "Tell us about…" con el vocabulario de la unidad y cierra con temas generales ("Tell us about a great meal you had").</li>
-    <li>En la pantalla de inicio activa o desactiva la <b>validación por micrófono 🎙️</b> y pulsa <b>"▶ START 0:30"</b>. Habla el equipo del borde azul (Team A); el siguiente estudiante será del otro equipo.</li>
-    <li>Arriba aparece el tema en dorado (con las palabras sugeridas) y debajo las <b>5 tarjetas horizontales gigantes</b>: WHO? "Who were you with?" · WHAT? "What did you do / eat / use?" · WHERE? "Where did this happen?" · WHEN? "When was it?" · WHY? "Why was it special / How did you feel?". La tarjeta activa brilla; la barra de progreso y el <b>metrónomo</b> marcan el ritmo (tic-tac rápido en los últimos 5 s).</li>
-    <li>Conforme el estudiante responde cada pregunta, el profesor pulsa la <b>barra espaciadora</b> o el botón <b>"✅ NEXT W"</b>: la tarjeta se enciende en verde y pasa a la siguiente.</li>
-    <li>Con el micrófono activado, la app escucha (Web Speech API, Chrome/Edge) y enciende sola la tarjeta cuando detecta una respuesta a esa W (p. ej. "with my friends", "at a restaurant", "last Saturday", "because it was delicious"). Lo que oye se muestra en la franja inferior; el profesor siempre puede adelantar con SPACE.</li>
-    <li>Si completa las <b>5 W's antes de 0:00</b>: fanfarria, <b>fuegos artificiales</b> y <b>+100</b>. Si se agota el tiempo (o el profesor pulsa "❄️ Froze — stop"), buzzer y <b>+20 por cada W</b> conseguida.</li>
-    <li>"▶ NEXT STUDENT" (o SPACE) cambia de equipo y de tema. "⏹ Finish" muestra el marcador final con las historias completas de cada equipo.</li>
+    <li>Selecciona Level → Unit → Topic y, en la pantalla de inicio, el <b>marco</b> y el tiempo (<b>30 ó 45 s</b>). Activa o desactiva la validación por micrófono 🎙️ y pulsa <b>"▶ START"</b>. Habla primero Team A; el siguiente estudiante será del otro equipo.</li>
+    <li>Arriba aparece en dorado el <b>prompt</b> del topic activo: primero las escenas de speaking de la unidad (🎤), luego preguntas del marco con el vocabulario del topic y, por último, preguntas generales (p. ej. "Tell us about a great meal you had", "Is online shopping better than going to a store?", "Do you like cooking?", "Talk about your English: past, present and future"). El botón 🔊 lo lee en voz nativa en inglés.</li>
+    <li>Debajo, los bloques del marco. El bloque activo brilla con su color; la barra de progreso y el <b>metrónomo</b> marcan el ritmo (tic-tac rápido en los últimos 5 s).</li>
+    <li>Conforme el estudiante habla hacia el televisor, el profesor pulsa la <b>barra espaciadora</b> o <b>"✅ NEXT STEP"</b>: el bloque se enciende en verde y pasa al siguiente.</li>
+    <li>Con el micrófono activado, la app enciende sola el bloque cuando oye una respuesta típica de ese paso (p. ej. "because…" en REASON, "what about you?" en PASS, "when I was a kid…" en PAST). El profesor siempre puede adelantar con SPACE.</li>
+    <li>Todos los pasos antes de 0:00: fanfarria, <b>fuegos artificiales</b> y <b>+100</b>. Si se agota el tiempo o el profesor pulsa "❄️ Froze — stop": buzzer y <b>+20 por cada paso</b> conseguido.</li>
+    <li>"▶ NEXT STUDENT" (o SPACE) cambia de equipo y de prompt. Puedes cambiar de marco en cualquier momento desde el selector del encabezado. "⏹ Finish" muestra el marcador final.</li>
   </ol>
 
   <h4>Puntuación</h4>
   <table>
     <tr><th>Acción</th><th>Puntos</th><th>Sonido</th></tr>
-    <tr><td>Las 5 W's completadas en 30 s</td><td class="n pos">+100</td><td>Fanfarria + fuegos artificiales</td></tr>
-    <tr><td>Tiempo agotado o "Froze"</td><td class="n pos">+20 por cada W encendida</td><td>Buzzer</td></tr>
-    <tr><td>Cada W encendida (SPACE / NEXT W / micrófono)</td><td class="n">—</td><td>Blip de avance</td></tr>
+    <tr><td>Todos los pasos del marco completados a tiempo</td><td class="n pos">+100</td><td>Fanfarria + fuegos artificiales</td></tr>
+    <tr><td>Tiempo agotado o "Froze"</td><td class="n pos">+20 por paso encendido</td><td>Buzzer</td></tr>
+    <tr><td>Cada paso encendido (SPACE / NEXT STEP / micrófono)</td><td class="n">—</td><td>Blip de avance</td></tr>
     <tr><td>Cada segundo / últimos 5 s</td><td class="n">—</td><td>Metrónomo / tic-tac urgente</td></tr>
   </table>
 
   <h4>Cómo lo dirige el profesor en el salón</h4>
   <ul>
-    <li>Regla: <b>no se admite silencio</b>. Si el estudiante duda, el profesor señala la tarjeta activa y repite la pregunta ("Who were you with?") en lugar de dejar que se congele.</li>
-    <li>En Basic acepta respuestas cortas ("With my mom. Pizza. At home. Yesterday. Because I love pizza."); en Intermediate/Advanced exige oraciones completas y conectores (<i>because, so, although</i>).</li>
-    <li>Pulsa SPACE con generosidad en las primeras rondas; después exige las 5 W's completas para dar los +100. Puedes usar "🎉" para celebrar una historia especialmente buena.</li>
+    <li>Regla: <b>no se admite silencio</b>. Si el estudiante duda, señala el bloque activo y repite su pregunta guía en lugar de dejar que se congele.</li>
+    <li>Basic: 5 W's y P.P.P. con respuestas cortas ("With my mom. Pizza. At home."). Intermediate / Advanced: O.R.E.O. y Time Travel exigiendo oraciones completas, conectores y los tres tiempos.</li>
+    <li>En P.P.P. el compañero que recibe el "PASS" responde a continuación: enlaza dos turnos seguidos para una mini-conversación.</li>
     <li>El micrófono es opcional: en aulas ruidosas desactívalo y controla el ritmo con la barra espaciadora.</li>
-    <li>Combínalo con el Modo 7 (Roleplay) y el Modo 9 (Chunk Express): el 5 W's es la "escalera" para pasar de chunks sueltos a una narración completa.</li>
+    <li>Combínalo con el Modo 7 (Roleplay) y el Modo 9 (Chunk Express): el Compass es la "escalera" de chunks sueltos a una respuesta estructurada.</li>
   </ul>
 </div>
 
@@ -602,7 +609,7 @@
   <h3>3.5 Solución de problemas</h3>
   <table>
     <tr><th style="width:36%">Problema</th><th>Solución</th></tr>
-    <tr><td>El micrófono del Modo 9 o del Modo 10 no reconoce nada</td><td>Usa Chrome o Edge con conexión a internet (el reconocimiento es online), permite el micrófono en el candado de la barra de direcciones y acerca el equipo al estudiante; si no, desactiva 🎙️ y usa los botones Fluent / Missed (Modo 9) o la barra espaciadora / NEXT W (Modo 10).</td></tr>
+    <tr><td>El micrófono del Modo 9 o del Modo 10 no reconoce nada</td><td>Usa Chrome o Edge con conexión a internet (el reconocimiento es online), permite el micrófono en el candado de la barra de direcciones y acerca el equipo al estudiante; si no, desactiva 🎙️ y usa los botones Fluent / Missed (Modo 9) o la barra espaciadora / NEXT STEP (Modo 10).</td></tr>
     <tr><td>La música del Modo 8 no suena o está muy alta</td><td>Usa el botón 🎵 (mute) y la barra de volumen arriba a la izquierda; la música arranca solo al pulsar START (gesto del usuario).</td></tr>
     <tr><td>No se oyen los efectos de sonido</td><td>Verifica el volumen del sistema y del navegador; haz clic en cualquier botón (el audio se activa con un gesto del usuario). Recarga la página si persiste.</td></tr>
     <tr><td>El botón PLAY AUDIO no habla (Modo 6)</td><td>El navegador no tiene voces en inglés. Usa Edge (Windows) o instala voces (sección 3.3). Mientras tanto, pulsa "Reveal transcript" y lee la frase en voz alta.</td></tr>
@@ -625,7 +632,7 @@
     <tr><td>7 · Speaking Roleplay</td><td class="pos">+100 ganador · +50 ambos</td><td>0 (No points)</td><td>—</td><td>Taboo −50 · timer 45-60 s · veredicto del profesor</td></tr>
     <tr><td>8 · Arcade Speed</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">100 del rival</td><td>Reloj 15:00 · 5 s / 15 s / 10 s por tarjeta · música con mute/volumen</td></tr>
     <tr><td>9 · Chunk Express</td><td class="pos">+100 (voz o profesor)</td><td>0 (pasa el turno)</td><td class="pos">+50 del rival</td><td>6-8 s por imagen · metrónomo · shadowing 2× con pausa de 3 s</td></tr>
-    <tr><td>10 · 5 W's Fluency Builder</td><td class="pos">+100 (5 W's en 30 s)</td><td class="pos">+20 por W</td><td>—</td><td>30 s · metrónomo · SPACE / NEXT W · micrófono opcional</td></tr>
+    <tr><td>10 · Fluency Compass</td><td class="pos">+100 (marco completo a tiempo)</td><td class="pos">+20 por paso</td><td>—</td><td>4 marcos (5 W's · O.R.E.O. · P.P.P. · Time Travel) · 30/45 s · SPACE / NEXT STEP · micrófono opcional</td></tr>
     <tr><td>Marcador manual</td><td class="pos">+100</td><td class="neg">−50</td><td class="pos">Steal 100 del rival</td><td>Disponible en todo momento</td></tr>
   </table>
   <p class="foot">Manual de Uso: English Game Show · https://english-classroom-game-show.vercel.app · github.com/junior425/english-classroom-game-show</p>

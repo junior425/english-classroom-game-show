@@ -95,11 +95,11 @@ const MODES = [
   },
   {
     id: 'fivew',
-    icon: '🗣️',
-    title: 'MODE 10: THE 5 W’s FLUENCY BUILDER',
-    desc: (<>Anti-freezing speaking drill: a conversation topic from the unit and five giant cards — <b className="text-gold">WHO · WHAT · WHERE · WHEN · WHY</b>. Talk for <b className="text-cyan-300">30 s</b> with a metronome bar; SPACE / <b className="text-emerald-300">NEXT W</b> lights each card green, all five = fireworks +100. Optional mic validation.</>),
-    count: (t) => (t.speaking?.length ?? 0) + Math.min(10, t.pictures?.length || (t.steal?.length ?? 0)) + 8,
-    unit: 'topics',
+    icon: '🧭',
+    title: 'MODE 10: THE FLUENCY COMPASS',
+    desc: (<>Anti-freezing speaking frameworks with a selector on top: <b className="text-gold">5 W’s Builder</b> (Who·What·Where·When·Why), <b className="text-gold">O.R.E.O. Debate</b> (Opinion·Reason·Example·Opinion), <b className="text-gold">P.P.P. Conversation</b> (Point·Pivot·Pass) and <b className="text-gold">Time Travel</b> (Past·Present·Future). Prompt from the unit, <b className="text-cyan-300">30–45 s</b> metronome clock; SPACE / <b className="text-emerald-300">NEXT STEP</b> lights each block green, all steps = fireworks +100. Optional mic validation.</>),
+    count: (t) => (t.speaking?.length ?? 0) + Math.min(8, t.pictures?.length ?? 0) + 8,
+    unit: 'prompts',
   },
 ]
 
