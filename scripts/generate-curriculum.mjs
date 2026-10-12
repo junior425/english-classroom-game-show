@@ -47,8 +47,24 @@ const LEVELS = [
   ['Advanced 2', advanced2],
 ]
 
-const toQuestion = ([prompt, options, answer, explanation, image]) =>
-  image ? { prompt, options, answer, explanation, image } : { prompt, options, answer, explanation }
+// Deterministic shuffle (seeded by the prompt) so the correct answer is not always option A
+// while the generated JSON stays stable between runs.
+const hash = (str) => [...str].reduce((h, ch) => (Math.imul(h ^ ch.charCodeAt(0), 16777619) >>> 0), 2166136261)
+const shuffleOptions = (prompt, options, answer) => {
+  let seed = hash(prompt)
+  const next = () => (seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0) / 4294967296
+  const order = options.map((_, i) => i)
+  for (let i = order.length - 1; i > 0; i--) {
+    const j = Math.floor(next() * (i + 1))
+    ;[order[i], order[j]] = [order[j], order[i]]
+  }
+  return { options: order.map((i) => options[i]), answer: order.indexOf(answer) }
+}
+
+const toQuestion = ([prompt, rawOptions, rawAnswer, explanation, image]) => {
+  const { options, answer } = shuffleOptions(prompt, rawOptions, rawAnswer)
+  return image ? { prompt, options, answer, explanation, image } : { prompt, options, answer, explanation }
+}
 const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1)
 // Picture Quiz "category" rounds are precomputed here as `sorts`, so the game component stays topic-agnostic.
 // Legacy food format: [word, image, 'food'|'drink', healthy]. Generic format: [word, image, { sortKey: optionLabel }]
@@ -73,8 +89,8 @@ const toPicture = (sortDefs) => ([word, image, tagsOrCategory, healthy]) => {
     }),
   }
 }
-const toListening = ([text, voice, kind, question, options, answer]) =>
-  kind === 'comprehension' ? { text, voice, kind, question, options, answer } : { text, voice, kind }
+const toListening = ([text, voice, kind, question, rawOptions, rawAnswer]) =>
+  kind === 'comprehension' ? { text, voice, kind, question, ...shuffleOptions(question, rawOptions, rawAnswer) } : { text, voice, kind }
 const toSpeaking = ([title, situation, mandatory, taboo, seconds]) => ({ title, situation, mandatory, taboo, seconds })
 const toSentence = ([sentence, correct, fix, explanation]) =>
   correct ? { sentence, correct, explanation } : { sentence, correct, fix, explanation }
