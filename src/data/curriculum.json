@@ -20919,6 +20919,1762 @@
                   "seconds": 45
                 }
               ]
+            },
+            {
+              "id": "L3U6T5",
+              "name": "6A - Vocabulary: Phrasal Verbs",
+              "steal": [
+                {
+                  "prompt": "Can I ______ the air-conditioning? It’s so hot in here.",
+                  "options": [
+                    "turn on",
+                    "turn into",
+                    "fill up",
+                    "take up"
+                  ],
+                  "answer": 0,
+                  "explanation": "Turn on = start a machine."
+                },
+                {
+                  "prompt": "I’m going to ______ who did this.",
+                  "options": [
+                    "look up",
+                    "find out",
+                    "fill out",
+                    "give up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Find out = discover information."
+                },
+                {
+                  "prompt": "Oh no! We’ve ______ milk!",
+                  "options": [
+                    "run out of",
+                    "thrown away",
+                    "given up",
+                    "turned into"
+                  ],
+                  "answer": 0,
+                  "explanation": "Run out of = have no more."
+                },
+                {
+                  "prompt": "Why did the car ______ here?",
+                  "options": [
+                    "break up",
+                    "break down",
+                    "fill up",
+                    "clean up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Break down = stop working."
+                },
+                {
+                  "prompt": "Please ______ the empty bottles.",
+                  "options": [
+                    "throw away",
+                    "give back",
+                    "look up",
+                    "hold on"
+                  ],
+                  "answer": 0,
+                  "explanation": "Throw away = put in the trash."
+                },
+                {
+                  "prompt": "Can you ______ the car with gasoline, please?",
+                  "options": [
+                    "fill out",
+                    "fill up",
+                    "turn on",
+                    "take up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Fill up = fill completely."
+                },
+                {
+                  "prompt": "You should ______ your bedroom. It’s a mess!",
+                  "options": [
+                    "clean up",
+                    "find out",
+                    "give up",
+                    "go on"
+                  ],
+                  "answer": 0,
+                  "explanation": "Clean up = make tidy."
+                },
+                {
+                  "prompt": "I’m going to ______ the word in a dictionary.",
+                  "options": [
+                    "look up",
+                    "look for",
+                    "look after",
+                    "fill out"
+                  ],
+                  "answer": 0,
+                  "explanation": "Look up = search for information."
+                },
+                {
+                  "prompt": "I don’t want to ______ with the course. It’s boring.",
+                  "options": [
+                    "go on",
+                    "give back",
+                    "take up",
+                    "turn into"
+                  ],
+                  "answer": 0,
+                  "explanation": "Go on = continue."
+                },
+                {
+                  "prompt": "If you want to get in shape you should ______ running.",
+                  "options": [
+                    "take care of",
+                    "take up",
+                    "give up",
+                    "fill up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Take up = start a hobby."
+                },
+                {
+                  "prompt": "I’m going to ______ my sister’s children tonight.",
+                  "options": [
+                    "take care of",
+                    "take up",
+                    "look up",
+                    "turn into"
+                  ],
+                  "answer": 0,
+                  "explanation": "Take care of = be with / look after."
+                },
+                {
+                  "prompt": "You need to ______ this form to get a passport.",
+                  "options": [
+                    "fill up",
+                    "fill out",
+                    "find out",
+                    "clean up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Fill out a form (US)."
+                },
+                {
+                  "prompt": "Can you ______ the money you owe me?",
+                  "options": [
+                    "give up",
+                    "give back",
+                    "hold on",
+                    "go on"
+                  ],
+                  "answer": 1,
+                  "explanation": "Give back = return."
+                },
+                {
+                  "prompt": "You should ______ smoking. It’s bad for you.",
+                  "options": [
+                    "give back",
+                    "give up",
+                    "take up",
+                    "turn on"
+                  ],
+                  "answer": 1,
+                  "explanation": "Give up = stop."
+                },
+                {
+                  "prompt": "If you ______ for five minutes, I’ll come, too.",
+                  "options": [
+                    "hold on",
+                    "go on",
+                    "turn on",
+                    "break down"
+                  ],
+                  "answer": 0,
+                  "explanation": "Hold on = wait."
+                },
+                {
+                  "prompt": "The snow will soon ______ water.",
+                  "options": [
+                    "turn on",
+                    "turn into",
+                    "fill up",
+                    "run out of"
+                  ],
+                  "answer": 1,
+                  "explanation": "Turn into = become."
+                },
+                {
+                  "prompt": "My car is awful. It ______ every month!",
+                  "options": [
+                    "breaks down",
+                    "fills up",
+                    "runs out",
+                    "turns into"
+                  ],
+                  "answer": 0,
+                  "explanation": "Breaks down."
+                },
+                {
+                  "prompt": "Yesterday, I ______ that I’m going to get a pay raise.",
+                  "options": [
+                    "looked up",
+                    "found out",
+                    "filled out",
+                    "took up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Found out."
+                },
+                {
+                  "prompt": "I’m going to ______ this pen. It’s broken.",
+                  "options": [
+                    "give back",
+                    "throw away",
+                    "look up",
+                    "hold on"
+                  ],
+                  "answer": 1,
+                  "explanation": "Throw away."
+                },
+                {
+                  "prompt": "It rained at first, but then it ______ a beautiful day.",
+                  "options": [
+                    "turned on",
+                    "turned into",
+                    "went on",
+                    "filled up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Turned into."
+                },
+                {
+                  "prompt": "Two years ago, Colin ______ milk for health reasons.",
+                  "options": [
+                    "gave up",
+                    "gave back",
+                    "took up",
+                    "ran out of"
+                  ],
+                  "answer": 0,
+                  "explanation": "Gave up = stopped."
+                },
+                {
+                  "prompt": "The store ______ size 8 jeans yesterday.",
+                  "options": [
+                    "ran out of",
+                    "filled out",
+                    "threw away",
+                    "cleaned up"
+                  ],
+                  "answer": 0,
+                  "explanation": "Ran out of."
+                },
+                {
+                  "prompt": "Can you ______ my cat while I’m away on vacation?",
+                  "options": [
+                    "take up",
+                    "take care of",
+                    "turn on",
+                    "find out"
+                  ],
+                  "answer": 1,
+                  "explanation": "Take care of."
+                },
+                {
+                  "prompt": "I’m on my way! Please, ______ for another five minutes.",
+                  "options": [
+                    "go on",
+                    "hold on",
+                    "turn on",
+                    "give up"
+                  ],
+                  "answer": 1,
+                  "explanation": "Hold on = wait."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Can I turn on the air-conditioning?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m going to find out who did this.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Oh no! We’ve run out of milk!",
+                  "correct": true
+                },
+                {
+                  "sentence": "Why did the car break down here?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Please throw away the empty bottles. / Please throw them away.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can you fill up the car with gasoline, please?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m going to look the word up in a dictionary.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You need to fill out this form to get a passport.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can you give back the money you owe me?",
+                  "correct": true
+                },
+                {
+                  "sentence": "You should give up smoking.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The snow will soon turn into water.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can I turn the air-conditioning on?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Please throw away them.",
+                  "correct": false,
+                  "fix": "Pronoun goes in the middle: throw them away."
+                },
+                {
+                  "sentence": "We’ve run out milk.",
+                  "correct": false,
+                  "fix": "Run out OF milk."
+                },
+                {
+                  "sentence": "The car broke up on the highway.",
+                  "correct": false,
+                  "fix": "Broke down (break up = end a relationship)."
+                },
+                {
+                  "sentence": "Can you fill out the car with gasoline?",
+                  "correct": false,
+                  "fix": "Fill up the car; fill out a form."
+                },
+                {
+                  "sentence": "I’ll look for the word in a dictionary.",
+                  "correct": false,
+                  "fix": "Look up a word (look for = try to find a lost thing)."
+                },
+                {
+                  "sentence": "You should take up smoking; it’s bad for you.",
+                  "correct": false,
+                  "fix": "Give up smoking."
+                },
+                {
+                  "sentence": "I’m going to take care my sister’s children.",
+                  "correct": false,
+                  "fix": "Take care OF."
+                },
+                {
+                  "sentence": "Hold on me for five minutes, please.",
+                  "correct": false,
+                  "fix": "Hold on for five minutes (no object)."
+                },
+                {
+                  "sentence": "The rain turned on a beautiful day.",
+                  "correct": false,
+                  "fix": "Turned into a beautiful day."
+                },
+                {
+                  "sentence": "Can you give me back it?",
+                  "correct": false,
+                  "fix": "Can you give it back to me?"
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "turn on",
+                  "image": "/img/phrasal-verbs/turn-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"turn on\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Turn on\" → Machines, cars & home."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"turn on\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Turn on\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "find out",
+                  "image": "/img/phrasal-verbs/find-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"find out\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Find out\" → Information & paperwork."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"find out\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Find out\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "run out of",
+                  "image": "/img/phrasal-verbs/run-out-of.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"run out of\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Run out of\" → Machines, cars & home."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"run out of\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Run out of\" → No – inseparable."
+                    }
+                  ]
+                },
+                {
+                  "word": "break down",
+                  "image": "/img/phrasal-verbs/break-down.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"break down\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Break down\" → Machines, cars & home."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"break down\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Break down\" → It has no object."
+                    }
+                  ]
+                },
+                {
+                  "word": "throw away",
+                  "image": "/img/phrasal-verbs/throw-away.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"throw away\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Throw away\" → Machines, cars & home."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"throw away\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Throw away\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "fill up",
+                  "image": "/img/phrasal-verbs/fill-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"fill up\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Fill up\" → Machines, cars & home."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"fill up\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Fill up\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "clean up",
+                  "image": "/img/phrasal-verbs/clean-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"clean up\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Clean up\" → Machines, cars & home."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"clean up\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Clean up\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "look up",
+                  "image": "/img/phrasal-verbs/look-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"look up\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Look up\" → Information & paperwork."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"look up\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Look up\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "go on",
+                  "image": "/img/phrasal-verbs/go-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"go on\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go on\" → Start, stop & continue."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"go on\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go on\" → It has no object."
+                    }
+                  ]
+                },
+                {
+                  "word": "take up",
+                  "image": "/img/phrasal-verbs/take-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"take up\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take up\" → Start, stop & continue."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"take up\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take up\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "take care of",
+                  "image": "/img/phrasal-verbs/take-care-of.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"take care of\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Take care of\" → People & things you give."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"take care of\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take care of\" → No – inseparable."
+                    }
+                  ]
+                },
+                {
+                  "word": "fill out",
+                  "image": "/img/phrasal-verbs/fill-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"fill out\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Fill out\" → Information & paperwork."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"fill out\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Fill out\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "give back",
+                  "image": "/img/phrasal-verbs/give-back.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"give back\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Give back\" → People & things you give."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"give back\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Give back\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "give up",
+                  "image": "/img/phrasal-verbs/give-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"give up\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Give up\" → Start, stop & continue."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"give up\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Give up\" → Yes – separable."
+                    }
+                  ]
+                },
+                {
+                  "word": "hold on",
+                  "image": "/img/phrasal-verbs/hold-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"hold on\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hold on\" → Start, stop & continue."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"hold on\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hold on\" → It has no object."
+                    }
+                  ]
+                },
+                {
+                  "word": "turn into",
+                  "image": "/img/phrasal-verbs/turn-into.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which group does \"turn into\" belong to?",
+                      "options": [
+                        "Machines, cars & home",
+                        "Information & paperwork",
+                        "Start, stop & continue",
+                        "People & things you give"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Turn into\" → Start, stop & continue."
+                    },
+                    {
+                      "prompt": "Can you put the object between the two words of \"turn into\"? (e.g. \"fill IT up\")",
+                      "options": [
+                        "Yes – separable",
+                        "No – inseparable",
+                        "It has no object",
+                        "Only with a person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Turn into\" → No – inseparable."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Can I turn on the air-conditioning? I’m going to find out who did this.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Oh no! We’ve run out of milk!",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Why did the car break down here? Please throw away the empty bottles.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You should clean up your bedroom and look up the word in a dictionary.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If you want to get in shape, you should take up running.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can you give back the money you owe me? Hold on for five minutes.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My car is awful. It breaks down every month! Yesterday I had to fill it up with gas, and then it broke down again on the highway.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How often does the car break down?",
+                  "options": [
+                    "Every day",
+                    "Every month",
+                    "Every year",
+                    "Never"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Yesterday I found out that I’m going to get a pay raise, so I’m going to throw away my old pen and buy a nice new one.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the speaker find out?",
+                  "options": [
+                    "The car broke down",
+                    "They’re getting a pay raise",
+                    "The store ran out of jeans",
+                    "They have to fill out a form"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Two years ago Colin gave up milk for health reasons. Last month he took up yoga, and now he wants to take up running too.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Colin take up last month?",
+                  "options": [
+                    "Running",
+                    "Yoga",
+                    "Milk",
+                    "Smoking"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The store ran out of size eight jeans yesterday, so I filled out an order form online and they’ll deliver them next week.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why did the speaker order online?",
+                  "options": [
+                    "The store was closed",
+                    "The store ran out of her size",
+                    "It was cheaper",
+                    "She lost her receipt"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Can you take care of my cat while I’m away on vacation? You just need to turn on the light in the evening and clean up the kitchen.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the friend have to do?",
+                  "options": [
+                    "Look up a word",
+                    "Take care of the cat",
+                    "Fill up the car",
+                    "Give back money"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "It rained at first, but then it turned into a beautiful day, so we decided to go on with the picnic. I’m on my way! Please hold on for another five minutes.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the weather turn into?",
+                  "options": [
+                    "A storm",
+                    "Snow",
+                    "A beautiful day",
+                    "Fog"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Roommate Problems",
+                  "situation": "Student A is a messy roommate; Student B complains: clean up, throw away, turn on, fill up. Agree on three rules.",
+                  "mandatory": [
+                    "clean up",
+                    "throw away",
+                    "turn on"
+                  ],
+                  "taboo": [
+                    "dirty",
+                    "please"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Car Trouble",
+                  "situation": "Your car has broken down on the highway and you have run out of gas. Call a friend and explain what happened.",
+                  "mandatory": [
+                    "break down",
+                    "run out of",
+                    "fill up"
+                  ],
+                  "taboo": [
+                    "car",
+                    "help"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "New Year’s Resolutions",
+                  "situation": "Tell your partner what you are going to give up, what you are going to take up and what you will go on doing.",
+                  "mandatory": [
+                    "give up",
+                    "take up",
+                    "go on"
+                  ],
+                  "taboo": [
+                    "stop",
+                    "start"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Describe the Verb",
+                  "situation": "Taboo: explain “find out”, “look up” or “fill out” without saying the words.",
+                  "mandatory": [
+                    "information",
+                    "dictionary",
+                    "form"
+                  ],
+                  "taboo": [
+                    "find out",
+                    "look up",
+                    "fill out"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lend Me…",
+                  "situation": "Student A borrowed something and hasn’t given it back. Student B asks for it. Use hold on and give back.",
+                  "mandatory": [
+                    "give back",
+                    "hold on",
+                    "owe"
+                  ],
+                  "taboo": [
+                    "return",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Babysitting Night",
+                  "situation": "Student A is taking care of a friend’s children. Call the parent and describe what has happened (someone turned on the TV, ran out of milk, cleaned up).",
+                  "mandatory": [
+                    "take care of",
+                    "turn on",
+                    "clean up"
+                  ],
+                  "taboo": [
+                    "kids",
+                    "baby"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U6T6",
+              "name": "6A - Grammar: Present Perfect with Ever & Never",
+              "steal": [
+                {
+                  "prompt": "I ______ Don Quixote.",
+                  "options": [
+                    "have read",
+                    "has read",
+                    "have readed",
+                    "am read"
+                  ],
+                  "answer": 0,
+                  "explanation": "Have + past participle (read)."
+                },
+                {
+                  "prompt": "He ______ to the U.S.",
+                  "options": [
+                    "hasn’t been",
+                    "haven’t been",
+                    "hasn’t be",
+                    "didn’t been"
+                  ],
+                  "answer": 0,
+                  "explanation": "He/she/it → hasn’t + been."
+                },
+                {
+                  "prompt": "______ you ever done yoga?",
+                  "options": [
+                    "Have",
+                    "Has",
+                    "Did",
+                    "Do"
+                  ],
+                  "answer": 0,
+                  "explanation": "Have you ever + participle."
+                },
+                {
+                  "prompt": "Have you ever ______ in a helicopter?",
+                  "options": [
+                    "flown",
+                    "flew",
+                    "fly",
+                    "flied"
+                  ],
+                  "answer": 0,
+                  "explanation": "Irregular participle: flown."
+                },
+                {
+                  "prompt": "I’ve ______ eaten a hamburger!",
+                  "options": [
+                    "never",
+                    "ever",
+                    "not never",
+                    "yet"
+                  ],
+                  "answer": 0,
+                  "explanation": "Never = not ever (emphatic negative)."
+                },
+                {
+                  "prompt": "I’ve written a novel. Michelle ______ to China.",
+                  "options": [
+                    "has been",
+                    "have been",
+                    "has gone",
+                    "was been"
+                  ],
+                  "answer": 0,
+                  "explanation": "Has been = visited and came back."
+                },
+                {
+                  "prompt": "They ______ swimming in the river.",
+                  "options": [
+                    "haven’t been",
+                    "hasn’t been",
+                    "haven’t went",
+                    "didn’t been"
+                  ],
+                  "answer": 0,
+                  "explanation": "They → haven’t."
+                },
+                {
+                  "prompt": "Claude ______ my new car.",
+                  "options": [
+                    "hasn’t seen",
+                    "hasn’t saw",
+                    "haven’t seen",
+                    "didn’t seen"
+                  ],
+                  "answer": 0,
+                  "explanation": "Hasn’t + seen."
+                },
+                {
+                  "prompt": "Have you tried this new drink? — Yes, ______.",
+                  "options": [
+                    "I have",
+                    "I did",
+                    "I tried",
+                    "I’ve"
+                  ],
+                  "answer": 0,
+                  "explanation": "Short answer: Yes, I have."
+                },
+                {
+                  "prompt": "Has he worked as a chef? — No, ______.",
+                  "options": [
+                    "he hasn’t",
+                    "he haven’t",
+                    "he didn’t",
+                    "he hasn’t worked as"
+                  ],
+                  "answer": 0,
+                  "explanation": "No, he hasn’t."
+                },
+                {
+                  "prompt": "Regular verbs: \"I ______ pasta yesterday\" / \"I’ve never ______ dinner for her.\"",
+                  "options": [
+                    "cooked / cooked",
+                    "cook / cooked",
+                    "cooked / cook",
+                    "have cooked / cooked"
+                  ],
+                  "answer": 0,
+                  "explanation": "Regular: past = participle."
+                },
+                {
+                  "prompt": "He ______ tennis with her last week. Have you ever ______ the saxophone?",
+                  "options": [
+                    "played / played",
+                    "has played / play",
+                    "played / play",
+                    "play / played"
+                  ],
+                  "answer": 0,
+                  "explanation": "Played / played."
+                },
+                {
+                  "prompt": "I ______ toast for breakfast this morning. Have you ever ______ Chinese food?",
+                  "options": [
+                    "ate / eaten",
+                    "eaten / ate",
+                    "ate / ate",
+                    "have eaten / eaten"
+                  ],
+                  "answer": 0,
+                  "explanation": "Irregular: ate (past) / eaten (participle)."
+                },
+                {
+                  "prompt": "I ______ Roberta at Ruth’s party. I ______ that TV series.",
+                  "options": [
+                    "saw / haven’t seen",
+                    "have seen / didn’t see",
+                    "seen / haven’t saw",
+                    "saw / haven’t saw"
+                  ],
+                  "answer": 0,
+                  "explanation": "Saw / seen."
+                },
+                {
+                  "prompt": "Which sentence talks about an EXPERIENCE in your life (no specific time)?",
+                  "options": [
+                    "I’ve met a movie star.",
+                    "I met George Clooney in Mexico two years ago.",
+                    "I went there in 2014.",
+                    "I was in Mexico last year."
+                  ],
+                  "answer": 0,
+                  "explanation": "Present perfect: experience."
+                },
+                {
+                  "prompt": "Which sentence gives a SPECIFIC time, so uses the simple past?",
+                  "options": [
+                    "I’ve met a movie star.",
+                    "Have you ever been to Australia?",
+                    "I met George Clooney in Mexico two years ago.",
+                    "I’ve never been to Australia."
+                  ],
+                  "answer": 2,
+                  "explanation": "Specific time → simple past."
+                },
+                {
+                  "prompt": "Have you ever been to Australia? — Yes, I have. I ______ there in 2014.",
+                  "options": [
+                    "went",
+                    "have gone",
+                    "have been",
+                    "go"
+                  ],
+                  "answer": 0,
+                  "explanation": "Details with a date → simple past."
+                },
+                {
+                  "prompt": "Have you ever eaten sushi? — Yes! I ______ it last summer in Tokyo.",
+                  "options": [
+                    "tried",
+                    "have tried",
+                    "try",
+                    "have try"
+                  ],
+                  "answer": 0,
+                  "explanation": "Last summer → simple past."
+                },
+                {
+                  "prompt": "I ______ to Paris three times. The last time ______ in May.",
+                  "options": [
+                    "have been / was",
+                    "went / has been",
+                    "have gone / was",
+                    "was / has been"
+                  ],
+                  "answer": 0,
+                  "explanation": "Experience → present perfect; last time → simple past."
+                },
+                {
+                  "prompt": "Where do we put \"ever\" in the question?",
+                  "options": [
+                    "Have you ever flown…?",
+                    "Have ever you flown…?",
+                    "Ever have you flown…?",
+                    "Have you flown ever…?"
+                  ],
+                  "answer": 0,
+                  "explanation": "Between the subject and the participle."
+                },
+                {
+                  "prompt": "Which is WRONG?",
+                  "options": [
+                    "I’ve never been there.",
+                    "I haven’t never been there.",
+                    "I haven’t been there.",
+                    "Have you ever been there?"
+                  ],
+                  "answer": 1,
+                  "explanation": "No double negative."
+                },
+                {
+                  "prompt": "Has your car ever ______ on the highway?",
+                  "options": [
+                    "broken down",
+                    "broke down",
+                    "break down",
+                    "breaked down"
+                  ],
+                  "answer": 0,
+                  "explanation": "Broken (participle)."
+                },
+                {
+                  "prompt": "Have you ever ______ a word in an English dictionary? — Yes, I ______ one up this morning.",
+                  "options": [
+                    "looked up / looked",
+                    "look up / have looked",
+                    "looked up / have looked",
+                    "looking up / looked"
+                  ],
+                  "answer": 0,
+                  "explanation": "Experience → have looked; this morning (finished) → looked."
+                },
+                {
+                  "prompt": "I ______ out my passport form yesterday. Have you ______ yours out yet?",
+                  "options": [
+                    "filled / filled",
+                    "have filled / filled",
+                    "filled / fill",
+                    "fill / filled"
+                  ],
+                  "answer": 0,
+                  "explanation": "Yesterday → simple past; yet → present perfect."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I’ve read Don Quixote.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He hasn’t been to the U.S.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Have you ever done yoga?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Have you ever flown in a helicopter?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ve never eaten a hamburger!",
+                  "correct": true
+                },
+                {
+                  "sentence": "They haven’t been swimming in the river.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Have you tried this new drink? — Yes, I have.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Has he worked as a chef? — No, he hasn’t.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I ate toast for breakfast this morning.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Have you ever been to Australia? — Yes, I have. I went there in 2014.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ve met a movie star. I met George Clooney in Mexico two years ago.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ve never gave up on a project.",
+                  "correct": false,
+                  "fix": "Never given up (participle)."
+                },
+                {
+                  "sentence": "Have you ever ate Chinese food?",
+                  "correct": false,
+                  "fix": "Have you ever eaten…?"
+                },
+                {
+                  "sentence": "He hasn’t never been to the U.S.",
+                  "correct": false,
+                  "fix": "He has never been / hasn’t been (no double negative)."
+                },
+                {
+                  "sentence": "Michelle has been to China last year.",
+                  "correct": false,
+                  "fix": "Michelle went to China last year."
+                },
+                {
+                  "sentence": "I’ve seen Roberta at Ruth’s party on Saturday.",
+                  "correct": false,
+                  "fix": "I saw Roberta at Ruth’s party on Saturday."
+                },
+                {
+                  "sentence": "Did you ever been to Australia?",
+                  "correct": false,
+                  "fix": "Have you ever been to Australia?"
+                },
+                {
+                  "sentence": "Have you tried this new drink? — Yes, I did.",
+                  "correct": false,
+                  "fix": "Yes, I have."
+                },
+                {
+                  "sentence": "Claude haven’t seen my new car.",
+                  "correct": false,
+                  "fix": "Claude hasn’t seen my new car."
+                },
+                {
+                  "sentence": "I have met George Clooney in Mexico two years ago.",
+                  "correct": false,
+                  "fix": "Specific time → I met George Clooney two years ago."
+                },
+                {
+                  "sentence": "Have you ever flew in a helicopter?",
+                  "correct": false,
+                  "fix": "Flown."
+                },
+                {
+                  "sentence": "Ever have you done yoga?",
+                  "correct": false,
+                  "fix": "Have you ever done yoga?"
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "turn on",
+                  "image": "/img/phrasal-verbs/turn-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to turn on something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "find out",
+                  "image": "/img/phrasal-verbs/find-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to find out something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "throw away",
+                  "image": "/img/phrasal-verbs/throw-away.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to throw away something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "fill up",
+                  "image": "/img/phrasal-verbs/fill-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to fill up something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "clean up",
+                  "image": "/img/phrasal-verbs/clean-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to clean up something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "look up",
+                  "image": "/img/phrasal-verbs/look-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to look up something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "take up",
+                  "image": "/img/phrasal-verbs/take-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to take up something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "fill out",
+                  "image": "/img/phrasal-verbs/fill-out.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to fill out something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "give back",
+                  "image": "/img/phrasal-verbs/give-back.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to give back something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                },
+                {
+                  "word": "give up",
+                  "image": "/img/phrasal-verbs/give-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Complete the experience question: \"Have you ever ______ to give up something?\"",
+                      "options": [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                      ],
+                      "answer": 0,
+                      "explanation": "Have you ever + past participle (had)."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’ve read Don Quixote, but he hasn’t been to the U.S.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you ever flown in a helicopter?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve never eaten a hamburger!",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They haven’t been swimming in the river.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you tried this new drink? Yes, I have. Has he worked as a chef? No, he hasn’t.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Have you ever been to Australia? Yes, I have. I went there in 2014.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve written a novel and Michelle has been to China. Claude hasn’t seen my new car yet, and they haven’t been swimming in the river.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who has been to China?",
+                  "options": [
+                    "The speaker",
+                    "Michelle",
+                    "Claude",
+                    "Nobody"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’ve met a movie star! I met George Clooney in Mexico two years ago. He was very friendly and we talked for ten minutes.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When did the speaker meet George Clooney?",
+                  "options": [
+                    "Yesterday",
+                    "Two years ago",
+                    "In 2014",
+                    "Last week"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Have you ever been to Australia? — Yes, I have. I went there in 2014 and I stayed for three weeks. I’ve never been to New Zealand, though.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where has the speaker never been?",
+                  "options": [
+                    "Australia",
+                    "New Zealand",
+                    "Mexico",
+                    "China"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I cooked pasta yesterday, but I’ve never cooked dinner for her. He played tennis with her last week. Have you ever played the saxophone?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What has the speaker never done?",
+                  "options": [
+                    "Cooked pasta",
+                    "Cooked dinner for her",
+                    "Played tennis",
+                    "Played the saxophone"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I ate toast for breakfast this morning and I saw Roberta at Ruth’s party. I haven’t seen that TV series, and I’ve never eaten Chinese food.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the speaker eat this morning?",
+                  "options": [
+                    "Chinese food",
+                    "Toast",
+                    "A hamburger",
+                    "Pasta"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Has your car ever broken down? — Yes, it has. It broke down twice last year, so I gave it up and took up cycling.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many times did the car break down last year?",
+                  "options": [
+                    "Once",
+                    "Twice",
+                    "Three times",
+                    "Never"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Have You Ever…?",
+                  "situation": "Ask your partner five “Have you ever…?” questions (flown in a helicopter, eaten sushi, met a famous person…). Answer with short answers.",
+                  "mandatory": [
+                    "Have you ever",
+                    "Yes, I have",
+                    "No, I haven’t"
+                  ],
+                  "taboo": [
+                    "did you",
+                    "when"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Tell Me More",
+                  "situation": "Student A asks “Have you ever…?”; when B says yes, A asks for details (when, where, who with) and B answers in the simple past.",
+                  "mandatory": [
+                    "Have you ever",
+                    "When did you",
+                    "I went"
+                  ],
+                  "taboo": [
+                    "have went",
+                    "never"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Never Ever",
+                  "situation": "Tell your partner five things you have never done but would like to do.",
+                  "mandatory": [
+                    "I’ve never",
+                    "but",
+                    "would like to"
+                  ],
+                  "taboo": [
+                    "didn’t",
+                    "ever"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Find Someone Who",
+                  "situation": "Ask the class “Have you ever…?” to find someone who has broken down on the highway, given up a habit or taken up a new sport.",
+                  "mandatory": [
+                    "Has anyone ever",
+                    "has",
+                    "hasn’t"
+                  ],
+                  "taboo": [
+                    "did",
+                    "do you"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel Stories",
+                  "situation": "Describe the countries you have been to and one trip in detail: when you went, what you saw and ate.",
+                  "mandatory": [
+                    "I’ve been to",
+                    "I went",
+                    "I saw"
+                  ],
+                  "taboo": [
+                    "have went",
+                    "visit"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Movie Star",
+                  "situation": "You met a celebrity. Your partner asks “Have you ever met…?” and then for all the details in the simple past.",
+                  "mandatory": [
+                    "Have you ever met",
+                    "I met",
+                    "ago"
+                  ],
+                  "taboo": [
+                    "know",
+                    "famous"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
