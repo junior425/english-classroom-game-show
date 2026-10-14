@@ -49764,6 +49764,2610 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U7T3",
+              "name": "7A - Vocabulary: Movies",
+              "steal": [
+                {
+                  "prompt": "The people who act in a movie: the ______.",
+                  "options": [
+                    "plot",
+                    "cast",
+                    "script",
+                    "crew"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cast = the actors."
+                },
+                {
+                  "prompt": "The person who makes a movie: the ______.",
+                  "options": [
+                    "producer of subtitles",
+                    "main character",
+                    "director",
+                    "star"
+                  ],
+                  "answer": 2,
+                  "explanation": "Director."
+                },
+                {
+                  "prompt": "The story of the movie: the ______.",
+                  "options": [
+                    "plot",
+                    "sequel",
+                    "scene",
+                    "script"
+                  ],
+                  "answer": 0,
+                  "explanation": "Plot = story."
+                },
+                {
+                  "prompt": "A movie that continues the story of another movie: a ______.",
+                  "options": [
+                    "soundtrack",
+                    "remake",
+                    "sequel",
+                    "scene"
+                  ],
+                  "answer": 2,
+                  "explanation": "Sequel."
+                },
+                {
+                  "prompt": "Words written at the bottom of the screen: ______.",
+                  "options": [
+                    "script",
+                    "subtitles",
+                    "plot",
+                    "credits"
+                  ],
+                  "answer": 1,
+                  "explanation": "Subtitles."
+                },
+                {
+                  "prompt": "A short section of a movie: a ______.",
+                  "options": [
+                    "plot",
+                    "cast",
+                    "scene",
+                    "sequel"
+                  ],
+                  "answer": 2,
+                  "explanation": "Scene."
+                },
+                {
+                  "prompt": "The spoken words of the movie are written in the ______.",
+                  "options": [
+                    "plot",
+                    "script",
+                    "soundtrack",
+                    "scene"
+                  ],
+                  "answer": 1,
+                  "explanation": "Script = dialogue."
+                },
+                {
+                  "prompt": "The music of the movie: the ______.",
+                  "options": [
+                    "soundtrack",
+                    "subtitles",
+                    "scene",
+                    "script"
+                  ],
+                  "answer": 0,
+                  "explanation": "Soundtrack."
+                },
+                {
+                  "prompt": "Images that are usually created by computer: ______.",
+                  "options": [
+                    "subtitles",
+                    "sequels",
+                    "special effects",
+                    "scenes"
+                  ],
+                  "answer": 2,
+                  "explanation": "Special effects."
+                },
+                {
+                  "prompt": "The most important person in the movie’s story: the ______.",
+                  "options": [
+                    "director",
+                    "cast",
+                    "star",
+                    "main character"
+                  ],
+                  "answer": 3,
+                  "explanation": "Main character."
+                },
+                {
+                  "prompt": "Blade Runner was ______ by Ridley Scott.",
+                  "options": [
+                    "released",
+                    "directed",
+                    "dubbed",
+                    "set"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be directed by + director."
+                },
+                {
+                  "prompt": "The main character was ______ by Harrison Ford.",
+                  "options": [
+                    "directed",
+                    "set",
+                    "played",
+                    "shot"
+                  ],
+                  "answer": 2,
+                  "explanation": "Be played by + actor."
+                },
+                {
+                  "prompt": "The movie is ______ in Los Angeles in the year 2019.",
+                  "options": [
+                    "set",
+                    "shot",
+                    "dubbed",
+                    "based"
+                  ],
+                  "answer": 0,
+                  "explanation": "Be set in = place / time of the story."
+                },
+                {
+                  "prompt": "It was ______ at the Warner Brothers’ studios in Hollywood.",
+                  "options": [
+                    "released",
+                    "set",
+                    "shot",
+                    "based"
+                  ],
+                  "answer": 2,
+                  "explanation": "Be shot = filmed."
+                },
+                {
+                  "prompt": "The movie is ______ on a novel by Philip K. Dick.",
+                  "options": [
+                    "set",
+                    "based",
+                    "starred",
+                    "shot"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be based on + book."
+                },
+                {
+                  "prompt": "Blade Runner was ______ in 1982, but it wasn’t a big hit then.",
+                  "options": [
+                    "set",
+                    "shot",
+                    "dubbed",
+                    "released"
+                  ],
+                  "answer": 3,
+                  "explanation": "Be released = shown for the first time."
+                },
+                {
+                  "prompt": "It was ______ into many languages, so people heard it in their own language.",
+                  "options": [
+                    "dubbed",
+                    "subtitled",
+                    "set",
+                    "based"
+                  ],
+                  "answer": 0,
+                  "explanation": "Be dubbed = voices replaced."
+                },
+                {
+                  "prompt": "The sequel, Blade Runner 2049, ______ Ryan Gosling and Harrison Ford.",
+                  "options": [
+                    "directs",
+                    "plays",
+                    "stars",
+                    "sets"
+                  ],
+                  "answer": 2,
+                  "explanation": "Star + actors (the movie stars…)."
+                },
+                {
+                  "prompt": "A movie with a plot about a spaceship or the future: a ______.",
+                  "options": [
+                    "documentary",
+                    "musical",
+                    "science fiction movie",
+                    "thriller"
+                  ],
+                  "answer": 2,
+                  "explanation": "Sci-fi."
+                },
+                {
+                  "prompt": "A movie that gives facts and information about real things: a ______.",
+                  "options": [
+                    "drama",
+                    "musical",
+                    "documentary",
+                    "thriller"
+                  ],
+                  "answer": 2,
+                  "explanation": "Documentary."
+                },
+                {
+                  "prompt": "A movie about ghosts, killers or monsters that frightens you: a ______.",
+                  "options": [
+                    "horror movie",
+                    "thriller",
+                    "romantic comedy",
+                    "comedy"
+                  ],
+                  "answer": 0,
+                  "explanation": "Horror movie."
+                },
+                {
+                  "prompt": "An exciting movie with a plot that keeps you nervous and in suspense: a ______.",
+                  "options": [
+                    "documentary",
+                    "animation",
+                    "thriller",
+                    "musical"
+                  ],
+                  "answer": 2,
+                  "explanation": "Thriller."
+                },
+                {
+                  "prompt": "A movie with a lot of fights, chases and explosions: an ______.",
+                  "options": [
+                    "action movie",
+                    "opera",
+                    "art movie",
+                    "animation"
+                  ],
+                  "answer": 0,
+                  "explanation": "Action movie."
+                },
+                {
+                  "prompt": "A movie made with drawings or computer images: an ______.",
+                  "options": [
+                    "audio movie",
+                    "adventure",
+                    "action movie",
+                    "animation"
+                  ],
+                  "answer": 3,
+                  "explanation": "Animation."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Blade Runner was directed by Ridley Scott.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The movie is set in Los Angeles in 2019.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "It was shooted at the Warner Brothers’ studios.",
+                  "correct": false,
+                  "fix": "It was shot at the Warner Brothers’ studios.",
+                  "explanation": "shoot → shot → shot."
+                },
+                {
+                  "sentence": "It’s based in a novel by Philip K. Dick.",
+                  "correct": false,
+                  "fix": "It’s based on a novel by Philip K. Dick.",
+                  "explanation": "Based ON."
+                },
+                {
+                  "sentence": "The movie was released in 1982.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The movie was dubbed into Spanish.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The casting of the movie includes Harrison Ford.",
+                  "correct": false,
+                  "fix": "The cast of the movie includes Harrison Ford.",
+                  "explanation": "Cast = the actors."
+                },
+                {
+                  "sentence": "I watched it with subtitles because the actors speak very fast.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The soundtrack was composed by Vangelis.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The special effects were made by computer.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The sequel stars Ryan Gosling.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The movie has a very good argument.",
+                  "correct": false,
+                  "fix": "The movie has a very good plot.",
+                  "explanation": "Plot (not \"argument\") = story."
+                },
+                {
+                  "sentence": "My favorite scene is the final fight on the roof.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The main character is played by Harrison Ford.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The actors learned the script in two weeks.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "It’s a horror movie about a ghost in a hotel.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Toy Story is a famous animation film.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The director was the movie in Hollywood.",
+                  "correct": false,
+                  "fix": "The director shot the movie in Hollywood.",
+                  "explanation": "Shoot a movie."
+                },
+                {
+                  "sentence": "A documentary tells real facts.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The movie was shot by Ridley Scott in L.A.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Who did the movie star? — It starred Harrison Ford.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The sequel was released at 2017.",
+                  "correct": false,
+                  "fix": "The sequel was released in 2017.",
+                  "explanation": "Released IN + year."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "scene",
+                  "image": "/img/movies/scene.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"scene\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Scene\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"scene\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Scene\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "sequel",
+                  "image": "/img/movies/sequel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"sequel\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sequel\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"sequel\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sequel\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "director",
+                  "image": "/img/movies/director.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"director\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Director\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"director\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Director\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "cast",
+                  "image": "/img/movies/cast.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"cast\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cast\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"cast\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cast\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "subtitles",
+                  "image": "/img/movies/subtitles.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"subtitles\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Subtitles\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"subtitles\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Subtitles\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "soundtrack",
+                  "image": "/img/movies/soundtrack.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"soundtrack\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Soundtrack\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"soundtrack\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Soundtrack\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "special effects",
+                  "image": "/img/movies/special-effects.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"special effects\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Special effects\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"special effects\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Special effects\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "plot",
+                  "image": "/img/movies/plot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"plot\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Plot\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"plot\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Plot\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "script",
+                  "image": "/img/movies/script.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"script\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Script\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"script\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Script\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "main character",
+                  "image": "/img/movies/main-character.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"main character\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Main character\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"main character\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Main character\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be based on",
+                  "image": "/img/movies/be-based-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be based on\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be based on\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be based on\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Be based on\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be set in",
+                  "image": "/img/movies/be-set-in.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be set in\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be set in\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be set in\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Be set in\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be directed by",
+                  "image": "/img/movies/be-directed-by.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be directed by\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be directed by\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be directed by\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Be directed by\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "be shot",
+                  "image": "/img/movies/be-shot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be shot\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be shot\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be shot\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Be shot\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "be dubbed",
+                  "image": "/img/movies/be-dubbed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be dubbed\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be dubbed\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be dubbed\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be dubbed\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be released",
+                  "image": "/img/movies/be-released.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be released\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be released\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be released\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be released\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "star",
+                  "image": "/img/movies/star.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"star\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Star\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"star\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Star\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "action movie",
+                  "image": "/img/movies/action.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"action movie\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Action movie\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"action movie\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Action movie\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "animation",
+                  "image": "/img/movies/animation.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"animation\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Animation\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"animation\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Animation\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "horror movie",
+                  "image": "/img/movies/horror-movie.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"horror movie\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Horror movie\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"horror movie\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Horror movie\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "romantic comedy",
+                  "image": "/img/movies/romantic-comedy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"romantic comedy\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Romantic comedy\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"romantic comedy\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Romantic comedy\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "science fiction movie",
+                  "image": "/img/movies/science-fiction-movie.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"science fiction movie\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Science fiction movie\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"science fiction movie\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Science fiction movie\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "thriller",
+                  "image": "/img/movies/thriller.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"thriller\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Thriller\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"thriller\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Thriller\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "musical",
+                  "image": "/img/movies/musical.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"musical\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Musical\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"musical\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Musical\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "documentary",
+                  "image": "/img/movies/documentary.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"documentary\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Documentary\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"documentary\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Documentary\" → Choosing what to watch."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Blade Runner is one of the most famous science fiction movies ever made. It was directed by Ridley Scott, and the main character was played by Harrison Ford.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who directed Blade Runner?",
+                  "options": [
+                    "Philip K. Dick",
+                    "Harrison Ford",
+                    "Ridley Scott",
+                    "Ryan Gosling"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The movie is set in Los Angeles in the year 2019, but it was shot at the Warner Brothers’ studios in Hollywood.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where was the movie shot?",
+                  "options": [
+                    "In London",
+                    "In Los Angeles in 2019",
+                    "In Hollywood studios",
+                    "In a real city"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "It’s based on a novel by Philip K. Dick called Do Androids Dream of Electric Sheep?",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the movie based on?",
+                  "options": [
+                    "A true story",
+                    "A comic",
+                    "A video game",
+                    "A novel"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Blade Runner was released in 1982, but it wasn’t a big hit then. It became famous later.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When was it released?",
+                  "options": [
+                    "1982",
+                    "2019",
+                    "1992",
+                    "2049"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "It’s a science fiction film, so most of the images were created by computer: the special effects are amazing.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What was created by computer?",
+                  "options": [
+                    "The script",
+                    "The special effects",
+                    "The subtitles",
+                    "The soundtrack"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I watched the movie dubbed into Spanish, but my sister prefers the original with subtitles.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How did the speaker watch the movie?",
+                  "options": [
+                    "With subtitles",
+                    "At the cinema",
+                    "Dubbed into Spanish",
+                    "In English"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The sequel, Blade Runner 2049, was released in 2017. It stars Harrison Ford, Ryan Gosling and Ana de Armas.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who stars in the sequel?",
+                  "options": [
+                    "Ridley Scott",
+                    "Philip K. Dick",
+                    "Ryan Gosling and Harrison Ford",
+                    "Emily Blunt"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I don’t like horror movies, but I love thrillers: a good plot with a lot of suspense.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What kind of movies does the speaker love?",
+                  "options": [
+                    "Musicals",
+                    "Horror movies",
+                    "Documentaries",
+                    "Thrillers"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "The soundtrack of the movie is beautiful.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The cast includes two Oscar winners.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My favorite scene is at the end of the movie.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The script was written in only six weeks.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Movie Review",
+                  "situation": "Tell your partner about the last movie you watched: who directed it, who starred in it, where it was set and what you thought.",
+                  "mandatory": [
+                    "directed by",
+                    "set in",
+                    "plot"
+                  ],
+                  "taboo": [
+                    "good",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Pitch Your Movie",
+                  "situation": "You are a director. Pitch a new movie idea to a producer (your partner): genre, main character, where it will be shot.",
+                  "mandatory": [
+                    "main character",
+                    "shot",
+                    "special effects"
+                  ],
+                  "taboo": [
+                    "film",
+                    "story"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Subtitles or Dubbing?",
+                  "situation": "Debate with your partner: is it better to watch movies dubbed or with subtitles?",
+                  "mandatory": [
+                    "dubbed",
+                    "subtitles",
+                    "original"
+                  ],
+                  "taboo": [
+                    "language",
+                    "read"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Sequel Time",
+                  "situation": "Describe a sequel you would like to see: what should happen in the plot and who should be in the cast?",
+                  "mandatory": [
+                    "sequel",
+                    "cast",
+                    "scene"
+                  ],
+                  "taboo": [
+                    "second",
+                    "again"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Favorite Genre",
+                  "situation": "Explain which type of movie you like most and least, with reasons and an example of each.",
+                  "mandatory": [
+                    "thriller",
+                    "documentary",
+                    "soundtrack"
+                  ],
+                  "taboo": [
+                    "like",
+                    "love"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Based on a Book",
+                  "situation": "Talk about a movie based on a book. Was the movie or the book better? Why?",
+                  "mandatory": [
+                    "based on",
+                    "script",
+                    "released"
+                  ],
+                  "taboo": [
+                    "novel",
+                    "better"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U7T4",
+              "name": "7A - Grammar: The Passive (all tenses)",
+              "steal": [
+                {
+                  "prompt": "Thousands of movies ______ every year.",
+                  "options": [
+                    "are making",
+                    "make",
+                    "is made",
+                    "are made"
+                  ],
+                  "answer": 3,
+                  "explanation": "Simple present passive: are + past participle."
+                },
+                {
+                  "prompt": "The main character ______ by Emily Blunt.",
+                  "options": [
+                    "is playing",
+                    "was played",
+                    "played",
+                    "plays"
+                  ],
+                  "answer": 1,
+                  "explanation": "Simple past passive."
+                },
+                {
+                  "prompt": "The book ______ into a movie.",
+                  "options": [
+                    "has been made",
+                    "has been making",
+                    "was making",
+                    "has made"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present perfect passive: has been + participle."
+                },
+                {
+                  "prompt": "He ______ for the role when I called him.",
+                  "options": [
+                    "was interviewing",
+                    "is interviewed",
+                    "was being interviewed",
+                    "interviewed"
+                  ],
+                  "answer": 2,
+                  "explanation": "Past continuous passive: was being + participle."
+                },
+                {
+                  "prompt": "Her new movie ______ later this year.",
+                  "options": [
+                    "releases",
+                    "will release",
+                    "is releasing",
+                    "will be released"
+                  ],
+                  "answer": 3,
+                  "explanation": "Will be + participle."
+                },
+                {
+                  "prompt": "The report ______ right now.",
+                  "options": [
+                    "writes",
+                    "is writing",
+                    "is being written",
+                    "was written"
+                  ],
+                  "answer": 2,
+                  "explanation": "Present continuous passive."
+                },
+                {
+                  "prompt": "All the questions should ______.",
+                  "options": [
+                    "be answered",
+                    "answered",
+                    "answer",
+                    "been answered"
+                  ],
+                  "answer": 0,
+                  "explanation": "Modal passive: should be + participle."
+                },
+                {
+                  "prompt": "She ______ for the role before the director decided.",
+                  "options": [
+                    "had been interviewed",
+                    "is interviewed",
+                    "interviewed",
+                    "has interviewed"
+                  ],
+                  "answer": 0,
+                  "explanation": "Past perfect passive: had been + participle."
+                },
+                {
+                  "prompt": "The world’s first computers ______ in China.",
+                  "options": [
+                    "wasn’t made",
+                    "didn’t make",
+                    "aren’t made",
+                    "weren’t made"
+                  ],
+                  "answer": 3,
+                  "explanation": "Simple past passive negative."
+                },
+                {
+                  "prompt": "______ the movie ______ by Christopher Nolan?",
+                  "options": [
+                    "Has / direct",
+                    "Is / directing",
+                    "Did / direct",
+                    "Was / directed"
+                  ],
+                  "answer": 3,
+                  "explanation": "Was + subject + participle?"
+                },
+                {
+                  "prompt": "Change to the passive: \"They painted Guernica in 1937.\" → Guernica ______ in 1937.",
+                  "options": [
+                    "has been painted",
+                    "is painted",
+                    "painted",
+                    "was painted"
+                  ],
+                  "answer": 3,
+                  "explanation": "Simple past → was painted."
+                },
+                {
+                  "prompt": "Change to the passive: \"They have sold all the tickets.\" → All the tickets ______.",
+                  "options": [
+                    "have been sold",
+                    "were sold",
+                    "are sold",
+                    "have sold"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present perfect → have been sold."
+                },
+                {
+                  "prompt": "Change to the passive: \"Can you watch that movie on Netflix?\" → Can that movie ______ on Netflix?",
+                  "options": [
+                    "watch",
+                    "watched",
+                    "be watched",
+                    "been watched"
+                  ],
+                  "answer": 2,
+                  "explanation": "Modal passive: can be watched."
+                },
+                {
+                  "prompt": "Change to the passive: \"They’re making a lot of science fiction movies these days.\" → A lot of science fiction movies ______ these days.",
+                  "options": [
+                    "are made",
+                    "are being made",
+                    "is being made",
+                    "were made"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present continuous passive."
+                },
+                {
+                  "prompt": "Change to the passive: \"They’re going to release their new game next year.\" → Their new game ______ next year.",
+                  "options": [
+                    "will release",
+                    "is going to release",
+                    "is going to be released",
+                    "releases"
+                  ],
+                  "answer": 2,
+                  "explanation": "Be going to + be + participle."
+                },
+                {
+                  "prompt": "Change to the passive: \"They make cars at that factory.\" → Cars ______ at that factory.",
+                  "options": [
+                    "make",
+                    "are made",
+                    "is made",
+                    "are making"
+                  ],
+                  "answer": 1,
+                  "explanation": "Simple present passive."
+                },
+                {
+                  "prompt": "Change to the passive: \"When we arrived at the hotel, they were cleaning our room.\" → When we arrived, our room ______.",
+                  "options": [
+                    "had cleaned",
+                    "was cleaning",
+                    "is being cleaned",
+                    "was being cleaned"
+                  ],
+                  "answer": 3,
+                  "explanation": "Past continuous passive."
+                },
+                {
+                  "prompt": "Change to the passive: \"They’ll send the information to you soon.\" → The information ______ to you soon.",
+                  "options": [
+                    "will send",
+                    "is sent",
+                    "sends",
+                    "will be sent"
+                  ],
+                  "answer": 3,
+                  "explanation": "Will be sent."
+                },
+                {
+                  "prompt": "Change to the passive: \"They repaired my TV last week.\" → My TV ______ last week.",
+                  "options": [
+                    "repaired",
+                    "has repaired",
+                    "was repaired",
+                    "is repaired"
+                  ],
+                  "answer": 2,
+                  "explanation": "Simple past passive."
+                },
+                {
+                  "prompt": "Change to the passive: \"The Olympic Games destroyed the hotel.\" → The hotel ______ by the Olympic Games.",
+                  "options": [
+                    "destroyed",
+                    "is destroyed",
+                    "has destroyed",
+                    "was destroyed"
+                  ],
+                  "answer": 3,
+                  "explanation": "Was destroyed by + agent."
+                },
+                {
+                  "prompt": "We use the passive when ______.",
+                  "options": [
+                    "we talk about the future only",
+                    "we don’t know or don’t care who does the action",
+                    "the person doing the action is the focus",
+                    "we want to use fewer words"
+                  ],
+                  "answer": 1,
+                  "explanation": "Focus on the action, not the agent."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "He wasn’t arrest.",
+                    "He wasn’t arrested.",
+                    "He didn’t arrested.",
+                    "He not was arrested."
+                  ],
+                  "answer": 1,
+                  "explanation": "Negative: wasn’t + participle."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "He was arrested?",
+                    "Was he arrest?",
+                    "Was he arrested?",
+                    "Did he arrested?"
+                  ],
+                  "answer": 2,
+                  "explanation": "Was + subject + participle?"
+                },
+                {
+                  "prompt": "The band has sold two million copies of their new album. → Two million copies ______ sold.",
+                  "options": [
+                    "were being",
+                    "had been",
+                    "has been",
+                    "have been"
+                  ],
+                  "answer": 3,
+                  "explanation": "Plural subject: have been sold."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Thousands of movies are made every year.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The main character was played by Emily Blunt.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The book has been made into a movie.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He was interviewing for the role when I called him.",
+                  "correct": false,
+                  "fix": "He was being interviewed for the role when I called him.",
+                  "explanation": "Past continuous passive."
+                },
+                {
+                  "sentence": "Her new movie will be released later this year.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The report is being written right now.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "All the questions should be answer.",
+                  "correct": false,
+                  "fix": "All the questions should be answered.",
+                  "explanation": "Modal + be + past participle."
+                },
+                {
+                  "sentence": "Guernica was painted by Picasso in 1937.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "All the tickets have sold for the concert.",
+                  "correct": false,
+                  "fix": "All the tickets have been sold for the concert.",
+                  "explanation": "Present perfect passive: have been sold."
+                },
+                {
+                  "sentence": "Can that movie be watched on Netflix?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "A lot of science fiction movies are being made these days.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Their new game is going to be released next year.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Cars are made at that factory.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "When we arrived at the hotel, our room was being cleaned.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The information will send to you soon.",
+                  "correct": false,
+                  "fix": "The information will be sent to you soon.",
+                  "explanation": "Will BE sent."
+                },
+                {
+                  "sentence": "My TV was repaired last week.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The hotel was destroyed by the Olympic Games.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He wasn’t arrested.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Was the movie directed by Christopher Nolan?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "The world’s first computers didn’t made in China.",
+                  "correct": false,
+                  "fix": "The world’s first computers weren’t made in China.",
+                  "explanation": "Weren’t + participle."
+                },
+                {
+                  "sentence": "The soccer games are play in the evening.",
+                  "correct": false,
+                  "fix": "The soccer games are played in the evening.",
+                  "explanation": "Are + past participle."
+                },
+                {
+                  "sentence": "Two million copies of the album have been sold.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "scene",
+                  "image": "/img/movies/scene.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"scene\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Scene\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"scene\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Scene\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "sequel",
+                  "image": "/img/movies/sequel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"sequel\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sequel\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"sequel\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sequel\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "director",
+                  "image": "/img/movies/director.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"director\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Director\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"director\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Director\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "cast",
+                  "image": "/img/movies/cast.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"cast\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cast\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"cast\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cast\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "subtitles",
+                  "image": "/img/movies/subtitles.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"subtitles\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Subtitles\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"subtitles\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Subtitles\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "soundtrack",
+                  "image": "/img/movies/soundtrack.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"soundtrack\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Soundtrack\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"soundtrack\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Soundtrack\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "special effects",
+                  "image": "/img/movies/special-effects.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"special effects\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Special effects\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"special effects\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Special effects\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "plot",
+                  "image": "/img/movies/plot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"plot\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Plot\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"plot\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Plot\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "script",
+                  "image": "/img/movies/script.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"script\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Script\" → Part of a movie."
+                    },
+                    {
+                      "prompt": "When does \"script\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Script\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "main character",
+                  "image": "/img/movies/main-character.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"main character\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Main character\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"main character\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Main character\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be based on",
+                  "image": "/img/movies/be-based-on.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be based on\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be based on\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be based on\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Be based on\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be set in",
+                  "image": "/img/movies/be-set-in.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be set in\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be set in\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be set in\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Be set in\" → Before filming (writing & planning)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be directed by",
+                  "image": "/img/movies/be-directed-by.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be directed by\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be directed by\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be directed by\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Be directed by\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "be shot",
+                  "image": "/img/movies/be-shot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be shot\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be shot\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be shot\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Be shot\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "be dubbed",
+                  "image": "/img/movies/be-dubbed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be dubbed\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be dubbed\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be dubbed\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be dubbed\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "be released",
+                  "image": "/img/movies/be-released.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"be released\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be released\" → Something done to a movie."
+                    },
+                    {
+                      "prompt": "When does \"be released\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Be released\" → After filming (release & watching)."
+                    }
+                  ]
+                },
+                {
+                  "word": "star",
+                  "image": "/img/movies/star.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"star\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Star\" → A person or people."
+                    },
+                    {
+                      "prompt": "When does \"star\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Star\" → During filming."
+                    }
+                  ]
+                },
+                {
+                  "word": "action movie",
+                  "image": "/img/movies/action.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"action movie\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Action movie\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"action movie\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Action movie\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "animation",
+                  "image": "/img/movies/animation.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"animation\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Animation\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"animation\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Animation\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "horror movie",
+                  "image": "/img/movies/horror-movie.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"horror movie\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Horror movie\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"horror movie\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Horror movie\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "romantic comedy",
+                  "image": "/img/movies/romantic-comedy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"romantic comedy\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Romantic comedy\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"romantic comedy\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Romantic comedy\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "science fiction movie",
+                  "image": "/img/movies/science-fiction-movie.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"science fiction movie\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Science fiction movie\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"science fiction movie\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Science fiction movie\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "thriller",
+                  "image": "/img/movies/thriller.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"thriller\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Thriller\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"thriller\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Thriller\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "musical",
+                  "image": "/img/movies/musical.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"musical\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Musical\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"musical\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Musical\" → Choosing what to watch."
+                    }
+                  ]
+                },
+                {
+                  "word": "documentary",
+                  "image": "/img/movies/documentary.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"documentary\"?",
+                      "options": [
+                        "Part of a movie",
+                        "A person or people",
+                        "Something done to a movie",
+                        "A type of movie"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Documentary\" → A type of movie."
+                    },
+                    {
+                      "prompt": "When does \"documentary\" matter most?",
+                      "options": [
+                        "Before filming (writing & planning)",
+                        "During filming",
+                        "After filming (release & watching)",
+                        "Choosing what to watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Documentary\" → Choosing what to watch."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Thousands of movies are made every year, but only a few are seen by millions of people.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many movies are made every year?",
+                  "options": [
+                    "A few",
+                    "Millions",
+                    "Hundreds",
+                    "Thousands"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "The main character was played by Emily Blunt, and the movie was shot in New Zealand.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where was the movie shot?",
+                  "options": [
+                    "In London",
+                    "In Hollywood",
+                    "In New Zealand",
+                    "In Canada"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The book has been made into a movie, and it will be released later this year.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When will the movie be released?",
+                  "options": [
+                    "Next year",
+                    "It was released last year",
+                    "Never",
+                    "Later this year"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "He was being interviewed for the role when I called him, so he couldn’t answer.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why couldn’t he answer?",
+                  "options": [
+                    "He was watching a movie",
+                    "He was asleep",
+                    "He was being interviewed",
+                    "He was driving"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "When we arrived at the hotel, our room was being cleaned, so we waited in the lobby.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What was happening to the room?",
+                  "options": [
+                    "Nothing",
+                    "It was being painted",
+                    "It was being repaired",
+                    "It was being cleaned"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "All the tickets have been sold for the concert. Two million copies of the album have been sold too.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many copies have been sold?",
+                  "options": [
+                    "Two thousand",
+                    "All of them",
+                    "Two hundred",
+                    "Two million"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Guernica was painted by Picasso in 1937, and today it is seen by thousands of visitors in Madrid.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When was Guernica painted?",
+                  "options": [
+                    "In 1973",
+                    "In 1937",
+                    "Last year",
+                    "In 1927"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The information will be sent to you soon, and your TV is going to be repaired tomorrow.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will happen tomorrow?",
+                  "options": [
+                    "A new TV will be sold",
+                    "Nothing",
+                    "The TV will be repaired",
+                    "The information will be sent"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The report is being written right now.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Was the movie directed by Christopher Nolan?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "All the questions should be answered.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The world’s first computers weren’t made in China.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Famous Things",
+                  "situation": "Tell your partner about three famous things: who they were painted, written, built or directed by.",
+                  "mandatory": [
+                    "was painted by",
+                    "was written by",
+                    "was directed by"
+                  ],
+                  "taboo": [
+                    "made",
+                    "he"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "News Report",
+                  "situation": "You are a TV reporter. Report three events using the passive: something was stolen, someone was arrested, a building is being built…",
+                  "mandatory": [
+                    "was stolen",
+                    "has been arrested",
+                    "is being built"
+                  ],
+                  "taboo": [
+                    "police",
+                    "they"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "How It’s Made",
+                  "situation": "Explain how a product you know is made, step by step, in the passive.",
+                  "mandatory": [
+                    "is made",
+                    "are sent",
+                    "is sold"
+                  ],
+                  "taboo": [
+                    "they",
+                    "people"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Hotel Complaint",
+                  "situation": "You arrive at your hotel and nothing is ready. Complain to the receptionist (your partner) using the passive.",
+                  "mandatory": [
+                    "hasn’t been cleaned",
+                    "was promised",
+                    "will be fixed"
+                  ],
+                  "taboo": [
+                    "you",
+                    "sorry"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Movie Facts",
+                  "situation": "Describe a movie using at least four passive sentences: where it was shot, who it was directed by, when it was released…",
+                  "mandatory": [
+                    "was shot",
+                    "was released",
+                    "is based on"
+                  ],
+                  "taboo": [
+                    "actor",
+                    "story"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Future City",
+                  "situation": "Describe changes that are going to be made in your city in the next ten years.",
+                  "mandatory": [
+                    "will be built",
+                    "is going to be",
+                    "should be"
+                  ],
+                  "taboo": [
+                    "government",
+                    "they"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
