@@ -14773,6 +14773,1940 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U8T3",
+              "name": "8A - Vocabulary: Travel Verbs",
+              "steal": [
+                {
+                  "prompt": "I ______ a flight to Miami online last night.",
+                  "options": [
+                    "rode",
+                    "sailed",
+                    "took",
+                    "booked"
+                  ],
+                  "answer": 3,
+                  "explanation": "Book a flight / a hotel."
+                },
+                {
+                  "prompt": "We ______ from Bogotá to Madrid. It takes ten hours.",
+                  "options": [
+                    "fly",
+                    "walk",
+                    "sail",
+                    "ride"
+                  ],
+                  "answer": 0,
+                  "explanation": "Fly = travel by plane."
+                },
+                {
+                  "prompt": "Quick, ______ the taxi! We’re late.",
+                  "options": [
+                    "take",
+                    "get in",
+                    "get up",
+                    "get on"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get IN / out of a taxi or car."
+                },
+                {
+                  "prompt": "She ______ the taxi in front of the hotel.",
+                  "options": [
+                    "got down",
+                    "left of",
+                    "got off",
+                    "got out of"
+                  ],
+                  "answer": 3,
+                  "explanation": "Get OUT OF a taxi."
+                },
+                {
+                  "prompt": "We didn’t have a map, so we ______ in the old town.",
+                  "options": [
+                    "sailed",
+                    "got lost",
+                    "walked",
+                    "missed"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get lost."
+                },
+                {
+                  "prompt": "______ the bus at the third stop.",
+                  "options": [
+                    "Get out of",
+                    "Get off",
+                    "Ride",
+                    "Get down"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get ON / OFF a bus, train, plane, bike."
+                },
+                {
+                  "prompt": "They ______ the train at platform 2.",
+                  "options": [
+                    "took in",
+                    "got in",
+                    "got on",
+                    "rode on"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get ON a train."
+                },
+                {
+                  "prompt": "I ______ the bus this morning, so I was late.",
+                  "options": [
+                    "forgot",
+                    "missed",
+                    "left",
+                    "lost"
+                  ],
+                  "answer": 1,
+                  "explanation": "Miss the bus (not \"lose\")."
+                },
+                {
+                  "prompt": "My brother ______ his bike to school every day.",
+                  "options": [
+                    "gets",
+                    "drives",
+                    "rides",
+                    "takes"
+                  ],
+                  "answer": 2,
+                  "explanation": "Ride a bike / a horse."
+                },
+                {
+                  "prompt": "In summer we ______ around the islands in a small boat.",
+                  "options": [
+                    "fly",
+                    "ride",
+                    "sail",
+                    "walk"
+                  ],
+                  "answer": 2,
+                  "explanation": "Sail = travel by boat."
+                },
+                {
+                  "prompt": "I ______ the subway to work. It’s fast.",
+                  "options": [
+                    "ride",
+                    "fly",
+                    "get in",
+                    "take"
+                  ],
+                  "answer": 3,
+                  "explanation": "Take the subway / a bus / a taxi."
+                },
+                {
+                  "prompt": "The office is near my house, so I ______.",
+                  "options": [
+                    "take walk",
+                    "walk on foot",
+                    "go by walk",
+                    "walk"
+                  ],
+                  "answer": 3,
+                  "explanation": "Walk = go on foot."
+                },
+                {
+                  "prompt": "Which can you \"ride\"?",
+                  "options": [
+                    "a boat",
+                    "a plane",
+                    "a bike",
+                    "a taxi"
+                  ],
+                  "answer": 2,
+                  "explanation": "Ride a bike (also a horse, a motorcycle)."
+                },
+                {
+                  "prompt": "Which can you \"sail\"?",
+                  "options": [
+                    "a bike",
+                    "a train",
+                    "a bus",
+                    "a boat"
+                  ],
+                  "answer": 3,
+                  "explanation": "Sail a boat."
+                },
+                {
+                  "prompt": "Which can you \"get in / out of\"?",
+                  "options": [
+                    "a train",
+                    "a taxi",
+                    "a plane",
+                    "a bus"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get in/out of = cars and taxis."
+                },
+                {
+                  "prompt": "Which can you \"get on / off\"?",
+                  "options": [
+                    "a car",
+                    "a train",
+                    "a taxi",
+                    "a sofa"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get on/off = bus, train, plane, bike."
+                },
+                {
+                  "prompt": "Which can you \"miss\"?",
+                  "options": [
+                    "a bus",
+                    "a boat trip you enjoyed",
+                    "a bike",
+                    "a map"
+                  ],
+                  "answer": 0,
+                  "explanation": "Miss a bus / train / plane."
+                },
+                {
+                  "prompt": "Which can you \"take\"?",
+                  "options": [
+                    "a boat with sails",
+                    "a bike",
+                    "a walk only",
+                    "a taxi"
+                  ],
+                  "answer": 3,
+                  "explanation": "Take a taxi / bus / train / plane / subway."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "get in the car",
+                    "get on the car",
+                    "get into on the car",
+                    "get up the car"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get IN the car."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "get out the plane",
+                    "get off the plane",
+                    "get down the plane",
+                    "go down of the plane"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get OFF the plane."
+                },
+                {
+                  "prompt": "\"I don’t know where I am.\" This person ______.",
+                  "options": [
+                    "is flying",
+                    "is sailing",
+                    "is lost",
+                    "missed the bus"
+                  ],
+                  "answer": 2,
+                  "explanation": "Be / get lost."
+                },
+                {
+                  "prompt": "\"I’m at the airport. My plane leaves at 9.\" This person is going to ______.",
+                  "options": [
+                    "walk",
+                    "fly",
+                    "ride",
+                    "sail"
+                  ],
+                  "answer": 1,
+                  "explanation": "Fly."
+                },
+                {
+                  "prompt": "Choose the correct spelling.",
+                  "options": [
+                    "subway",
+                    "subbway",
+                    "suway",
+                    "sub-way"
+                  ],
+                  "answer": 0,
+                  "explanation": "s-u-b-w-a-y."
+                },
+                {
+                  "prompt": "\"Go by bike\" means the same as ______.",
+                  "options": [
+                    "get on a bike",
+                    "book a bike",
+                    "ride a bike",
+                    "take a bike"
+                  ],
+                  "answer": 2,
+                  "explanation": "Ride a bike."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I booked a flight to Miami.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We fly from Bogotá to Madrid.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Quick, get on the taxi!",
+                  "correct": false,
+                  "fix": "Quick, get in the taxi!",
+                  "explanation": "Get IN a taxi."
+                },
+                {
+                  "sentence": "She got off the taxi in front of the hotel.",
+                  "correct": false,
+                  "fix": "She got out of the taxi in front of the hotel.",
+                  "explanation": "Get OUT OF a taxi."
+                },
+                {
+                  "sentence": "We got lost in the old town.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Get off the bus at the third stop.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They got in the train at platform 2.",
+                  "correct": false,
+                  "fix": "They got on the train at platform 2.",
+                  "explanation": "Get ON a train."
+                },
+                {
+                  "sentence": "I lost the bus this morning.",
+                  "correct": false,
+                  "fix": "I missed the bus this morning.",
+                  "explanation": "Miss the bus."
+                },
+                {
+                  "sentence": "My brother rides his bike to school.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We sail around the islands in summer.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I take the subway to work.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I walk to the office every day.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Can you ride a bike?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We took a taxi to the airport.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He drives his bike to work.",
+                  "correct": false,
+                  "fix": "He rides his bike to work.",
+                  "explanation": "Ride a bike."
+                },
+                {
+                  "sentence": "Get out of the plane slowly.",
+                  "correct": false,
+                  "fix": "Get off the plane slowly.",
+                  "explanation": "Get OFF a plane."
+                },
+                {
+                  "sentence": "I always get lost in big cities.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Did you fly or take the train?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We walked on foot to the beach.",
+                  "correct": false,
+                  "fix": "We walked to the beach.",
+                  "explanation": "\"Walk\" already means on foot."
+                },
+                {
+                  "sentence": "She got in the car and drove away.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Don’t miss the last train!",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "You can sail a boat on the lake.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "book a flight",
+                  "image": "/img/transport/book-a-flight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"book a flight\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book a flight\" → A plane."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"book a flight\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book a flight\" → Regular: add -ed."
+                    }
+                  ]
+                },
+                {
+                  "word": "fly",
+                  "image": "/img/transport/fly.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"fly\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Fly\" → A plane."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"fly\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Fly\" → flew / went / missed."
+                    }
+                  ]
+                },
+                {
+                  "word": "get in a taxi",
+                  "image": "/img/transport/get-in-a-taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get in a taxi\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get in a taxi\" → A taxi or car."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get in a taxi\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get in a taxi\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get out of a taxi",
+                  "image": "/img/transport/get-out-of-a-taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get out of a taxi\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get out of a taxi\" → A taxi or car."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get out of a taxi\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get out of a taxi\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get lost",
+                  "image": "/img/transport/get-lost.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get lost\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get lost\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get lost\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get lost\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get off a bus",
+                  "image": "/img/transport/get-off-a-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get off a bus\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get off a bus\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get off a bus\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get off a bus\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get on a train",
+                  "image": "/img/transport/get-on-a-train.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get on a train\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get on a train\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get on a train\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get on a train\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "miss the bus",
+                  "image": "/img/transport/miss-the-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"miss the bus\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Miss the bus\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"miss the bus\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Miss the bus\" → Regular: add -ed."
+                    }
+                  ]
+                },
+                {
+                  "word": "ride a bike",
+                  "image": "/img/transport/bike-ride.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"ride a bike\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Ride a bike\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"ride a bike\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ride a bike\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "sail",
+                  "image": "/img/transport/sail.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"sail\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Sail\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"sail\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sail\" → Regular: add -ed."
+                    }
+                  ]
+                },
+                {
+                  "word": "take the subway",
+                  "image": "/img/transport/subway.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"take the subway\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take the subway\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"take the subway\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take the subway\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "take a taxi",
+                  "image": "/img/transport/taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"take a taxi\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take a taxi\" → A taxi or car."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"take a taxi\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take a taxi\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "walk",
+                  "image": "/img/transport/walk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"walk\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Walk\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"walk\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Walk\" → Regular: add -ed."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I booked a flight to Miami last night. We fly on Friday at nine.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When do they fly?",
+                  "options": [
+                    "Friday at five",
+                    "Monday at nine",
+                    "Tonight",
+                    "Friday at nine"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Quick, get in the taxi! If we miss the train, the next one is in two hours.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What are they afraid of missing?",
+                  "options": [
+                    "The plane",
+                    "The bus",
+                    "The train",
+                    "The taxi"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "We didn’t have a map, so we got lost in the old town for an hour.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did they get lost?",
+                  "options": [
+                    "They didn’t have a map",
+                    "They took the wrong train",
+                    "They missed the bus",
+                    "It was dark"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Get on the number 12 bus and get off at the hospital. Then walk two blocks.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where should you get off?",
+                  "options": [
+                    "At the hospital",
+                    "At the station",
+                    "At the school",
+                    "After two blocks"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My brother rides his bike to school, but I take the subway because it’s far.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How does the speaker go to school?",
+                  "options": [
+                    "By bike",
+                    "On foot",
+                    "By subway",
+                    "By bus"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "In summer we sail around the islands in my uncle’s small boat.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What do they do in summer?",
+                  "options": [
+                    "Fly to the islands",
+                    "Ride bikes",
+                    "Walk on the beach",
+                    "Sail around the islands"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "She got out of the taxi in front of the hotel and walked into the lobby.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where did she get out of the taxi?",
+                  "options": [
+                    "Near the beach",
+                    "At the station",
+                    "In front of the hotel",
+                    "At the airport"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I missed the bus this morning, so I walked to the office. It took forty minutes.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How did the speaker get to the office?",
+                  "options": [
+                    "On foot",
+                    "By bike",
+                    "By bus",
+                    "By taxi"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Get off the bus at the third stop.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I take the subway to work every day.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Don’t miss the last train!",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We got on the train at platform two.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "How Did You Get Here?",
+                  "situation": "Tell your partner how you came to class today, step by step, using travel verbs.",
+                  "mandatory": [
+                    "take",
+                    "get off",
+                    "walk"
+                  ],
+                  "taboo": [
+                    "car",
+                    "come"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lost Tourist",
+                  "situation": "You are lost in a big city. Ask your partner for help and explain where you want to go.",
+                  "mandatory": [
+                    "get lost",
+                    "get on",
+                    "take the subway"
+                  ],
+                  "taboo": [
+                    "map",
+                    "where"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel Plans",
+                  "situation": "Plan a weekend trip with your partner: how will you travel there and back?",
+                  "mandatory": [
+                    "book a flight",
+                    "fly",
+                    "ride a bike"
+                  ],
+                  "taboo": [
+                    "plane",
+                    "hotel"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Taxi Driver",
+                  "situation": "One of you is a taxi driver, the other a passenger. Give directions and talk about the traffic.",
+                  "mandatory": [
+                    "get in",
+                    "get out of",
+                    "miss"
+                  ],
+                  "taboo": [
+                    "money",
+                    "address"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Perfect Journey",
+                  "situation": "Describe your dream journey: by boat, by bike, by plane? Why?",
+                  "mandatory": [
+                    "sail",
+                    "fly",
+                    "walk"
+                  ],
+                  "taboo": [
+                    "dream",
+                    "perfect"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Bus or Train?",
+                  "situation": "Debate with your partner: is it better to travel by bus or by train in your country?",
+                  "mandatory": [
+                    "get on",
+                    "take",
+                    "miss the bus"
+                  ],
+                  "taboo": [
+                    "better",
+                    "cheap"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U8T4",
+              "name": "8A - Grammar: Simple Past: Irregular Verbs",
+              "steal": [
+                {
+                  "prompt": "I ______ a taxi to the airport.",
+                  "options": [
+                    "taked",
+                    "taken",
+                    "took",
+                    "take"
+                  ],
+                  "answer": 2,
+                  "explanation": "take → took."
+                },
+                {
+                  "prompt": "We ______ to the park yesterday.",
+                  "options": [
+                    "goed",
+                    "gone",
+                    "go",
+                    "went"
+                  ],
+                  "answer": 3,
+                  "explanation": "go → went."
+                },
+                {
+                  "prompt": "I ______ a new purse last weekend.",
+                  "options": [
+                    "buy",
+                    "buyed",
+                    "bought",
+                    "brought"
+                  ],
+                  "answer": 2,
+                  "explanation": "buy → bought."
+                },
+                {
+                  "prompt": "He ______ to college in Boston.",
+                  "options": [
+                    "gone",
+                    "went",
+                    "did go",
+                    "goed"
+                  ],
+                  "answer": 1,
+                  "explanation": "go → went."
+                },
+                {
+                  "prompt": "She ______ breakfast yesterday.",
+                  "options": [
+                    "didn’t have",
+                    "didn’t has",
+                    "didn’t had",
+                    "hadn’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "Negative: didn’t + base form."
+                },
+                {
+                  "prompt": "______ you ______ Carly at the party?",
+                  "options": [
+                    "Do / saw",
+                    "Were / see",
+                    "Did / saw",
+                    "Did / see"
+                  ],
+                  "answer": 3,
+                  "explanation": "Did + subject + base form."
+                },
+                {
+                  "prompt": "Did you see Carly? — Yes, I ______.",
+                  "options": [
+                    "do",
+                    "was",
+                    "saw",
+                    "did"
+                  ],
+                  "answer": 3,
+                  "explanation": "Short answer: Yes, I did."
+                },
+                {
+                  "prompt": "Did they take the train? — No, they ______.",
+                  "options": [
+                    "didn’t",
+                    "didn’t take",
+                    "weren’t",
+                    "don’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "No, they didn’t."
+                },
+                {
+                  "prompt": "We ______ the train. We took a taxi.",
+                  "options": [
+                    "don’t take",
+                    "didn’t take",
+                    "didn’t took",
+                    "not took"
+                  ],
+                  "answer": 1,
+                  "explanation": "Didn’t + base form."
+                },
+                {
+                  "prompt": "My sister ______ coffee this morning.",
+                  "options": [
+                    "no bought",
+                    "didn’t buy",
+                    "doesn’t bought",
+                    "didn’t bought"
+                  ],
+                  "answer": 1,
+                  "explanation": "Didn’t buy."
+                },
+                {
+                  "prompt": "The simple past of \"fly\" is ______.",
+                  "options": [
+                    "flew",
+                    "flown",
+                    "flied",
+                    "flyed"
+                  ],
+                  "answer": 0,
+                  "explanation": "fly → flew."
+                },
+                {
+                  "prompt": "The simple past of \"get\" is ______.",
+                  "options": [
+                    "gotten",
+                    "getted",
+                    "gat",
+                    "got"
+                  ],
+                  "answer": 3,
+                  "explanation": "get → got."
+                },
+                {
+                  "prompt": "The simple past of \"ride\" is ______.",
+                  "options": [
+                    "rode",
+                    "rid",
+                    "ridden",
+                    "rided"
+                  ],
+                  "answer": 0,
+                  "explanation": "ride → rode."
+                },
+                {
+                  "prompt": "The simple past of \"have\" is ______.",
+                  "options": [
+                    "has",
+                    "had",
+                    "hadded",
+                    "haved"
+                  ],
+                  "answer": 1,
+                  "explanation": "have → had."
+                },
+                {
+                  "prompt": "The simple past of \"see\" is ______.",
+                  "options": [
+                    "saw",
+                    "sawed",
+                    "seed",
+                    "seen"
+                  ],
+                  "answer": 0,
+                  "explanation": "see → saw."
+                },
+                {
+                  "prompt": "The simple past of \"eat\" is ______.",
+                  "options": [
+                    "eaten",
+                    "et",
+                    "eated",
+                    "ate"
+                  ],
+                  "answer": 3,
+                  "explanation": "eat → ate."
+                },
+                {
+                  "prompt": "The simple past of \"come\" is ______.",
+                  "options": [
+                    "comed",
+                    "came",
+                    "come",
+                    "camed"
+                  ],
+                  "answer": 1,
+                  "explanation": "come → came."
+                },
+                {
+                  "prompt": "Which verbs are REGULAR?",
+                  "options": [
+                    "see, have, eat",
+                    "take, go, buy",
+                    "walk, miss, sail",
+                    "get, ride, fly"
+                  ],
+                  "answer": 2,
+                  "explanation": "walked, missed, sailed = regular (-ed)."
+                },
+                {
+                  "prompt": "Only the ______ forms are irregular.",
+                  "options": [
+                    "short answer",
+                    "question",
+                    "affirmative",
+                    "negative"
+                  ],
+                  "answer": 2,
+                  "explanation": "Negatives and questions use didn’t / did + base form."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "They don’t went to the party.",
+                    "They didn’t went to the party.",
+                    "They didn’t go to the party.",
+                    "They didn’t gone to the party."
+                  ],
+                  "answer": 2,
+                  "explanation": "Didn’t + base form."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "Do you went to the store?",
+                    "Went you to the store?",
+                    "Did you went to the store?",
+                    "Did you go to the store?"
+                  ],
+                  "answer": 3,
+                  "explanation": "Did + base form."
+                },
+                {
+                  "prompt": "Yesterday I ______ lost in the city and ______ a taxi home.",
+                  "options": [
+                    "got / took",
+                    "got / taked",
+                    "get / take",
+                    "getted / taked"
+                  ],
+                  "answer": 0,
+                  "explanation": "got, took."
+                },
+                {
+                  "prompt": "Last summer we ______ to Cartagena and ______ around the islands.",
+                  "options": [
+                    "flew / sailed",
+                    "fly / sailed",
+                    "flied / sailed",
+                    "flew / sail"
+                  ],
+                  "answer": 0,
+                  "explanation": "flew (irregular), sailed (regular)."
+                },
+                {
+                  "prompt": "I ______ the bus, so I ______ to school.",
+                  "options": [
+                    "missed / walk",
+                    "miss / walked",
+                    "missed / walked",
+                    "missed / went walking"
+                  ],
+                  "answer": 2,
+                  "explanation": "Both regular: missed, walked."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I took a taxi to the airport.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We went to the park yesterday.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "I buyed a new purse.",
+                  "correct": false,
+                  "fix": "I bought a new purse.",
+                  "explanation": "buy → bought."
+                },
+                {
+                  "sentence": "He went to college in Boston.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She didn’t had breakfast yesterday.",
+                  "correct": false,
+                  "fix": "She didn’t have breakfast yesterday.",
+                  "explanation": "Didn’t + base form."
+                },
+                {
+                  "sentence": "Did you see Carly at the party?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Yes, I did.",
+                  "correct": true,
+                  "explanation": "Correct short answer."
+                },
+                {
+                  "sentence": "No, I didn’t.",
+                  "correct": true,
+                  "explanation": "Correct short answer."
+                },
+                {
+                  "sentence": "We didn’t take the train.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They didn’t went to the party.",
+                  "correct": false,
+                  "fix": "They didn’t go to the party.",
+                  "explanation": "Didn’t + base form."
+                },
+                {
+                  "sentence": "My sister didn’t buy coffee.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Did they took the train?",
+                  "correct": false,
+                  "fix": "Did they take the train?",
+                  "explanation": "Did + base form."
+                },
+                {
+                  "sentence": "Did we buy any vegetables?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We flied to Madrid last year.",
+                  "correct": false,
+                  "fix": "We flew to Madrid last year.",
+                  "explanation": "fly → flew."
+                },
+                {
+                  "sentence": "I got lost in the old town.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "She rided her bike to work.",
+                  "correct": false,
+                  "fix": "She rode her bike to work.",
+                  "explanation": "ride → rode."
+                },
+                {
+                  "sentence": "We missed the bus and walked home.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "He getted off the bus at the station.",
+                  "correct": false,
+                  "fix": "He got off the bus at the station.",
+                  "explanation": "get → got."
+                },
+                {
+                  "sentence": "I saw a great movie last night.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "We ate pizza and then went home.",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "Did you go to the grocery store?",
+                  "correct": true,
+                  "explanation": "Correct."
+                },
+                {
+                  "sentence": "They came to the party late.",
+                  "correct": true,
+                  "explanation": "Correct."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "book a flight",
+                  "image": "/img/transport/book-a-flight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"book a flight\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book a flight\" → A plane."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"book a flight\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book a flight\" → Regular: add -ed."
+                    }
+                  ]
+                },
+                {
+                  "word": "fly",
+                  "image": "/img/transport/fly.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"fly\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Fly\" → A plane."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"fly\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Fly\" → flew / went / missed."
+                    }
+                  ]
+                },
+                {
+                  "word": "get in a taxi",
+                  "image": "/img/transport/get-in-a-taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get in a taxi\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get in a taxi\" → A taxi or car."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get in a taxi\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get in a taxi\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get out of a taxi",
+                  "image": "/img/transport/get-out-of-a-taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get out of a taxi\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get out of a taxi\" → A taxi or car."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get out of a taxi\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get out of a taxi\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get lost",
+                  "image": "/img/transport/get-lost.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get lost\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get lost\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get lost\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get lost\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get off a bus",
+                  "image": "/img/transport/get-off-a-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get off a bus\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get off a bus\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get off a bus\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get off a bus\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "get on a train",
+                  "image": "/img/transport/get-on-a-train.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"get on a train\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get on a train\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"get on a train\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Get on a train\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "miss the bus",
+                  "image": "/img/transport/miss-the-bus.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"miss the bus\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Miss the bus\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"miss the bus\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Miss the bus\" → Regular: add -ed."
+                    }
+                  ]
+                },
+                {
+                  "word": "ride a bike",
+                  "image": "/img/transport/bike-ride.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"ride a bike\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Ride a bike\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"ride a bike\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ride a bike\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "sail",
+                  "image": "/img/transport/sail.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"sail\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Sail\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"sail\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sail\" → Regular: add -ed."
+                    }
+                  ]
+                },
+                {
+                  "word": "take the subway",
+                  "image": "/img/transport/subway.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"take the subway\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take the subway\" → A bus, train or subway."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"take the subway\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take the subway\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "take a taxi",
+                  "image": "/img/transport/taxi.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"take a taxi\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take a taxi\" → A taxi or car."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"take a taxi\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Take a taxi\" → took / got / rode."
+                    }
+                  ]
+                },
+                {
+                  "word": "walk",
+                  "image": "/img/transport/walk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which transportation goes with \"walk\"?",
+                      "options": [
+                        "A plane",
+                        "A taxi or car",
+                        "A bus, train or subway",
+                        "A bike, a boat or your feet"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Walk\" → A bike, a boat or your feet."
+                    },
+                    {
+                      "prompt": "What is the simple past of the verb in \"walk\"?",
+                      "options": [
+                        "Regular: add -ed",
+                        "took / got / rode",
+                        "flew / went / missed",
+                        "sailed / walked / booked"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Walk\" → Regular: add -ed."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I took a taxi to the airport and flew to Madrid. I didn’t take the train.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How did the speaker go to the airport?",
+                  "options": [
+                    "By bus",
+                    "By train",
+                    "On foot",
+                    "By taxi"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "We went to the park yesterday and I bought a new purse on the way home.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the speaker buy?",
+                  "options": [
+                    "A new purse",
+                    "A new bike",
+                    "Coffee",
+                    "A ticket"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "He went to college in Boston, but he didn’t like the cold weather.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where did he go to college?",
+                  "options": [
+                    "Canada",
+                    "Boston",
+                    "Miami",
+                    "Madrid"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "She didn’t have breakfast yesterday, so she ate a big lunch.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What didn’t she have?",
+                  "options": [
+                    "Lunch",
+                    "Coffee",
+                    "Breakfast",
+                    "Dinner"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Did you see Carly at the party? — Yes, I did. She came late with her sister.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who did Carly come with?",
+                  "options": [
+                    "Her sister",
+                    "Her friend",
+                    "Her brother",
+                    "Nobody"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Did they take the train? — No, they didn’t. They got lost and took a taxi.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How did they travel in the end?",
+                  "options": [
+                    "By train",
+                    "On foot",
+                    "By taxi",
+                    "By bus"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My sister didn’t buy coffee. She bought tea and some vegetables.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did the sister buy?",
+                  "options": [
+                    "Tea and vegetables",
+                    "Bread",
+                    "Coffee",
+                    "Nothing"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Yesterday I missed the bus, so I rode my bike to work and got there on time.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How did the speaker get to work?",
+                  "options": [
+                    "By taxi",
+                    "On foot",
+                    "By bus",
+                    "By bike"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "We didn’t take the train.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Did you go to the grocery store?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They didn’t go to the party.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I got lost and took a taxi home.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Yesterday",
+                  "situation": "Tell your partner five things you did yesterday using irregular verbs: went, had, took, saw, ate…",
+                  "mandatory": [
+                    "went",
+                    "had",
+                    "took"
+                  ],
+                  "taboo": [
+                    "yesterday",
+                    "did"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Last Trip",
+                  "situation": "Describe your last trip: where you went, how you got there and what you bought.",
+                  "mandatory": [
+                    "went",
+                    "flew",
+                    "bought"
+                  ],
+                  "taboo": [
+                    "trip",
+                    "travel"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Did You…?",
+                  "situation": "Ask your partner five \"Did you…?\" questions about last weekend. Answer with short answers.",
+                  "mandatory": [
+                    "Did you",
+                    "Yes, I did",
+                    "No, I didn’t"
+                  ],
+                  "taboo": [
+                    "do",
+                    "weekend"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "A Bad Trip",
+                  "situation": "Tell a story about a trip where everything went wrong: you missed the bus, got lost…",
+                  "mandatory": [
+                    "got lost",
+                    "missed",
+                    "didn’t"
+                  ],
+                  "taboo": [
+                    "bad",
+                    "terrible"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Detective",
+                  "situation": "Your partner is a suspect. Ask what they did last night: where they went, who they saw, what they ate.",
+                  "mandatory": [
+                    "Did you see",
+                    "went",
+                    "ate"
+                  ],
+                  "taboo": [
+                    "police",
+                    "crime"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Childhood",
+                  "situation": "Talk about your childhood: where you went to school, what you had, what you didn’t do.",
+                  "mandatory": [
+                    "went",
+                    "had",
+                    "didn’t"
+                  ],
+                  "taboo": [
+                    "child",
+                    "young"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
