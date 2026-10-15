@@ -35418,6 +35418,2044 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L3U10T3",
+              "name": "10A - Vocabulary: Sports & Competitions",
+              "steal": [
+                {
+                  "prompt": "On May 28, 2016, Real Madrid ______ their rivals, Atlético, in the Champions League final.",
+                  "options": [
+                    "beat",
+                    "tied",
+                    "won",
+                    "scored"
+                  ],
+                  "answer": 0,
+                  "explanation": "Beat + a team or person. Win + a competition."
+                },
+                {
+                  "prompt": "Real Madrid ______ the Champions League in 2016.",
+                  "options": [
+                    "beat",
+                    "scored",
+                    "lost",
+                    "won"
+                  ],
+                  "answer": 3,
+                  "explanation": "Win + a competition or award."
+                },
+                {
+                  "prompt": "Ramos ______ a goal first, but 65 minutes later Carrasco managed to score again.",
+                  "options": [
+                    "beat",
+                    "lost",
+                    "scored",
+                    "won"
+                  ],
+                  "answer": 2,
+                  "explanation": "Score a goal / a point."
+                },
+                {
+                  "prompt": "After extra time, the game was 1–1: the teams had ______.",
+                  "options": [
+                    "given up",
+                    "beaten",
+                    "tied",
+                    "won"
+                  ],
+                  "answer": 2,
+                  "explanation": "Tie = finish with the same score."
+                },
+                {
+                  "prompt": "Atlético were very disappointed to ______ because in 2014 they had also lost to Real Madrid.",
+                  "options": [
+                    "win",
+                    "lose",
+                    "score",
+                    "beat"
+                  ],
+                  "answer": 1,
+                  "explanation": "Lose = not win."
+                },
+                {
+                  "prompt": "Real Madrid won ______; they beat Atlético 5–3 on penalties.",
+                  "options": [
+                    "Atlético",
+                    "the Champions League",
+                    "the referee",
+                    "the crowd"
+                  ],
+                  "answer": 1,
+                  "explanation": "Win + competition; beat + opponent."
+                },
+                {
+                  "prompt": "Correct sentence?",
+                  "options": [
+                    "Real Madrid beat Atlético.",
+                    "Real Madrid scored Atlético.",
+                    "Real Madrid won Atlético.",
+                    "Real Madrid beat the Champions League."
+                  ],
+                  "answer": 0,
+                  "explanation": "Beat a team; win a competition."
+                },
+                {
+                  "prompt": "A person who is good at sports, especially running or jumping, is an ______.",
+                  "options": [
+                    "spectator",
+                    "athlete",
+                    "umpire",
+                    "referee"
+                  ],
+                  "answer": 1,
+                  "explanation": "Athlete."
+                },
+                {
+                  "prompt": "A large group of people watching a game together is the ______.",
+                  "options": [
+                    "medal",
+                    "team",
+                    "race",
+                    "crowd"
+                  ],
+                  "answer": 3,
+                  "explanation": "Crowd."
+                },
+                {
+                  "prompt": "One person watching a game is a ______.",
+                  "options": [
+                    "player",
+                    "referee",
+                    "crowd",
+                    "spectator"
+                  ],
+                  "answer": 3,
+                  "explanation": "Spectator (one person); crowd (many)."
+                },
+                {
+                  "prompt": "Someone who plays a sport, e.g. in a soccer team, is a ______.",
+                  "options": [
+                    "umpire",
+                    "player",
+                    "spectator",
+                    "crowd"
+                  ],
+                  "answer": 1,
+                  "explanation": "Player."
+                },
+                {
+                  "prompt": "A gold, silver or bronze ______ is given to the winners at the Olympic Games.",
+                  "options": [
+                    "medal",
+                    "trophy",
+                    "race",
+                    "game"
+                  ],
+                  "answer": 0,
+                  "explanation": "Medal."
+                },
+                {
+                  "prompt": "A big cup that the winning team receives is a ______.",
+                  "options": [
+                    "score",
+                    "trophy",
+                    "medal",
+                    "crowd"
+                  ],
+                  "answer": 1,
+                  "explanation": "Trophy."
+                },
+                {
+                  "prompt": "A competition to see who is fastest is a ______.",
+                  "options": [
+                    "medal",
+                    "race",
+                    "tie",
+                    "game"
+                  ],
+                  "answer": 1,
+                  "explanation": "Race."
+                },
+                {
+                  "prompt": "The ______ showed three soccer players the red card.",
+                  "options": [
+                    "umpire",
+                    "referee",
+                    "spectator",
+                    "athlete"
+                  ],
+                  "answer": 1,
+                  "explanation": "Referee: soccer, basketball, rugby."
+                },
+                {
+                  "prompt": "In tennis and baseball, the official who makes decisions is the ______.",
+                  "options": [
+                    "umpire",
+                    "player",
+                    "referee",
+                    "crowd"
+                  ],
+                  "answer": 0,
+                  "explanation": "Umpire: tennis, baseball, cricket."
+                },
+                {
+                  "prompt": "Over 200 countries ______ the Olympic Games every four years.",
+                  "options": [
+                    "give up",
+                    "take part in",
+                    "warm up",
+                    "cheat in"
+                  ],
+                  "answer": 1,
+                  "explanation": "Take part in = participate in."
+                },
+                {
+                  "prompt": "It’s difficult to ______ in sports events, but some athletes still try.",
+                  "options": [
+                    "score",
+                    "take part",
+                    "warm up",
+                    "cheat"
+                  ],
+                  "answer": 3,
+                  "explanation": "Cheat = break the rules to win."
+                },
+                {
+                  "prompt": "Before you play any sports, you should ______.",
+                  "options": [
+                    "warm up",
+                    "cheat",
+                    "tie",
+                    "give up"
+                  ],
+                  "answer": 0,
+                  "explanation": "Warm up = do special exercises to prepare your body."
+                },
+                {
+                  "prompt": "I couldn’t finish the marathon. I had to ______ after 20 kilometers.",
+                  "options": [
+                    "take part",
+                    "warm up",
+                    "give up",
+                    "score"
+                  ],
+                  "answer": 2,
+                  "explanation": "Give up = stop doing something."
+                },
+                {
+                  "prompt": "My grandfather won a bronze medal when he ______ the Olympic Games.",
+                  "options": [
+                    "warmed up",
+                    "took part in",
+                    "cheated",
+                    "beat"
+                  ],
+                  "answer": 1,
+                  "explanation": "Take part in a competition."
+                },
+                {
+                  "prompt": "The L.A. Lakers ______ the Chicago Bulls by 123 to 118.",
+                  "options": [
+                    "tied",
+                    "beat",
+                    "scored",
+                    "won"
+                  ],
+                  "answer": 1,
+                  "explanation": "Beat + opponent (+ score)."
+                },
+                {
+                  "prompt": "Serena Williams is a very successful ______.",
+                  "options": [
+                    "referee",
+                    "crowd",
+                    "athlete",
+                    "trophy"
+                  ],
+                  "answer": 2,
+                  "explanation": "Athlete / tennis player."
+                },
+                {
+                  "prompt": "The 100-meter race: I ran as a ______ and my friend watched as a ______.",
+                  "options": [
+                    "crowd / medal",
+                    "referee / umpire",
+                    "player / spectator",
+                    "spectator / player"
+                  ],
+                  "answer": 2,
+                  "explanation": "Player plays; spectator watches."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Real Madrid beat Atlético in the final.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Real Madrid won Atlético in the final.",
+                  "correct": false,
+                  "fix": "Real Madrid beat Atlético in the final.",
+                  "explanation": "Win + competition; beat + opponent."
+                },
+                {
+                  "sentence": "Real Madrid won the Champions League.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Ramos scored a goal in the first half.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The game finished 1–1, so the teams tied.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Atlético lost the final on penalties.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Atlético lost to Real Madrid again.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The referee showed the player a red card.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The umpire showed three soccer players the red card.",
+                  "correct": false,
+                  "fix": "The referee showed three soccer players the red card.",
+                  "explanation": "Soccer has a referee; tennis has an umpire."
+                },
+                {
+                  "sentence": "The crowd cheered when the team came out.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My grandfather won a bronze medal in the Olympic Games.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The winners received a big trophy.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Over 200 countries take part in the Olympic Games.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Over 200 countries take part the Olympic Games.",
+                  "correct": false,
+                  "fix": "Over 200 countries take part in the Olympic Games.",
+                  "explanation": "Take part IN."
+                },
+                {
+                  "sentence": "You should warm up before you play.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Some athletes cheat to win.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I was tired, so I gave up after 20 kilometers.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I gave up the marathon after 20 kilometers because I couldn’t finish.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The spectators watched the race from the stands.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Serena Williams is a very successful athlete.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Our team scored three goals and beat them.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The Lakers beated the Bulls 123 to 118.",
+                  "correct": false,
+                  "fix": "The Lakers beat the Bulls 123 to 118.",
+                  "explanation": "Beat is irregular: beat – beat – beaten."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "win",
+                  "image": "/img/sports/win.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"win\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Win\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"win\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Win\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "beat",
+                  "image": "/img/sports/beat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"beat\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Beat\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"beat\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Beat\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "score",
+                  "image": "/img/sports/score.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"score\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Score\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"score\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Score\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "lose",
+                  "image": "/img/sports/lose.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"lose\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Lose\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"lose\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Lose\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "tie",
+                  "image": "/img/sports/tie.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"tie\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tie\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"tie\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Tie\" → Depends."
+                    }
+                  ]
+                },
+                {
+                  "word": "athlete",
+                  "image": "/img/sports/athlete.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"athlete\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Athlete\" → A person."
+                    },
+                    {
+                      "prompt": "Is \"athlete\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Athlete\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "crowd",
+                  "image": "/img/sports/crowd.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"crowd\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Crowd\" → A person."
+                    },
+                    {
+                      "prompt": "Is \"crowd\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Crowd\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "player",
+                  "image": "/img/sports/player.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"player\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Player\" → A person."
+                    },
+                    {
+                      "prompt": "Is \"player\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Player\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "medal",
+                  "image": "/img/sports/medal.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"medal\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Medal\" → A thing or object."
+                    },
+                    {
+                      "prompt": "Is \"medal\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Medal\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "race",
+                  "image": "/img/sports/race.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"race\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Race\" → An event."
+                    },
+                    {
+                      "prompt": "Is \"race\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Race\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "referee",
+                  "image": "/img/sports/referee.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"referee\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Referee\" → A person."
+                    },
+                    {
+                      "prompt": "Is \"referee\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Referee\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "spectator",
+                  "image": "/img/sports/spectator.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"spectator\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Spectator\" → A person."
+                    },
+                    {
+                      "prompt": "Is \"spectator\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Spectator\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "umpire",
+                  "image": "/img/sports/umpire.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"umpire\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Umpire\" → A person."
+                    },
+                    {
+                      "prompt": "Is \"umpire\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Umpire\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "trophy",
+                  "image": "/img/sports/trophy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"trophy\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Trophy\" → A thing or object."
+                    },
+                    {
+                      "prompt": "Is \"trophy\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Trophy\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "game",
+                  "image": "/img/sports/game.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"game\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Game\" → An event."
+                    },
+                    {
+                      "prompt": "Is \"game\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Game\" → Neutral."
+                    }
+                  ]
+                },
+                {
+                  "word": "take part in",
+                  "image": "/img/sports/take-part-in.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"take part in\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take part in\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"take part in\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Take part in\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "cheat",
+                  "image": "/img/sports/cheat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"cheat\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cheat\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"cheat\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cheat\" → Bad news."
+                    }
+                  ]
+                },
+                {
+                  "word": "warm up",
+                  "image": "/img/sports/warm-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"warm up\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Warm up\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"warm up\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Warm up\" → Good news."
+                    }
+                  ]
+                },
+                {
+                  "word": "give up",
+                  "image": "/img/sports/give-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"give up\"?",
+                      "options": [
+                        "A verb (an action)",
+                        "A person",
+                        "A thing or object",
+                        "An event"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Give up\" → A verb (an action)."
+                    },
+                    {
+                      "prompt": "Is \"give up\" good news for the team or player?",
+                      "options": [
+                        "Good news",
+                        "Bad news",
+                        "Neutral",
+                        "Depends"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Give up\" → Bad news."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Real Madrid beat Atlético in the Champions League final.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Over two hundred countries take part in the Olympic Games every four years.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Before you play any sports, you should warm up.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I couldn’t finish the marathon. I had to give up after twenty kilometers.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "On May 28, 2016, Real Madrid beat their rivals Atlético in the Champions League final. Ramos scored a goal first, but sixty-five minutes later Carrasco scored and the game was one–one. After extra time, Real Madrid won five–three on penalties.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How did Real Madrid win the final?",
+                  "options": [
+                    "Atlético gave up",
+                    "By three goals",
+                    "In extra time",
+                    "On penalties"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Atlético were very disappointed to lose because in 2014 they had also lost to Real Madrid in the final.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why were Atlético so disappointed?",
+                  "options": [
+                    "The crowd left early",
+                    "Their player was injured",
+                    "They had lost the same final before",
+                    "The referee cheated"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The referee showed three soccer players the red card, and the crowd started to boo. One spectator even threw his hat onto the field.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did the referee do?",
+                  "options": [
+                    "He gave a medal",
+                    "He gave three red cards",
+                    "He scored a goal",
+                    "He left the game"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My grandfather took part in the Olympic Games in 1972. He didn’t win a gold medal, but he won a bronze medal in the two hundred meter race.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the grandfather win?",
+                  "options": [
+                    "Nothing",
+                    "A gold medal",
+                    "A trophy",
+                    "A bronze medal"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "The L.A. Lakers beat the Chicago Bulls by one hundred twenty-three to one hundred eighteen last night. It was a great game, and the players said the crowd was amazing.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who won the game?",
+                  "options": [
+                    "Nobody, they tied",
+                    "The Bulls",
+                    "The spectators",
+                    "The Lakers"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "In tennis, the official is called the umpire, but in soccer we call the official the referee.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the official called in tennis?",
+                  "options": [
+                    "The referee",
+                    "The player",
+                    "The umpire",
+                    "The athlete"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Some athletes cheat by taking drugs. If they are caught, they lose their medals and can’t take part in competitions for years.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What happens to athletes who cheat?",
+                  "options": [
+                    "Nothing happens",
+                    "They become referees",
+                    "They lose their medals",
+                    "They get a trophy"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I was tired and my legs hurt, but I didn’t give up. I finished the race in last place, and the spectators cheered for me anyway.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the speaker do?",
+                  "options": [
+                    "Cheated",
+                    "Finished the race last",
+                    "Gave up",
+                    "Won the race"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Match Report",
+                  "situation": "You are a sports reporter. Describe a famous game or final: who played, who scored, who won and how the crowd reacted.",
+                  "mandatory": [
+                    "beat",
+                    "score",
+                    "crowd"
+                  ],
+                  "taboo": [
+                    "football",
+                    "goal"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Red Card!",
+                  "situation": "Student A is a referee who has just shown a red card. Student B is the angry player. Discuss what happened.",
+                  "mandatory": [
+                    "referee",
+                    "cheat",
+                    "rules"
+                  ],
+                  "taboo": [
+                    "card",
+                    "unfair"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Olympic Dream",
+                  "situation": "Tell your partner about a sport you would like to take part in at the Olympic Games and why.",
+                  "mandatory": [
+                    "take part in",
+                    "medal",
+                    "athlete"
+                  ],
+                  "taboo": [
+                    "Olympics",
+                    "sport"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Don’t Give Up",
+                  "situation": "Your friend wants to give up a race or a competition. Convince them to continue.",
+                  "mandatory": [
+                    "give up",
+                    "warm up",
+                    "win"
+                  ],
+                  "taboo": [
+                    "stop",
+                    "quit"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Fans Debate",
+                  "situation": "Student A thinks tying is a boring result. Student B disagrees. Debate using examples from real games.",
+                  "mandatory": [
+                    "tie",
+                    "lose",
+                    "spectator"
+                  ],
+                  "taboo": [
+                    "draw",
+                    "boring"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Trophy Ceremony",
+                  "situation": "You are the captain who has just received the trophy. Make a short speech thanking the players, the umpire and the crowd.",
+                  "mandatory": [
+                    "trophy",
+                    "player",
+                    "beat"
+                  ],
+                  "taboo": [
+                    "cup",
+                    "thanks"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U10T4",
+              "name": "10A - Grammar: Past Perfect & Narrative Tenses",
+              "steal": [
+                {
+                  "prompt": "I arrived at the meeting late because I ______ the train.",
+                  "options": [
+                    "have missed",
+                    "missed",
+                    "had missed",
+                    "was missing"
+                  ],
+                  "answer": 2,
+                  "explanation": "The earlier action takes the past perfect."
+                },
+                {
+                  "prompt": "Justine ______ for the exam, so she failed it.",
+                  "options": [
+                    "didn’t study",
+                    "hadn’t studied",
+                    "hasn’t studied",
+                    "wasn’t studying"
+                  ],
+                  "answer": 1,
+                  "explanation": "Hadn’t + past participle."
+                },
+                {
+                  "prompt": "______ Sergio before you started the job?",
+                  "options": [
+                    "Had you met",
+                    "Have you met",
+                    "Were you meeting",
+                    "Did you meet"
+                  ],
+                  "answer": 0,
+                  "explanation": "Had + subject + past participle?"
+                },
+                {
+                  "prompt": "He’d forgotten his wallet, so he ______ anything.",
+                  "options": [
+                    "can’t buy",
+                    "couldn’t buy",
+                    "wasn’t buying",
+                    "hadn’t bought"
+                  ],
+                  "answer": 1,
+                  "explanation": "Result in the simple past: couldn’t buy."
+                },
+                {
+                  "prompt": "We ______ ceviche before we visited Peru.",
+                  "options": [
+                    "hadn’t tried",
+                    "haven’t tried",
+                    "didn’t try",
+                    "weren’t trying"
+                  ],
+                  "answer": 0,
+                  "explanation": "Hadn’t tried = before the visit."
+                },
+                {
+                  "prompt": "Had you trained a lot before you ran the marathon? — Yes, I ______.",
+                  "options": [
+                    "was",
+                    "had",
+                    "have",
+                    "did"
+                  ],
+                  "answer": 1,
+                  "explanation": "Short answer: Yes, I had. / No, I hadn’t."
+                },
+                {
+                  "prompt": "Had she seen the movie before? — No, she ______.",
+                  "options": [
+                    "hasn’t",
+                    "didn’t",
+                    "hadn’t",
+                    "wasn’t"
+                  ],
+                  "answer": 2,
+                  "explanation": "No, she hadn’t."
+                },
+                {
+                  "prompt": "\"I’d seen him before\" means:",
+                  "options": [
+                    "I have seen him",
+                    "I had seen him",
+                    "I did see him",
+                    "I would see him"
+                  ],
+                  "answer": 1,
+                  "explanation": "’d = had before a past participle."
+                },
+                {
+                  "prompt": "\"I’d see him if I could\" means:",
+                  "options": [
+                    "I was seeing him",
+                    "I had seen him",
+                    "I would see him",
+                    "I did see him"
+                  ],
+                  "answer": 2,
+                  "explanation": "’d = would before a base form."
+                },
+                {
+                  "prompt": "When I got home, my husband ______ dinner. (first he cooked, then I arrived)",
+                  "options": [
+                    "cooks",
+                    "cooked",
+                    "had cooked",
+                    "was cooking"
+                  ],
+                  "answer": 2,
+                  "explanation": "Dinner was finished before I got home → past perfect."
+                },
+                {
+                  "prompt": "When I got home, my husband ______ dinner. (he was in the middle of it)",
+                  "options": [
+                    "had cooked",
+                    "has cooked",
+                    "was cooking",
+                    "cooked"
+                  ],
+                  "answer": 2,
+                  "explanation": "Action in progress → past continuous."
+                },
+                {
+                  "prompt": "When I got home, my husband ______ dinner. (he started after I arrived)",
+                  "options": [
+                    "was cooking",
+                    "has cooked",
+                    "had cooked",
+                    "cooked"
+                  ],
+                  "answer": 3,
+                  "explanation": "Sequence of events → simple past."
+                },
+                {
+                  "prompt": "When the game started, the stadium ______ full because the crowd had arrived early.",
+                  "options": [
+                    "had been",
+                    "was",
+                    "was being",
+                    "is"
+                  ],
+                  "answer": 1,
+                  "explanation": "Main past event: simple past."
+                },
+                {
+                  "prompt": "By the time we got to the stadium, the match ______.",
+                  "options": [
+                    "has started",
+                    "started",
+                    "was starting",
+                    "had started"
+                  ],
+                  "answer": 3,
+                  "explanation": "\"By the time\" + past perfect for the earlier action."
+                },
+                {
+                  "prompt": "Atlético were disappointed because they ______ to Real Madrid in 2014 too.",
+                  "options": [
+                    "have lost",
+                    "were losing",
+                    "lost",
+                    "had lost"
+                  ],
+                  "answer": 3,
+                  "explanation": "2014 is before 2016 → past perfect."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "She had go home before the party ended.",
+                    "She had went home before the party ended.",
+                    "She had gone home before the party ended.",
+                    "She has went home before the party ended."
+                  ],
+                  "answer": 2,
+                  "explanation": "Had + past participle (gone)."
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "Did you ever had run a race?",
+                    "Had you ever ran a race before 2020?",
+                    "Had you ever run a race before 2020?",
+                    "Have you ever ran a race before 2020?"
+                  ],
+                  "answer": 2,
+                  "explanation": "Run – ran – run."
+                },
+                {
+                  "prompt": "The runner ______ when she fell and hurt her knee.",
+                  "options": [
+                    "runs",
+                    "ran",
+                    "had run",
+                    "was running"
+                  ],
+                  "answer": 3,
+                  "explanation": "Interrupted action → past continuous."
+                },
+                {
+                  "prompt": "The referee ______ the whistle, and the game ______.",
+                  "options": [
+                    "had blown / began",
+                    "blew / was beginning",
+                    "was blowing / had begun",
+                    "blew / began"
+                  ],
+                  "answer": 3,
+                  "explanation": "Two events in order → simple past + simple past."
+                },
+                {
+                  "prompt": "The past perfect is formed with ______.",
+                  "options": [
+                    "had + past participle",
+                    "did + base form",
+                    "was + -ing",
+                    "have + past participle"
+                  ],
+                  "answer": 0,
+                  "explanation": "Had + past participle for all subjects."
+                },
+                {
+                  "prompt": "We use the past perfect to describe an action that happened ______.",
+                  "options": [
+                    "right now",
+                    "after another action in the past",
+                    "before another action in the past",
+                    "in the future"
+                  ],
+                  "answer": 2,
+                  "explanation": "Earlier past = past perfect."
+                },
+                {
+                  "prompt": "I ______ so happy before: I had just won my first medal.",
+                  "options": [
+                    "have never felt",
+                    "had never felt",
+                    "was never feeling",
+                    "never felt"
+                  ],
+                  "answer": 1,
+                  "explanation": "Had never felt."
+                },
+                {
+                  "prompt": "When they ______ the medal ceremony, the athletes had already left.",
+                  "options": [
+                    "were starting",
+                    "started",
+                    "start",
+                    "had started"
+                  ],
+                  "answer": 1,
+                  "explanation": "\"When\" + simple past; the earlier action takes the past perfect."
+                },
+                {
+                  "prompt": "The team ______ a trophy for ten years before they finally won the final.",
+                  "options": [
+                    "didn’t win",
+                    "weren’t winning",
+                    "hadn’t won",
+                    "haven’t won"
+                  ],
+                  "answer": 2,
+                  "explanation": "Hadn’t won + for ten years (before a past event)."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I arrived at the meeting late because I’d missed the train.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I arrived at the meeting late because I had miss the train.",
+                  "correct": false,
+                  "fix": "I arrived at the meeting late because I had missed the train.",
+                  "explanation": "Had + past participle."
+                },
+                {
+                  "sentence": "Justine hadn’t studied for the exam, so she failed it.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Had you met Sergio before you started the job?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Did you had met Sergio before you started the job?",
+                  "correct": false,
+                  "fix": "Had you met Sergio before you started the job?",
+                  "explanation": "Had + subject + past participle?"
+                },
+                {
+                  "sentence": "He’d forgotten his wallet, so he couldn’t buy anything.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We hadn’t tried ceviche before we visited Peru.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Had you trained a lot before you ran the marathon? Yes, I had.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Had you trained a lot before the marathon? Yes, I did.",
+                  "correct": false,
+                  "fix": "Had you trained a lot before the marathon? Yes, I had.",
+                  "explanation": "Short answer repeats \"had\"."
+                },
+                {
+                  "sentence": "When I got home, my husband had cooked the dinner.",
+                  "correct": true
+                },
+                {
+                  "sentence": "When I got home, my husband was cooking the dinner.",
+                  "correct": true
+                },
+                {
+                  "sentence": "When I got home, my husband cooked the dinner.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She had went home before the party ended.",
+                  "correct": false,
+                  "fix": "She had gone home before the party ended.",
+                  "explanation": "Go – went – gone."
+                },
+                {
+                  "sentence": "By the time we arrived, the game had already started.",
+                  "correct": true
+                },
+                {
+                  "sentence": "By the time we arrived, the game already started.",
+                  "correct": false,
+                  "fix": "By the time we arrived, the game had already started.",
+                  "explanation": "Earlier action → past perfect."
+                },
+                {
+                  "sentence": "Atlético were disappointed because they had lost to Real Madrid in 2014 too.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The runner was running fast when she fell.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’d never seen such a big crowd before that game.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Had the referee ever shown a red card before? No, he hadn’t.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They had been winning the trophy for years before they lost in 2016.",
+                  "correct": false,
+                  "fix": "They had won the trophy for years before they lost in 2016.",
+                  "explanation": "Use the past perfect simple for completed earlier actions."
+                },
+                {
+                  "sentence": "The athletes had already left when the ceremony started.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’d see him before, so I recognized him.",
+                  "correct": false,
+                  "fix": "I’d seen him before, so I recognized him.",
+                  "explanation": "’d + past participle = had."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "When the game started, the crowd had filled the stadium.",
+                  "image": "/img/sports/crowd.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"When the game started, the crowd had filled the stadium.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"When the game started, the crowd had filled the stadium.\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"When the game started, the crowd had filled the stadium.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"When the game started, the crowd had filled the stadium.\" → Past perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "The player had warmed up before the race began.",
+                  "image": "/img/sports/warm-up.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"The player had warmed up before the race began.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The player had warmed up before the race began.\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"The player had warmed up before the race began.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The player had warmed up before the race began.\" → Past perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "When we arrived, Real Madrid had already scored.",
+                  "image": "/img/sports/score.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"When we arrived, Real Madrid had already scored.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"When we arrived, Real Madrid had already scored.\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"When we arrived, Real Madrid had already scored.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"When we arrived, Real Madrid had already scored.\" → Past perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "She was running when she fell.",
+                  "image": "/img/sports/race.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"She was running when she fell.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"She was running when she fell.\" → The simple past action."
+                    },
+                    {
+                      "prompt": "Which tense is \"She was running when she fell.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"She was running when she fell.\" → Past continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "The referee showed a red card.",
+                  "image": "/img/sports/referee.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"The referee showed a red card.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"The referee showed a red card.\" → Both at the same time."
+                    },
+                    {
+                      "prompt": "Which tense is \"The referee showed a red card.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"The referee showed a red card.\" → Simple past."
+                    }
+                  ]
+                },
+                {
+                  "word": "He had never won a medal before 2016.",
+                  "image": "/img/sports/medal.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"He had never won a medal before 2016.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He had never won a medal before 2016.\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"He had never won a medal before 2016.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He had never won a medal before 2016.\" → Past perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "They lost the final on penalties.",
+                  "image": "/img/sports/lose.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"They lost the final on penalties.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"They lost the final on penalties.\" → Both at the same time."
+                    },
+                    {
+                      "prompt": "Which tense is \"They lost the final on penalties.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"They lost the final on penalties.\" → Simple past."
+                    }
+                  ]
+                },
+                {
+                  "word": "When I got home, my husband was cooking dinner.",
+                  "image": "/img/sports/game.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"When I got home, my husband was cooking dinner.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"When I got home, my husband was cooking dinner.\" → The simple past action."
+                    },
+                    {
+                      "prompt": "Which tense is \"When I got home, my husband was cooking dinner.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"When I got home, my husband was cooking dinner.\" → Past continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "The umpire had already left when we got there.",
+                  "image": "/img/sports/umpire.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"The umpire had already left when we got there.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The umpire had already left when we got there.\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"The umpire had already left when we got there.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The umpire had already left when we got there.\" → Past perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "Had you trained a lot before you ran the marathon?",
+                  "image": "/img/sports/athlete.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"Had you trained a lot before you ran the marathon?\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Had you trained a lot before you ran the marathon?\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"Had you trained a lot before you ran the marathon?\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Had you trained a lot before you ran the marathon?\" → Past perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "The spectators were cheering when the trophy arrived.",
+                  "image": "/img/sports/spectator.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"The spectators were cheering when the trophy arrived.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"The spectators were cheering when the trophy arrived.\" → The simple past action."
+                    },
+                    {
+                      "prompt": "Which tense is \"The spectators were cheering when the trophy arrived.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"The spectators were cheering when the trophy arrived.\" → Past continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "Atlético hadn’t beaten Real Madrid in the final.",
+                  "image": "/img/sports/beat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In \"Atlético hadn’t beaten Real Madrid in the final.\", which action happened FIRST?",
+                      "options": [
+                        "The past perfect action (had + participle)",
+                        "The simple past action",
+                        "Both at the same time",
+                        "We can’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Atlético hadn’t beaten Real Madrid in the final.\" → The past perfect action (had + participle)."
+                    },
+                    {
+                      "prompt": "Which tense is \"Atlético hadn’t beaten Real Madrid in the final.\"?",
+                      "options": [
+                        "Past perfect",
+                        "Simple past",
+                        "Past continuous",
+                        "Present perfect"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Atlético hadn’t beaten Real Madrid in the final.\" → Past perfect."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I arrived at the meeting late because I’d missed the train.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Justine hadn’t studied for the exam, so she failed it.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Had you met Sergio before you started the job?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "When I got home, my husband had cooked the dinner.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He’d forgotten his wallet, so he couldn’t buy anything at the stadium. He watched the whole game without eating or drinking.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why couldn’t he buy anything?",
+                  "options": [
+                    "He had lost his ticket",
+                    "The shop was closed",
+                    "He wasn’t hungry",
+                    "He had forgotten his wallet"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "We hadn’t tried ceviche before we visited Peru. On our first night in Lima, we ordered it and loved it.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When did they try ceviche for the first time?",
+                  "options": [
+                    "At home",
+                    "They never tried it",
+                    "In Peru",
+                    "Before the trip"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Had you trained a lot before you ran the marathon? — Yes, I had. I had run every morning for six months. — No wonder you finished!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How had the speaker prepared?",
+                  "options": [
+                    "By swimming",
+                    "By watching races",
+                    "By running every morning for six months",
+                    "By doing nothing"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "When I got home, my husband was cooking dinner. The kitchen smelled wonderful, but dinner wasn’t ready yet.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Was dinner ready when the speaker got home?",
+                  "options": [
+                    "He hadn’t started",
+                    "They ate out",
+                    "No, he was still cooking",
+                    "Yes, it was on the table"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "When we got to the stadium, the game had already started and Real Madrid had scored. We had missed the first goal!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What had happened before they arrived?",
+                  "options": [
+                    "Real Madrid had scored",
+                    "The game had finished",
+                    "The crowd had left",
+                    "Nothing"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Atlético were disappointed because they had lost to Real Madrid in 2014, and now, in 2016, they had lost to them again.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many finals had Atlético lost to Real Madrid by 2016?",
+                  "options": [
+                    "Three",
+                    "One",
+                    "None",
+                    "Two"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "I’d seen the movie before, so I knew the ending. My sister hadn’t seen it, and she cried at the end.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did the speaker know the ending?",
+                  "options": [
+                    "They read the book",
+                    "They had seen the movie before",
+                    "Their sister told them",
+                    "They guessed"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "By the time the referee blew the whistle, the spectators had been in the stadium for two hours, and most of them had already eaten.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What had most spectators done before the game?",
+                  "options": [
+                    "Scored",
+                    "Eaten",
+                    "Warmed up",
+                    "Left"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Late Again",
+                  "situation": "Explain to your boss why you arrived late. Use the past perfect to describe what had happened before.",
+                  "mandatory": [
+                    "had missed",
+                    "because",
+                    "late"
+                  ],
+                  "taboo": [
+                    "sorry",
+                    "traffic"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Big Game",
+                  "situation": "Describe a game or race you watched: what had happened before you arrived and what happened next.",
+                  "mandatory": [
+                    "had already",
+                    "when",
+                    "scored"
+                  ],
+                  "taboo": [
+                    "TV",
+                    "watch"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Before the Trip",
+                  "situation": "Talk about a trip. What had you never done before you went there? What did you try?",
+                  "mandatory": [
+                    "had never",
+                    "before",
+                    "tried"
+                  ],
+                  "taboo": [
+                    "travel",
+                    "holiday"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Had You…?",
+                  "situation": "Student A asks \"Had you ever… before…?\" questions. Student B answers \"Yes, I had / No, I hadn’t\" and adds details.",
+                  "mandatory": [
+                    "Had you",
+                    "hadn’t",
+                    "before"
+                  ],
+                  "taboo": [
+                    "yes",
+                    "no"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Three Dinners",
+                  "situation": "Tell the story of \"When I got home…\" three ways: had cooked, was cooking, cooked. Explain the difference.",
+                  "mandatory": [
+                    "had cooked",
+                    "was cooking",
+                    "cooked"
+                  ],
+                  "taboo": [
+                    "dinner",
+                    "food"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Disappointed Fan",
+                  "situation": "You are an Atlético fan after the 2016 final. Explain why you were so disappointed using the past perfect.",
+                  "mandatory": [
+                    "had lost",
+                    "again",
+                    "disappointed"
+                  ],
+                  "taboo": [
+                    "sad",
+                    "cry"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
