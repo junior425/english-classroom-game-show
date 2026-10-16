@@ -56340,6 +56340,2150 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L5U7T5",
+              "name": "7C - Vocabulary: TV & Music",
+              "steal": [
+                {
+                  "prompt": "A TV show where people answer questions to win money or prizes is a ______.",
+                  "options": [
+                    "talk show",
+                    "sitcom",
+                    "game show",
+                    "soap opera"
+                  ],
+                  "answer": 2,
+                  "explanation": "Game show: Who Wants to Be a Millionaire?"
+                },
+                {
+                  "prompt": "A TV show where a host interviews famous guests is a ______.",
+                  "options": [
+                    "talk show",
+                    "reality show",
+                    "drama",
+                    "cartoon"
+                  ],
+                  "answer": 0,
+                  "explanation": "Talk show: The Late Show."
+                },
+                {
+                  "prompt": "A serious story about people’s lives and problems, often with crime, is a ______.",
+                  "options": [
+                    "sitcom",
+                    "cartoon",
+                    "game show",
+                    "drama"
+                  ],
+                  "answer": 3,
+                  "explanation": "Drama."
+                },
+                {
+                  "prompt": "A show that follows ordinary people in real situations is a ______.",
+                  "options": [
+                    "reality show",
+                    "talk show",
+                    "talent show",
+                    "soap opera"
+                  ],
+                  "answer": 0,
+                  "explanation": "Reality show."
+                },
+                {
+                  "prompt": "An animated show like The Simpsons is a ______.",
+                  "options": [
+                    "drama",
+                    "sitcom",
+                    "the news",
+                    "cartoon"
+                  ],
+                  "answer": 3,
+                  "explanation": "Cartoon."
+                },
+                {
+                  "prompt": "A funny show with the same characters every week, usually 30 minutes, is a ______.",
+                  "options": [
+                    "soap opera",
+                    "sitcom",
+                    "talent show",
+                    "drama"
+                  ],
+                  "answer": 1,
+                  "explanation": "Sitcom = situation comedy."
+                },
+                {
+                  "prompt": "A show about the dramatic lives of a group of people, with episodes every day, is a ______.",
+                  "options": [
+                    "game show",
+                    "reality show",
+                    "sitcom",
+                    "soap opera"
+                  ],
+                  "answer": 3,
+                  "explanation": "Soap opera."
+                },
+                {
+                  "prompt": "The program that tells you what is happening in the world is ______.",
+                  "options": [
+                    "a cartoon",
+                    "a drama",
+                    "the news",
+                    "a sitcom"
+                  ],
+                  "answer": 2,
+                  "explanation": "The news (always with \"the\")."
+                },
+                {
+                  "prompt": "A show where people sing or dance to win a competition, like American Idol, is a ______.",
+                  "options": [
+                    "game show",
+                    "talent show",
+                    "talk show",
+                    "soap opera"
+                  ],
+                  "answer": 1,
+                  "explanation": "Talent show."
+                },
+                {
+                  "prompt": "Can you change the ______, please? The news is on at 9:00 p.m. and I want to watch it.",
+                  "options": [
+                    "episode",
+                    "channel",
+                    "series",
+                    "season"
+                  ],
+                  "answer": 1,
+                  "explanation": "Change the channel."
+                },
+                {
+                  "prompt": "I’m going to make coffee while the ______ are on, so I don’t miss the show.",
+                  "options": [
+                    "episodes",
+                    "tracks",
+                    "hosts",
+                    "ads"
+                  ],
+                  "answer": 3,
+                  "explanation": "Ads = advertisements / commercials."
+                },
+                {
+                  "prompt": "Everyone in the ______ laughed when the host told a joke about the politician.",
+                  "options": [
+                    "band",
+                    "channel",
+                    "audience",
+                    "playlist"
+                  ],
+                  "answer": 2,
+                  "explanation": "Audience = the people watching."
+                },
+                {
+                  "prompt": "I prefer watching TV ______ to movies. My favorite is Game of Thrones.",
+                  "options": [
+                    "hosts",
+                    "episodes",
+                    "channels",
+                    "series"
+                  ],
+                  "answer": 3,
+                  "explanation": "TV series (singular and plural: series)."
+                },
+                {
+                  "prompt": "Game of Thrones: ______ one was the best!",
+                  "options": [
+                    "channel",
+                    "episode",
+                    "host",
+                    "season"
+                  ],
+                  "answer": 3,
+                  "explanation": "A season = one year of a series (several episodes)."
+                },
+                {
+                  "prompt": "The person who presents a TV show and talks to the guests is the ______.",
+                  "options": [
+                    "host",
+                    "band",
+                    "audience",
+                    "channel"
+                  ],
+                  "answer": 0,
+                  "explanation": "Host."
+                },
+                {
+                  "prompt": "One single program in a series is an ______.",
+                  "options": [
+                    "audience",
+                    "episode",
+                    "album",
+                    "ad"
+                  ],
+                  "answer": 1,
+                  "explanation": "Episode."
+                },
+                {
+                  "prompt": "My favorite ______ is The Best of Jana by a singer called Jana.",
+                  "options": [
+                    "album",
+                    "track",
+                    "band",
+                    "playlist"
+                  ],
+                  "answer": 0,
+                  "explanation": "Album = a collection of songs."
+                },
+                {
+                  "prompt": "Why don’t you choose your favorite 50 songs and make a ______ for the party?",
+                  "options": [
+                    "season",
+                    "tour",
+                    "channel",
+                    "playlist"
+                  ],
+                  "answer": 3,
+                  "explanation": "Playlist."
+                },
+                {
+                  "prompt": "When I saw Shakira in concert last year, she sang all of her ______, including my favorite song, Whenever, Wherever.",
+                  "options": [
+                    "tracks",
+                    "ads",
+                    "episodes",
+                    "hits"
+                  ],
+                  "answer": 3,
+                  "explanation": "Hits = very popular songs."
+                },
+                {
+                  "prompt": "When we were students, my sister and I were in a ______. I was the singer, and she played the guitar.",
+                  "options": [
+                    "host",
+                    "series",
+                    "band",
+                    "playlist"
+                  ],
+                  "answer": 2,
+                  "explanation": "Band."
+                },
+                {
+                  "prompt": "I love seeing my favorite groups ______ in concert.",
+                  "options": [
+                    "live",
+                    "on tour",
+                    "on air",
+                    "on the album"
+                  ],
+                  "answer": 0,
+                  "explanation": "Live (adj.) = performed in front of an audience."
+                },
+                {
+                  "prompt": "The band is ______ this year: they are playing in 20 cities.",
+                  "options": [
+                    "on the news",
+                    "on a playlist",
+                    "on tour",
+                    "live"
+                  ],
+                  "answer": 2,
+                  "explanation": "On tour."
+                },
+                {
+                  "prompt": "The album has 12 ______, and the last one is my favorite.",
+                  "options": [
+                    "episodes",
+                    "seasons",
+                    "tracks",
+                    "channels"
+                  ],
+                  "answer": 2,
+                  "explanation": "Tracks = songs on an album."
+                },
+                {
+                  "prompt": "Which word goes with TV, not music?",
+                  "options": [
+                    "album",
+                    "episode",
+                    "playlist",
+                    "tracks"
+                  ],
+                  "answer": 1,
+                  "explanation": "Episode is a TV word."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Can you change the channel, please? The news is on at 9:00.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m going to make coffee while the ads are on.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Everyone in the audience laughed at the host’s joke.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I prefer watching TV series to movies.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Season one of Game of Thrones was the best.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The Simpsons is my favorite cartoon.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Friends is a famous sitcom about six friends in New York.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I watch the news every night at nine.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I watch news every night at nine.",
+                  "correct": false,
+                  "fix": "I watch the news every night at nine.",
+                  "explanation": "Always \"the news\"."
+                },
+                {
+                  "sentence": "My grandmother never misses an episode of her soap opera.",
+                  "correct": true
+                },
+                {
+                  "sentence": "American Idol is a talent show where people sing.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The host of the talk show interviewed a famous actor.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The audience were asked to turn off their phones.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My favorite album is The Best of Jana.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Why don’t you make a playlist for the party?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Shakira sang all of her hits at the concert.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My sister and I were in a band when we were students.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love seeing my favorite groups live in concert.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The band is on tour in Europe this summer.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The band is in tour in Europe this summer.",
+                  "correct": false,
+                  "fix": "The band is on tour in Europe this summer.",
+                  "explanation": "ON tour."
+                },
+                {
+                  "sentence": "The album has twelve tracks.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The album has twelve episodes.",
+                  "correct": false,
+                  "fix": "The album has twelve tracks.",
+                  "explanation": "Albums have tracks; series have episodes."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "game show",
+                  "image": "/img/tv-music/game-show.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"game show\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Game show\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"game show\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Game show\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "talk show",
+                  "image": "/img/tv-music/talk-show.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"talk show\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Talk show\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"talk show\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Talk show\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "drama",
+                  "image": "/img/tv-music/drama.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"drama\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Drama\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"drama\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Drama\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "reality show",
+                  "image": "/img/tv-music/reality-show.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"reality show\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Reality show\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"reality show\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Reality show\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "cartoon",
+                  "image": "/img/tv-music/cartoon.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"cartoon\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cartoon\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"cartoon\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cartoon\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "sitcom",
+                  "image": "/img/tv-music/sitcom.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"sitcom\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sitcom\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"sitcom\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sitcom\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "soap opera",
+                  "image": "/img/tv-music/soap-opera.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"soap opera\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Soap opera\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"soap opera\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Soap opera\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "the news",
+                  "image": "/img/tv-music/the-news.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"the news\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The news\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"the news\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The news\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "talent show",
+                  "image": "/img/tv-music/talent-show.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"talent show\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Talent show\" → A type of TV show."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"talent show\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Talent show\" → Both TV and music."
+                    }
+                  ]
+                },
+                {
+                  "word": "ads",
+                  "image": "/img/tv-music/ads.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"ads\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ads\" → A TV word (not a show type)."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"ads\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Ads\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "audience",
+                  "image": "/img/tv-music/audience.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"audience\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Audience\" → A person."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"audience\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Audience\" → Both TV and music."
+                    }
+                  ]
+                },
+                {
+                  "word": "channel",
+                  "image": "/img/tv-music/channel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"channel\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Channel\" → A TV word (not a show type)."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"channel\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Channel\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "episode",
+                  "image": "/img/tv-music/episode.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"episode\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Episode\" → A TV word (not a show type)."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"episode\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Episode\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "host",
+                  "image": "/img/tv-music/host.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"host\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Host\" → A person."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"host\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Host\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "series",
+                  "image": "/img/tv-music/series.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"series\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Series\" → A TV word (not a show type)."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"series\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Series\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "season",
+                  "image": "/img/tv-music/season.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"season\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Season\" → A TV word (not a show type)."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"season\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Season\" → On TV."
+                    }
+                  ]
+                },
+                {
+                  "word": "band",
+                  "image": "/img/tv-music/band.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"band\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Band\" → A person."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"band\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Band\" → At a concert."
+                    }
+                  ]
+                },
+                {
+                  "word": "tracks",
+                  "image": "/img/tv-music/tracks.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"tracks\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Tracks\" → A music word."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"tracks\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Tracks\" → On your phone or a record."
+                    }
+                  ]
+                },
+                {
+                  "word": "playlist",
+                  "image": "/img/tv-music/playlist.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"playlist\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Playlist\" → A music word."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"playlist\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Playlist\" → On your phone or a record."
+                    }
+                  ]
+                },
+                {
+                  "word": "on tour",
+                  "image": "/img/tv-music/on-tour.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"on tour\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"On tour\" → A music word."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"on tour\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"On tour\" → At a concert."
+                    }
+                  ]
+                },
+                {
+                  "word": "hits",
+                  "image": "/img/tv-music/hits.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"hits\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hits\" → A music word."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"hits\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Hits\" → On your phone or a record."
+                    }
+                  ]
+                },
+                {
+                  "word": "live",
+                  "image": "/img/tv-music/live.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"live\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Live\" → A music word."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"live\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Live\" → At a concert."
+                    }
+                  ]
+                },
+                {
+                  "word": "album",
+                  "image": "/img/tv-music/album.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"album\"?",
+                      "options": [
+                        "A type of TV show",
+                        "A TV word (not a show type)",
+                        "A music word",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Album\" → A music word."
+                    },
+                    {
+                      "prompt": "Where do you usually find \"album\"?",
+                      "options": [
+                        "On TV",
+                        "At a concert",
+                        "On your phone or a record",
+                        "Both TV and music"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Album\" → On your phone or a record."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Can you change the channel, please? The news is on at nine o’clock.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Everyone in the audience laughed when the host told a joke.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Why don’t you choose your favorite fifty songs and make a playlist for the party?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "When we were students, my sister and I were in a band.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Tonight on Channel 7: at eight, a new episode of your favorite sitcom; at nine, the news; and at ten, the final of the talent show, live from Los Angeles.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is on at ten o’clock?",
+                  "options": [
+                    "A cartoon",
+                    "A sitcom",
+                    "The talent show final",
+                    "The news"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I prefer TV series to movies. I’m watching Game of Thrones again, and season one is definitely the best. I can watch three episodes in a night!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which season does the speaker like best?",
+                  "options": [
+                    "Season one",
+                    "Season three",
+                    "The last one",
+                    "None"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I’m going to make coffee while the ads are on, so I don’t miss the show. Call me when the host comes back.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When will the speaker make coffee?",
+                  "options": [
+                    "During the news",
+                    "During the ads",
+                    "After the show",
+                    "Before breakfast"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My grandmother watches a soap opera every afternoon. She has seen every episode for twenty years and she cries every time.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What kind of show does the grandmother watch?",
+                  "options": [
+                    "A soap opera",
+                    "A cartoon",
+                    "A game show",
+                    "A reality show"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "When I saw Shakira in concert last year, she sang all of her hits, including my favorite song, Whenever, Wherever. Seeing her live was amazing.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Shakira sing?",
+                  "options": [
+                    "One song",
+                    "All of her hits",
+                    "Songs by other singers",
+                    "Only new songs"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The band is on tour this year. They are playing in twenty cities, and their new album has twelve tracks. The first track is already a hit.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many tracks does the new album have?",
+                  "options": [
+                    "Two",
+                    "One",
+                    "Twenty",
+                    "Twelve"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Who Wants to Be a Millionaire is a game show. The host asks questions, and if the contestant answers all of them correctly, they win a million dollars.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What kind of show is it?",
+                  "options": [
+                    "A sitcom",
+                    "A game show",
+                    "A talk show",
+                    "A drama"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Tonight’s talk show has three guests: an actor from a new drama, a singer who is on tour, and a famous chef. The audience is already in the studio.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many guests are on the talk show?",
+                  "options": [
+                    "Two",
+                    "Four",
+                    "Three",
+                    "One"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "TV Guide",
+                  "situation": "Describe three TV shows you like: what kind of show each one is, who the host is and which channel it is on.",
+                  "mandatory": [
+                    "sitcom",
+                    "channel",
+                    "host"
+                  ],
+                  "taboo": [
+                    "television",
+                    "program"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Binge Watching",
+                  "situation": "Student A thinks watching a whole season in one night is great. Student B disagrees. Debate.",
+                  "mandatory": [
+                    "episode",
+                    "season",
+                    "series"
+                  ],
+                  "taboo": [
+                    "Netflix",
+                    "sleep"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Playlist for the Party",
+                  "situation": "Plan a party playlist with your partner: which bands, albums and hits will you include?",
+                  "mandatory": [
+                    "playlist",
+                    "hits",
+                    "album"
+                  ],
+                  "taboo": [
+                    "song",
+                    "music"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Best Concert Ever",
+                  "situation": "Tell your partner about a concert you saw live or would like to see. Who was on tour? Which tracks did they play?",
+                  "mandatory": [
+                    "live",
+                    "on tour",
+                    "tracks"
+                  ],
+                  "taboo": [
+                    "concert",
+                    "show"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Reality or Talent?",
+                  "situation": "Student A prefers reality shows; Student B prefers talent shows. Convince each other.",
+                  "mandatory": [
+                    "reality show",
+                    "talent show",
+                    "audience"
+                  ],
+                  "taboo": [
+                    "real",
+                    "sing"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Ads Everywhere",
+                  "situation": "Discuss: are there too many ads on TV? How do you avoid them? Which cartoons or sitcoms did you watch as a child?",
+                  "mandatory": [
+                    "ads",
+                    "cartoon",
+                    "the news"
+                  ],
+                  "taboo": [
+                    "commercial",
+                    "boring"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U7T6",
+              "name": "7C - Grammar: Modals of Ability & Possibility (can / could / be able to)",
+              "steal": [
+                {
+                  "prompt": "I ______ ride a bike when I was four years old.",
+                  "options": [
+                    "am able to",
+                    "will be able to",
+                    "can",
+                    "could"
+                  ],
+                  "answer": 3,
+                  "explanation": "Past ability → could."
+                },
+                {
+                  "prompt": "We ______ watch our favorite show because the TV broke.",
+                  "options": [
+                    "couldn’t",
+                    "can’t",
+                    "won’t be able to",
+                    "aren’t able to"
+                  ],
+                  "answer": 0,
+                  "explanation": "Past: couldn’t."
+                },
+                {
+                  "prompt": "I’ll ______ go on tour with my band when I finish college.",
+                  "options": [
+                    "able to",
+                    "be able to",
+                    "could",
+                    "can"
+                  ],
+                  "answer": 1,
+                  "explanation": "After will, use be able to (not can)."
+                },
+                {
+                  "prompt": "I wasn’t ______ go to the concert because I was sick.",
+                  "options": [
+                    "can",
+                    "be able to",
+                    "could",
+                    "able to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Was/wasn’t able to + base form."
+                },
+                {
+                  "prompt": "My dad hasn’t ______ play squash since he hurt his knee.",
+                  "options": [
+                    "be able to",
+                    "can",
+                    "could",
+                    "been able to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Present perfect: hasn’t been able to."
+                },
+                {
+                  "prompt": "I ______ speak to my father yesterday.",
+                  "options": [
+                    "can’t",
+                    "am not able to",
+                    "won’t be able to",
+                    "couldn’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "Yesterday → couldn’t."
+                },
+                {
+                  "prompt": "I’ve ______ paint since I was a child.",
+                  "options": [
+                    "could",
+                    "can",
+                    "been able to",
+                    "be able to"
+                  ],
+                  "answer": 2,
+                  "explanation": "Present perfect needs be able to."
+                },
+                {
+                  "prompt": "I’m sorry, but I won’t ______ meet you for lunch tomorrow.",
+                  "options": [
+                    "be able to",
+                    "could",
+                    "able to",
+                    "can"
+                  ],
+                  "answer": 0,
+                  "explanation": "Won’t be able to."
+                },
+                {
+                  "prompt": "Have you ______ speak to John yet?",
+                  "options": [
+                    "can",
+                    "be able to",
+                    "could",
+                    "been able to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Have you been able to…?"
+                },
+                {
+                  "prompt": "I love ______ in bed all morning.",
+                  "options": [
+                    "could stay",
+                    "can stay",
+                    "being able to stay",
+                    "be able to stay"
+                  ],
+                  "answer": 2,
+                  "explanation": "After love (a verb), use being able to."
+                },
+                {
+                  "prompt": "Maria says she ______ come for dinner tonight.",
+                  "options": [
+                    "couldn’t",
+                    "can’t",
+                    "can’t to",
+                    "isn’t able to be"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present/future arrangement → can’t."
+                },
+                {
+                  "prompt": "I’d like to ______ speak Chinese.",
+                  "options": [
+                    "be able to",
+                    "can",
+                    "being able to",
+                    "could"
+                  ],
+                  "answer": 0,
+                  "explanation": "After to, use be able to."
+                },
+                {
+                  "prompt": "You should ______ find a cab outside.",
+                  "options": [
+                    "be able to",
+                    "can",
+                    "able to",
+                    "could"
+                  ],
+                  "answer": 0,
+                  "explanation": "After a modal (should), use be able to."
+                },
+                {
+                  "prompt": "He ______ play the piano really well.",
+                  "options": [
+                    "able to",
+                    "is able",
+                    "can",
+                    "could to"
+                  ],
+                  "answer": 2,
+                  "explanation": "Present ability → can."
+                },
+                {
+                  "prompt": "I ______ drive five years ago.",
+                  "options": [
+                    "am not able to",
+                    "can’t",
+                    "won’t be able to",
+                    "couldn’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "Past → couldn’t."
+                },
+                {
+                  "prompt": "I have my car here, so I ______ drive you to the station.",
+                  "options": [
+                    "could",
+                    "was able to",
+                    "can",
+                    "had been able to"
+                  ],
+                  "answer": 2,
+                  "explanation": "Present possibility → can."
+                },
+                {
+                  "prompt": "I ______ use my cell phone when I was in the country – there was no signal.",
+                  "options": [
+                    "can’t",
+                    "won’t be able to",
+                    "am not able to",
+                    "couldn’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "Past possibility → couldn’t."
+                },
+                {
+                  "prompt": "I ______ hear you very well. Please speak more loudly.",
+                  "options": [
+                    "wasn’t able to",
+                    "won’t be able to",
+                    "can’t",
+                    "couldn’t"
+                  ],
+                  "answer": 2,
+                  "explanation": "Verbs of the senses (hear, see) with can/can’t (present)."
+                },
+                {
+                  "prompt": "It was very foggy, and I ______ see the cars in front of me.",
+                  "options": [
+                    "can’t",
+                    "couldn’t",
+                    "am not able to",
+                    "won’t be able to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past + verb of the senses → couldn’t."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "I’ll be able to go tomorrow.",
+                    "I’ll can go tomorrow.",
+                    "I’ll able to go tomorrow.",
+                    "I’ll could go tomorrow."
+                  ],
+                  "answer": 0,
+                  "explanation": "Modal + be able to."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "She’s never been able to swim very well.",
+                    "She’s never could swim very well.",
+                    "She’s never can swim very well.",
+                    "She’s never able swim very well."
+                  ],
+                  "answer": 0,
+                  "explanation": "Present perfect: been able to."
+                },
+                {
+                  "prompt": "Which sentence sounds more formal?",
+                  "options": [
+                    "Do you speak any foreign languages?",
+                    "Could you speak any foreign languages?",
+                    "Can you speak any foreign languages?",
+                    "Are you able to speak any foreign languages?"
+                  ],
+                  "answer": 3,
+                  "explanation": "Be able to is more formal than can/could."
+                },
+                {
+                  "prompt": "Complete the text: I’d love to walk to work, but it’s too far away. If I finish all my work today, I ______ go out tonight.",
+                  "options": [
+                    "was able to",
+                    "will be able to",
+                    "can",
+                    "could"
+                  ],
+                  "answer": 1,
+                  "explanation": "Future condition → will be able to (or can)."
+                },
+                {
+                  "prompt": "I’ve always ______ make new friends easily.",
+                  "options": [
+                    "can",
+                    "be able to",
+                    "been able to",
+                    "could"
+                  ],
+                  "answer": 2,
+                  "explanation": "Have always been able to."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I could ride a bike when I was four years old.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We couldn’t watch our favorite show because the TV broke.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ll be able to go on tour with my band when I finish college.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ll can go on tour with my band when I finish college.",
+                  "correct": false,
+                  "fix": "I’ll be able to go on tour with my band when I finish college.",
+                  "explanation": "Modal + be able to."
+                },
+                {
+                  "sentence": "I wasn’t able to go to the concert because I was sick.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My dad hasn’t been able to play squash since he hurt his knee.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My dad hasn’t could play squash since he hurt his knee.",
+                  "correct": false,
+                  "fix": "My dad hasn’t been able to play squash since he hurt his knee.",
+                  "explanation": "Present perfect needs be able to."
+                },
+                {
+                  "sentence": "I couldn’t speak to my father yesterday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ve been able to paint since I was a child.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m sorry, but I won’t be able to meet you for lunch tomorrow.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Have you been able to speak to John yet?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love being able to stay in bed all morning.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love can stay in bed all morning.",
+                  "correct": false,
+                  "fix": "I love being able to stay in bed all morning.",
+                  "explanation": "After love: being able to."
+                },
+                {
+                  "sentence": "Maria says she can’t come for dinner.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’d like to be able to speak Chinese.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’d like to can speak Chinese.",
+                  "correct": false,
+                  "fix": "I’d like to be able to speak Chinese.",
+                  "explanation": "After to: be able to."
+                },
+                {
+                  "sentence": "You should be able to find a cab outside.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I can’t hear you very well. Please speak more loudly.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It was very foggy, and I couldn’t see the cars in front of me.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She’s never been able to swim very well.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He can plays the piano really well.",
+                  "correct": false,
+                  "fix": "He can play the piano really well.",
+                  "explanation": "Modal + base form."
+                },
+                {
+                  "sentence": "I’ve always been able to make new friends easily.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "I ______ ride a bike when I was four years old.",
+                  "image": "/img/tv-music/could-ride.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"I ______ ride a bike when I was four years old.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I ______ ride a bike when I was four years old.\" → The past."
+                    },
+                    {
+                      "prompt": "Which form fits \"I ______ ride a bike when I was four years old.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I ______ ride a bike when I was four years old.\" → could / couldn’t."
+                    }
+                  ]
+                },
+                {
+                  "word": "We ______ watch our favorite show because the TV broke.",
+                  "image": "/img/tv-music/the-news.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"We ______ watch our favorite show because the TV broke.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"We ______ watch our favorite show because the TV broke.\" → The past."
+                    },
+                    {
+                      "prompt": "Which form fits \"We ______ watch our favorite show because the TV broke.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"We ______ watch our favorite show because the TV broke.\" → could / couldn’t."
+                    }
+                  ]
+                },
+                {
+                  "word": "I’ll ______ go on tour with my band when I finish college.",
+                  "image": "/img/tv-music/on-tour.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"I’ll ______ go on tour with my band when I finish college.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I’ll ______ go on tour with my band when I finish college.\" → The future."
+                    },
+                    {
+                      "prompt": "Which form fits \"I’ll ______ go on tour with my band when I finish college.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I’ll ______ go on tour with my band when I finish college.\" → Only be able to (modal before it)."
+                    }
+                  ]
+                },
+                {
+                  "word": "I wasn’t ______ go to the concert because I was sick.",
+                  "image": "/img/tv-music/live.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"I wasn’t ______ go to the concert because I was sick.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I wasn’t ______ go to the concert because I was sick.\" → The past."
+                    },
+                    {
+                      "prompt": "Which form fits \"I wasn’t ______ go to the concert because I was sick.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I wasn’t ______ go to the concert because I was sick.\" → be able to (any tense)."
+                    }
+                  ]
+                },
+                {
+                  "word": "My dad hasn’t ______ play squash since he hurt his knee.",
+                  "image": "/img/tv-music/not-able.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"My dad hasn’t ______ play squash since he hurt his knee.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"My dad hasn’t ______ play squash since he hurt his knee.\" → The present."
+                    },
+                    {
+                      "prompt": "Which form fits \"My dad hasn’t ______ play squash since he hurt his knee.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"My dad hasn’t ______ play squash since he hurt his knee.\" → Only be able to (modal before it)."
+                    }
+                  ]
+                },
+                {
+                  "word": "He ______ play the piano really well. (now)",
+                  "image": "/img/tv-music/band.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"He ______ play the piano really well. (now)\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"He ______ play the piano really well. (now)\" → The present."
+                    },
+                    {
+                      "prompt": "Which form fits \"He ______ play the piano really well. (now)\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He ______ play the piano really well. (now)\" → can / can’t."
+                    }
+                  ]
+                },
+                {
+                  "word": "I’d like to ______ speak Chinese.",
+                  "image": "/img/tv-music/able-to.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"I’d like to ______ speak Chinese.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I’d like to ______ speak Chinese.\" → Any time (general)."
+                    },
+                    {
+                      "prompt": "Which form fits \"I’d like to ______ speak Chinese.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I’d like to ______ speak Chinese.\" → Only be able to (modal before it)."
+                    }
+                  ]
+                },
+                {
+                  "word": "I ______ hear you very well. Please speak more loudly.",
+                  "image": "/img/tv-music/audience.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"I ______ hear you very well. Please speak more loudly.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I ______ hear you very well. Please speak more loudly.\" → The present."
+                    },
+                    {
+                      "prompt": "Which form fits \"I ______ hear you very well. Please speak more loudly.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I ______ hear you very well. Please speak more loudly.\" → can / can’t."
+                    }
+                  ]
+                },
+                {
+                  "word": "She’s never ______ swim very well.",
+                  "image": "/img/tv-music/not-able.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"She’s never ______ swim very well.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"She’s never ______ swim very well.\" → The present."
+                    },
+                    {
+                      "prompt": "Which form fits \"She’s never ______ swim very well.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"She’s never ______ swim very well.\" → Only be able to (modal before it)."
+                    }
+                  ]
+                },
+                {
+                  "word": "Are you ______ speak any foreign languages?",
+                  "image": "/img/tv-music/host.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"Are you ______ speak any foreign languages?\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Are you ______ speak any foreign languages?\" → The present."
+                    },
+                    {
+                      "prompt": "Which form fits \"Are you ______ speak any foreign languages?\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Are you ______ speak any foreign languages?\" → be able to (any tense)."
+                    }
+                  ]
+                },
+                {
+                  "word": "I have my car here, so I ______ drive you to the station.",
+                  "image": "/img/tv-music/able-to.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"I have my car here, so I ______ drive you to the station.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I have my car here, so I ______ drive you to the station.\" → The present."
+                    },
+                    {
+                      "prompt": "Which form fits \"I have my car here, so I ______ drive you to the station.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I have my car here, so I ______ drive you to the station.\" → can / can’t."
+                    }
+                  ]
+                },
+                {
+                  "word": "We love ______ sleep late on weekends.",
+                  "image": "/img/tv-music/playlist.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which time does \"We love ______ sleep late on weekends.\" talk about?",
+                      "options": [
+                        "The past",
+                        "The present",
+                        "The future",
+                        "Any time (general)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"We love ______ sleep late on weekends.\" → Any time (general)."
+                    },
+                    {
+                      "prompt": "Which form fits \"We love ______ sleep late on weekends.\"?",
+                      "options": [
+                        "can / can’t",
+                        "could / couldn’t",
+                        "be able to (any tense)",
+                        "Only be able to (modal before it)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"We love ______ sleep late on weekends.\" → Only be able to (modal before it)."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I could ride a bike when I was four years old.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ll be able to go on tour with my band when I finish college.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My dad hasn’t been able to play squash since he hurt his knee.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I can’t hear you very well. Please speak more loudly.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We couldn’t watch our favorite show last night because the TV broke. My brother tried to fix it, but he wasn’t able to.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why couldn’t they watch the show?",
+                  "options": [
+                    "The show was canceled",
+                    "The ads were too long",
+                    "The TV broke",
+                    "They were out"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I wasn’t able to go to the concert because I was sick, so my friend sent me videos. I hope I’ll be able to see the band when they come back next year.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the speaker hope?",
+                  "options": [
+                    "To see the band next year",
+                    "To send videos",
+                    "To sell the tickets",
+                    "To get sick again"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I’d like to be able to speak Chinese, but I’ve never been able to learn languages easily. My sister can speak four!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many languages can the sister speak?",
+                  "options": [
+                    "One",
+                    "None",
+                    "Two",
+                    "Four"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "It was very foggy this morning, and I couldn’t see the cars in front of me. I had to drive very slowly, so I wasn’t able to get to work on time.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why was the speaker late?",
+                  "options": [
+                    "Because of the fog",
+                    "Because of an accident",
+                    "Because of the traffic lights",
+                    "Because the car broke"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I have my car here, so I can drive you to the station. But I can’t talk to you right now – I’ll call you tonight.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What can the speaker do?",
+                  "options": [
+                    "Talk right now",
+                    "Drive the listener to the station",
+                    "Call tomorrow",
+                    "Take the train"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Have you been able to speak to John yet? — No, I couldn’t reach him yesterday, but I should be able to see him at the meeting tomorrow.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When will the speaker probably see John?",
+                  "options": [
+                    "Never",
+                    "Tonight",
+                    "At the meeting tomorrow",
+                    "Yesterday"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Maria says she can’t come for dinner tonight. She’s working late, but she’ll be able to join us on Saturday.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When will Maria join them?",
+                  "options": [
+                    "On Saturday",
+                    "Tonight",
+                    "Tomorrow",
+                    "Next month"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "When I was a child I couldn’t swim at all. Now I can swim two kilometers, and I love being able to go to the beach without worrying.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can the speaker do now?",
+                  "options": [
+                    "Nothing",
+                    "Ride a bike",
+                    "Swim two kilometers",
+                    "Only float"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "When I Was Four",
+                  "situation": "Tell your partner three things you could do and three you couldn’t do as a child.",
+                  "mandatory": [
+                    "could",
+                    "couldn’t",
+                    "when I was"
+                  ],
+                  "taboo": [
+                    "able",
+                    "possible"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Future Skills",
+                  "situation": "Talk about what you will be able to do in five years that you can’t do now.",
+                  "mandatory": [
+                    "will be able to",
+                    "can’t",
+                    "now"
+                  ],
+                  "taboo": [
+                    "future",
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Sorry, I Can’t",
+                  "situation": "Student A invites Student B to a concert. Student B explains why they can’t go and what they haven’t been able to do lately.",
+                  "mandatory": [
+                    "can’t",
+                    "haven’t been able to",
+                    "because"
+                  ],
+                  "taboo": [
+                    "no",
+                    "busy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Foggy Drive",
+                  "situation": "Tell a story about a day when you couldn’t do something because of the weather, a broken phone or no signal.",
+                  "mandatory": [
+                    "couldn’t",
+                    "wasn’t able to",
+                    "so"
+                  ],
+                  "taboo": [
+                    "bad",
+                    "problem"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Job Interview",
+                  "situation": "Student A is a formal interviewer: \"Are you able to…?\" Student B answers with can, could and be able to.",
+                  "mandatory": [
+                    "are you able to",
+                    "I can",
+                    "I’ve been able to"
+                  ],
+                  "taboo": [
+                    "yes",
+                    "good"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dream Abilities",
+                  "situation": "What would you like to be able to do? Explain why using \"I’d like to be able to…\" and \"I love being able to…\".",
+                  "mandatory": [
+                    "I’d like to be able to",
+                    "being able to",
+                    "because"
+                  ],
+                  "taboo": [
+                    "want",
+                    "wish"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
