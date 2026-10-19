@@ -37456,6 +37456,2182 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L3U10T5",
+              "name": "10C - Vocabulary: Parts of the Body",
+              "steal": [
+                {
+                  "prompt": "The part of your body at the end of your leg that you stand on is your ______.",
+                  "options": [
+                    "wrist",
+                    "ankle",
+                    "foot",
+                    "knee"
+                  ],
+                  "answer": 2,
+                  "explanation": "Foot (plural: feet)."
+                },
+                {
+                  "prompt": "The joint in the middle of your leg is your ______.",
+                  "options": [
+                    "elbow",
+                    "knee",
+                    "ankle",
+                    "shoulder"
+                  ],
+                  "answer": 1,
+                  "explanation": "Knee."
+                },
+                {
+                  "prompt": "The five small parts at the end of your foot are your ______.",
+                  "options": [
+                    "thumbs",
+                    "nails",
+                    "toes",
+                    "fingers"
+                  ],
+                  "answer": 2,
+                  "explanation": "Toes."
+                },
+                {
+                  "prompt": "The joint between your foot and your leg is your ______.",
+                  "options": [
+                    "knee",
+                    "wrist",
+                    "elbow",
+                    "ankle"
+                  ],
+                  "answer": 3,
+                  "explanation": "Ankle."
+                },
+                {
+                  "prompt": "You have five ______ on each hand, including the thumb.",
+                  "options": [
+                    "toes",
+                    "elbows",
+                    "wrists",
+                    "fingers"
+                  ],
+                  "answer": 3,
+                  "explanation": "Fingers."
+                },
+                {
+                  "prompt": "The joint between your hand and your arm is your ______.",
+                  "options": [
+                    "wrist",
+                    "shoulder",
+                    "elbow",
+                    "ankle"
+                  ],
+                  "answer": 0,
+                  "explanation": "Wrist (you wear a watch here)."
+                },
+                {
+                  "prompt": "The joint in the middle of your arm is your ______.",
+                  "options": [
+                    "shoulder",
+                    "wrist",
+                    "knee",
+                    "elbow"
+                  ],
+                  "answer": 3,
+                  "explanation": "Elbow."
+                },
+                {
+                  "prompt": "The short, thick finger on the side of your hand is your ______.",
+                  "options": [
+                    "chin",
+                    "wrist",
+                    "toe",
+                    "thumb"
+                  ],
+                  "answer": 3,
+                  "explanation": "Thumb."
+                },
+                {
+                  "prompt": "The part of your body that connects your head to your shoulders is your ______.",
+                  "options": [
+                    "back",
+                    "neck",
+                    "chin",
+                    "chest"
+                  ],
+                  "answer": 1,
+                  "explanation": "Neck."
+                },
+                {
+                  "prompt": "The soft parts on each side of your face, below your eyes, are your ______.",
+                  "options": [
+                    "lips",
+                    "cheeks",
+                    "chins",
+                    "foreheads"
+                  ],
+                  "answer": 1,
+                  "explanation": "Cheeks."
+                },
+                {
+                  "prompt": "The part of your face below your mouth is your ______.",
+                  "options": [
+                    "cheek",
+                    "forehead",
+                    "chin",
+                    "neck"
+                  ],
+                  "answer": 2,
+                  "explanation": "Chin."
+                },
+                {
+                  "prompt": "The two soft red edges of your mouth are your ______.",
+                  "options": [
+                    "toes",
+                    "chins",
+                    "lips",
+                    "cheeks"
+                  ],
+                  "answer": 2,
+                  "explanation": "Lips."
+                },
+                {
+                  "prompt": "The part of your face above your eyes and below your hair is your ______.",
+                  "options": [
+                    "neck",
+                    "chin",
+                    "forehead",
+                    "cheek"
+                  ],
+                  "answer": 2,
+                  "explanation": "Forehead."
+                },
+                {
+                  "prompt": "The part of your body between your neck and your arm is your ______.",
+                  "options": [
+                    "shoulder",
+                    "back",
+                    "elbow",
+                    "chest"
+                  ],
+                  "answer": 0,
+                  "explanation": "Shoulder."
+                },
+                {
+                  "prompt": "The front part of your body between your neck and your stomach is your ______.",
+                  "options": [
+                    "shoulder",
+                    "back",
+                    "skin",
+                    "chest"
+                  ],
+                  "answer": 3,
+                  "explanation": "Chest."
+                },
+                {
+                  "prompt": "The part of your body behind you, from your neck to your waist, is your ______.",
+                  "options": [
+                    "stomach",
+                    "chest",
+                    "back",
+                    "neck"
+                  ],
+                  "answer": 2,
+                  "explanation": "Back."
+                },
+                {
+                  "prompt": "The organ in your chest that pumps blood is your ______.",
+                  "options": [
+                    "muscle",
+                    "stomach",
+                    "heart",
+                    "brain"
+                  ],
+                  "answer": 2,
+                  "explanation": "Heart."
+                },
+                {
+                  "prompt": "The organ inside your head that you think with is your ______.",
+                  "options": [
+                    "bone",
+                    "heart",
+                    "brain",
+                    "skin"
+                  ],
+                  "answer": 2,
+                  "explanation": "Brain."
+                },
+                {
+                  "prompt": "The organ where food goes after you eat is your ______.",
+                  "options": [
+                    "chest",
+                    "heart",
+                    "stomach",
+                    "back"
+                  ],
+                  "answer": 2,
+                  "explanation": "Stomach."
+                },
+                {
+                  "prompt": "The outer covering of your body is your ______.",
+                  "options": [
+                    "bone",
+                    "chest",
+                    "skin",
+                    "muscle"
+                  ],
+                  "answer": 2,
+                  "explanation": "Skin."
+                },
+                {
+                  "prompt": "The hard white parts inside your body are your ______.",
+                  "options": [
+                    "cheeks",
+                    "skin",
+                    "muscles",
+                    "bones"
+                  ],
+                  "answer": 3,
+                  "explanation": "Bones."
+                },
+                {
+                  "prompt": "The parts that move your bones and get bigger when you exercise are your ______.",
+                  "options": [
+                    "toes",
+                    "lips",
+                    "muscles",
+                    "bones"
+                  ],
+                  "answer": 2,
+                  "explanation": "Muscles."
+                },
+                {
+                  "prompt": "I got injured playing football, and now I can’t move my ______. (Cross out the incorrect word: cheek / elbow / shoulder)",
+                  "options": [
+                    "elbow",
+                    "shoulder",
+                    "all are OK",
+                    "cheek"
+                  ],
+                  "answer": 3,
+                  "explanation": "You don’t move a cheek when playing football; elbow and shoulder are joints."
+                },
+                {
+                  "prompt": "This T-shirt doesn’t fit me because I have a big ______. (hip / neck / chest)",
+                  "options": [
+                    "none",
+                    "chest",
+                    "neck",
+                    "hip"
+                  ],
+                  "answer": 1,
+                  "explanation": "A T-shirt fits around the chest or neck; \"hip\" is for pants."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I hurt my knee when I fell off my bike.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I hurt my knees when I fell off my bike.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My feet hurt after the marathon.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My foots hurt after the marathon.",
+                  "correct": false,
+                  "fix": "My feet hurt after the marathon.",
+                  "explanation": "Foot → feet (irregular plural)."
+                },
+                {
+                  "sentence": "She wears a watch on her wrist.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She wears a watch on her ankle.",
+                  "correct": false,
+                  "fix": "She wears a watch on her wrist.",
+                  "explanation": "Watches go on the wrist."
+                },
+                {
+                  "sentence": "He broke his elbow playing basketball.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You have ten toes and ten fingers.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The thumb is the shortest finger on your hand.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She kissed the baby on the cheek.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My forehead is hot. I think I have a fever.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Put your hands on your shoulders and breathe.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My back hurts because I sat at the computer all day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your heart pumps blood around your body.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your brain pumps blood around your body.",
+                  "correct": false,
+                  "fix": "Your heart pumps blood around your body.",
+                  "explanation": "The brain thinks; the heart pumps blood."
+                },
+                {
+                  "sentence": "I ate too much and now my stomach hurts.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sunscreen protects your skin.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Exercise makes your muscles stronger.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Milk is good for your bones.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It’s impossible for me to run a marathon because of my bad ankle.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It’s impossible for me to run a marathon because of my bad fingers.",
+                  "correct": false,
+                  "fix": "It’s impossible for me to run a marathon because of my bad knee.",
+                  "explanation": "Running problems: ankle, knee, back – not fingers."
+                },
+                {
+                  "sentence": "This shirt doesn’t fit me because I have a big chest.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "foot",
+                  "image": "/img/body-10c/foot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"foot\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Foot\" → On your leg or foot."
+                    },
+                    {
+                      "prompt": "How many do you have? \"foot\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Foot\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "knee",
+                  "image": "/img/body-10c/knee.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"knee\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Knee\" → On your leg or foot."
+                    },
+                    {
+                      "prompt": "How many do you have? \"knee\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Knee\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "toes",
+                  "image": "/img/body-10c/toes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"toes\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Toes\" → On your leg or foot."
+                    },
+                    {
+                      "prompt": "How many do you have? \"toes\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Toes\" → More than two."
+                    }
+                  ]
+                },
+                {
+                  "word": "ankle",
+                  "image": "/img/body-10c/ankle.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"ankle\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Ankle\" → On your leg or foot."
+                    },
+                    {
+                      "prompt": "How many do you have? \"ankle\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ankle\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "finger",
+                  "image": "/img/body-10c/finger.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"finger\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Finger\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"finger\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Finger\" → More than two."
+                    }
+                  ]
+                },
+                {
+                  "word": "wrist",
+                  "image": "/img/body-10c/wrist.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"wrist\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Wrist\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"wrist\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Wrist\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "elbow",
+                  "image": "/img/body-10c/elbow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"elbow\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Elbow\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"elbow\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Elbow\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "hand",
+                  "image": "/img/body-10c/hand.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"hand\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Hand\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"hand\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Hand\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "arm",
+                  "image": "/img/body-10c/arm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"arm\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Arm\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"arm\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Arm\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "thumb",
+                  "image": "/img/body-10c/thumb.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"thumb\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Thumb\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"thumb\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Thumb\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "neck",
+                  "image": "/img/body-10c/neck.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"neck\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Neck\" → On your head or face."
+                    },
+                    {
+                      "prompt": "How many do you have? \"neck\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Neck\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "cheek",
+                  "image": "/img/body-10c/cheek.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"cheek\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cheek\" → On your head or face."
+                    },
+                    {
+                      "prompt": "How many do you have? \"cheek\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cheek\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "chin",
+                  "image": "/img/body-10c/chin.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"chin\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Chin\" → On your head or face."
+                    },
+                    {
+                      "prompt": "How many do you have? \"chin\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Chin\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "lips",
+                  "image": "/img/body-10c/lips.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"lips\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Lips\" → On your head or face."
+                    },
+                    {
+                      "prompt": "How many do you have? \"lips\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Lips\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "back",
+                  "image": "/img/body-10c/back.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"back\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Back\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"back\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Back\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "chest",
+                  "image": "/img/body-10c/chest.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"chest\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Chest\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"chest\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Chest\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "forehead",
+                  "image": "/img/body-10c/forehead.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"forehead\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Forehead\" → On your head or face."
+                    },
+                    {
+                      "prompt": "How many do you have? \"forehead\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Forehead\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "shoulder",
+                  "image": "/img/body-10c/shoulder.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"shoulder\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shoulder\" → On your arm or hand."
+                    },
+                    {
+                      "prompt": "How many do you have? \"shoulder\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shoulder\" → Two."
+                    }
+                  ]
+                },
+                {
+                  "word": "heart",
+                  "image": "/img/body-10c/heart.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"heart\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Heart\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"heart\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Heart\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "brain",
+                  "image": "/img/body-10c/brain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"brain\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brain\" → On your head or face."
+                    },
+                    {
+                      "prompt": "How many do you have? \"brain\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brain\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "stomach",
+                  "image": "/img/body-10c/stomach.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"stomach\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Stomach\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"stomach\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stomach\" → One."
+                    }
+                  ]
+                },
+                {
+                  "word": "skin",
+                  "image": "/img/body-10c/skin.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"skin\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Skin\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"skin\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Skin\" → It’s uncountable or spread over the body."
+                    }
+                  ]
+                },
+                {
+                  "word": "muscle",
+                  "image": "/img/body-10c/muscle.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"muscle\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Muscle\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"muscle\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Muscle\" → More than two."
+                    }
+                  ]
+                },
+                {
+                  "word": "bone",
+                  "image": "/img/body-10c/bone.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where is your \"bone\"?",
+                      "options": [
+                        "On your head or face",
+                        "On your arm or hand",
+                        "On your leg or foot",
+                        "Inside or all over your body"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Bone\" → Inside or all over your body."
+                    },
+                    {
+                      "prompt": "How many do you have? \"bone\"",
+                      "options": [
+                        "One",
+                        "Two",
+                        "More than two",
+                        "It’s uncountable or spread over the body"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Bone\" → More than two."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I got injured playing football, and now I can’t move my elbow.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s impossible for me to run a marathon because of my bad ankle.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "This T-shirt doesn’t fit me because I have a big chest.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Put your hands on your shoulders and breathe slowly.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I fell down the stairs this morning. I hurt my knee and my wrist, and now I have a big bruise on my forehead too.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which parts of the body did the speaker hurt?",
+                  "options": [
+                    "Foot and chin",
+                    "Back and stomach",
+                    "Knee, wrist and forehead",
+                    "Elbow and neck"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Doctor, my stomach hurts every time I eat, and my back hurts when I sit at the computer. — Let’s check your heart first, and then we’ll talk about your diet.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the doctor want to check first?",
+                  "options": [
+                    "The stomach",
+                    "The back",
+                    "The heart",
+                    "The brain"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "To do this exercise, stand on your toes, lift your arms above your head and stretch your fingers. Hold it for ten seconds. It’s great for your muscles.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the exercise good for?",
+                  "options": [
+                    "The lips",
+                    "The skin",
+                    "The muscles",
+                    "The brain"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The boxer broke his thumb in the second round, but he kept fighting. He also had a cut on his cheek and his lips were swollen.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the boxer break?",
+                  "options": [
+                    "His ankle",
+                    "His thumb",
+                    "His nose",
+                    "His elbow"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Your skin is the largest organ in your body. Your brain uses twenty percent of your energy, and your heart beats about one hundred thousand times a day.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the largest organ in the body?",
+                  "options": [
+                    "The skin",
+                    "The stomach",
+                    "The brain",
+                    "The heart"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Adults have two hundred and six bones. The smallest bone is in your ear, and the longest one is in your leg, between your hip and your knee.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is the longest bone?",
+                  "options": [
+                    "In the leg",
+                    "In the neck",
+                    "In the arm",
+                    "In the ear"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I can’t wear my new shoes. They hurt my toes and my ankles, and after an hour my feet were covered in blisters.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why can’t the speaker wear the new shoes?",
+                  "options": [
+                    "They are too expensive",
+                    "They hurt the knees",
+                    "They are the wrong color",
+                    "They hurt the toes and ankles"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Sit up straight, relax your shoulders, keep your neck long and your chin parallel to the floor. Good posture is important for your back.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What should your chin be parallel to?",
+                  "options": [
+                    "Your shoulders",
+                    "The floor",
+                    "The wall",
+                    "Your chest"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "At the Doctor’s",
+                  "situation": "Student A is a patient who got injured playing a sport. Student B is the doctor. Explain which parts of the body hurt and why.",
+                  "mandatory": [
+                    "knee",
+                    "ankle",
+                    "hurt"
+                  ],
+                  "taboo": [
+                    "pain",
+                    "leg"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Simon Says",
+                  "situation": "Give your partner five quick instructions using parts of the body (\"Touch your forehead with your thumb\"). Then swap.",
+                  "mandatory": [
+                    "touch",
+                    "forehead",
+                    "elbow"
+                  ],
+                  "taboo": [
+                    "head",
+                    "hand"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Describe a Face",
+                  "situation": "Describe a famous person’s face to your partner without saying the name. Use cheeks, chin, lips, forehead.",
+                  "mandatory": [
+                    "cheeks",
+                    "chin",
+                    "lips"
+                  ],
+                  "taboo": [
+                    "eyes",
+                    "nose"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Healthy Body",
+                  "situation": "Discuss what is good for your heart, your brain, your skin and your bones.",
+                  "mandatory": [
+                    "heart",
+                    "brain",
+                    "bones"
+                  ],
+                  "taboo": [
+                    "healthy",
+                    "food"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Gym Trainer",
+                  "situation": "Student A is a personal trainer explaining an exercise. Student B asks which muscles it works.",
+                  "mandatory": [
+                    "muscles",
+                    "shoulders",
+                    "back"
+                  ],
+                  "taboo": [
+                    "exercise",
+                    "strong"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "It Doesn’t Fit",
+                  "situation": "You are trying on clothes. Explain why they don’t fit using chest, neck, shoulders, wrists and ankles.",
+                  "mandatory": [
+                    "chest",
+                    "shoulders",
+                    "fit"
+                  ],
+                  "taboo": [
+                    "big",
+                    "small"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U10T6",
+              "name": "10C - Grammar: Reported Speech (statements)",
+              "steal": [
+                {
+                  "prompt": "\"I don’t like the website.\" → My boss said ______ the website.",
+                  "options": [
+                    "he wouldn’t like",
+                    "he doesn’t like",
+                    "he hadn’t liked",
+                    "he didn’t like"
+                  ],
+                  "answer": 3,
+                  "explanation": "Simple present → simple past."
+                },
+                {
+                  "prompt": "\"I drink too much coffee.\" → She told me ______ too much coffee.",
+                  "options": [
+                    "she drank",
+                    "she would drink",
+                    "she drinks",
+                    "she had drunk"
+                  ],
+                  "answer": 0,
+                  "explanation": "Simple present → simple past."
+                },
+                {
+                  "prompt": "\"I’m going to the gym on Tuesday.\" → She said ______ to the gym on Tuesday.",
+                  "options": [
+                    "she was going",
+                    "she went",
+                    "she had gone",
+                    "she is going"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present continuous → past continuous."
+                },
+                {
+                  "prompt": "\"We’re studying for the exam.\" → They told me ______ for the exam.",
+                  "options": [
+                    "they were studying",
+                    "they would study",
+                    "they had studied",
+                    "they are studying"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present continuous → past continuous."
+                },
+                {
+                  "prompt": "\"Kurt didn’t go to the store.\" → She said Kurt ______ to the store.",
+                  "options": [
+                    "hadn’t gone",
+                    "didn’t go",
+                    "doesn’t go",
+                    "wasn’t going"
+                  ],
+                  "answer": 0,
+                  "explanation": "Simple past → past perfect."
+                },
+                {
+                  "prompt": "\"I haven’t been to Paris.\" → He said he ______ to Paris.",
+                  "options": [
+                    "wasn’t",
+                    "hasn’t been",
+                    "wouldn’t be",
+                    "hadn’t been"
+                  ],
+                  "answer": 3,
+                  "explanation": "Present perfect → past perfect."
+                },
+                {
+                  "prompt": "\"We’d seen the movie before.\" → They said they ______ the movie before.",
+                  "options": [
+                    "saw",
+                    "have seen",
+                    "had seen",
+                    "would see"
+                  ],
+                  "answer": 2,
+                  "explanation": "Past perfect stays past perfect."
+                },
+                {
+                  "prompt": "\"Michelle is going to drive home.\" → He said Michelle ______ home.",
+                  "options": [
+                    "drove",
+                    "is going to drive",
+                    "was going to drive",
+                    "would drive"
+                  ],
+                  "answer": 2,
+                  "explanation": "Be going to → was/were going to."
+                },
+                {
+                  "prompt": "\"I’ll open the letter.\" → He told me he ______ the letter.",
+                  "options": [
+                    "was opening",
+                    "would open",
+                    "opened",
+                    "will open"
+                  ],
+                  "answer": 1,
+                  "explanation": "Will → would."
+                },
+                {
+                  "prompt": "\"Ruby can’t swim.\" → They told me Ruby ______ swim.",
+                  "options": [
+                    "wouldn’t",
+                    "can’t",
+                    "didn’t",
+                    "couldn’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "Can → could."
+                },
+                {
+                  "prompt": "\"My car is red.\" → Jo said her car ______ red.",
+                  "options": [
+                    "was",
+                    "is",
+                    "had been",
+                    "would be"
+                  ],
+                  "answer": 0,
+                  "explanation": "Present → past (the fact may still be true)."
+                },
+                {
+                  "prompt": "\"I’ve been to Mexico.\" → Gina said she ______ to Mexico.",
+                  "options": [
+                    "was",
+                    "had been",
+                    "went",
+                    "has been"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present perfect → past perfect."
+                },
+                {
+                  "prompt": "\"I’ll see you at the hotel.\" → She told me she ______ me at the hotel.",
+                  "options": [
+                    "saw",
+                    "had seen",
+                    "will see",
+                    "would see"
+                  ],
+                  "answer": 3,
+                  "explanation": "Will → would."
+                },
+                {
+                  "prompt": "\"I’m going to buy a new car.\" → Harry said he ______ a new car.",
+                  "options": [
+                    "is going to buy",
+                    "was going to buy",
+                    "would buy",
+                    "bought"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be going to → was going to."
+                },
+                {
+                  "prompt": "\"I was sick last week.\" → He said he ______ sick the week before.",
+                  "options": [
+                    "would be",
+                    "had been",
+                    "has been",
+                    "was"
+                  ],
+                  "answer": 1,
+                  "explanation": "Simple past → past perfect; \"last week\" → \"the week before\"."
+                },
+                {
+                  "prompt": "\"I’m waiting for a phone call.\" → My boss said he ______ for a phone call.",
+                  "options": [
+                    "had waited",
+                    "would wait",
+                    "is waiting",
+                    "was waiting"
+                  ],
+                  "answer": 3,
+                  "explanation": "Present continuous → past continuous."
+                },
+                {
+                  "prompt": "\"I don’t get much exercise.\" → Sandra said she ______ much exercise.",
+                  "options": [
+                    "didn’t get",
+                    "doesn’t get",
+                    "wouldn’t get",
+                    "hadn’t gotten"
+                  ],
+                  "answer": 0,
+                  "explanation": "Simple present → simple past."
+                },
+                {
+                  "prompt": "\"I’ll see you on Tuesday.\" → My mom ______ she would see me on Tuesday.",
+                  "options": [
+                    "told",
+                    "said",
+                    "said me",
+                    "told me that"
+                  ],
+                  "answer": 1,
+                  "explanation": "Say + sentence; tell + person."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "He told me he was tired.",
+                    "He said me he was tired.",
+                    "He told that he was tired.",
+                    "He said to that he was tired."
+                  ],
+                  "answer": 0,
+                  "explanation": "Tell + object; say (to someone)."
+                },
+                {
+                  "prompt": "\"It’s not going to rain this week.\" → The weather forecaster said it ______ going to rain that week.",
+                  "options": [
+                    "wouldn’t be",
+                    "hadn’t been",
+                    "wasn’t",
+                    "isn’t"
+                  ],
+                  "answer": 2,
+                  "explanation": "Is → was; \"this week\" → \"that week\"."
+                },
+                {
+                  "prompt": "\"We saw your new boat at the airport.\" → They told me they ______ my new boat at the airport.",
+                  "options": [
+                    "saw",
+                    "have seen",
+                    "would see",
+                    "had seen"
+                  ],
+                  "answer": 3,
+                  "explanation": "Simple past → past perfect."
+                },
+                {
+                  "prompt": "\"I hadn’t found the movies.\" → Bobby said he ______ the movies.",
+                  "options": [
+                    "wouldn’t find",
+                    "hadn’t found",
+                    "hasn’t found",
+                    "didn’t find"
+                  ],
+                  "answer": 1,
+                  "explanation": "Past perfect doesn’t change."
+                },
+                {
+                  "prompt": "\"I’ve never been to Mexico.\" → Rae told me she ______ to Mexico.",
+                  "options": [
+                    "has never been",
+                    "had never been",
+                    "would never go",
+                    "never went"
+                  ],
+                  "answer": 1,
+                  "explanation": "Present perfect → past perfect."
+                },
+                {
+                  "prompt": "\"I won’t be able to come.\" → He said he ______ be able to come.",
+                  "options": [
+                    "couldn’t",
+                    "won’t",
+                    "didn’t",
+                    "wouldn’t"
+                  ],
+                  "answer": 3,
+                  "explanation": "Won’t → wouldn’t."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "My teacher said that I had too much homework.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My teacher said that I have too much homework. (reporting later)",
+                  "correct": false,
+                  "fix": "My teacher said that I had too much homework.",
+                  "explanation": "Present → past in reported speech."
+                },
+                {
+                  "sentence": "The doctor said I’d had too much sugar, so I had to stay in bed.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Victor said he had worked hard to make a big mistake. ",
+                  "correct": false,
+                  "fix": "Victor said he had made a big mistake.",
+                  "explanation": "Simple past → past perfect: \"I made\" → \"he had made\"."
+                },
+                {
+                  "sentence": "Someone said that Rollo and Lucy had started a blog.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They said that everyone would be invited to the party.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They said that everyone will be invited to the party.",
+                  "correct": false,
+                  "fix": "They said that everyone would be invited to the party.",
+                  "explanation": "Will → would."
+                },
+                {
+                  "sentence": "The newsreader said that scientists had discovered a new planet.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My mom said she would see me on Tuesday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She told me she wasn’t going to ski that week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The weather forecaster said that it wasn’t going to rain this week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Juliette said she had never eaten curry.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Juliette said she has never ate curry.",
+                  "correct": false,
+                  "fix": "Juliette said she had never eaten curry.",
+                  "explanation": "Present perfect → past perfect (eaten)."
+                },
+                {
+                  "sentence": "They told me they had seen my new boat at the airport.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Bobby said that he hadn’t found the movies.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Rae told me she couldn’t come to my wedding.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My boss said he was waiting for a phone call.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sandra said that she didn’t get much exercise.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sandra told that she didn’t get much exercise.",
+                  "correct": false,
+                  "fix": "Sandra told me that she didn’t get much exercise.",
+                  "explanation": "Tell needs an object (told me)."
+                },
+                {
+                  "sentence": "Sheila and Harold said that they wanted to tell me their news.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They told me that they’d been on vacation to Egypt.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He said me he had hurt his ankle.",
+                  "correct": false,
+                  "fix": "He told me he had hurt his ankle.",
+                  "explanation": "Say (to) vs tell + person."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "\"I drink too much coffee.\"",
+                  "image": "/img/body-10c/heart.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"I drink too much coffee.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I drink too much coffee.\"\" → simple past."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"I drink too much coffee.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I drink too much coffee.\"\" → Simple present or present continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"We’re studying for the exam.\"",
+                  "image": "/img/body-10c/brain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"We’re studying for the exam.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"We’re studying for the exam.\"\" → past continuous."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"We’re studying for the exam.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"We’re studying for the exam.\"\" → Simple present or present continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"Kurt didn’t go to the store.\"",
+                  "image": "/img/body-10c/foot.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"Kurt didn’t go to the store.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"Kurt didn’t go to the store.\"\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"Kurt didn’t go to the store.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"Kurt didn’t go to the store.\"\" → Simple past or present perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I haven’t been to Paris.\"",
+                  "image": "/img/body-10c/back.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"I haven’t been to Paris.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I haven’t been to Paris.\"\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"I haven’t been to Paris.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I haven’t been to Paris.\"\" → Simple past or present perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"We’d seen the movie before.\"",
+                  "image": "/img/body-10c/forehead.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"We’d seen the movie before.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"We’d seen the movie before.\"\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"We’d seen the movie before.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"We’d seen the movie before.\"\" → Past perfect (no change)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"Michelle is going to drive home.\"",
+                  "image": "/img/body-10c/hand.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"Michelle is going to drive home.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"Michelle is going to drive home.\"\" → would / could / was going to."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"Michelle is going to drive home.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"Michelle is going to drive home.\"\" → will / can / be going to."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I’ll open the letter.\"",
+                  "image": "/img/body-10c/finger.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"I’ll open the letter.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I’ll open the letter.\"\" → would / could / was going to."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"I’ll open the letter.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I’ll open the letter.\"\" → will / can / be going to."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"Ruby can’t swim.\"",
+                  "image": "/img/body-10c/arm.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"Ruby can’t swim.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"Ruby can’t swim.\"\" → would / could / was going to."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"Ruby can’t swim.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"Ruby can’t swim.\"\" → will / can / be going to."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I have a big chin.\"",
+                  "image": "/img/body-10c/chin.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"I have a big chin.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I have a big chin.\"\" → simple past."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"I have a big chin.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I have a big chin.\"\" → Simple present or present continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"My knee hurts.\"",
+                  "image": "/img/body-10c/knee.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"My knee hurts.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"My knee hurts.\"\" → simple past."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"My knee hurts.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"My knee hurts.\"\" → Simple present or present continuous."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I broke my wrist.\"",
+                  "image": "/img/body-10c/wrist.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"I broke my wrist.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I broke my wrist.\"\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"I broke my wrist.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I broke my wrist.\"\" → Simple past or present perfect."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I’m going to run a marathon.\"",
+                  "image": "/img/body-10c/muscle.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, \"\"I’m going to run a marathon.\"\" changes to…",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / was going to"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I’m going to run a marathon.\"\" → would / could / was going to."
+                    },
+                    {
+                      "prompt": "Which tense is the DIRECT speech \"\"I’m going to run a marathon.\"\"?",
+                      "options": [
+                        "Simple present or present continuous",
+                        "Simple past or present perfect",
+                        "will / can / be going to",
+                        "Past perfect (no change)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I’m going to run a marathon.\"\" → will / can / be going to."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "My teacher said that I had too much homework.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The doctor said I had eaten too much sugar.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They said that everyone would be invited to the party.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Rae told me she couldn’t come to my wedding.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Jo called this morning. She said she had broken her ankle and she couldn’t come to the party. She told me she would call you tomorrow.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Jo say about the party?",
+                  "options": [
+                    "She was organizing it",
+                    "She had already been",
+                    "She would arrive late",
+                    "She couldn’t come"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "The weather forecaster said that it wasn’t going to rain this week, but look outside! It’s pouring.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What had the forecaster said?",
+                  "options": [
+                    "Nothing",
+                    "That it would snow",
+                    "That it wasn’t going to rain",
+                    "That it was going to rain"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My boss told me he was waiting for a phone call from New York and that he would see me after lunch.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When would the boss see the speaker?",
+                  "options": [
+                    "Before lunch",
+                    "Tomorrow",
+                    "After lunch",
+                    "Never"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Sheila and Harold said they wanted to tell me their news. They told me they had been on vacation to Egypt and that they were going to get married!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What was the big news?",
+                  "options": [
+                    "They were going to get married",
+                    "They had lost their jobs",
+                    "They had moved to Egypt",
+                    "They had bought a boat"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Sandra said that she didn’t get much exercise, so the doctor told her she had to walk every day.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did the doctor tell Sandra?",
+                  "options": [
+                    "She had to walk every day",
+                    "She could eat more sugar",
+                    "She had to stop walking",
+                    "She would need surgery"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Bobby said that he hadn’t found the movies, but Juliette told me she had never seen them anyway.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did Juliette say?",
+                  "options": [
+                    "She had found the movies",
+                    "She hated movies",
+                    "She would buy the movies",
+                    "She had never seen the movies"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Victor said he had made a big mistake at work and that his boss was going to fire him. In the end, nothing happened.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Victor think his boss was going to do?",
+                  "options": [
+                    "Give him a bonus",
+                    "Fire him",
+                    "Call him",
+                    "Promote him"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The newsreader said that scientists had discovered a new planet and that they would study it for years.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What had the scientists discovered?",
+                  "options": [
+                    "A new planet",
+                    "A new star",
+                    "A new medicine",
+                    "A new animal"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Gossip Chain",
+                  "situation": "Student A whispers three sentences about their week. Student B reports them to the class: \"She said she had…\".",
+                  "mandatory": [
+                    "said",
+                    "told me",
+                    "had"
+                  ],
+                  "taboo": [
+                    "say",
+                    "speak"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Message",
+                  "situation": "Student A is a receptionist reporting phone messages to the boss. Use \"He said he would…\" and \"She told me she was…\".",
+                  "mandatory": [
+                    "would",
+                    "was going to",
+                    "told me"
+                  ],
+                  "taboo": [
+                    "call",
+                    "phone"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Broken Promise",
+                  "situation": "Tell your partner about a time someone promised something and didn’t do it: \"He said he would…\".",
+                  "mandatory": [
+                    "said",
+                    "would",
+                    "but"
+                  ],
+                  "taboo": [
+                    "promise",
+                    "lie"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Interview Report",
+                  "situation": "Student A interviews Student B (3 questions). Then A reports the answers: \"She said she had never…\".",
+                  "mandatory": [
+                    "said",
+                    "had never",
+                    "could"
+                  ],
+                  "taboo": [
+                    "ask",
+                    "answer"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Doctor’s Orders",
+                  "situation": "Report what a doctor told you last time you were sick: what hurt, what you had to do, what you couldn’t do.",
+                  "mandatory": [
+                    "told me",
+                    "had to",
+                    "couldn’t"
+                  ],
+                  "taboo": [
+                    "medicine",
+                    "sick"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "News Report",
+                  "situation": "Report three headlines from this week: \"The reporter said that…\".",
+                  "mandatory": [
+                    "said that",
+                    "had",
+                    "were going to"
+                  ],
+                  "taboo": [
+                    "news",
+                    "today"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
