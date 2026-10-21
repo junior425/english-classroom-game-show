@@ -16977,6 +16977,1938 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U9T3",
+              "name": "9A - Vocabulary: Clothes",
+              "steal": [
+                {
+                  "prompt": "You wear this around your waist to hold up your pants.",
+                  "options": [
+                    "belt",
+                    "scarf",
+                    "hat",
+                    "sock"
+                  ],
+                  "answer": 0,
+                  "explanation": "A belt."
+                },
+                {
+                  "prompt": "Heavy shoes that cover your ankles, good for rain or snow.",
+                  "options": [
+                    "boots",
+                    "jeans",
+                    "socks",
+                    "shoes"
+                  ],
+                  "answer": 0,
+                  "explanation": "Boots."
+                },
+                {
+                  "prompt": "A long, warm piece of clothing you wear outside in winter.",
+                  "options": [
+                    "coat",
+                    "skirt",
+                    "T-shirt",
+                    "belt"
+                  ],
+                  "answer": 0,
+                  "explanation": "A coat."
+                },
+                {
+                  "prompt": "One piece of clothing for women that covers the body and legs.",
+                  "options": [
+                    "dress",
+                    "shirt",
+                    "pants",
+                    "suit"
+                  ],
+                  "answer": 0,
+                  "explanation": "A dress."
+                },
+                {
+                  "prompt": "You wear this on your head.",
+                  "options": [
+                    "belt",
+                    "boot",
+                    "sock",
+                    "hat"
+                  ],
+                  "answer": 3,
+                  "explanation": "A hat."
+                },
+                {
+                  "prompt": "A short coat, often made of leather or denim.",
+                  "options": [
+                    "jacket",
+                    "dress",
+                    "skirt",
+                    "sweater"
+                  ],
+                  "answer": 0,
+                  "explanation": "A jacket."
+                },
+                {
+                  "prompt": "Blue pants made of denim.",
+                  "options": [
+                    "boots",
+                    "socks",
+                    "jeans",
+                    "shorts"
+                  ],
+                  "answer": 2,
+                  "explanation": "Jeans."
+                },
+                {
+                  "prompt": "Clothing for your legs, from your waist to your feet (American English).",
+                  "options": [
+                    "hat",
+                    "pants",
+                    "shirt",
+                    "skirt"
+                  ],
+                  "answer": 1,
+                  "explanation": "Pants (British: trousers)."
+                },
+                {
+                  "prompt": "A top with buttons and a collar.",
+                  "options": [
+                    "skirt",
+                    "sweater",
+                    "shirt",
+                    "belt"
+                  ],
+                  "answer": 2,
+                  "explanation": "A shirt."
+                },
+                {
+                  "prompt": "You wear these on your feet, over your socks.",
+                  "options": [
+                    "jeans",
+                    "hats",
+                    "belts",
+                    "shoes"
+                  ],
+                  "answer": 3,
+                  "explanation": "Shoes."
+                },
+                {
+                  "prompt": "Clothing for women that hangs from the waist and covers part of the legs.",
+                  "options": [
+                    "sweater",
+                    "skirt",
+                    "shirt",
+                    "suit"
+                  ],
+                  "answer": 1,
+                  "explanation": "A skirt."
+                },
+                {
+                  "prompt": "Soft things you wear on your feet inside your shoes.",
+                  "options": [
+                    "shoes",
+                    "belts",
+                    "socks",
+                    "boots"
+                  ],
+                  "answer": 2,
+                  "explanation": "Socks."
+                },
+                {
+                  "prompt": "A jacket and pants (or skirt) of the same material, for work or formal events.",
+                  "options": [
+                    "coat",
+                    "sweater",
+                    "jeans",
+                    "suit"
+                  ],
+                  "answer": 3,
+                  "explanation": "A suit."
+                },
+                {
+                  "prompt": "A warm knitted top with long sleeves.",
+                  "options": [
+                    "skirt",
+                    "sweater",
+                    "shirt",
+                    "T-shirt"
+                  ],
+                  "answer": 1,
+                  "explanation": "A sweater."
+                },
+                {
+                  "prompt": "A simple top with short sleeves and no buttons or collar.",
+                  "options": [
+                    "suit",
+                    "T-shirt",
+                    "shirt",
+                    "jacket"
+                  ],
+                  "answer": 1,
+                  "explanation": "A T-shirt."
+                },
+                {
+                  "prompt": "Which word is always plural?",
+                  "options": [
+                    "jeans",
+                    "dress",
+                    "coat",
+                    "hat"
+                  ],
+                  "answer": 0,
+                  "explanation": "Jeans, pants, socks, shoes and boots are plural."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "a pair of jeans",
+                    "a jeans",
+                    "one jeans",
+                    "a jean"
+                  ],
+                  "answer": 0,
+                  "explanation": "A pair of jeans / some jeans."
+                },
+                {
+                  "prompt": "It’s snowing. I need my ______ and my boots.",
+                  "options": [
+                    "T-shirt",
+                    "belt",
+                    "coat",
+                    "skirt"
+                  ],
+                  "answer": 2,
+                  "explanation": "A coat for the snow."
+                },
+                {
+                  "prompt": "He has a job interview today, so he’s wearing a ______ and a tie.",
+                  "options": [
+                    "suit",
+                    "sweater",
+                    "hat",
+                    "T-shirt"
+                  ],
+                  "answer": 0,
+                  "explanation": "A suit for an interview."
+                },
+                {
+                  "prompt": "It’s very hot. She’s wearing a ______ and shorts.",
+                  "options": [
+                    "T-shirt",
+                    "sweater",
+                    "jacket",
+                    "coat"
+                  ],
+                  "answer": 0,
+                  "explanation": "A T-shirt in hot weather."
+                },
+                {
+                  "prompt": "My feet are cold. Where are my ______?",
+                  "options": [
+                    "hats",
+                    "belts",
+                    "shirts",
+                    "socks"
+                  ],
+                  "answer": 3,
+                  "explanation": "Socks."
+                },
+                {
+                  "prompt": "Which group is all for your feet?",
+                  "options": [
+                    "shirt, sweater, T-shirt",
+                    "jeans, pants, skirt",
+                    "hat, belt, coat",
+                    "socks, shoes, boots"
+                  ],
+                  "answer": 3,
+                  "explanation": "Socks, shoes, boots."
+                },
+                {
+                  "prompt": "Which group is all for your legs?",
+                  "options": [
+                    "socks, shoes, boots",
+                    "shirt, sweater, dress",
+                    "hat, belt, coat",
+                    "jeans, pants, skirt"
+                  ],
+                  "answer": 3,
+                  "explanation": "Jeans, pants, skirt."
+                },
+                {
+                  "prompt": "Which is NOT clothing for the top half of your body?",
+                  "options": [
+                    "shirt",
+                    "skirt",
+                    "sweater",
+                    "jacket"
+                  ],
+                  "answer": 1,
+                  "explanation": "A skirt is for the legs."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I’m wearing jeans and a T-shirt today.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m wearing a jeans today.",
+                  "correct": false,
+                  "fix": "I’m wearing jeans today.",
+                  "explanation": "Jeans is plural: no \"a\"."
+                },
+                {
+                  "sentence": "She’s wearing a red dress and black shoes.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He’s wearing a suit because he has a meeting.",
+                  "correct": true
+                },
+                {
+                  "sentence": "These socks are too small for me.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This socks are too small for me.",
+                  "correct": false,
+                  "fix": "These socks are too small for me.",
+                  "explanation": "Socks is plural: these."
+                },
+                {
+                  "sentence": "Put on your coat. It’s cold outside.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I need a new pair of boots for the winter.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My belt is brown and my shoes are black.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My belt are brown.",
+                  "correct": false,
+                  "fix": "My belt is brown.",
+                  "explanation": "Belt is singular: is."
+                },
+                {
+                  "sentence": "She never wears a hat.",
+                  "correct": true
+                },
+                {
+                  "sentence": "These pants are too long.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This pant is too long.",
+                  "correct": false,
+                  "fix": "These pants are too long.",
+                  "explanation": "Pants is always plural."
+                },
+                {
+                  "sentence": "He’s wearing a blue sweater and a white shirt.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love your jacket! Where did you buy it?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love your shoes! Where did you buy them?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love your shoes! Where did you buy it?",
+                  "correct": false,
+                  "fix": "I love your shoes! Where did you buy them?",
+                  "explanation": "Shoes is plural → them."
+                },
+                {
+                  "sentence": "She’s wearing a skirt and a T-shirt.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Take off your shoes before you come in.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Men usually wear a tie with a suit.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I wear my pajamas to the office.",
+                  "correct": false,
+                  "fix": "I wear a suit to the office.",
+                  "explanation": "Pajamas are for sleeping."
+                },
+                {
+                  "sentence": "It’s hot today, so I’m not wearing a coat.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "belt",
+                  "image": "/img/clothes/belt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"belt\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Belt\" → On your head or waist."
+                    },
+                    {
+                      "prompt": "Grammar: \"belt\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Belt\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "boots",
+                  "image": "/img/clothes/boots.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"boots\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Boots\" → On your feet."
+                    },
+                    {
+                      "prompt": "Grammar: \"boots\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Boots\" → Plural: these / a pair of."
+                    }
+                  ]
+                },
+                {
+                  "word": "coat",
+                  "image": "/img/clothes/coat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"coat\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Coat\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"coat\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Coat\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "dress",
+                  "image": "/img/clothes/dress.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"dress\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Dress\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"dress\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Dress\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "hat",
+                  "image": "/img/clothes/hat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"hat\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Hat\" → On your head or waist."
+                    },
+                    {
+                      "prompt": "Grammar: \"hat\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Hat\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "jacket",
+                  "image": "/img/clothes/jacket.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"jacket\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Jacket\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"jacket\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Jacket\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "jeans",
+                  "image": "/img/clothes/jeans.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"jeans\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Jeans\" → On your legs."
+                    },
+                    {
+                      "prompt": "Grammar: \"jeans\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Jeans\" → Plural only (no \"a\")."
+                    }
+                  ]
+                },
+                {
+                  "word": "pants",
+                  "image": "/img/clothes/pants.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"pants\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Pants\" → On your legs."
+                    },
+                    {
+                      "prompt": "Grammar: \"pants\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pants\" → Plural only (no \"a\")."
+                    }
+                  ]
+                },
+                {
+                  "word": "shirt",
+                  "image": "/img/clothes/shirt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"shirt\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shirt\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"shirt\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shirt\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "shoes",
+                  "image": "/img/clothes/shoes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"shoes\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Shoes\" → On your feet."
+                    },
+                    {
+                      "prompt": "Grammar: \"shoes\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shoes\" → Plural: these / a pair of."
+                    }
+                  ]
+                },
+                {
+                  "word": "skirt",
+                  "image": "/img/clothes/skirt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"skirt\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Skirt\" → On your legs."
+                    },
+                    {
+                      "prompt": "Grammar: \"skirt\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Skirt\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "socks",
+                  "image": "/img/clothes/socks.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"socks\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Socks\" → On your feet."
+                    },
+                    {
+                      "prompt": "Grammar: \"socks\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Socks\" → Plural: these / a pair of."
+                    }
+                  ]
+                },
+                {
+                  "word": "suit",
+                  "image": "/img/clothes/suit.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"suit\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Suit\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"suit\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Suit\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "sweater",
+                  "image": "/img/clothes/sweater.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"sweater\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sweater\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"sweater\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sweater\" → Singular: a / this."
+                    }
+                  ]
+                },
+                {
+                  "word": "T-shirt",
+                  "image": "/img/clothes/t-shirt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you wear \"T-shirt\"?",
+                      "options": [
+                        "On your top half",
+                        "On your legs",
+                        "On your feet",
+                        "On your head or waist"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"T-shirt\" → On your top half."
+                    },
+                    {
+                      "prompt": "Grammar: \"T-shirt\" — singular or plural?",
+                      "options": [
+                        "Singular: a / this",
+                        "Plural: these / a pair of",
+                        "Plural only (no \"a\")",
+                        "Both forms"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"T-shirt\" → Singular: a / this."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m wearing jeans and a blue T-shirt today.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Put on your coat and your boots. It’s snowing!",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She’s wearing a red dress and black shoes.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "These socks are too small for me.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Look at Tom! He’s wearing a gray suit, a white shirt and a red tie. He has a job interview this morning.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is Tom wearing?",
+                  "options": [
+                    "Jeans and a T-shirt",
+                    "A suit, a shirt and a tie",
+                    "A dress and a hat",
+                    "A sweater and boots"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "It’s very cold today, so I’m wearing a sweater, a jacket, a hat and boots. I can’t find my belt, though.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can’t the speaker find?",
+                  "options": [
+                    "The jacket",
+                    "The belt",
+                    "The boots",
+                    "The hat"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Excuse me, how much are these jeans? — They’re forty dollars. And the belt is fifteen. — OK, I’ll take the jeans, please.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the customer buy?",
+                  "options": [
+                    "The belt",
+                    "The jeans",
+                    "Nothing",
+                    "Both"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Anna is wearing a pink skirt, a white shirt and green shoes. Her sister is wearing pants and a sweater.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What color are Anna’s shoes?",
+                  "options": [
+                    "Green",
+                    "Black",
+                    "White",
+                    "Pink"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Can I help you? — Yes, I’m looking for a hat for the beach. — Our summer hats are over there, next to the T-shirts.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where are the hats?",
+                  "options": [
+                    "Near the door",
+                    "Next to the shoes",
+                    "Upstairs",
+                    "Next to the T-shirts"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Don’t wear your new shoes today. It’s raining. Wear your boots and take a coat.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What should you wear today?",
+                  "options": [
+                    "Sandals",
+                    "A T-shirt",
+                    "Boots and a coat",
+                    "New shoes"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My favorite clothes are my old jeans and my black jacket. I don’t like suits or dresses.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the speaker like?",
+                  "options": [
+                    "Suits",
+                    "Dresses",
+                    "Skirts",
+                    "Jeans and a jacket"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "For the wedding, men wear a suit and women wear a dress. Please don’t wear jeans or a T-shirt.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What should men wear?",
+                  "options": [
+                    "A suit",
+                    "Jeans",
+                    "Shorts",
+                    "A T-shirt"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "What Are You Wearing?",
+                  "situation": "Describe your partner’s clothes and colors. Then swap.",
+                  "mandatory": [
+                    "wearing",
+                    "shoes",
+                    "shirt"
+                  ],
+                  "taboo": [
+                    "clothes",
+                    "nice"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "In the Clothes Store",
+                  "situation": "Student A is the customer, Student B is the salesclerk. Ask for a size, a color and the price.",
+                  "mandatory": [
+                    "How much",
+                    "jeans",
+                    "size"
+                  ],
+                  "taboo": [
+                    "buy",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Packing a Suitcase",
+                  "situation": "You are going to the beach for a week. Say five things you are taking and why.",
+                  "mandatory": [
+                    "T-shirt",
+                    "hat",
+                    "shoes"
+                  ],
+                  "taboo": [
+                    "pack",
+                    "bag"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dress Code",
+                  "situation": "Explain what people wear at a wedding, at the office and at the gym.",
+                  "mandatory": [
+                    "suit",
+                    "dress",
+                    "sweater"
+                  ],
+                  "taboo": [
+                    "wear",
+                    "clothes"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess Who",
+                  "situation": "Describe a classmate’s clothes without saying the name. Your partner guesses.",
+                  "mandatory": [
+                    "jacket",
+                    "socks",
+                    "belt"
+                  ],
+                  "taboo": [
+                    "he",
+                    "she"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Seasons",
+                  "situation": "What do you wear in winter and in summer? Compare with your partner.",
+                  "mandatory": [
+                    "coat",
+                    "boots",
+                    "T-shirt"
+                  ],
+                  "taboo": [
+                    "cold",
+                    "hot"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U9T4",
+              "name": "9A - Grammar: Present Continuous",
+              "steal": [
+                {
+                  "prompt": "I ______ my new jeans today.",
+                  "options": [
+                    "wear",
+                    "am wearing",
+                    "is wearing",
+                    "wearing"
+                  ],
+                  "answer": 1,
+                  "explanation": "am + -ing for now."
+                },
+                {
+                  "prompt": "We ______ at the moment.",
+                  "options": [
+                    "aren’t working",
+                    "not working",
+                    "don’t working",
+                    "isn’t working"
+                  ],
+                  "answer": 0,
+                  "explanation": "We’re not / we aren’t working."
+                },
+                {
+                  "prompt": "What ______ now?",
+                  "options": [
+                    "you doing",
+                    "do you doing",
+                    "you are doing",
+                    "are you doing"
+                  ],
+                  "answer": 3,
+                  "explanation": "Are + subject + -ing."
+                },
+                {
+                  "prompt": "The -ing form of \"cook\" is ______.",
+                  "options": [
+                    "cooing",
+                    "cookeing",
+                    "cooking",
+                    "cookking"
+                  ],
+                  "answer": 2,
+                  "explanation": "Just add -ing."
+                },
+                {
+                  "prompt": "The -ing form of \"take\" is ______.",
+                  "options": [
+                    "took",
+                    "takking",
+                    "takeing",
+                    "taking"
+                  ],
+                  "answer": 3,
+                  "explanation": "Remove the e, add -ing."
+                },
+                {
+                  "prompt": "The -ing form of \"begin\" is ______.",
+                  "options": [
+                    "begineing",
+                    "begins",
+                    "begining",
+                    "beginning"
+                  ],
+                  "answer": 3,
+                  "explanation": "Consonant + vowel + consonant → double the n."
+                },
+                {
+                  "prompt": "The -ing form of \"get\" is ______.",
+                  "options": [
+                    "gotting",
+                    "geting",
+                    "getting",
+                    "geting"
+                  ],
+                  "answer": 2,
+                  "explanation": "Double the t."
+                },
+                {
+                  "prompt": "The -ing form of \"dance\" is ______.",
+                  "options": [
+                    "dancking",
+                    "danceing",
+                    "dancing",
+                    "danccing"
+                  ],
+                  "answer": 2,
+                  "explanation": "Remove the e."
+                },
+                {
+                  "prompt": "He ______ a book right now.",
+                  "options": [
+                    "is reading",
+                    "read",
+                    "reads",
+                    "are reading"
+                  ],
+                  "answer": 0,
+                  "explanation": "He + is + reading."
+                },
+                {
+                  "prompt": "They ______ right now.",
+                  "options": [
+                    "is singing",
+                    "are singing",
+                    "sings",
+                    "am singing"
+                  ],
+                  "answer": 1,
+                  "explanation": "They + are."
+                },
+                {
+                  "prompt": "I ______ TV. I’m listening to music.",
+                  "options": [
+                    "’m not watching",
+                    "isn’t watching",
+                    "not watching",
+                    "don’t watching"
+                  ],
+                  "answer": 0,
+                  "explanation": "I’m not watching."
+                },
+                {
+                  "prompt": "She ______ today. She’s on vacation.",
+                  "options": [
+                    "isn’t working",
+                    "doesn’t working",
+                    "aren’t working",
+                    "not working"
+                  ],
+                  "answer": 0,
+                  "explanation": "She isn’t working."
+                },
+                {
+                  "prompt": "______ he studying? — Yes, he is.",
+                  "options": [
+                    "Is",
+                    "Does",
+                    "Are",
+                    "Am"
+                  ],
+                  "answer": 0,
+                  "explanation": "Is he studying?"
+                },
+                {
+                  "prompt": "Are they going? — No, ______.",
+                  "options": [
+                    "they aren’t",
+                    "they not",
+                    "they isn’t",
+                    "they don’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "No, they aren’t / they’re not."
+                },
+                {
+                  "prompt": "Am I sleeping? — No, ______.",
+                  "options": [
+                    "you not",
+                    "I’m not",
+                    "I amn’t",
+                    "you aren’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "No, I’m not (or \"you aren’t\")."
+                },
+                {
+                  "prompt": "Is she working? — Yes, ______.",
+                  "options": [
+                    "she working",
+                    "she does",
+                    "she is",
+                    "she’s"
+                  ],
+                  "answer": 2,
+                  "explanation": "Yes, she is (no contraction in short answers)."
+                },
+                {
+                  "prompt": "Look! It ______ to rain.",
+                  "options": [
+                    "is beginning",
+                    "are beginning",
+                    "begins",
+                    "beginning"
+                  ],
+                  "answer": 0,
+                  "explanation": "Happening now: is beginning."
+                },
+                {
+                  "prompt": "Which sentence is about NOW?",
+                  "options": [
+                    "She is wearing a hat today.",
+                    "She wore a hat yesterday.",
+                    "She likes hats.",
+                    "She wears a hat every day."
+                  ],
+                  "answer": 0,
+                  "explanation": "Present continuous = right now / today."
+                },
+                {
+                  "prompt": "Which time expression goes with the present continuous?",
+                  "options": [
+                    "every day",
+                    "last week",
+                    "at the moment",
+                    "usually"
+                  ],
+                  "answer": 2,
+                  "explanation": "Right now / at the moment."
+                },
+                {
+                  "prompt": "The children ______ in the garden.",
+                  "options": [
+                    "are playing",
+                    "plays",
+                    "playing",
+                    "is playing"
+                  ],
+                  "answer": 0,
+                  "explanation": "The children (they) + are."
+                },
+                {
+                  "prompt": "Which spelling is correct?",
+                  "options": [
+                    "swiming",
+                    "swimmming",
+                    "swimeing",
+                    "swimming"
+                  ],
+                  "answer": 3,
+                  "explanation": "Swim → swimming (double m)."
+                },
+                {
+                  "prompt": "Which spelling is correct?",
+                  "options": [
+                    "writeing",
+                    "writing",
+                    "wrting",
+                    "writting"
+                  ],
+                  "answer": 1,
+                  "explanation": "Write → writing."
+                },
+                {
+                  "prompt": "Which spelling is correct?",
+                  "options": [
+                    "stoping",
+                    "stopeing",
+                    "stops",
+                    "stopping"
+                  ],
+                  "answer": 3,
+                  "explanation": "Stop → stopping."
+                },
+                {
+                  "prompt": "We ______ here. The bus is coming.",
+                  "options": [
+                    "not stopping",
+                    "don’t stopping",
+                    "aren’t stopping",
+                    "isn’t stopping"
+                  ],
+                  "answer": 2,
+                  "explanation": "We’re not / aren’t stopping."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I’m wearing my new jeans today.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I wearing my new jeans today.",
+                  "correct": false,
+                  "fix": "I’m wearing my new jeans today.",
+                  "explanation": "Needs \"am\"."
+                },
+                {
+                  "sentence": "We’re not working at the moment.",
+                  "correct": true
+                },
+                {
+                  "sentence": "What are you doing now?",
+                  "correct": true
+                },
+                {
+                  "sentence": "What you are doing now?",
+                  "correct": false,
+                  "fix": "What are you doing now?",
+                  "explanation": "Question word order: are you."
+                },
+                {
+                  "sentence": "He’s reading a book.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He’s readding a book.",
+                  "correct": false,
+                  "fix": "He’s reading a book.",
+                  "explanation": "Read → reading (only one d)."
+                },
+                {
+                  "sentence": "She’s not working today.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They are singing in the shower.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Am I sleeping? No, I’m not.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is he studying? Yes, he is.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is he studying? Yes, he’s.",
+                  "correct": false,
+                  "fix": "Is he studying? Yes, he is.",
+                  "explanation": "No contraction at the end of a short answer."
+                },
+                {
+                  "sentence": "Are they going? No, they aren’t.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m not watching TV. I’m listening to music.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The baby is sleepping.",
+                  "correct": false,
+                  "fix": "The baby is sleeping.",
+                  "explanation": "Sleep → sleeping (two vowels, no doubling)."
+                },
+                {
+                  "sentence": "It’s beginning to rain.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It’s begining to rain.",
+                  "correct": false,
+                  "fix": "It’s beginning to rain.",
+                  "explanation": "Begin → beginning (double n)."
+                },
+                {
+                  "sentence": "She is takeing a photo.",
+                  "correct": false,
+                  "fix": "She is taking a photo.",
+                  "explanation": "Take → taking (remove the e)."
+                },
+                {
+                  "sentence": "We’re getting ready for the party.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My brother is dancing right now.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are you wearing a coat? Yes, I am.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He don’t working today.",
+                  "correct": false,
+                  "fix": "He isn’t working today.",
+                  "explanation": "Negative: isn’t + -ing."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "I … (wear) a hat",
+                  "image": "/img/clothes/hat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"I … (wear) a hat\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I … (wear) a hat\" → Just add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"I … (wear) a hat\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I … (wear) a hat\" → am."
+                    }
+                  ]
+                },
+                {
+                  "word": "She … (cook) dinner",
+                  "image": "/img/clothes/wearing.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"She … (cook) dinner\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"She … (cook) dinner\" → Just add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"She … (cook) dinner\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"She … (cook) dinner\" → is."
+                    }
+                  ]
+                },
+                {
+                  "word": "They … (watch) TV",
+                  "image": "/img/clothes/listening.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"They … (watch) TV\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"They … (watch) TV\" → Just add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"They … (watch) TV\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"They … (watch) TV\" → are."
+                    }
+                  ]
+                },
+                {
+                  "word": "He … (take) a photo",
+                  "image": "/img/clothes/shoes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"He … (take) a photo\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"He … (take) a photo\" → Remove the -e, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"He … (take) a photo\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"He … (take) a photo\" → is."
+                    }
+                  ]
+                },
+                {
+                  "word": "We … (dance)",
+                  "image": "/img/clothes/dress.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"We … (dance)\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"We … (dance)\" → Remove the -e, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"We … (dance)\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"We … (dance)\" → are."
+                    }
+                  ]
+                },
+                {
+                  "word": "I … (get) dressed",
+                  "image": "/img/clothes/jeans.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"I … (get) dressed\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I … (get) dressed\" → Double the consonant, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"I … (get) dressed\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I … (get) dressed\" → am."
+                    }
+                  ]
+                },
+                {
+                  "word": "It … (begin) to rain",
+                  "image": "/img/clothes/coat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"It … (begin) to rain\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"It … (begin) to rain\" → Double the consonant, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"It … (begin) to rain\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"It … (begin) to rain\" → is."
+                    }
+                  ]
+                },
+                {
+                  "word": "You … (sit) down",
+                  "image": "/img/clothes/pants.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"You … (sit) down\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"You … (sit) down\" → Double the consonant, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"You … (sit) down\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"You … (sit) down\" → are."
+                    }
+                  ]
+                },
+                {
+                  "word": "He … (listen) to music",
+                  "image": "/img/clothes/listening.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"He … (listen) to music\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He … (listen) to music\" → Just add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"He … (listen) to music\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"He … (listen) to music\" → is."
+                    }
+                  ]
+                },
+                {
+                  "word": "She … (not sleep)",
+                  "image": "/img/clothes/not-sleeping.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"She … (not sleep)\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"She … (not sleep)\" → Just add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"She … (not sleep)\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"She … (not sleep)\" → is."
+                    }
+                  ]
+                },
+                {
+                  "word": "I … (write) an email",
+                  "image": "/img/clothes/suit.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"I … (write) an email\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I … (write) an email\" → Remove the -e, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"I … (write) an email\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I … (write) an email\" → am."
+                    }
+                  ]
+                },
+                {
+                  "word": "They … (run)",
+                  "image": "/img/clothes/socks.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Spelling: the -ing form of \"They … (run)\" is…",
+                      "options": [
+                        "Just add -ing",
+                        "Remove the -e, add -ing",
+                        "Double the consonant, add -ing",
+                        "No -ing form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"They … (run)\" → Double the consonant, add -ing."
+                    },
+                    {
+                      "prompt": "Which form of \"be\" goes with \"They … (run)\"?",
+                      "options": [
+                        "am",
+                        "is",
+                        "are",
+                        "none"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"They … (run)\" → are."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m wearing my new jeans today.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We’re not working at the moment.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "What are you doing now?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s beginning to rain.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, Mom! No, I’m not studying. I’m watching a movie with Ana. Dad is cooking dinner and the dog is sleeping on the sofa.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the speaker doing?",
+                  "options": [
+                    "Sleeping",
+                    "Studying",
+                    "Watching a movie",
+                    "Cooking dinner"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Look at the park! Two boys are playing football, a woman is reading a book and an old man is listening to music.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the woman doing?",
+                  "options": [
+                    "Listening to music",
+                    "Reading a book",
+                    "Playing football",
+                    "Running"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Is Jack working today? — No, he isn’t. He’s on vacation. He’s sitting on a beach in Mexico right now!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is Jack?",
+                  "options": [
+                    "At home",
+                    "On a beach in Mexico",
+                    "At work",
+                    "At school"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Shh! The baby is sleeping. Please don’t sing. — Sorry! I’m getting ready for a concert.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why is the person singing?",
+                  "options": [
+                    "They’re watching TV",
+                    "The baby likes it",
+                    "They’re getting ready for a concert",
+                    "They’re happy"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "What are you wearing to the party? — I’m wearing my black dress and my new shoes. Are you taking a jacket? — Yes, I am.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the speaker wearing to the party?",
+                  "options": [
+                    "A skirt and boots",
+                    "A black dress and new shoes",
+                    "Jeans and a T-shirt",
+                    "A suit"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I can’t talk now. I’m driving and it’s beginning to snow. I’m stopping at the next gas station.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why can’t the speaker talk?",
+                  "options": [
+                    "They’re swimming",
+                    "They’re driving",
+                    "They’re sleeping",
+                    "They’re cooking"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Where are the children? — They’re dancing in the living room. Grandma is taking photos.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is Grandma doing?",
+                  "options": [
+                    "Sleeping",
+                    "Dancing",
+                    "Cooking",
+                    "Taking photos"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Are you studying for the test? — No, I’m not. I’m writing an email to my teacher. I’m beginning tomorrow.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the speaker doing now?",
+                  "options": [
+                    "Talking to the teacher",
+                    "Taking a test",
+                    "Writing an email",
+                    "Studying"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Mime Game",
+                  "situation": "Student A mimes an action. Student B says what A is doing: \"You’re cooking!\"",
+                  "mandatory": [
+                    "You’re",
+                    "-ing",
+                    "Yes, I am"
+                  ],
+                  "taboo": [
+                    "do",
+                    "action"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Phone Call",
+                  "situation": "Call your partner. Ask \"What are you doing?\" and describe where you are and what you are doing right now.",
+                  "mandatory": [
+                    "I’m",
+                    "right now",
+                    "What are you"
+                  ],
+                  "taboo": [
+                    "yesterday",
+                    "tomorrow"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Look at the Picture",
+                  "situation": "Describe a photo of a busy street: what are the people wearing and doing?",
+                  "mandatory": [
+                    "is wearing",
+                    "are",
+                    "at the moment"
+                  ],
+                  "taboo": [
+                    "was",
+                    "will"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Spy Report",
+                  "situation": "You are a spy watching a house. Report to your boss what the people are doing and wearing.",
+                  "mandatory": [
+                    "He’s",
+                    "She’s",
+                    "They’re"
+                  ],
+                  "taboo": [
+                    "usually",
+                    "every day"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Yes / No Questions",
+                  "situation": "Ask your partner 5 questions: \"Are you wearing socks?\" They answer with short answers.",
+                  "mandatory": [
+                    "Are you",
+                    "Yes, I am",
+                    "No, I’m not"
+                  ],
+                  "taboo": [
+                    "do you",
+                    "did"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Classroom Now",
+                  "situation": "Describe what 4 classmates are doing at this moment.",
+                  "mandatory": [
+                    "is",
+                    "are",
+                    "now"
+                  ],
+                  "taboo": [
+                    "yesterday",
+                    "always"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
