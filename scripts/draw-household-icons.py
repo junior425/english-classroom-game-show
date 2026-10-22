@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+"""Flat SVG illustrations for public/img/household (Intermediate 1 / 11A Household items + verb patterns). Original artwork.
+Run once: python3 scripts/draw-household-icons.py"""
+from pathlib import Path
+
+OUT = Path(__file__).resolve().parent.parent / 'public' / 'img' / 'household'
+OUT.mkdir(parents=True, exist_ok=True)
+BG = '<rect width="64" height="64" rx="8" fill="#fff3e0"/>'
+T = lambda t: f'<text x="32" y="60" font-family="sans-serif" font-size="6" font-weight="bold" fill="#333" text-anchor="middle">{t}</text>'
+ICONS = {
+    'oven': BG + '<rect x="10" y="12" width="44" height="42" rx="3" fill="#90a4ae"/><rect x="14" y="24" width="36" height="24" rx="2" fill="#263238"/><rect x="18" y="28" width="28" height="16" fill="#ff8a65"/><circle cx="18" cy="18" r="2.5" fill="#333"/><circle cx="26" cy="18" r="2.5" fill="#333"/><rect x="36" y="16" width="12" height="4" fill="#333"/>',
+    'sink': BG + '<rect x="8" y="30" width="48" height="20" rx="4" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/><circle cx="32" cy="42" r="3" fill="#90a4ae"/><path d="M32 30 v-12 q0 -6 8 -6 h2" stroke="#78909c" stroke-width="4" fill="none"/><circle cx="46" cy="14" r="3" fill="#78909c"/>',
+    'blanket': BG + '<path d="M10 20 q22 -10 44 0 v30 q-22 10 -44 0z" fill="#8bc34a"/><path d="M10 28 q22 -10 44 0 M10 36 q22 -10 44 0 M10 44 q22 -10 44 0" stroke="#558b2f" stroke-width="1.5" fill="none"/>',
+    'cushion': BG + '<path d="M12 12 q20 -4 40 0 q4 20 0 40 q-20 4 -40 0 q-4 -20 0 -40z" fill="#26c6da"/><path d="M20 22 h24 M20 32 h24 M20 42 h24" stroke="#00838f" stroke-width="2"/>',
+    'dishwasher': BG + '<rect x="10" y="10" width="44" height="46" rx="3" fill="#cfd8dc"/><rect x="10" y="10" width="44" height="8" fill="#90a4ae"/><rect x="14" y="22" width="36" height="30" fill="#eceff1"/><path d="M18 30 h28 M18 38 h28 M18 46 h28" stroke="#78909c" stroke-width="2"/><circle cx="20" cy="32" r="3" fill="#fff" stroke="#4d96ff"/><circle cx="32" cy="32" r="3" fill="#fff" stroke="#4d96ff"/><circle cx="44" cy="32" r="3" fill="#fff" stroke="#4d96ff"/>',
+    'trash-can': BG + '<path d="M16 20 h32 l-3 34 h-26z" fill="#546e7a"/><rect x="12" y="14" width="40" height="6" rx="2" fill="#37474f"/><rect x="26" y="10" width="12" height="4" rx="2" fill="#37474f"/><path d="M24 26 v22 M32 26 v22 M40 26 v22" stroke="#90a4ae" stroke-width="2"/>',
+    'comforter': BG + '<rect x="8" y="30" width="48" height="22" rx="4" fill="#bbdefb"/><path d="M8 30 q24 -14 48 0" fill="#e3f2fd"/><path d="M14 36 q6 4 12 0 q6 4 12 0 q6 4 12 0" stroke="#90caf9" stroke-width="2" fill="none"/><rect x="8" y="50" width="48" height="4" fill="#8d6e63"/>',
+    'pillow': BG + '<path d="M8 22 q24 -6 48 0 q-2 10 0 20 q-24 6 -48 0 q2 -10 0 -20z" fill="#fff" stroke="#bdbdbd" stroke-width="2"/><path d="M16 32 q16 -4 32 0" stroke="#e0e0e0" stroke-width="2" fill="none"/>',
+    'refrigerator': BG + '<rect x="16" y="6" width="32" height="52" rx="3" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/><path d="M16 26 h32" stroke="#90a4ae" stroke-width="2"/><rect x="40" y="12" width="3" height="8" rx="1" fill="#546e7a"/><rect x="40" y="32" width="3" height="14" rx="1" fill="#546e7a"/>',
+    'iron': BG + '<path d="M8 40 q0 -14 20 -14 h26 l4 14z" fill="#1565c0"/><rect x="6" y="40" width="54" height="6" rx="2" fill="#90a4ae"/><path d="M22 26 q8 -12 22 -8" stroke="#1565c0" stroke-width="4" fill="none"/><path d="M50 14 q6 -6 6 -12" stroke="#555" stroke-width="2" fill="none"/>',
+    'rug': BG + '<rect x="12" y="18" width="40" height="28" rx="2" fill="#e65100"/><rect x="18" y="24" width="28" height="16" fill="#ffcc80"/><path d="M12 18 v-3 M20 18 v-3 M28 18 v-3 M36 18 v-3 M44 18 v-3 M52 18 v-3 M12 46 v3 M20 46 v3 M28 46 v3 M36 46 v3 M44 46 v3 M52 46 v3" stroke="#bf360c" stroke-width="2"/>',
+    'sheets': BG + '<rect x="12" y="14" width="40" height="36" fill="#fff" stroke="#bdbdbd" stroke-width="2"/><path d="M12 24 h40 M12 34 h40 M12 44 h40" stroke="#eeeeee" stroke-width="2"/><path d="M12 14 l40 36" stroke="#e0e0e0" stroke-width="1"/>',
+    'stove': BG + '<rect x="8" y="24" width="48" height="12" rx="2" fill="#546e7a"/><ellipse cx="22" cy="24" rx="9" ry="4" fill="#263238"/><ellipse cx="42" cy="24" rx="9" ry="4" fill="#263238"/><path d="M18 20 q4 -8 8 0 M38 20 q4 -8 8 0" stroke="#ff7043" stroke-width="3" fill="none"/><circle cx="16" cy="30" r="2" fill="#eceff1"/><circle cx="48" cy="30" r="2" fill="#eceff1"/>',
+    'faucet': BG + '<path d="M20 48 v-20 q0 -8 10 -8 h14 v6 h-8 v6" stroke="#78909c" stroke-width="6" fill="none"/><rect x="14" y="46" width="12" height="6" fill="#78909c"/><circle cx="44" cy="20" r="4" fill="#546e7a"/><path d="M36 34 q0 6 -2 10" stroke="#4fc3f7" stroke-width="3" fill="none"/>',
+    'air-conditioning': BG + '<rect x="8" y="14" width="48" height="20" rx="4" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/><path d="M14 28 h36" stroke="#90a4ae" stroke-width="2"/><path d="M20 40 q4 4 0 8 M32 40 q4 4 0 8 M44 40 q4 4 0 8" stroke="#4fc3f7" stroke-width="2" fill="none"/>',
+    'washing-machine': BG + '<rect x="12" y="8" width="40" height="48" rx="3" fill="#eceff1" stroke="#90a4ae" stroke-width="2"/><circle cx="32" cy="36" r="13" fill="#90a4ae"/><circle cx="32" cy="36" r="9" fill="#4fc3f7"/><circle cx="20" cy="15" r="2" fill="#333"/><rect x="36" y="13" width="12" height="4" fill="#333"/>',
+    'carpet': BG + '<rect x="4" y="10" width="56" height="44" fill="#8d6e63"/>' + ''.join(f'<circle cx="{10+c*11}" cy="{16+r*12}" r="1.5" fill="#6d4c41"/>' for r in range(4) for c in range(5)),
+    'chest-of-drawers': BG + '<rect x="12" y="10" width="40" height="46" rx="2" fill="#a1887f"/><rect x="16" y="14" width="32" height="12" fill="#8d6e63"/><rect x="16" y="28" width="32" height="12" fill="#8d6e63"/><rect x="16" y="42" width="32" height="10" fill="#8d6e63"/><circle cx="32" cy="20" r="2" fill="#f9a825"/><circle cx="32" cy="34" r="2" fill="#f9a825"/><circle cx="32" cy="47" r="2" fill="#f9a825"/>',
+    'central-heating': BG + ''.join(f'<rect x="{10+i*7}" y="18" width="5" height="30" rx="2" fill="#eceff1" stroke="#90a4ae"/>' for i in range(7)) + '<path d="M20 12 q2 -4 0 -8 M32 12 q2 -4 0 -8 M44 12 q2 -4 0 -8" stroke="#ff7043" stroke-width="2" fill="none"/>',
+    'closet': BG + '<rect x="12" y="8" width="40" height="48" rx="2" fill="#a1887f"/><rect x="16" y="12" width="32" height="40" fill="#5d4037"/><rect x="16" y="18" width="32" height="2" fill="#333"/><path d="M22 20 v22 h6 v-22 M34 20 v18 h6 v-18" fill="#e63946"/><path d="M34 20 v18 h6 v-18" fill="#4d96ff"/>',
+    # verb pattern helpers
+    'to-infinitive': BG + '<rect x="8" y="22" width="48" height="20" rx="6" fill="#4d96ff"/><text x="32" y="36" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">to + verb</text>' + T('INFINITIVE'),
+    'ing-form': BG + '<rect x="8" y="22" width="48" height="20" rx="6" fill="#e63946"/><text x="32" y="36" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">verb-ing</text>' + T('-ING FORM'),
+    'both': BG + '<rect x="6" y="22" width="24" height="20" rx="6" fill="#4d96ff"/><rect x="34" y="22" width="24" height="20" rx="6" fill="#e63946"/><text x="18" y="35" font-family="sans-serif" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">to do</text><text x="46" y="35" font-family="sans-serif" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">doing</text>' + T('BOTH'),
+}
+for name, body in ICONS.items():
+    (OUT / f'{name}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">{body}</svg>\n')
+print(f'{len(ICONS)} icons written to {OUT}')

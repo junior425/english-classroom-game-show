@@ -43676,6 +43676,2076 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L3U11T3",
+              "name": "11A - Vocabulary: Household Items",
+              "steal": [
+                {
+                  "prompt": "Can you put those glasses in the ______, please? They’re dirty.",
+                  "options": [
+                    "trash can",
+                    "sink",
+                    "oven",
+                    "closet"
+                  ],
+                  "answer": 1,
+                  "explanation": "Dirty glasses go in the sink."
+                },
+                {
+                  "prompt": "We need new ______ for the sofa. What color would you like?",
+                  "options": [
+                    "blankets",
+                    "sheets",
+                    "cushions",
+                    "pillows"
+                  ],
+                  "answer": 2,
+                  "explanation": "Cushions go on a sofa; pillows go on a bed."
+                },
+                {
+                  "prompt": "Let’s move the ______ to the middle of the room.",
+                  "options": [
+                    "stove",
+                    "carpet",
+                    "rug",
+                    "faucet"
+                  ],
+                  "answer": 2,
+                  "explanation": "A rug can be moved; a carpet covers the whole floor."
+                },
+                {
+                  "prompt": "Could you turn on the ______? It’s cold in here.",
+                  "options": [
+                    "dishwasher",
+                    "faucet",
+                    "air-conditioning",
+                    "central heating"
+                  ],
+                  "answer": 3,
+                  "explanation": "Central heating warms the house."
+                },
+                {
+                  "prompt": "We have a new ______. My shirts are really clean these days!",
+                  "options": [
+                    "washing machine",
+                    "dishwasher",
+                    "refrigerator",
+                    "oven"
+                  ],
+                  "answer": 0,
+                  "explanation": "The washing machine cleans clothes."
+                },
+                {
+                  "prompt": "Help me make the bed. Can you pass me the ______ to put on top?",
+                  "options": [
+                    "blanket",
+                    "cushion",
+                    "rug",
+                    "sheet"
+                  ],
+                  "answer": 0,
+                  "explanation": "The blanket goes on top; the sheet goes underneath."
+                },
+                {
+                  "prompt": "Keep the milk in the ______ or it will go bad.",
+                  "options": [
+                    "closet",
+                    "oven",
+                    "refrigerator",
+                    "stove"
+                  ],
+                  "answer": 2,
+                  "explanation": "Refrigerator."
+                },
+                {
+                  "prompt": "Bake the cake in the ______ for 40 minutes.",
+                  "options": [
+                    "oven",
+                    "sink",
+                    "dishwasher",
+                    "stove"
+                  ],
+                  "answer": 0,
+                  "explanation": "Oven = for baking."
+                },
+                {
+                  "prompt": "Boil the water in a pan on the ______.",
+                  "options": [
+                    "iron",
+                    "stove",
+                    "sink",
+                    "oven"
+                  ],
+                  "answer": 1,
+                  "explanation": "Stove = the top with burners."
+                },
+                {
+                  "prompt": "The ______ is dripping. We need a plumber.",
+                  "options": [
+                    "closet",
+                    "cushion",
+                    "pillow",
+                    "faucet"
+                  ],
+                  "answer": 3,
+                  "explanation": "Water comes out of a faucet (British: tap)."
+                },
+                {
+                  "prompt": "It’s so hot! Turn on the ______.",
+                  "options": [
+                    "central heating",
+                    "air-conditioning",
+                    "iron",
+                    "oven"
+                  ],
+                  "answer": 1,
+                  "explanation": "Air-conditioning cools the room."
+                },
+                {
+                  "prompt": "Put the dirty plates in the ______ and press start.",
+                  "options": [
+                    "dishwasher",
+                    "washing machine",
+                    "trash can",
+                    "oven"
+                  ],
+                  "answer": 0,
+                  "explanation": "Dishwasher = for plates."
+                },
+                {
+                  "prompt": "Throw the empty bottles in the ______.",
+                  "options": [
+                    "closet",
+                    "oven",
+                    "trash can",
+                    "sink"
+                  ],
+                  "answer": 2,
+                  "explanation": "Trash can (British: bin)."
+                },
+                {
+                  "prompt": "I put my head on the ______ and fell asleep.",
+                  "options": [
+                    "cushion",
+                    "blanket",
+                    "rug",
+                    "pillow"
+                  ],
+                  "answer": 3,
+                  "explanation": "Pillow = on the bed."
+                },
+                {
+                  "prompt": "Change the ______ on the bed every week.",
+                  "options": [
+                    "sheets",
+                    "faucets",
+                    "rugs",
+                    "closets"
+                  ],
+                  "answer": 0,
+                  "explanation": "Sheets."
+                },
+                {
+                  "prompt": "In winter I sleep under a thick ______.",
+                  "options": [
+                    "comforter",
+                    "carpet",
+                    "sheet",
+                    "rug"
+                  ],
+                  "answer": 0,
+                  "explanation": "A comforter (British: duvet) is thick and warm."
+                },
+                {
+                  "prompt": "Hang your coats in the ______.",
+                  "options": [
+                    "chest of drawers",
+                    "closet",
+                    "sink",
+                    "oven"
+                  ],
+                  "answer": 1,
+                  "explanation": "Closet (British: wardrobe)."
+                },
+                {
+                  "prompt": "My socks and T-shirts are in the ______.",
+                  "options": [
+                    "faucet",
+                    "closet",
+                    "chest of drawers",
+                    "dishwasher"
+                  ],
+                  "answer": 2,
+                  "explanation": "Chest of drawers = folded clothes."
+                },
+                {
+                  "prompt": "My shirt is wrinkled. Where’s the ______?",
+                  "options": [
+                    "rug",
+                    "stove",
+                    "faucet",
+                    "iron"
+                  ],
+                  "answer": 3,
+                  "explanation": "An iron removes wrinkles."
+                },
+                {
+                  "prompt": "The whole floor is covered with a soft gray ______.",
+                  "options": [
+                    "blanket",
+                    "rug",
+                    "carpet",
+                    "sheet"
+                  ],
+                  "answer": 2,
+                  "explanation": "Carpet = wall to wall."
+                },
+                {
+                  "prompt": "Which is NOT in the kitchen?",
+                  "options": [
+                    "comforter",
+                    "stove",
+                    "dishwasher",
+                    "oven"
+                  ],
+                  "answer": 0,
+                  "explanation": "A comforter is for the bed."
+                },
+                {
+                  "prompt": "Which is NOT in the bedroom?",
+                  "options": [
+                    "stove",
+                    "chest of drawers",
+                    "sheets",
+                    "pillow"
+                  ],
+                  "answer": 0,
+                  "explanation": "A stove is in the kitchen."
+                },
+                {
+                  "prompt": "Which two things keep you warm?",
+                  "options": [
+                    "dishwasher and oven",
+                    "sink and faucet",
+                    "blanket and central heating",
+                    "closet and rug"
+                  ],
+                  "answer": 2,
+                  "explanation": "Blanket + central heating."
+                },
+                {
+                  "prompt": "Which two things use water?",
+                  "options": [
+                    "dishwasher and washing machine",
+                    "closet and rug",
+                    "cushion and pillow",
+                    "iron and carpet"
+                  ],
+                  "answer": 0,
+                  "explanation": "Both wash with water."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Can you put those glasses in the sink, please? They’re dirty.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can you put those glasses in the trash can? They’re dirty.",
+                  "correct": false,
+                  "fix": "Can you put those glasses in the sink? They’re dirty.",
+                  "explanation": "Dirty glasses go in the sink, not the trash."
+                },
+                {
+                  "sentence": "We need new cushions for the sofa.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We need new pillows for the sofa.",
+                  "correct": false,
+                  "fix": "We need new cushions for the sofa.",
+                  "explanation": "Pillows are for the bed."
+                },
+                {
+                  "sentence": "Let’s move the rug to the middle of the room.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Let’s move the carpet to the middle of the room.",
+                  "correct": false,
+                  "fix": "Let’s move the rug to the middle of the room.",
+                  "explanation": "A carpet is fixed to the floor."
+                },
+                {
+                  "sentence": "Could you turn on the central heating? It’s cold in here.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Could you turn on the air-conditioning? It’s cold in here.",
+                  "correct": false,
+                  "fix": "Could you turn on the central heating? It’s cold in here.",
+                  "explanation": "Air-conditioning makes it colder."
+                },
+                {
+                  "sentence": "We have a new washing machine. My shirts are really clean!",
+                  "correct": true
+                },
+                {
+                  "sentence": "Help me make the bed. Pass me the blanket to put on top.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I keep the milk in the refrigerator.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I keep the milk in the oven.",
+                  "correct": false,
+                  "fix": "I keep the milk in the refrigerator.",
+                  "explanation": "The oven is hot!"
+                },
+                {
+                  "sentence": "The faucet in the bathroom is dripping.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Put the dirty plates in the dishwasher.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Put the dirty plates in the washing machine.",
+                  "correct": false,
+                  "fix": "Put the dirty plates in the dishwasher.",
+                  "explanation": "Washing machine = clothes."
+                },
+                {
+                  "sentence": "I need to iron this shirt before the interview.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My sweaters are in the chest of drawers and my coats are in the closet.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Change the sheets and the pillowcases every week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "In summer we sleep with just a sheet, not the comforter.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Throw the empty bottles in the trash can.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Boil the pasta on the stove, not in the oven.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The living room has a soft carpet and two big cushions on the sofa.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "oven",
+                  "image": "/img/household/oven.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"oven\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Oven\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"oven\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Oven\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "sink",
+                  "image": "/img/household/sink.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"sink\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sink\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"sink\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Sink\" → Part of the house / plumbing."
+                    }
+                  ]
+                },
+                {
+                  "word": "blanket",
+                  "image": "/img/household/blanket.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"blanket\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Blanket\" → In the bedroom."
+                    },
+                    {
+                      "prompt": "What is \"blanket\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Blanket\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "cushion",
+                  "image": "/img/household/cushion.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"cushion\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Cushion\" → In the living room."
+                    },
+                    {
+                      "prompt": "What is \"cushion\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Cushion\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "dishwasher",
+                  "image": "/img/household/dishwasher.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"dishwasher\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Dishwasher\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"dishwasher\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Dishwasher\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "trash can",
+                  "image": "/img/household/trash-can.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"trash can\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Trash can\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"trash can\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Trash can\" → Furniture or storage."
+                    }
+                  ]
+                },
+                {
+                  "word": "comforter",
+                  "image": "/img/household/comforter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"comforter\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Comforter\" → In the bedroom."
+                    },
+                    {
+                      "prompt": "What is \"comforter\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Comforter\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "pillow",
+                  "image": "/img/household/pillow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"pillow\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Pillow\" → In the bedroom."
+                    },
+                    {
+                      "prompt": "What is \"pillow\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Pillow\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "refrigerator",
+                  "image": "/img/household/refrigerator.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"refrigerator\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Refrigerator\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"refrigerator\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Refrigerator\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "iron",
+                  "image": "/img/household/iron.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"iron\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Iron\" → All over the house."
+                    },
+                    {
+                      "prompt": "What is \"iron\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Iron\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "rug",
+                  "image": "/img/household/rug.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"rug\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Rug\" → In the living room."
+                    },
+                    {
+                      "prompt": "What is \"rug\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Rug\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "sheets",
+                  "image": "/img/household/sheets.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"sheets\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sheets\" → In the bedroom."
+                    },
+                    {
+                      "prompt": "What is \"sheets\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sheets\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "stove",
+                  "image": "/img/household/stove.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"stove\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stove\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"stove\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stove\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "faucet",
+                  "image": "/img/household/faucet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"faucet\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Faucet\" → In the kitchen."
+                    },
+                    {
+                      "prompt": "What is \"faucet\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Faucet\" → Part of the house / plumbing."
+                    }
+                  ]
+                },
+                {
+                  "word": "air-conditioning",
+                  "image": "/img/household/air-conditioning.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"air-conditioning\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Air-conditioning\" → All over the house."
+                    },
+                    {
+                      "prompt": "What is \"air-conditioning\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Air-conditioning\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "washing machine",
+                  "image": "/img/household/washing-machine.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"washing machine\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Washing machine\" → All over the house."
+                    },
+                    {
+                      "prompt": "What is \"washing machine\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Washing machine\" → An appliance (uses electricity or gas)."
+                    }
+                  ]
+                },
+                {
+                  "word": "carpet",
+                  "image": "/img/household/carpet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"carpet\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Carpet\" → All over the house."
+                    },
+                    {
+                      "prompt": "What is \"carpet\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Carpet\" → Soft furnishing or bedding."
+                    }
+                  ]
+                },
+                {
+                  "word": "chest of drawers",
+                  "image": "/img/household/chest-of-drawers.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"chest of drawers\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Chest of drawers\" → In the bedroom."
+                    },
+                    {
+                      "prompt": "What is \"chest of drawers\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Chest of drawers\" → Furniture or storage."
+                    }
+                  ]
+                },
+                {
+                  "word": "central heating",
+                  "image": "/img/household/central-heating.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"central heating\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Central heating\" → All over the house."
+                    },
+                    {
+                      "prompt": "What is \"central heating\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Central heating\" → Part of the house / plumbing."
+                    }
+                  ]
+                },
+                {
+                  "word": "closet",
+                  "image": "/img/household/closet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Where do you usually find \"closet\"?",
+                      "options": [
+                        "In the kitchen",
+                        "In the bedroom",
+                        "In the living room",
+                        "All over the house"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Closet\" → In the bedroom."
+                    },
+                    {
+                      "prompt": "What is \"closet\"?",
+                      "options": [
+                        "An appliance (uses electricity or gas)",
+                        "Soft furnishing or bedding",
+                        "Furniture or storage",
+                        "Part of the house / plumbing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Closet\" → Furniture or storage."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Can you put those glasses in the sink, please? They’re dirty.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Let’s move the rug to the middle of the room.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Could you turn on the central heating? It’s cold in here.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We have a new washing machine. My shirts are really clean these days!",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Welcome to your new apartment! The kitchen has an oven, a stove, a dishwasher and a big refrigerator. The faucet in the sink is a bit old, so be careful.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is a bit old?",
+                  "options": [
+                    "The faucet",
+                    "The oven",
+                    "The refrigerator",
+                    "The dishwasher"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "In the bedroom there’s a closet for your coats and a chest of drawers for T-shirts. There are clean sheets, two pillows and a warm comforter on the bed.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where do you put your T-shirts?",
+                  "options": [
+                    "In the chest of drawers",
+                    "On the pillow",
+                    "In the closet",
+                    "Under the comforter"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "It’s thirty-five degrees today, so please turn on the air-conditioning, not the central heating! And put the ice cream in the refrigerator, not in the oven.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What should you turn on?",
+                  "options": [
+                    "The central heating",
+                    "The oven",
+                    "The air-conditioning",
+                    "The stove"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Help me make the bed. First the sheets, then the blanket on top, and finally the cushions… no, sorry, the pillows!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What goes on top of the sheets?",
+                  "options": [
+                    "The carpet",
+                    "The rug",
+                    "The blanket",
+                    "The comforter only"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "The dishwasher is broken, so wash the plates in the sink. And don’t throw the glass bottles in the trash can; we recycle them.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where should you wash the plates?",
+                  "options": [
+                    "In the washing machine",
+                    "In the trash can",
+                    "In the dishwasher",
+                    "In the sink"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "My shirt is wrinkled and I have an interview in an hour. Where’s the iron? — It’s in the closet, next to the blankets.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is the iron?",
+                  "options": [
+                    "In the closet",
+                    "In the sink",
+                    "On the stove",
+                    "In the chest of drawers"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "We want a soft carpet for the whole living room, and a small colorful rug for the hall. Oh, and two new cushions for the sofa.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where do they want the rug?",
+                  "options": [
+                    "On the sofa",
+                    "In the bedroom",
+                    "In the living room",
+                    "In the hall"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Boil the pasta on the stove for ten minutes and bake the chicken in the oven for forty. Put the leftovers in the refrigerator.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How long does the chicken bake?",
+                  "options": [
+                    "Ten minutes",
+                    "Four minutes",
+                    "Forty minutes",
+                    "An hour"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Apartment Tour",
+                  "situation": "Student A shows Student B a new apartment. Name the household items in each room.",
+                  "mandatory": [
+                    "oven",
+                    "closet",
+                    "washing machine"
+                  ],
+                  "taboo": [
+                    "thing",
+                    "room"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Something’s Broken",
+                  "situation": "Student A calls the landlord: three things in the apartment don’t work. Student B promises to fix them.",
+                  "mandatory": [
+                    "faucet",
+                    "dishwasher",
+                    "central heating"
+                  ],
+                  "taboo": [
+                    "broken",
+                    "problem"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Furniture Store",
+                  "situation": "Student A is buying bedding and furniture. Student B is the salesclerk.",
+                  "mandatory": [
+                    "comforter",
+                    "pillows",
+                    "chest of drawers"
+                  ],
+                  "taboo": [
+                    "bed",
+                    "buy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Hot or Cold",
+                  "situation": "Discuss what you use at home when it’s very hot and when it’s very cold.",
+                  "mandatory": [
+                    "air-conditioning",
+                    "blanket",
+                    "heating"
+                  ],
+                  "taboo": [
+                    "hot",
+                    "cold"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dream Kitchen",
+                  "situation": "Describe your dream kitchen: appliances, colors, size.",
+                  "mandatory": [
+                    "stove",
+                    "refrigerator",
+                    "sink"
+                  ],
+                  "taboo": [
+                    "kitchen",
+                    "cook"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Cleaning Day",
+                  "situation": "Divide the housework with your roommate: who does what, with which items?",
+                  "mandatory": [
+                    "iron",
+                    "trash can",
+                    "carpet"
+                  ],
+                  "taboo": [
+                    "clean",
+                    "house"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U11T4",
+              "name": "11A - Grammar: -ing and Infinitive Verb Patterns",
+              "steal": [
+                {
+                  "prompt": "Have you finished ______ the kitchen?",
+                  "options": [
+                    "cleaned",
+                    "clean",
+                    "to clean",
+                    "cleaning"
+                  ],
+                  "answer": 3,
+                  "explanation": "Finish + -ing."
+                },
+                {
+                  "prompt": "Josh arranged ______ Natasha at the theater.",
+                  "options": [
+                    "met",
+                    "meeting",
+                    "to meet",
+                    "meet"
+                  ],
+                  "answer": 2,
+                  "explanation": "Arrange + to."
+                },
+                {
+                  "prompt": "She promised to do her homework. → She promised ______ it.",
+                  "options": [
+                    "did",
+                    "doing",
+                    "do",
+                    "to do"
+                  ],
+                  "answer": 3,
+                  "explanation": "Promise + to."
+                },
+                {
+                  "prompt": "I don’t mind ______ for you.",
+                  "options": [
+                    "wait",
+                    "waiting",
+                    "waited",
+                    "to wait"
+                  ],
+                  "answer": 1,
+                  "explanation": "Mind + -ing."
+                },
+                {
+                  "prompt": "They agreed ______ my dishwasher.",
+                  "options": [
+                    "fixed",
+                    "fix",
+                    "to fix",
+                    "fixing"
+                  ],
+                  "answer": 2,
+                  "explanation": "Agree + to."
+                },
+                {
+                  "prompt": "You should learn ______ the computer.",
+                  "options": [
+                    "to use",
+                    "using",
+                    "used",
+                    "use"
+                  ],
+                  "answer": 0,
+                  "explanation": "Learn + to."
+                },
+                {
+                  "prompt": "We didn’t expect ______ them again.",
+                  "options": [
+                    "seeing",
+                    "saw",
+                    "to see",
+                    "see"
+                  ],
+                  "answer": 2,
+                  "explanation": "Expect + to."
+                },
+                {
+                  "prompt": "He spent the whole morning ______ sunbathing.",
+                  "options": [
+                    "to sunbathe",
+                    "sunbathing",
+                    "sunbathe",
+                    "sunbathed"
+                  ],
+                  "answer": 1,
+                  "explanation": "Spend time + -ing."
+                },
+                {
+                  "prompt": "Our teacher keeps ______ us how to use the dishwasher.",
+                  "options": [
+                    "told",
+                    "to tell",
+                    "tell",
+                    "telling"
+                  ],
+                  "answer": 3,
+                  "explanation": "Keep + -ing."
+                },
+                {
+                  "prompt": "She offered ______ me with my English.",
+                  "options": [
+                    "helped",
+                    "to help",
+                    "helping",
+                    "help"
+                  ],
+                  "answer": 1,
+                  "explanation": "Offer + to."
+                },
+                {
+                  "prompt": "David suggested ______ to the park.",
+                  "options": [
+                    "went",
+                    "go",
+                    "going",
+                    "to go"
+                  ],
+                  "answer": 2,
+                  "explanation": "Suggest + -ing."
+                },
+                {
+                  "prompt": "Don’t forget ______ those sheets.",
+                  "options": [
+                    "brought",
+                    "to bring",
+                    "bring",
+                    "bringing"
+                  ],
+                  "answer": 1,
+                  "explanation": "Forget + to."
+                },
+                {
+                  "prompt": "Felipe and I have decided ______ back to Brazil.",
+                  "options": [
+                    "moving",
+                    "move",
+                    "moved",
+                    "to move"
+                  ],
+                  "answer": 3,
+                  "explanation": "Decide + to."
+                },
+                {
+                  "prompt": "Really? I thought you liked ______ in France.",
+                  "options": [
+                    "living",
+                    "live",
+                    "both are correct",
+                    "to live"
+                  ],
+                  "answer": 2,
+                  "explanation": "Like + -ing or to (same meaning)."
+                },
+                {
+                  "prompt": "Yes, but we miss ______ our families.",
+                  "options": [
+                    "to see",
+                    "seeing",
+                    "saw",
+                    "see"
+                  ],
+                  "answer": 1,
+                  "explanation": "Miss + -ing."
+                },
+                {
+                  "prompt": "We couldn’t afford ______ a house here.",
+                  "options": [
+                    "bought",
+                    "to buy",
+                    "buying",
+                    "buy"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can’t afford + to."
+                },
+                {
+                  "prompt": "When are you planning ______?",
+                  "options": [
+                    "left",
+                    "to leave",
+                    "leave",
+                    "leaving"
+                  ],
+                  "answer": 1,
+                  "explanation": "Plan + to."
+                },
+                {
+                  "prompt": "We don’t want ______ too long, so we expect ______ in the next couple of months.",
+                  "options": [
+                    "waiting / going",
+                    "wait / go",
+                    "to wait / to go",
+                    "to wait / going"
+                  ],
+                  "answer": 2,
+                  "explanation": "Want + to, expect + to."
+                },
+                {
+                  "prompt": "I’ve finally managed ______ a job, and Felipe is hoping ______ one soon.",
+                  "options": [
+                    "to find / to get",
+                    "finding / getting",
+                    "to find / getting",
+                    "find / get"
+                  ],
+                  "answer": 0,
+                  "explanation": "Manage + to, hope + to."
+                },
+                {
+                  "prompt": "Do you promise ______ in touch?",
+                  "options": [
+                    "to stay",
+                    "stayed",
+                    "staying",
+                    "stay"
+                  ],
+                  "answer": 0,
+                  "explanation": "Promise + to."
+                },
+                {
+                  "prompt": "I’m looking forward ______ you in Brazil.",
+                  "options": [
+                    "see",
+                    "to see",
+                    "to seeing",
+                    "seeing"
+                  ],
+                  "answer": 2,
+                  "explanation": "Look forward to + -ing."
+                },
+                {
+                  "prompt": "We can’t stand ______ in a tent.",
+                  "options": [
+                    "slept",
+                    "sleeping",
+                    "to sleep",
+                    "sleep"
+                  ],
+                  "answer": 1,
+                  "explanation": "Can’t stand + -ing."
+                },
+                {
+                  "prompt": "I’d like ______ a new mountain bike.",
+                  "options": [
+                    "buy",
+                    "to buy",
+                    "buying",
+                    "bought"
+                  ],
+                  "answer": 1,
+                  "explanation": "Would like + to."
+                },
+                {
+                  "prompt": "It started ______ / It started ______. Which is true?",
+                  "options": [
+                    "Both are correct with no difference",
+                    "Only \"to rain\" is correct",
+                    "Only \"raining\" is correct",
+                    "Neither"
+                  ],
+                  "answer": 0,
+                  "explanation": "Start / begin / continue take both forms."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Have you finished cleaning the kitchen?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Have you finished to clean the kitchen?",
+                  "correct": false,
+                  "fix": "Have you finished cleaning the kitchen?",
+                  "explanation": "Finish + -ing."
+                },
+                {
+                  "sentence": "Josh arranged to meet Natasha at the theater.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She promised to do her homework.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I don’t mind waiting for you.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I don’t mind to wait for you.",
+                  "correct": false,
+                  "fix": "I don’t mind waiting for you.",
+                  "explanation": "Mind + -ing."
+                },
+                {
+                  "sentence": "They agreed to fix my dishwasher.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You should learn to use the computer.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We didn’t expect seeing them again.",
+                  "correct": false,
+                  "fix": "We didn’t expect to see them again.",
+                  "explanation": "Expect + to."
+                },
+                {
+                  "sentence": "He spent the whole morning sunbathing.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Our teacher keeps to tell us how to use the dishwasher.",
+                  "correct": false,
+                  "fix": "Our teacher keeps telling us how to use the dishwasher.",
+                  "explanation": "Keep + -ing."
+                },
+                {
+                  "sentence": "She offered to help me with my English.",
+                  "correct": true
+                },
+                {
+                  "sentence": "David suggested going to the park.",
+                  "correct": true
+                },
+                {
+                  "sentence": "David suggested to go to the park.",
+                  "correct": false,
+                  "fix": "David suggested going to the park.",
+                  "explanation": "Suggest + -ing."
+                },
+                {
+                  "sentence": "Don’t forget to bring those sheets.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We miss seeing our families.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We couldn’t afford to buy a house here.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m looking forward to see you in Brazil.",
+                  "correct": false,
+                  "fix": "I’m looking forward to seeing you in Brazil.",
+                  "explanation": "Look forward to + -ing."
+                },
+                {
+                  "sentence": "I enjoy visiting my grandparents.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Ramon can’t stand sleeping in a tent.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It started to rain. / It started raining.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’d like buying a new mountain bike.",
+                  "correct": false,
+                  "fix": "I’d like to buy a new mountain bike.",
+                  "explanation": "Would like + to."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "decide",
+                  "image": "/img/household/to-infinitive.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"decide\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Decide\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Complete: \"decide\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Decide\" → …to clean the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "want",
+                  "image": "/img/household/to-infinitive.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"want\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Want\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Complete: \"want\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Want\" → …to clean the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "promise",
+                  "image": "/img/household/to-infinitive.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"promise\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Promise\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Complete: \"promise\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Promise\" → …to clean the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "forget",
+                  "image": "/img/household/to-infinitive.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"forget\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Forget\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Complete: \"forget\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Forget\" → …to clean the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "would like",
+                  "image": "/img/household/to-infinitive.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"would like\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Would like\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Complete: \"would like\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Would like\" → …to clean the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "can afford",
+                  "image": "/img/household/to-infinitive.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"can afford\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Can afford\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Complete: \"can afford\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Can afford\" → …to clean the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "enjoy",
+                  "image": "/img/household/ing-form.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"enjoy\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Enjoy\" → -ing form."
+                    },
+                    {
+                      "prompt": "Complete: \"enjoy\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Enjoy\" → …cleaning the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "keep",
+                  "image": "/img/household/ing-form.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"keep\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Keep\" → -ing form."
+                    },
+                    {
+                      "prompt": "Complete: \"keep\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Keep\" → …cleaning the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "mind",
+                  "image": "/img/household/ing-form.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"mind\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mind\" → -ing form."
+                    },
+                    {
+                      "prompt": "Complete: \"mind\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mind\" → …cleaning the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "feel like",
+                  "image": "/img/household/ing-form.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"feel like\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Feel like\" → -ing form."
+                    },
+                    {
+                      "prompt": "Complete: \"feel like\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Feel like\" → …cleaning the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "look forward to",
+                  "image": "/img/household/ing-form.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"look forward to\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Look forward to\" → -ing form."
+                    },
+                    {
+                      "prompt": "Complete: \"look forward to\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Look forward to\" → …cleaning the kitchen."
+                    }
+                  ]
+                },
+                {
+                  "word": "start / like",
+                  "image": "/img/household/both.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form follows \"start / like\"?",
+                      "options": [
+                        "to + infinitive",
+                        "-ing form",
+                        "both, same meaning",
+                        "both, different meaning"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Start / like\" → both, same meaning."
+                    },
+                    {
+                      "prompt": "Complete: \"start / like\"…",
+                      "options": [
+                        "…to clean the kitchen",
+                        "…cleaning the kitchen",
+                        "…either form is fine",
+                        "…neither"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Start / like\" → …either form is fine."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I want to learn a new language.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I enjoy learning new languages.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Don’t forget to bring those sheets.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m looking forward to seeing you in Brazil.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Felipe and I have decided to move back to Brazil. We like living in France, but we miss seeing our families, and we couldn’t afford to buy a house here.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why are they moving back?",
+                  "options": [
+                    "They hate France",
+                    "They found a house",
+                    "They miss their families and can’t afford a house",
+                    "They lost their jobs"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "We’re planning to leave soon. We don’t want to wait too long, so we expect to go in the next couple of months.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When do they expect to go?",
+                  "options": [
+                    "In the next couple of months",
+                    "Next year",
+                    "Next week",
+                    "They don’t know"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I’ve finally managed to find a job in Brazil, and Felipe is hoping to get one soon. Do you promise to stay in touch? — Of course!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who has found a job?",
+                  "options": [
+                    "Both",
+                    "Julia",
+                    "Neither",
+                    "Felipe"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Josh arranged to meet Natasha at the theater, but he spent the whole morning sunbathing and forgot to go!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did Josh forget to do?",
+                  "options": [
+                    "Meet Natasha",
+                    "Call the theater",
+                    "Clean the kitchen",
+                    "Go sunbathing"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Our teacher keeps telling us to do our homework. She suggested studying together, and David offered to help me with grammar.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did David offer to do?",
+                  "options": [
+                    "Call the teacher",
+                    "Help with grammar",
+                    "Study alone",
+                    "Do the homework"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I don’t mind waiting for you, but I can’t stand being late for the movie. It starts raining at six, so bring an umbrella.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What can’t the speaker stand?",
+                  "options": [
+                    "Waiting",
+                    "Umbrellas",
+                    "Being late for the movie",
+                    "Rain"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Ramon can’t stand sleeping in a tent, so we agreed to stay in a hotel. I’d like to buy a new mountain bike for the trip.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where did they agree to stay?",
+                  "options": [
+                    "In a hotel",
+                    "In a tent",
+                    "At home",
+                    "With friends"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Have you finished cleaning the kitchen? — Almost. I stopped to have a coffee. I’ll keep working after that, I promise!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why did the speaker stop?",
+                  "options": [
+                    "To go shopping",
+                    "To have a coffee",
+                    "To clean the kitchen",
+                    "To sleep"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Plans and Promises",
+                  "situation": "Tell your partner three things you have decided to do, want to do and promise to do this year.",
+                  "mandatory": [
+                    "decided to",
+                    "want to",
+                    "promise to"
+                  ],
+                  "taboo": [
+                    "will",
+                    "going to"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Likes and Dislikes",
+                  "situation": "Talk about housework: what you enjoy doing, don’t mind doing and can’t stand doing.",
+                  "mandatory": [
+                    "enjoy",
+                    "don’t mind",
+                    "can’t stand"
+                  ],
+                  "taboo": [
+                    "like",
+                    "hate"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Moving Abroad",
+                  "situation": "Student A is moving to another country. Student B asks about plans: expect, hope, afford, miss.",
+                  "mandatory": [
+                    "hope to",
+                    "miss",
+                    "afford to"
+                  ],
+                  "taboo": [
+                    "move",
+                    "country"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Teacher’s Advice",
+                  "situation": "Student A is a teacher giving advice: suggest, keep, learn, forget. Student B is the student.",
+                  "mandatory": [
+                    "suggest",
+                    "keep",
+                    "forget to"
+                  ],
+                  "taboo": [
+                    "should",
+                    "must"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Weekend Offer",
+                  "situation": "Offer to help your partner with something this weekend; arrange a time and agree on details.",
+                  "mandatory": [
+                    "offer to",
+                    "arrange to",
+                    "agree to"
+                  ],
+                  "taboo": [
+                    "help",
+                    "weekend"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Looking Forward",
+                  "situation": "Describe what you are looking forward to doing on your next vacation.",
+                  "mandatory": [
+                    "looking forward to",
+                    "spend",
+                    "feel like"
+                  ],
+                  "taboo": [
+                    "vacation",
+                    "trip"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
