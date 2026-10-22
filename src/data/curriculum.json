@@ -18909,6 +18909,1848 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L1U9T5",
+              "name": "9C - Vocabulary: Shopping",
+              "steal": [
+                {
+                  "prompt": "I always ______ by credit card. It’s easy!",
+                  "options": [
+                    "pay",
+                    "spend",
+                    "sell",
+                    "buy"
+                  ],
+                  "answer": 0,
+                  "explanation": "Pay by credit card."
+                },
+                {
+                  "prompt": "We usually ______ shopping on Saturdays.",
+                  "options": [
+                    "buy",
+                    "make",
+                    "do",
+                    "go"
+                  ],
+                  "answer": 3,
+                  "explanation": "Go shopping."
+                },
+                {
+                  "prompt": "Can I ______ these jeans, please?",
+                  "options": [
+                    "try for",
+                    "try at",
+                    "try in",
+                    "try on"
+                  ],
+                  "answer": 3,
+                  "explanation": "Try on clothes."
+                },
+                {
+                  "prompt": "I never ______ online. I like real stores.",
+                  "options": [
+                    "spend",
+                    "sell",
+                    "shop",
+                    "pay"
+                  ],
+                  "answer": 2,
+                  "explanation": "Shop online."
+                },
+                {
+                  "prompt": "Jorge ______ fish in the market.",
+                  "options": [
+                    "buys a car",
+                    "tries on",
+                    "sells",
+                    "spends"
+                  ],
+                  "answer": 2,
+                  "explanation": "Jorge sells fish in the market."
+                },
+                {
+                  "prompt": "Malika wants to ______ a new laptop.",
+                  "options": [
+                    "buy",
+                    "pay",
+                    "spend",
+                    "sell"
+                  ],
+                  "answer": 0,
+                  "explanation": "Buy a new laptop."
+                },
+                {
+                  "prompt": "You can only pay ______ cash in this store.",
+                  "options": [
+                    "by",
+                    "for",
+                    "at",
+                    "with"
+                  ],
+                  "answer": 3,
+                  "explanation": "Pay with cash (or pay in cash)."
+                },
+                {
+                  "prompt": "We need to ______ grocery shopping.",
+                  "options": [
+                    "do",
+                    "buy",
+                    "make",
+                    "go"
+                  ],
+                  "answer": 3,
+                  "explanation": "Go grocery shopping."
+                },
+                {
+                  "prompt": "I ______ $100 every weekend.",
+                  "options": [
+                    "pay",
+                    "sell",
+                    "buy",
+                    "spend"
+                  ],
+                  "answer": 3,
+                  "explanation": "Spend money."
+                },
+                {
+                  "prompt": "I don’t ______ shopping on Saturdays. There are lots of people.",
+                  "options": [
+                    "buy",
+                    "pay",
+                    "spend",
+                    "go"
+                  ],
+                  "answer": 3,
+                  "explanation": "Go shopping."
+                },
+                {
+                  "prompt": "My brother works for a technology company. He ______ computers.",
+                  "options": [
+                    "spends",
+                    "sells",
+                    "buys",
+                    "pays"
+                  ],
+                  "answer": 1,
+                  "explanation": "He sells computers."
+                },
+                {
+                  "prompt": "Sharon lives in a small town. There are only three or four ______.",
+                  "options": [
+                    "local stores",
+                    "shopping malls",
+                    "markets",
+                    "department stores"
+                  ],
+                  "answer": 0,
+                  "explanation": "Local stores (small shops)."
+                },
+                {
+                  "prompt": "Carla ______ all her money on clothes.",
+                  "options": [
+                    "pays",
+                    "spends",
+                    "sells",
+                    "buys"
+                  ],
+                  "answer": 1,
+                  "explanation": "Spend money on something."
+                },
+                {
+                  "prompt": "When we go on vacation, we usually pay ______ credit card.",
+                  "options": [
+                    "with",
+                    "in",
+                    "by",
+                    "on"
+                  ],
+                  "answer": 2,
+                  "explanation": "Pay by credit card."
+                },
+                {
+                  "prompt": "The ______ near us has a movie theater and lots of restaurants.",
+                  "options": [
+                    "local store",
+                    "credit card",
+                    "shopping mall",
+                    "market"
+                  ],
+                  "answer": 2,
+                  "explanation": "A shopping mall has many stores, restaurants and a cinema."
+                },
+                {
+                  "prompt": "I always ______ on clothes before I buy them.",
+                  "options": [
+                    "spend",
+                    "try",
+                    "sell",
+                    "shop"
+                  ],
+                  "answer": 1,
+                  "explanation": "Try on."
+                },
+                {
+                  "prompt": "A big store with many floors that sells clothes, furniture, perfume… is a ______.",
+                  "options": [
+                    "market",
+                    "local store",
+                    "department store",
+                    "bank"
+                  ],
+                  "answer": 2,
+                  "explanation": "Department store."
+                },
+                {
+                  "prompt": "A place, often outside, where people sell fruit, vegetables and fish is a ______.",
+                  "options": [
+                    "mall",
+                    "bank",
+                    "department store",
+                    "market"
+                  ],
+                  "answer": 3,
+                  "explanation": "Market."
+                },
+                {
+                  "prompt": "Which is a way to pay?",
+                  "options": [
+                    "go shopping",
+                    "try on clothes",
+                    "pay with cash",
+                    "spend money"
+                  ],
+                  "answer": 2,
+                  "explanation": "Pay with cash / by credit card."
+                },
+                {
+                  "prompt": "Which do you do on the Internet?",
+                  "options": [
+                    "try on clothes",
+                    "shop online",
+                    "sell ice cream",
+                    "go to the market"
+                  ],
+                  "answer": 1,
+                  "explanation": "Shop online."
+                },
+                {
+                  "prompt": "The opposite of \"buy\" is ______.",
+                  "options": [
+                    "sell",
+                    "shop",
+                    "pay",
+                    "spend"
+                  ],
+                  "answer": 0,
+                  "explanation": "Buy ↔ sell."
+                },
+                {
+                  "prompt": "We ______ a new car last year. It was expensive!",
+                  "options": [
+                    "spent",
+                    "sold",
+                    "paid",
+                    "bought"
+                  ],
+                  "answer": 3,
+                  "explanation": "Buy a car → bought."
+                },
+                {
+                  "prompt": "How much money do you ______ on food every week?",
+                  "options": [
+                    "pay",
+                    "sell",
+                    "buy",
+                    "spend"
+                  ],
+                  "answer": 3,
+                  "explanation": "Spend money on food."
+                },
+                {
+                  "prompt": "In summer, Lucas ______ ice cream on the beach.",
+                  "options": [
+                    "shops online",
+                    "tries on",
+                    "buys a car",
+                    "sells"
+                  ],
+                  "answer": 3,
+                  "explanation": "Sells ice cream."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I always pay by credit card. It’s easy!",
+                  "correct": true
+                },
+                {
+                  "sentence": "We usually go shopping on Saturdays.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can I try on these jeans, please?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Can I try these jeans in, please?",
+                  "correct": false,
+                  "fix": "Can I try these jeans on, please?",
+                  "explanation": "Try ON."
+                },
+                {
+                  "sentence": "I never shop online.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Jorge sells fish in the market.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Malika wants to buy a new laptop.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You can only pay with cash in this store.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We need to go grocery shopping.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We need to make grocery shopping.",
+                  "correct": false,
+                  "fix": "We need to go grocery shopping.",
+                  "explanation": "GO shopping."
+                },
+                {
+                  "sentence": "I spend $100 every weekend.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I pay $100 every weekend on clothes.",
+                  "correct": false,
+                  "fix": "I spend $100 every weekend on clothes.",
+                  "explanation": "Spend money ON something."
+                },
+                {
+                  "sentence": "My brother sells computers for a technology company.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sharon’s town only has three or four local stores.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Carla spends all her money on clothes.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Carla buys all her money on clothes.",
+                  "correct": false,
+                  "fix": "Carla spends all her money on clothes.",
+                  "explanation": "Spend money."
+                },
+                {
+                  "sentence": "We usually pay by credit card on vacation.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The shopping mall has a movie theater and lots of restaurants.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I always try on clothes before I buy them.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You can buy fruit and vegetables at the market.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I sold a new car last week. It was expensive!",
+                  "correct": false,
+                  "fix": "I bought a new car last week. It was expensive!",
+                  "explanation": "Buy ↔ sell: you pay when you buy."
+                },
+                {
+                  "sentence": "A department store has many floors and sells lots of different things.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "buy a car",
+                  "image": "/img/shopping-9c/buy-a-car.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"buy a car\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Buy a car\" → Verb phrase: something you do."
+                    },
+                    {
+                      "prompt": "Where does \"buy a car\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Buy a car\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "go shopping",
+                  "image": "/img/shopping-9c/go-shopping.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"go shopping\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go shopping\" → Verb phrase: something you do."
+                    },
+                    {
+                      "prompt": "Where does \"go shopping\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go shopping\" → In a store or at the market."
+                    }
+                  ]
+                },
+                {
+                  "word": "pay by credit card",
+                  "image": "/img/shopping-9c/pay-by-credit-card.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"pay by credit card\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pay by credit card\" → A way to pay."
+                    },
+                    {
+                      "prompt": "Where does \"pay by credit card\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pay by credit card\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "pay with cash",
+                  "image": "/img/shopping-9c/pay-with-cash.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"pay with cash\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pay with cash\" → A way to pay."
+                    },
+                    {
+                      "prompt": "Where does \"pay with cash\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Pay with cash\" → In a store or at the market."
+                    }
+                  ]
+                },
+                {
+                  "word": "sell ice cream",
+                  "image": "/img/shopping-9c/sell-ice-cream.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"sell ice cream\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sell ice cream\" → Verb phrase: something you do."
+                    },
+                    {
+                      "prompt": "Where does \"sell ice cream\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Sell ice cream\" → In a town or city street."
+                    }
+                  ]
+                },
+                {
+                  "word": "shop online",
+                  "image": "/img/shopping-9c/shop-online.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"shop online\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shop online\" → Verb phrase: something you do."
+                    },
+                    {
+                      "prompt": "Where does \"shop online\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shop online\" → On the Internet."
+                    }
+                  ]
+                },
+                {
+                  "word": "spend money",
+                  "image": "/img/shopping-9c/spend-money.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"spend money\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Spend money\" → Verb phrase: something you do."
+                    },
+                    {
+                      "prompt": "Where does \"spend money\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Spend money\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "try on clothes",
+                  "image": "/img/shopping-9c/try-on-clothes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"try on clothes\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Try on clothes\" → Verb phrase: something you do."
+                    },
+                    {
+                      "prompt": "Where does \"try on clothes\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Try on clothes\" → In a store or at the market."
+                    }
+                  ]
+                },
+                {
+                  "word": "department store",
+                  "image": "/img/shopping-9c/department-store.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"department store\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Department store\" → A place to shop."
+                    },
+                    {
+                      "prompt": "Where does \"department store\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Department store\" → In a town or city street."
+                    }
+                  ]
+                },
+                {
+                  "word": "local stores",
+                  "image": "/img/shopping-9c/local-stores.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"local stores\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Local stores\" → A place to shop."
+                    },
+                    {
+                      "prompt": "Where does \"local stores\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Local stores\" → In a town or city street."
+                    }
+                  ]
+                },
+                {
+                  "word": "market",
+                  "image": "/img/shopping-9c/market.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"market\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Market\" → A place to shop."
+                    },
+                    {
+                      "prompt": "Where does \"market\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Market\" → In a town or city street."
+                    }
+                  ]
+                },
+                {
+                  "word": "shopping mall",
+                  "image": "/img/shopping-9c/shopping-mall.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of word is \"shopping mall\"?",
+                      "options": [
+                        "Verb phrase: something you do",
+                        "A place to shop",
+                        "A way to pay",
+                        "A thing you buy"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shopping mall\" → A place to shop."
+                    },
+                    {
+                      "prompt": "Where does \"shopping mall\" usually happen?",
+                      "options": [
+                        "In a store or at the market",
+                        "On the Internet",
+                        "Anywhere",
+                        "In a town or city street"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Shopping mall\" → In a town or city street."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I always pay by credit card. It’s easy!",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Can I try on these jeans, please?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We usually go shopping on Saturdays.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Jorge sells fish in the market.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I don’t go shopping on Saturdays. There are lots of people at the mall. I shop online, and I pay by credit card.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How does the speaker pay?",
+                  "options": [
+                    "With a check",
+                    "They don’t pay",
+                    "By credit card",
+                    "With cash"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My brother works for a technology company. He sells computers. He spends all his money on video games!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the brother sell?",
+                  "options": [
+                    "Cars",
+                    "Computers",
+                    "Video games",
+                    "Phones"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Sharon lives in a small town. There are only three or four local stores and a small market on Sundays. There’s no shopping mall.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is there in Sharon’s town?",
+                  "options": [
+                    "Local stores and a market",
+                    "Nothing",
+                    "A department store",
+                    "A shopping mall"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Can I help you? — Yes, can I try on this jacket? — Of course. The dressing rooms are over there. — Thanks. Can I pay with cash? — Yes, cash or card.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the customer want to try on?",
+                  "options": [
+                    "Jeans",
+                    "A jacket",
+                    "A hat",
+                    "Shoes"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "The shopping mall near us has a movie theater and lots of restaurants. We go there every Friday and spend a lot of money!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When do they go to the mall?",
+                  "options": [
+                    "Never",
+                    "Once a month",
+                    "Every Saturday",
+                    "Every Friday"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Carla wants to buy a car, but she spends all her money on clothes. She goes to the department store twice a week.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does Carla want to buy?",
+                  "options": [
+                    "Ice cream",
+                    "A laptop",
+                    "Clothes",
+                    "A car"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "In summer, Lucas sells ice cream on the beach. People pay with cash because he doesn’t have a card machine.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why do people pay with cash?",
+                  "options": [
+                    "He doesn’t have a card machine",
+                    "Cash is cheaper",
+                    "He doesn’t like cards",
+                    "The ice cream is free"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Malika wants a new laptop. She looks at the department store, but it’s expensive, so she buys it online.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where does Malika buy the laptop?",
+                  "options": [
+                    "Online",
+                    "At a local store",
+                    "At the department store",
+                    "At the market"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "In the Store",
+                  "situation": "Student A is the customer, Student B is the salesclerk. Ask to try something on and pay.",
+                  "mandatory": [
+                    "try on",
+                    "pay",
+                    "cash"
+                  ],
+                  "taboo": [
+                    "buy",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Where Do You Shop?",
+                  "situation": "Tell your partner where you shop: market, mall, local stores, online. Why?",
+                  "mandatory": [
+                    "shopping mall",
+                    "online",
+                    "market"
+                  ],
+                  "taboo": [
+                    "store",
+                    "shop"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Cash or Card?",
+                  "situation": "Debate: paying with cash vs paying by credit card. Give two reasons each.",
+                  "mandatory": [
+                    "credit card",
+                    "cash",
+                    "easy"
+                  ],
+                  "taboo": [
+                    "pay",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Your Town",
+                  "situation": "Describe the shops in your town or neighborhood for a visitor.",
+                  "mandatory": [
+                    "local stores",
+                    "department store",
+                    "sell"
+                  ],
+                  "taboo": [
+                    "big",
+                    "small"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Big Purchase",
+                  "situation": "You want to buy a car (or a laptop). Explain to your partner how you save and spend money.",
+                  "mandatory": [
+                    "buy",
+                    "spend",
+                    "expensive"
+                  ],
+                  "taboo": [
+                    "car",
+                    "laptop"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Market Seller",
+                  "situation": "Student A sells ice cream or fruit at a market. Student B is a customer. Make a sale!",
+                  "mandatory": [
+                    "sell",
+                    "How much",
+                    "cash"
+                  ],
+                  "taboo": [
+                    "buy",
+                    "price"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U9T6",
+              "name": "9C - Grammar: How often + Expressions of Frequency",
+              "steal": [
+                {
+                  "prompt": "______ do you go shopping? — Once a week.",
+                  "options": [
+                    "How many",
+                    "How long",
+                    "How often",
+                    "When"
+                  ],
+                  "answer": 2,
+                  "explanation": "How often…? asks about frequency."
+                },
+                {
+                  "prompt": "How often ______ Tim go to London?",
+                  "options": [
+                    "do",
+                    "does",
+                    "is",
+                    "are"
+                  ],
+                  "answer": 1,
+                  "explanation": "How often does he…?"
+                },
+                {
+                  "prompt": "How often ______ you late for class?",
+                  "options": [
+                    "do",
+                    "is",
+                    "are",
+                    "does"
+                  ],
+                  "answer": 2,
+                  "explanation": "With \"be\": How often are you…?"
+                },
+                {
+                  "prompt": "How often are your English classes? — I have a class ______ a week.",
+                  "options": [
+                    "once or twice",
+                    "once or two times",
+                    "one or two time",
+                    "one or two"
+                  ],
+                  "answer": 0,
+                  "explanation": "Once = one time, twice = two times."
+                },
+                {
+                  "prompt": "I go to the gym ______.",
+                  "options": [
+                    "all day",
+                    "every days",
+                    "once day",
+                    "every day"
+                  ],
+                  "answer": 3,
+                  "explanation": "Every day (singular)."
+                },
+                {
+                  "prompt": "John has a vacation ______ a year.",
+                  "options": [
+                    "one time a",
+                    "one",
+                    "ones",
+                    "once"
+                  ],
+                  "answer": 3,
+                  "explanation": "Once a year."
+                },
+                {
+                  "prompt": "Ali has a coffee with his friends ______ a week.",
+                  "options": [
+                    "two",
+                    "twice",
+                    "second",
+                    "two time"
+                  ],
+                  "answer": 1,
+                  "explanation": "Twice a week."
+                },
+                {
+                  "prompt": "They play soccer three or four ______ a month.",
+                  "options": [
+                    "times",
+                    "time",
+                    "days",
+                    "twice"
+                  ],
+                  "answer": 0,
+                  "explanation": "Three or four times a month."
+                },
+                {
+                  "prompt": "How often do you ride your bike? — I ride my bike ______.",
+                  "options": [
+                    "every days",
+                    "every day",
+                    "one day",
+                    "all the day"
+                  ],
+                  "answer": 1,
+                  "explanation": "Every day."
+                },
+                {
+                  "prompt": "How often ______ it snow in your city? — It only snows once a year.",
+                  "options": [
+                    "does",
+                    "do",
+                    "are",
+                    "is"
+                  ],
+                  "answer": 0,
+                  "explanation": "Does it snow…?"
+                },
+                {
+                  "prompt": "How often does Luis ______ his grandparents? — He sees them three times a month.",
+                  "options": [
+                    "sees",
+                    "seeing",
+                    "see",
+                    "saw"
+                  ],
+                  "answer": 2,
+                  "explanation": "After does: base form."
+                },
+                {
+                  "prompt": "How often do you play tennis? — We ______ tennis every weekend.",
+                  "options": [
+                    "play",
+                    "plays",
+                    "playing",
+                    "are playing"
+                  ],
+                  "answer": 0,
+                  "explanation": "We play."
+                },
+                {
+                  "prompt": "How often do they meet their friends? — They ______ their friends twice a week.",
+                  "options": [
+                    "meeting",
+                    "are meeting",
+                    "meet",
+                    "meets"
+                  ],
+                  "answer": 2,
+                  "explanation": "They meet."
+                },
+                {
+                  "prompt": "\"Twice\" means ______.",
+                  "options": [
+                    "three times",
+                    "two times",
+                    "never",
+                    "one time"
+                  ],
+                  "answer": 1,
+                  "explanation": "Twice = two times."
+                },
+                {
+                  "prompt": "\"Once\" means ______.",
+                  "options": [
+                    "one time",
+                    "two times",
+                    "never",
+                    "every day"
+                  ],
+                  "answer": 0,
+                  "explanation": "Once = one time."
+                },
+                {
+                  "prompt": "Which answer uses a frequency adverb?",
+                  "options": [
+                    "Twice a day.",
+                    "I usually go on Fridays.",
+                    "Three times a year.",
+                    "Once a week."
+                  ],
+                  "answer": 1,
+                  "explanation": "Usually / always / often / sometimes / never are adverbs."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "I go shopping once a week.",
+                    "I go shopping once in a week.",
+                    "I go shopping one a week.",
+                    "I go shopping once the week."
+                  ],
+                  "answer": 0,
+                  "explanation": "Once A week."
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "She goes never shopping.",
+                    "She never goes shopping.",
+                    "She never go shopping.",
+                    "Never she goes shopping."
+                  ],
+                  "answer": 1,
+                  "explanation": "Adverb before the main verb; goes with she."
+                },
+                {
+                  "prompt": "How often do you shop online? — ______.",
+                  "options": [
+                    "Yesterday.",
+                    "About twice a month.",
+                    "For two hours.",
+                    "At the mall."
+                  ],
+                  "answer": 1,
+                  "explanation": "Frequency answer."
+                },
+                {
+                  "prompt": "Where does the adverb go? \"I ______ pay by credit card.\"",
+                  "options": [
+                    "always",
+                    "twice",
+                    "every day",
+                    "once a week"
+                  ],
+                  "answer": 0,
+                  "explanation": "Adverbs go before the verb; expressions go at the end."
+                },
+                {
+                  "prompt": "Where does the expression go? \"We go to the market ______.\"",
+                  "options": [
+                    "never",
+                    "always",
+                    "usually",
+                    "every Saturday"
+                  ],
+                  "answer": 3,
+                  "explanation": "Expressions of frequency go at the end."
+                },
+                {
+                  "prompt": "My mother goes to the department store ______ a month.",
+                  "options": [
+                    "every",
+                    "one",
+                    "twice",
+                    "two"
+                  ],
+                  "answer": 2,
+                  "explanation": "Twice a month."
+                },
+                {
+                  "prompt": "How often ______ your parents visit you?",
+                  "options": [
+                    "does",
+                    "are",
+                    "is",
+                    "do"
+                  ],
+                  "answer": 3,
+                  "explanation": "Do + your parents (they)."
+                },
+                {
+                  "prompt": "Which question is correct?",
+                  "options": [
+                    "How often does you go to the gym?",
+                    "How often are you go to the gym?",
+                    "How often you go to the gym?",
+                    "How often do you go to the gym?"
+                  ],
+                  "answer": 3,
+                  "explanation": "How often do you…?"
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "How often do you go shopping?",
+                  "correct": true
+                },
+                {
+                  "sentence": "How often does Tim go to London?",
+                  "correct": true
+                },
+                {
+                  "sentence": "How often Tim goes to London?",
+                  "correct": false,
+                  "fix": "How often does Tim go to London?",
+                  "explanation": "Needs \"does\"."
+                },
+                {
+                  "sentence": "How often are you late for class?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I have a class once or twice a week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I have a class one or two times in a week.",
+                  "correct": false,
+                  "fix": "I have a class once or twice a week.",
+                  "explanation": "Once / twice a week."
+                },
+                {
+                  "sentence": "I go to the gym every day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I go to the gym every days.",
+                  "correct": false,
+                  "fix": "I go to the gym every day.",
+                  "explanation": "Every + singular noun."
+                },
+                {
+                  "sentence": "John has a vacation once a year.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Ali has a coffee with his friends twice a week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Ali has a coffee with his friends two times a week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They play soccer three or four times a month.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They play soccer three time a month.",
+                  "correct": false,
+                  "fix": "They play soccer three times a month.",
+                  "explanation": "Three TIMES."
+                },
+                {
+                  "sentence": "I ride my bike every day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It only snows once a year in my city.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Luis sees his grandparents three times a month.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Luis see his grandparents three times a month.",
+                  "correct": false,
+                  "fix": "Luis sees his grandparents three times a month.",
+                  "explanation": "He/she/it + -s."
+                },
+                {
+                  "sentence": "We play tennis every weekend.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They meet their friends twice a week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I usually go shopping on Saturdays.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I go usually shopping on Saturdays.",
+                  "correct": false,
+                  "fix": "I usually go shopping on Saturdays.",
+                  "explanation": "Adverb before the main verb."
+                },
+                {
+                  "sentence": "She never shops online.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "every day",
+                  "image": "/img/shopping-9c/every-day.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"every day\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Every day\" → Three or more times."
+                    },
+                    {
+                      "prompt": "Grammar: \"every day\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Every day\" → every + day/week/month/year."
+                    }
+                  ]
+                },
+                {
+                  "word": "once a week",
+                  "image": "/img/shopping-9c/once-a-week.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"once a week\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Once a week\" → One time."
+                    },
+                    {
+                      "prompt": "Grammar: \"once a week\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Once a week\" → once / twice + a + period."
+                    }
+                  ]
+                },
+                {
+                  "word": "twice a week",
+                  "image": "/img/shopping-9c/twice-a-week.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"twice a week\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Twice a week\" → Two times."
+                    },
+                    {
+                      "prompt": "Grammar: \"twice a week\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Twice a week\" → once / twice + a + period."
+                    }
+                  ]
+                },
+                {
+                  "word": "three times a week",
+                  "image": "/img/shopping-9c/three-times.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"three times a week\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Three times a week\" → Three or more times."
+                    },
+                    {
+                      "prompt": "Grammar: \"three times a week\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Three times a week\" → number + times + a + period."
+                    }
+                  ]
+                },
+                {
+                  "word": "How often…?",
+                  "image": "/img/shopping-9c/how-often.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"How often…?\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"How often…?\" → Zero times."
+                    },
+                    {
+                      "prompt": "Grammar: \"How often…?\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"How often…?\" → It’s a question or adverb."
+                    }
+                  ]
+                },
+                {
+                  "word": "never",
+                  "image": "/img/shopping-9c/never.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"never\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Never\" → Zero times."
+                    },
+                    {
+                      "prompt": "Grammar: \"never\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Never\" → It’s a question or adverb."
+                    }
+                  ]
+                },
+                {
+                  "word": "once a year",
+                  "image": "/img/shopping-9c/once-a-week.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"once a year\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Once a year\" → One time."
+                    },
+                    {
+                      "prompt": "Grammar: \"once a year\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Once a year\" → once / twice + a + period."
+                    }
+                  ]
+                },
+                {
+                  "word": "twice a month",
+                  "image": "/img/shopping-9c/twice-a-week.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"twice a month\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Twice a month\" → Two times."
+                    },
+                    {
+                      "prompt": "Grammar: \"twice a month\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Twice a month\" → once / twice + a + period."
+                    }
+                  ]
+                },
+                {
+                  "word": "four times a year",
+                  "image": "/img/shopping-9c/three-times.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"four times a year\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Four times a year\" → Three or more times."
+                    },
+                    {
+                      "prompt": "Grammar: \"four times a year\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Four times a year\" → number + times + a + period."
+                    }
+                  ]
+                },
+                {
+                  "word": "every week",
+                  "image": "/img/shopping-9c/every-day.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"every week\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Every week\" → Three or more times."
+                    },
+                    {
+                      "prompt": "Grammar: \"every week\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Every week\" → every + day/week/month/year."
+                    }
+                  ]
+                },
+                {
+                  "word": "go shopping every Saturday",
+                  "image": "/img/shopping-9c/go-shopping.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"go shopping every Saturday\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go shopping every Saturday\" → Three or more times."
+                    },
+                    {
+                      "prompt": "Grammar: \"go shopping every Saturday\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go shopping every Saturday\" → every + day/week/month/year."
+                    }
+                  ]
+                },
+                {
+                  "word": "shop online once a month",
+                  "image": "/img/shopping-9c/shop-online.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How many times? \"shop online once a month\"",
+                      "options": [
+                        "One time",
+                        "Two times",
+                        "Three or more times",
+                        "Zero times"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Shop online once a month\" → One time."
+                    },
+                    {
+                      "prompt": "Grammar: \"shop online once a month\" — which is the pattern?",
+                      "options": [
+                        "every + day/week/month/year",
+                        "once / twice + a + period",
+                        "number + times + a + period",
+                        "It’s a question or adverb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Shop online once a month\" → once / twice + a + period."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "How often do you go shopping?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I have a class once or twice a week.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "John has a vacation once a year.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They play soccer three or four times a month.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "How often do you ride your bike? — I ride my bike every day. I go to work on it. — And how often does it snow here? — Only once a year!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How often does the speaker ride a bike?",
+                  "options": [
+                    "Once a year",
+                    "Every day",
+                    "Once a week",
+                    "Never"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Luis sees his grandparents three times a month. They live near the shopping mall, so they go shopping together.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How often does Luis see his grandparents?",
+                  "options": [
+                    "Three times a week",
+                    "Once a month",
+                    "Every day",
+                    "Three times a month"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "How often do you play tennis? — We play tennis every weekend, and I go to the gym twice a week.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How often does the speaker go to the gym?",
+                  "options": [
+                    "Twice a week",
+                    "Every day",
+                    "Every weekend",
+                    "Once a week"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "How often do they meet their friends? — They meet their friends twice a week, usually on Tuesdays and Fridays.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When do they meet their friends?",
+                  "options": [
+                    "Every day",
+                    "Tuesdays and Fridays",
+                    "Weekends",
+                    "Mondays"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Ali has a coffee with his friends twice a week, but he never has coffee at home. He says it’s bad for him.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How often does Ali have coffee at home?",
+                  "options": [
+                    "Twice a week",
+                    "Once a week",
+                    "Every day",
+                    "Never"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "How often are you late for class? — Hmm, about once a month. My bus is usually on time.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How often is the speaker late?",
+                  "options": [
+                    "Every day",
+                    "Twice a week",
+                    "About once a month",
+                    "Never"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "How often does Tim go to London? — He goes four times a year, for work. He always stays in the same hotel.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How often does Tim go to London?",
+                  "options": [
+                    "Every month",
+                    "Twice a week",
+                    "Once a year",
+                    "Four times a year"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "I go to the market every Saturday and to the department store once or twice a month. I shop online every day, though!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How often does the speaker shop online?",
+                  "options": [
+                    "Every day",
+                    "Every Saturday",
+                    "Twice a month",
+                    "Once a month"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "How Often Survey",
+                  "situation": "Ask your partner 5 \"How often…?\" questions (shop, cook, exercise, travel, read). Report the answers.",
+                  "mandatory": [
+                    "How often",
+                    "once",
+                    "twice"
+                  ],
+                  "taboo": [
+                    "when",
+                    "what time"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Week",
+                  "situation": "Describe your typical week with expressions of frequency: every day, twice a week, three times a month.",
+                  "mandatory": [
+                    "every day",
+                    "a week",
+                    "times"
+                  ],
+                  "taboo": [
+                    "yesterday",
+                    "tomorrow"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Shopping Habits",
+                  "situation": "How often do you go to the mall, the market, local stores? How often do you shop online?",
+                  "mandatory": [
+                    "How often",
+                    "a month",
+                    "online"
+                  ],
+                  "taboo": [
+                    "buy",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Healthy or Not?",
+                  "situation": "Interview your partner about healthy habits: How often do you eat vegetables / exercise / sleep 8 hours?",
+                  "mandatory": [
+                    "How often",
+                    "every",
+                    "never"
+                  ],
+                  "taboo": [
+                    "good",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Famous Person",
+                  "situation": "Imagine you are a famous athlete. Answer: How often do you train, travel, rest?",
+                  "mandatory": [
+                    "times a",
+                    "every",
+                    "usually"
+                  ],
+                  "taboo": [
+                    "always",
+                    "day"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Compare",
+                  "situation": "Compare how often you and your partner do 4 activities: \"I go once a week, but she goes every day.\"",
+                  "mandatory": [
+                    "once",
+                    "but",
+                    "every"
+                  ],
+                  "taboo": [
+                    "more",
+                    "less"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
