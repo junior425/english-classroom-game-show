@@ -66773,6 +66773,1792 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U8T3",
+              "name": "8B - Vocabulary: Health & Fitness Verb Phrases",
+              "steal": [
+                {
+                  "prompt": "Do you ______ an unhealthy lifestyle?",
+                  "options": [
+                    "get",
+                    "be",
+                    "have",
+                    "do"
+                  ],
+                  "answer": 2,
+                  "explanation": "Have a lifestyle."
+                },
+                {
+                  "prompt": "It’s very easy these days to ______ bad habits.",
+                  "options": [
+                    "be",
+                    "get",
+                    "have",
+                    "make"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get (= acquire) bad habits."
+                },
+                {
+                  "prompt": "If you’d like to ______ a healthy lifestyle, talk to your doctor.",
+                  "options": [
+                    "have",
+                    "be",
+                    "do",
+                    "get"
+                  ],
+                  "answer": 0,
+                  "explanation": "Have a healthy lifestyle."
+                },
+                {
+                  "prompt": "Try to ______ exercise five times a week for at least 30 minutes.",
+                  "options": [
+                    "make",
+                    "get",
+                    "be",
+                    "have"
+                  ],
+                  "answer": 1,
+                  "explanation": "Get exercise."
+                },
+                {
+                  "prompt": "Make sure you ______ a balanced diet.",
+                  "options": [
+                    "have",
+                    "get",
+                    "take",
+                    "are"
+                  ],
+                  "answer": 0,
+                  "explanation": "Have a balanced diet."
+                },
+                {
+                  "prompt": "Even in stressful situations, try not to ______ stressed.",
+                  "options": [
+                    "have",
+                    "be",
+                    "get",
+                    "make"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get stressed = become stressed."
+                },
+                {
+                  "prompt": "Exercise also helps you lose weight if you ______ overweight.",
+                  "options": [
+                    "do",
+                    "get",
+                    "have",
+                    "are"
+                  ],
+                  "answer": 3,
+                  "explanation": "Be overweight."
+                },
+                {
+                  "prompt": "It helps you ______ in shape.",
+                  "options": [
+                    "have",
+                    "go",
+                    "get",
+                    "be"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get in shape = become fit."
+                },
+                {
+                  "prompt": "If you ______ on a diet, don’t try to lose weight too quickly.",
+                  "options": [
+                    "are",
+                    "get",
+                    "have",
+                    "do"
+                  ],
+                  "answer": 0,
+                  "explanation": "Be on a diet."
+                },
+                {
+                  "prompt": "If you ______ underweight, eat more food that is high in energy.",
+                  "options": [
+                    "are",
+                    "do",
+                    "have",
+                    "get"
+                  ],
+                  "answer": 0,
+                  "explanation": "Be underweight."
+                },
+                {
+                  "prompt": "It’s important to ______ a good night’s sleep.",
+                  "options": [
+                    "be",
+                    "have",
+                    "get",
+                    "do"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get a good night’s sleep."
+                },
+                {
+                  "prompt": "There’s a lot of pressure on my job. I’m often ______.",
+                  "options": [
+                    "balanced",
+                    "stressed",
+                    "in shape",
+                    "on a diet"
+                  ],
+                  "answer": 1,
+                  "explanation": "Be stressed."
+                },
+                {
+                  "prompt": "She plays tennis regularly and eats healthy food. She ______.",
+                  "options": [
+                    "is underweight",
+                    "has bad habits",
+                    "has a healthy lifestyle",
+                    "is overweight"
+                  ],
+                  "answer": 2,
+                  "explanation": "Healthy lifestyle."
+                },
+                {
+                  "prompt": "I try to ______ a balanced diet by eating lots of different foods.",
+                  "options": [
+                    "be",
+                    "get",
+                    "have",
+                    "make"
+                  ],
+                  "answer": 2,
+                  "explanation": "Have a balanced diet."
+                },
+                {
+                  "prompt": "I ______ exercise four times a week: I go to the gym.",
+                  "options": [
+                    "get",
+                    "have",
+                    "am",
+                    "make"
+                  ],
+                  "answer": 0,
+                  "explanation": "Get exercise."
+                },
+                {
+                  "prompt": "Jack was sick for so much that he didn’t eat much. Now he ______.",
+                  "options": [
+                    "is overweight",
+                    "has a balanced diet",
+                    "is underweight",
+                    "is in shape"
+                  ],
+                  "answer": 2,
+                  "explanation": "Underweight = too thin."
+                },
+                {
+                  "prompt": "I have a three-month-old baby who wakes me up every hour, so it’s difficult to ______.",
+                  "options": [
+                    "have bad habits",
+                    "get in shape",
+                    "get a good night’s sleep",
+                    "be on a diet"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get a good night’s sleep."
+                },
+                {
+                  "prompt": "No chocolate, cake for me, thanks. I ______. I can only eat low-fat food.",
+                  "options": [
+                    "have a healthy lifestyle",
+                    "get exercise",
+                    "am on a diet",
+                    "am in shape"
+                  ],
+                  "answer": 2,
+                  "explanation": "On a diet."
+                },
+                {
+                  "prompt": "Which is NOT a bad habit?",
+                  "options": [
+                    "sleeping 8 hours",
+                    "smoking",
+                    "eating junk food",
+                    "drinking too much coffee"
+                  ],
+                  "answer": 0,
+                  "explanation": "Sleeping 8 hours is healthy."
+                },
+                {
+                  "prompt": "Which means \"become fit\"?",
+                  "options": [
+                    "have bad habits",
+                    "be on a diet",
+                    "be underweight",
+                    "get in shape"
+                  ],
+                  "answer": 3,
+                  "explanation": "Get in shape."
+                },
+                {
+                  "prompt": "Which phrase means the opposite of \"be overweight\"?",
+                  "options": [
+                    "be underweight",
+                    "be in shape",
+                    "be stressed",
+                    "be on a diet"
+                  ],
+                  "answer": 0,
+                  "explanation": "Underweight."
+                },
+                {
+                  "prompt": "Adults need about ______ minutes of moderate exercise every week.",
+                  "options": [
+                    "150",
+                    "15",
+                    "500",
+                    "30"
+                  ],
+                  "answer": 0,
+                  "explanation": "From the text: 150 minutes."
+                },
+                {
+                  "prompt": "Most adults need ______ hours of sleep a night.",
+                  "options": [
+                    "2–3",
+                    "4–5",
+                    "10–12",
+                    "7–9"
+                  ],
+                  "answer": 3,
+                  "explanation": "From the text: 7–9 hours."
+                },
+                {
+                  "prompt": "He should ______ smoking and ______ down on sugar.",
+                  "options": [
+                    "get up / put",
+                    "cut / give",
+                    "take up / give",
+                    "give up / cut"
+                  ],
+                  "answer": 3,
+                  "explanation": "Give up smoking, cut down on sugar."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Do you have an unhealthy lifestyle?",
+                  "correct": true
+                },
+                {
+                  "sentence": "It’s very easy to get bad habits.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Try to make exercise five times a week.",
+                  "correct": false,
+                  "fix": "Try to get exercise five times a week.",
+                  "explanation": "Get exercise."
+                },
+                {
+                  "sentence": "Make sure you have a balanced diet.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Try not to get stressed.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Exercise helps if you have overweight.",
+                  "correct": false,
+                  "fix": "Exercise helps if you are overweight.",
+                  "explanation": "Be overweight."
+                },
+                {
+                  "sentence": "Running helps you get in shape.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If you have on a diet, don’t lose weight too quickly.",
+                  "correct": false,
+                  "fix": "If you are on a diet, don’t lose weight too quickly.",
+                  "explanation": "Be on a diet."
+                },
+                {
+                  "sentence": "If you are underweight, eat more high-energy food.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It’s important to have a good night’s sleep.",
+                  "correct": false,
+                  "fix": "It’s important to get a good night’s sleep.",
+                  "explanation": "Get a good night’s sleep (have is also heard, but the book uses get)."
+                },
+                {
+                  "sentence": "There’s a lot of pressure on my job, so I’m often stressed.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She plays tennis regularly and eats healthy food: she has a healthy lifestyle.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I get exercise four times a week at the gym.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Jack didn’t eat much when he was sick, so now he is underweight.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My baby wakes me every hour, so it’s hard to get a good night’s sleep.",
+                  "correct": true
+                },
+                {
+                  "sentence": "No cake for me, thanks: I’m on a diet.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Adults need 150 minutes of moderate exercise every week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Most adults need seven to nine hours of sleep.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He gave up smoking last year and feels much better.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You should cut down on sugar and salt.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I am exercise every morning before work.",
+                  "correct": false,
+                  "fix": "I get exercise every morning before work.",
+                  "explanation": "Get exercise."
+                },
+                {
+                  "sentence": "She has a balanced diet and is in great shape.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "an unhealthy lifestyle",
+                  "image": "/img/health/unhealthy-lifestyle.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"an unhealthy lifestyle\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"An unhealthy lifestyle\" → have."
+                    },
+                    {
+                      "prompt": "Is \"an unhealthy lifestyle\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"An unhealthy lifestyle\" → Bad for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "bad habits",
+                  "image": "/img/health/bad-habits.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"bad habits\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Bad habits\" → have."
+                    },
+                    {
+                      "prompt": "Is \"bad habits\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bad habits\" → Bad for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "a healthy lifestyle",
+                  "image": "/img/health/healthy-lifestyle.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"a healthy lifestyle\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A healthy lifestyle\" → have."
+                    },
+                    {
+                      "prompt": "Is \"a healthy lifestyle\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A healthy lifestyle\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "exercise",
+                  "image": "/img/health/exercise.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"exercise\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Exercise\" → get."
+                    },
+                    {
+                      "prompt": "Is \"exercise\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Exercise\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "a balanced diet",
+                  "image": "/img/health/balanced-diet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"a balanced diet\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A balanced diet\" → have."
+                    },
+                    {
+                      "prompt": "Is \"a balanced diet\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A balanced diet\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "stressed",
+                  "image": "/img/health/stressed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"stressed\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Stressed\" → be."
+                    },
+                    {
+                      "prompt": "Is \"stressed\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Stressed\" → Bad for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "overweight",
+                  "image": "/img/health/overweight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"overweight\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Overweight\" → be."
+                    },
+                    {
+                      "prompt": "Is \"overweight\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Overweight\" → Bad for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "in shape",
+                  "image": "/img/health/in-shape.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"in shape\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"In shape\" → be."
+                    },
+                    {
+                      "prompt": "Is \"in shape\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In shape\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "on a diet",
+                  "image": "/img/health/on-a-diet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"on a diet\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"On a diet\" → be."
+                    },
+                    {
+                      "prompt": "Is \"on a diet\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"On a diet\" → Depends on how you do it."
+                    }
+                  ]
+                },
+                {
+                  "word": "underweight",
+                  "image": "/img/health/underweight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"underweight\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Underweight\" → be."
+                    },
+                    {
+                      "prompt": "Is \"underweight\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Underweight\" → Bad for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "a good night's sleep",
+                  "image": "/img/health/good-nights-sleep.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"a good night's sleep\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"A good night's sleep\" → get."
+                    },
+                    {
+                      "prompt": "Is \"a good night's sleep\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A good night's sleep\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "a checkup",
+                  "image": "/img/health/get-a-checkup.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"a checkup\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"A checkup\" → get."
+                    },
+                    {
+                      "prompt": "Is \"a checkup\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A checkup\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "cut down on sugar",
+                  "image": "/img/health/cut-down.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"cut down on sugar\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Cut down on sugar\" → another verb."
+                    },
+                    {
+                      "prompt": "Is \"cut down on sugar\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cut down on sugar\" → Good for you."
+                    }
+                  ]
+                },
+                {
+                  "word": "give up smoking",
+                  "image": "/img/health/give-up-smoking.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb goes with \"give up smoking\"?",
+                      "options": [
+                        "have",
+                        "be",
+                        "get",
+                        "another verb"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Give up smoking\" → another verb."
+                    },
+                    {
+                      "prompt": "Is \"give up smoking\" good or bad for your health?",
+                      "options": [
+                        "Good for you",
+                        "Bad for you",
+                        "Depends on how you do it",
+                        "Neutral"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Give up smoking\" → Good for you."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Try to get exercise five times a week for at least thirty minutes.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Make sure you have a balanced diet.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s important to get a good night’s sleep.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Even in stressful situations, try not to get stressed.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Do you have an unhealthy lifestyle? It’s very easy these days to get bad habits. If you’d like to have a healthy lifestyle, talk to your doctor and follow this advice.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who should you talk to?",
+                  "options": [
+                    "Your teacher",
+                    "Your trainer",
+                    "Your boss",
+                    "Your doctor"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Adults need about a hundred and fifty minutes of moderate exercise every week, or seventy-five minutes of vigorous activity.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many minutes of vigorous activity?",
+                  "options": [
+                    "150",
+                    "30",
+                    "75",
+                    "45"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Make sure you have a balanced diet: eat a variety of foods from all five food groups, but limit how much sugar, fat and salt you eat.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many food groups are mentioned?",
+                  "options": [
+                    "Three",
+                    "Four",
+                    "Five",
+                    "Seven"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Exercise also helps you lose weight if you are overweight, and if you are out of shape, it helps you get in shape.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does exercise help you do?",
+                  "options": [
+                    "Get stressed",
+                    "Gain weight",
+                    "Lose weight and get in shape",
+                    "Sleep less"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "If you are on a diet, don’t try to lose weight too quickly. If you are underweight, eat more food that is high in energy, like porridge or toast.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What should underweight people eat?",
+                  "options": [
+                    "Only salad",
+                    "Nothing before bed",
+                    "Less food",
+                    "High-energy food"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "It’s important to get a good night’s sleep. Most adults need seven to nine hours a night, and children need even more.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How much sleep do adults need?",
+                  "options": [
+                    "Seven to nine hours",
+                    "Four to five hours",
+                    "Ten to twelve hours",
+                    "Six hours"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "There’s a lot of pressure on my job, so I’m often stressed. My doctor says I should cut down on coffee and give up smoking.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What should the speaker give up?",
+                  "options": [
+                    "Work",
+                    "Coffee",
+                    "Smoking",
+                    "Exercise"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Jack was sick for so long that he didn’t eat much. Now he is a bit underweight, but he has a healthy lifestyle and gets exercise every day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why is Jack underweight?",
+                  "options": [
+                    "He is on a diet",
+                    "He exercises too much",
+                    "He works too hard",
+                    "He was sick and didn’t eat much"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Doctor’s Visit",
+                  "situation": "Student A is the doctor; Student B describes their lifestyle. The doctor gives advice.",
+                  "mandatory": [
+                    "healthy lifestyle",
+                    "balanced diet",
+                    "exercise"
+                  ],
+                  "taboo": [
+                    "good",
+                    "bad"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Bad Habits",
+                  "situation": "Confess two bad habits and say how you plan to change them.",
+                  "mandatory": [
+                    "bad habits",
+                    "give up",
+                    "cut down on"
+                  ],
+                  "taboo": [
+                    "stop",
+                    "quit"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Getting in Shape",
+                  "situation": "Student A wants to get in shape for the summer. Student B is a personal trainer.",
+                  "mandatory": [
+                    "in shape",
+                    "overweight",
+                    "get exercise"
+                  ],
+                  "taboo": [
+                    "gym",
+                    "fit"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Stress at Work",
+                  "situation": "Talk about what makes you stressed and what helps you relax.",
+                  "mandatory": [
+                    "stressed",
+                    "pressure",
+                    "relax"
+                  ],
+                  "taboo": [
+                    "work",
+                    "job"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Sleep Talk",
+                  "situation": "Compare your sleep: how many hours, why you can’t sleep, what helps.",
+                  "mandatory": [
+                    "good night’s sleep",
+                    "hours",
+                    "tired"
+                  ],
+                  "taboo": [
+                    "bed",
+                    "night"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "On a Diet",
+                  "situation": "Student A is on a diet at a restaurant; Student B is the waiter suggesting dishes.",
+                  "mandatory": [
+                    "on a diet",
+                    "low-fat",
+                    "balanced"
+                  ],
+                  "taboo": [
+                    "food",
+                    "eat"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U8T4",
+              "name": "8C - Grammar: Modals of Obligation & Advice (have to / must / should)",
+              "steal": [
+                {
+                  "prompt": "It’s after midnight. I think you ______ go home by taxi.",
+                  "options": [
+                    "should",
+                    "don’t have to",
+                    "can’t",
+                    "can"
+                  ],
+                  "answer": 0,
+                  "explanation": "Advice → should."
+                },
+                {
+                  "prompt": "I’m sorry I’m late. I ______ take my sister to the airport.",
+                  "options": [
+                    "have to",
+                    "must",
+                    "should",
+                    "had to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Past obligation → had to."
+                },
+                {
+                  "prompt": "I haven’t seen Helen for ages. I ______ call her soon.",
+                  "options": [
+                    "should",
+                    "don’t have to",
+                    "can’t",
+                    "can"
+                  ],
+                  "answer": 0,
+                  "explanation": "Advice / good idea → should."
+                },
+                {
+                  "prompt": "You ______ come to the supermarket with me. I can go by myself.",
+                  "options": [
+                    "must",
+                    "don’t have to",
+                    "should",
+                    "can’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "Not necessary → don’t have to."
+                },
+                {
+                  "prompt": "I don’t have to work today because my first meeting starts at 11 a.m.",
+                  "options": [
+                    "wrong: can’t",
+                    "correct",
+                    "wrong: must",
+                    "wrong: should"
+                  ],
+                  "answer": 1,
+                  "explanation": "Not necessary."
+                },
+                {
+                  "prompt": "You ______ eat so fast. It’s bad for your digestion.",
+                  "options": [
+                    "shouldn’t",
+                    "must",
+                    "don’t have to",
+                    "can’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "Advice → shouldn’t."
+                },
+                {
+                  "prompt": "I’m afraid you ______ park your car in front of that garage.",
+                  "options": [
+                    "shouldn’t",
+                    "can’t",
+                    "must",
+                    "don’t have to"
+                  ],
+                  "answer": 1,
+                  "explanation": "Not allowed → can’t."
+                },
+                {
+                  "prompt": "We ______ drive downtown. There’s a very convenient train.",
+                  "options": [
+                    "must",
+                    "had to",
+                    "can’t",
+                    "don’t have to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Not necessary."
+                },
+                {
+                  "prompt": "My children ______ wear a school uniform.",
+                  "options": [
+                    "can’t",
+                    "don’t have to",
+                    "have to",
+                    "should"
+                  ],
+                  "answer": 2,
+                  "explanation": "Rule / obligation → have to."
+                },
+                {
+                  "prompt": "All arriving passengers ______ have their passports ready.",
+                  "options": [
+                    "should",
+                    "must",
+                    "don’t have to",
+                    "can’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "Rule in a notice → must."
+                },
+                {
+                  "prompt": "It’s not necessary to hurry. → We ______ hurry.",
+                  "options": [
+                    "shouldn’t",
+                    "don’t have to",
+                    "mustn’t",
+                    "can’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "Not necessary."
+                },
+                {
+                  "prompt": "You aren’t allowed to use your phone in the library. → You ______ use your phone.",
+                  "options": [
+                    "don’t have to",
+                    "shouldn’t",
+                    "can’t",
+                    "needn’t"
+                  ],
+                  "answer": 2,
+                  "explanation": "Not allowed → can’t."
+                },
+                {
+                  "prompt": "It’s not a good idea to drink coffee before bed. → You ______ drink coffee before bed.",
+                  "options": [
+                    "mustn’t",
+                    "can’t",
+                    "shouldn’t",
+                    "don’t have to"
+                  ],
+                  "answer": 2,
+                  "explanation": "Advice → shouldn’t."
+                },
+                {
+                  "prompt": "It will be necessary to stay at the airport hotel. → We ______ stay at the airport hotel.",
+                  "options": [
+                    "must",
+                    "can’t",
+                    "should",
+                    "will have to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Future obligation → will have to."
+                },
+                {
+                  "prompt": "It was really important to visit Grandma. → I really ______ visit Grandma tomorrow.",
+                  "options": [
+                    "can’t",
+                    "don’t have to",
+                    "have to",
+                    "should"
+                  ],
+                  "answer": 3,
+                  "explanation": "Advice/importance → should."
+                },
+                {
+                  "prompt": "It wasn’t necessary to ask for a visa. → I ______ ask for a visa.",
+                  "options": [
+                    "didn’t have to",
+                    "shouldn’t",
+                    "mustn’t",
+                    "couldn’t"
+                  ],
+                  "answer": 0,
+                  "explanation": "Past, not necessary."
+                },
+                {
+                  "prompt": "You aren’t allowed to ride a motorcycle without a helmet. → You ______ ride without a helmet.",
+                  "options": [
+                    "don’t have to",
+                    "can’t",
+                    "should",
+                    "shouldn’t"
+                  ],
+                  "answer": 1,
+                  "explanation": "Not allowed."
+                },
+                {
+                  "prompt": "Last week it was necessary for me to go to the hospital. → Last week I ______ go to the hospital.",
+                  "options": [
+                    "must",
+                    "should",
+                    "have to",
+                    "had to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Past → had to."
+                },
+                {
+                  "prompt": "\"Visitors must park in the visitor parking lot.\" This is…",
+                  "options": [
+                    "a rule or law",
+                    "a past habit",
+                    "a possibility",
+                    "personal advice"
+                  ],
+                  "answer": 0,
+                  "explanation": "Must = rules, signs."
+                },
+                {
+                  "prompt": "\"We don’t have to work today. It’s Saturday.\" Here don’t have to means…",
+                  "options": [
+                    "it’s a bad idea",
+                    "it’s impossible",
+                    "it isn’t allowed",
+                    "it isn’t necessary"
+                  ],
+                  "answer": 3,
+                  "explanation": "Not necessary."
+                },
+                {
+                  "prompt": "Which is the past of \"must\"?",
+                  "options": [
+                    "had to",
+                    "musted",
+                    "must have",
+                    "should"
+                  ],
+                  "answer": 0,
+                  "explanation": "Must has no past: use had to."
+                },
+                {
+                  "prompt": "Which is the future of \"have to\"?",
+                  "options": [
+                    "will must",
+                    "can’t",
+                    "should",
+                    "will have to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Will have to."
+                },
+                {
+                  "prompt": "Which sentence means \"not allowed\"?",
+                  "options": [
+                    "You don’t have to smoke here.",
+                    "You mustn’t smoke here.",
+                    "You should smoke here.",
+                    "You had to smoke here."
+                  ],
+                  "answer": 1,
+                  "explanation": "Mustn’t = prohibition."
+                },
+                {
+                  "prompt": "You ______ take the bus if you don’t want to. You can walk.",
+                  "options": [
+                    "can’t",
+                    "shouldn’t",
+                    "don’t have to",
+                    "must"
+                  ],
+                  "answer": 2,
+                  "explanation": "Not necessary."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "You have to take off your shoes before you go into the temple.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Visitors must park only in the visitor parking lot.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We don’t have to work today. It’s Saturday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You can’t give chocolate to the dog. It’s very bad for him.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I had to go to the doctor because I was having stomach pains.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I musted go to the doctor yesterday.",
+                  "correct": false,
+                  "fix": "I had to go to the doctor yesterday.",
+                  "explanation": "Must has no past form."
+                },
+                {
+                  "sentence": "You should have a more balanced diet.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We’ll must leave early tomorrow.",
+                  "correct": false,
+                  "fix": "We’ll have to leave early tomorrow.",
+                  "explanation": "Future: will have to."
+                },
+                {
+                  "sentence": "Yesterday I must to work until 8 p.m.",
+                  "correct": false,
+                  "fix": "Yesterday I had to work until 8 p.m.",
+                  "explanation": "Past → had to."
+                },
+                {
+                  "sentence": "Do we have to do all the exercises or just the first one?",
+                  "correct": true
+                },
+                {
+                  "sentence": "You don’t have to pay to go by bus. Public transportation is free on Sundays.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You mustn’t pay to go by bus. It’s free.",
+                  "correct": false,
+                  "fix": "You don’t have to pay to go by bus. It’s free.",
+                  "explanation": "Not necessary ≠ not allowed."
+                },
+                {
+                  "sentence": "You can’t take photos inside the art gallery.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You don’t have to take photos inside the art gallery. It’s prohibited.",
+                  "correct": false,
+                  "fix": "You can’t take photos inside the art gallery. It’s prohibited.",
+                  "explanation": "Prohibition → can’t / mustn’t."
+                },
+                {
+                  "sentence": "You should go to the gym two or three times a week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You shouldn’t eat so much fast food.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I think it’s really important for me to visit Grandma tomorrow, so I should visit her.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I didn’t have to ask for a visa to go to Spain.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You can’t ride a motorcycle without a helmet.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m sorry I’m late. I should take my sister to the airport.",
+                  "correct": false,
+                  "fix": "I’m sorry I’m late. I had to take my sister to the airport.",
+                  "explanation": "Past obligation → had to."
+                },
+                {
+                  "sentence": "All passengers must have their passports ready.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It’s after midnight, so you should go home by taxi.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "have to",
+                  "image": "/img/health/have-to.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"have to\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Have to\" → Obligation (necessary)."
+                    },
+                    {
+                      "prompt": "What is the past of \"have to\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Have to\" → had to."
+                    }
+                  ]
+                },
+                {
+                  "word": "must",
+                  "image": "/img/health/have-to.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"must\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Must\" → Obligation (necessary)."
+                    },
+                    {
+                      "prompt": "What is the past of \"must\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Must\" → had to."
+                    }
+                  ]
+                },
+                {
+                  "word": "don't have to",
+                  "image": "/img/health/dont-have-to.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"don't have to\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Don't have to\" → No obligation (not necessary)."
+                    },
+                    {
+                      "prompt": "What is the past of \"don't have to\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Don't have to\" → didn't have to."
+                    }
+                  ]
+                },
+                {
+                  "word": "can't",
+                  "image": "/img/health/cant.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"can't\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Can't\" → Prohibition (not allowed)."
+                    },
+                    {
+                      "prompt": "What is the past of \"can't\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Can't\" → couldn't / wasn't allowed to."
+                    }
+                  ]
+                },
+                {
+                  "word": "must not",
+                  "image": "/img/health/cant.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"must not\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Must not\" → Prohibition (not allowed)."
+                    },
+                    {
+                      "prompt": "What is the past of \"must not\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Must not\" → couldn't / wasn't allowed to."
+                    }
+                  ]
+                },
+                {
+                  "word": "should",
+                  "image": "/img/health/should.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"should\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Should\" → Advice."
+                    },
+                    {
+                      "prompt": "What is the past of \"should\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Should\" → should have."
+                    }
+                  ]
+                },
+                {
+                  "word": "shouldn't",
+                  "image": "/img/health/should.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"shouldn't\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Shouldn't\" → Advice."
+                    },
+                    {
+                      "prompt": "What is the past of \"shouldn't\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Shouldn't\" → should have."
+                    }
+                  ]
+                },
+                {
+                  "word": "need to",
+                  "image": "/img/health/have-to.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What does \"need to\" express?",
+                      "options": [
+                        "Obligation (necessary)",
+                        "No obligation (not necessary)",
+                        "Prohibition (not allowed)",
+                        "Advice"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Need to\" → Obligation (necessary)."
+                    },
+                    {
+                      "prompt": "What is the past of \"need to\"?",
+                      "options": [
+                        "had to",
+                        "didn't have to",
+                        "couldn't / wasn't allowed to",
+                        "should have"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Need to\" → had to."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "You have to take off your shoes before you go into the temple.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We don’t have to work today. It’s Saturday.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I had to go to the doctor because I was having stomach pains.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You should have a more balanced diet.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Attention all passengers: you must have your passports ready, and you can’t take liquids over a hundred milliliters through security.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What can’t you take through security?",
+                  "options": [
+                    "Passports",
+                    "Liquids over 100 ml",
+                    "Shoes",
+                    "Bags"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’m sorry I’m late. I had to take my sister to the airport, and then I couldn’t find a parking space.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why was the speaker late?",
+                  "options": [
+                    "They had to take their sister to the airport",
+                    "They missed the bus",
+                    "They overslept",
+                    "They had to work"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "You don’t have to come to the supermarket with me; I can go by myself. But you should finish your homework before I get back.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Is it necessary to go to the supermarket?",
+                  "options": [
+                    "Only on Saturdays",
+                    "Yes, it’s obligatory",
+                    "No, it isn’t necessary",
+                    "It’s not allowed"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "In this gallery you can’t take photos, and you mustn’t touch the paintings. Children don’t have to pay.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who doesn’t have to pay?",
+                  "options": [
+                    "Children",
+                    "Adults",
+                    "Everyone",
+                    "Students"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My children have to wear a school uniform, but they don’t have to wear it on Fridays. They can’t wear sneakers, though.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When don’t they have to wear the uniform?",
+                  "options": [
+                    "Every day",
+                    "On Mondays",
+                    "Never",
+                    "On Fridays"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Yesterday I had to work until eight, and tomorrow I’ll have to finish the report. I shouldn’t take so much work home.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What will the speaker have to do tomorrow?",
+                  "options": [
+                    "Go home early",
+                    "Take a day off",
+                    "Finish the report",
+                    "Work until eight"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "You aren’t allowed to ride a motorcycle without a helmet here. You also have to have a license, but you don’t have to be over twenty-one.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do you have to have?",
+                  "options": [
+                    "A helmet only",
+                    "Twenty-one years",
+                    "A license",
+                    "A car"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "It’s after midnight. You shouldn’t walk home alone; you should take a taxi. You don’t have to pay; I’ll call one for you.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What advice does the speaker give?",
+                  "options": [
+                    "Pay for the taxi",
+                    "Take a taxi",
+                    "Walk home",
+                    "Stay the night"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "House Rules",
+                  "situation": "Explain the rules of your home or school: what you have to, can’t and don’t have to do.",
+                  "mandatory": [
+                    "have to",
+                    "can’t",
+                    "don’t have to"
+                  ],
+                  "taboo": [
+                    "rule",
+                    "must"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Health Advice",
+                  "situation": "Student A has an unhealthy lifestyle; Student B gives advice with should / shouldn’t.",
+                  "mandatory": [
+                    "should",
+                    "shouldn’t",
+                    "have to"
+                  ],
+                  "taboo": [
+                    "need",
+                    "ought"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Bad Day Yesterday",
+                  "situation": "Describe a terrible day: three things you had to do and one thing you didn’t have to do.",
+                  "mandatory": [
+                    "had to",
+                    "didn’t have to",
+                    "couldn’t"
+                  ],
+                  "taboo": [
+                    "must",
+                    "yesterday"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Airport Signs",
+                  "situation": "Student A is a security officer explaining the rules; Student B is a confused traveler.",
+                  "mandatory": [
+                    "must",
+                    "can’t",
+                    "don’t have to"
+                  ],
+                  "taboo": [
+                    "allowed",
+                    "no"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "New Job",
+                  "situation": "Student A starts a new job tomorrow; Student B explains what they will have to do and what they shouldn’t do.",
+                  "mandatory": [
+                    "will have to",
+                    "shouldn’t",
+                    "must"
+                  ],
+                  "taboo": [
+                    "work",
+                    "boss"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Driving Test",
+                  "situation": "Discuss the rules for driving in your country: licenses, helmets, speed, phones.",
+                  "mandatory": [
+                    "have to",
+                    "can’t",
+                    "should"
+                  ],
+                  "taboo": [
+                    "law",
+                    "police"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
