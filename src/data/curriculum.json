@@ -47556,6 +47556,930 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L3U11T5",
+              "name": "11C - Grammar: Articles (a / an, the, no article)",
+              "steal": [
+                {
+                  "prompt": "We usually go to ______ movies once or twice ______ month.",
+                  "options": [
+                    "the / a",
+                    "a / the",
+                    "the / the",
+                    "— / a"
+                  ],
+                  "answer": 0,
+                  "explanation": "The movies (fixed), once a month (frequency)."
+                },
+                {
+                  "prompt": "I bought ______ new car yesterday, but this morning ______ engine won’t start.",
+                  "options": [
+                    "— / the",
+                    "a / an",
+                    "a / the",
+                    "the / a"
+                  ],
+                  "answer": 2,
+                  "explanation": "First mention → a; then we know which engine → the."
+                },
+                {
+                  "prompt": "He’s one of five brothers. ______ youngest brother is ______ doctor.",
+                  "options": [
+                    "The / a",
+                    "A / the",
+                    "— / a",
+                    "The / —"
+                  ],
+                  "answer": 0,
+                  "explanation": "Superlative → the; profession → a."
+                },
+                {
+                  "prompt": "She flew from ______ Venezuela to ______ U.S.",
+                  "options": [
+                    "— / the",
+                    "a / the",
+                    "the / the",
+                    "the / —"
+                  ],
+                  "answer": 0,
+                  "explanation": "No article with most countries; the U.S."
+                },
+                {
+                  "prompt": "Are you really scared of ______ spiders?",
+                  "options": [
+                    "—",
+                    "a",
+                    "an",
+                    "the"
+                  ],
+                  "answer": 0,
+                  "explanation": "General plural → no article."
+                },
+                {
+                  "prompt": "How long have you played ______ piano?",
+                  "options": [
+                    "the",
+                    "a",
+                    "—",
+                    "an"
+                  ],
+                  "answer": 0,
+                  "explanation": "Instruments → the."
+                },
+                {
+                  "prompt": "Neil Armstrong was ______ first man on ______ moon.",
+                  "options": [
+                    "the / the",
+                    "the / a",
+                    "a / the",
+                    "— / the"
+                  ],
+                  "answer": 0,
+                  "explanation": "First (ordinal) → the; only one moon → the."
+                },
+                {
+                  "prompt": "I hope you both find ______ happiness together.",
+                  "options": [
+                    "—",
+                    "a",
+                    "the",
+                    "an"
+                  ],
+                  "answer": 0,
+                  "explanation": "Uncountable, general → no article."
+                },
+                {
+                  "prompt": "What did you have for ______ breakfast this morning?",
+                  "options": [
+                    "—",
+                    "an",
+                    "a",
+                    "the"
+                  ],
+                  "answer": 0,
+                  "explanation": "Meals → no article."
+                },
+                {
+                  "prompt": "We have ______ dinner together three times ______ year.",
+                  "options": [
+                    "a / the",
+                    "the / a",
+                    "— / the",
+                    "— / a"
+                  ],
+                  "answer": 3,
+                  "explanation": "Meal → no; frequency → a."
+                },
+                {
+                  "prompt": "She got ______ home from ______ work and went straight to ______ bed.",
+                  "options": [
+                    "— / — / —",
+                    "the / the / the",
+                    "a / — / the",
+                    "— / the / —"
+                  ],
+                  "answer": 0,
+                  "explanation": "Home, work, bed → no article."
+                },
+                {
+                  "prompt": "______ Friday is ______ busiest day of ______ week for us.",
+                  "options": [
+                    "The / — / the",
+                    "— / a / the",
+                    "The / the / a",
+                    "— / the / the"
+                  ],
+                  "answer": 3,
+                  "explanation": "Days → no; superlative → the; the week."
+                },
+                {
+                  "prompt": "Is she student?",
+                  "options": [
+                    "Is she a student? ✗",
+                    "Is she the student? ✗",
+                    "Correct ✓",
+                    "Is she an student? ✗"
+                  ],
+                  "answer": 0,
+                  "explanation": "Profession/role → a."
+                },
+                {
+                  "prompt": "I’m staying in bed this morning.",
+                  "options": [
+                    "I’m staying in a bed. ✗",
+                    "I’m staying in an bed. ✗",
+                    "I’m staying in the bed. ✗",
+                    "Correct ✓"
+                  ],
+                  "answer": 3,
+                  "explanation": "In bed → no article."
+                },
+                {
+                  "prompt": "Why don’t you ask her out for lunch?",
+                  "options": [
+                    "…for a lunch ✗",
+                    "Correct ✓",
+                    "…for an lunch ✗",
+                    "…for the lunch ✗"
+                  ],
+                  "answer": 1,
+                  "explanation": "Meals → no article."
+                },
+                {
+                  "prompt": "Excuse me, where’s museum?",
+                  "options": [
+                    "…where’s the museum? ✗",
+                    "…where’s a museum? is the only option ✗",
+                    "Correct ✓",
+                    "…where’s museum, the? ✗"
+                  ],
+                  "answer": 0,
+                  "explanation": "We both know which museum → the."
+                },
+                {
+                  "prompt": "It’s beautiful day today.",
+                  "options": [
+                    "Correct ✓",
+                    "It’s a beautiful day today. ✗",
+                    "It’s an beautiful day today. ✗",
+                    "It’s the beautiful day today. ✗"
+                  ],
+                  "answer": 1,
+                  "explanation": "Singular countable → a."
+                },
+                {
+                  "prompt": "The life is hard sometimes.",
+                  "options": [
+                    "The lives are hard. ✗",
+                    "A life is hard sometimes. ✗",
+                    "Correct ✓",
+                    "Life is hard sometimes. ✗"
+                  ],
+                  "answer": 3,
+                  "explanation": "General abstract noun → no article."
+                },
+                {
+                  "prompt": "Our taxi driver was from Mexico.",
+                  "options": [
+                    "…from a Mexico ✗",
+                    "Correct ✓",
+                    "…from the Mexico ✗",
+                    "A our taxi driver ✗"
+                  ],
+                  "answer": 1,
+                  "explanation": "Countries → no article."
+                },
+                {
+                  "prompt": "I went to the bank this morning.",
+                  "options": [
+                    "I went to bank ✗",
+                    "I went to a bank is the only option ✗",
+                    "Correct ✓",
+                    "I went to an bank ✗"
+                  ],
+                  "answer": 2,
+                  "explanation": "The bank we know → the."
+                },
+                {
+                  "prompt": "My wife has never liked the tomatoes.",
+                  "options": [
+                    "My wife has never liked tomatoes. ✗",
+                    "Correct ✓",
+                    "…liked a tomatoes ✗",
+                    "…liked an tomatoes ✗"
+                  ],
+                  "answer": 0,
+                  "explanation": "General plural → no article."
+                },
+                {
+                  "prompt": "Isn’t it best present I’ve ever received?",
+                  "options": [
+                    "Isn’t it the best present…? ✗",
+                    "Isn’t it an best present…? ✗",
+                    "Isn’t it a best present…? ✗",
+                    "Correct ✓"
+                  ],
+                  "answer": 0,
+                  "explanation": "Superlative → the."
+                },
+                {
+                  "prompt": "Hexoskin is ______ Canadian company founded in 2006. It wanted to create ______ clothes that could record ______ information about our bodies.",
+                  "options": [
+                    "a / the / a",
+                    "the / the / the",
+                    "— / — / the",
+                    "a / — / —"
+                  ],
+                  "answer": 3,
+                  "explanation": "A company; general plural and uncountable → no article."
+                },
+                {
+                  "prompt": "They developed ______ smart shirt that contains ______ sensors.",
+                  "options": [
+                    "a / the",
+                    "the / the",
+                    "— / a",
+                    "a / —"
+                  ],
+                  "answer": 3,
+                  "explanation": "First mention → a; general plural → no article."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I have a pet dog and a pet cat.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The dog is much bigger than the cat.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I love animals, especially dogs and cats.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I have two children: a boy and a girl.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My sister’s engineer.",
+                  "correct": false,
+                  "fix": "My sister’s an engineer.",
+                  "explanation": "Profession → a/an."
+                },
+                {
+                  "sentence": "I see him once a week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The fish costs $10 the kilo.",
+                  "correct": false,
+                  "fix": "The fish costs $10 a kilo.",
+                  "explanation": "Measurement → a."
+                },
+                {
+                  "sentence": "The boy is named Alex, and the girl is named Lucy.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The sun is setting.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’ll check on Internet.",
+                  "correct": false,
+                  "fix": "I’ll check on the Internet.",
+                  "explanation": "The Internet."
+                },
+                {
+                  "sentence": "I live in the U.S., but my brother lives in the Philippines.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I went to the bank and the grocery store.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She plays guitar very well.",
+                  "correct": false,
+                  "fix": "She plays the guitar very well.",
+                  "explanation": "Instruments → the (in this coursebook)."
+                },
+                {
+                  "sentence": "He’s the fastest runner in the world.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The dogs are my favorite animals.",
+                  "correct": false,
+                  "fix": "Dogs are my favorite animals.",
+                  "explanation": "General plural → no article."
+                },
+                {
+                  "sentence": "Pollution is a big problem today.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m not going to the work today.",
+                  "correct": false,
+                  "fix": "I’m not going to work today.",
+                  "explanation": "Work → no article."
+                },
+                {
+                  "sentence": "She had to go to college.",
+                  "correct": true
+                },
+                {
+                  "sentence": "On Tuesday, I’m having lunch with Jack.",
+                  "correct": true
+                },
+                {
+                  "sentence": "August is my favorite month.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Neil Armstrong was the first man on the moon.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are you scared of the spiders?",
+                  "correct": false,
+                  "fix": "Are you scared of spiders?",
+                  "explanation": "General plural → no article."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "I have ___ dog. (first time)",
+                  "image": "/img/articles/dog-first.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"I have ___ dog. (first time)\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I have ___ dog. (first time)\" → a / an."
+                    },
+                    {
+                      "prompt": "Why that article for \"I have ___ dog. (first time)\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I have ___ dog. (first time)\" → First mention / one of many."
+                    }
+                  ]
+                },
+                {
+                  "word": "___ dog is much bigger than the cat.",
+                  "image": "/img/articles/dog-the.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"___ dog is much bigger than the cat.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"___ dog is much bigger than the cat.\" → the."
+                    },
+                    {
+                      "prompt": "Why that article for \"___ dog is much bigger than the cat.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"___ dog is much bigger than the cat.\" → Only one or already mentioned."
+                    }
+                  ]
+                },
+                {
+                  "word": "___ sun is setting.",
+                  "image": "/img/articles/sun.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"___ sun is setting.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"___ sun is setting.\" → the."
+                    },
+                    {
+                      "prompt": "Why that article for \"___ sun is setting.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"___ sun is setting.\" → Only one or already mentioned."
+                    }
+                  ]
+                },
+                {
+                  "word": "She plays ___ guitar.",
+                  "image": "/img/articles/piano.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"She plays ___ guitar.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"She plays ___ guitar.\" → the."
+                    },
+                    {
+                      "prompt": "Why that article for \"She plays ___ guitar.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"She plays ___ guitar.\" → Only one or already mentioned."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'm not going to ___ work today.",
+                  "image": "/img/articles/home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"I'm not going to ___ work today.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'm not going to ___ work today.\" → no article."
+                    },
+                    {
+                      "prompt": "Why that article for \"I'm not going to ___ work today.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'm not going to ___ work today.\" → General, name, or home/work/school."
+                    }
+                  ]
+                },
+                {
+                  "word": "My cousin lives in ___ Venezuela.",
+                  "image": "/img/articles/country.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"My cousin lives in ___ Venezuela.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"My cousin lives in ___ Venezuela.\" → no article."
+                    },
+                    {
+                      "prompt": "Why that article for \"My cousin lives in ___ Venezuela.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"My cousin lives in ___ Venezuela.\" → General, name, or home/work/school."
+                    }
+                  ]
+                },
+                {
+                  "word": "___ dogs are my favorite animals.",
+                  "image": "/img/articles/plural-general.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"___ dogs are my favorite animals.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"___ dogs are my favorite animals.\" → no article."
+                    },
+                    {
+                      "prompt": "Why that article for \"___ dogs are my favorite animals.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"___ dogs are my favorite animals.\" → General, name, or home/work/school."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'm having ___ lunch with Jack on ___ Tuesday.",
+                  "image": "/img/articles/meals-days.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"I'm having ___ lunch with Jack on ___ Tuesday.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'm having ___ lunch with Jack on ___ Tuesday.\" → no article."
+                    },
+                    {
+                      "prompt": "Why that article for \"I'm having ___ lunch with Jack on ___ Tuesday.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I'm having ___ lunch with Jack on ___ Tuesday.\" → Meal, day or month."
+                    }
+                  ]
+                },
+                {
+                  "word": "He's ___ fastest runner in the world.",
+                  "image": "/img/articles/superlative.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"He's ___ fastest runner in the world.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"He's ___ fastest runner in the world.\" → the."
+                    },
+                    {
+                      "prompt": "Why that article for \"He's ___ fastest runner in the world.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"He's ___ fastest runner in the world.\" → Only one or already mentioned."
+                    }
+                  ]
+                },
+                {
+                  "word": "My sister's ___ engineer.",
+                  "image": "/img/articles/a-an.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"My sister's ___ engineer.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"My sister's ___ engineer.\" → a / an."
+                    },
+                    {
+                      "prompt": "Why that article for \"My sister's ___ engineer.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"My sister's ___ engineer.\" → First mention / one of many."
+                    }
+                  ]
+                },
+                {
+                  "word": "I see him once ___ week.",
+                  "image": "/img/articles/a-an.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"I see him once ___ week.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I see him once ___ week.\" → a / an."
+                    },
+                    {
+                      "prompt": "Why that article for \"I see him once ___ week.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I see him once ___ week.\" → First mention / one of many."
+                    }
+                  ]
+                },
+                {
+                  "word": "I live in ___ U.S.",
+                  "image": "/img/articles/the.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article do we use with \"I live in ___ U.S.\"?",
+                      "options": [
+                        "a / an",
+                        "the",
+                        "no article",
+                        "a or the depending on context"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I live in ___ U.S.\" → the."
+                    },
+                    {
+                      "prompt": "Why that article for \"I live in ___ U.S.\"?",
+                      "options": [
+                        "First mention / one of many",
+                        "Only one or already mentioned",
+                        "General, name, or home/work/school",
+                        "Meal, day or month"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I live in ___ U.S.\" → Only one or already mentioned."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I have a pet dog and a pet cat. The dog is much bigger than the cat.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She plays the piano, and he’s the fastest runner in the world.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m not going to work today. I’m staying home.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "On Tuesday, I’m having lunch with Jack.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I bought a new car yesterday, but this morning the engine won’t start. The mechanic says it’s the battery.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the problem?",
+                  "options": [
+                    "The driver",
+                    "The tires",
+                    "The battery",
+                    "The price"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My cousin lives in Venezuela, but her brother lives in the U.S. and her parents live in the Philippines.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where does her brother live?",
+                  "options": [
+                    "In the Philippines",
+                    "In Venezuela",
+                    "In the U.S.",
+                    "In Mexico"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Neil Armstrong was the first man on the moon, in July 1969. He was an engineer and a pilot.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What was Armstrong’s profession?",
+                  "options": [
+                    "An engineer and a pilot",
+                    "A teacher",
+                    "A sailor",
+                    "A doctor"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "We usually go to the movies once or twice a month. Friday is the busiest day of the week, so we go on Tuesdays.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "When do they go?",
+                  "options": [
+                    "On Tuesdays",
+                    "Once a year",
+                    "Every day",
+                    "On Fridays"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Hexoskin is a Canadian company founded in 2006. It developed a smart shirt with sensors that collect data about the wearer’s heart rate and breathing.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the shirt collect?",
+                  "options": [
+                    "Weather information",
+                    "Heart rate and breathing data",
+                    "Photos",
+                    "Money"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Dogs are my favorite animals, but my wife has never liked dogs. We have a cat. The cat sleeps on the sofa all day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What pet do they have?",
+                  "options": [
+                    "Two dogs",
+                    "A cat",
+                    "No pets",
+                    "A dog"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "She got home from work at six, had dinner and went straight to bed. Life is hard sometimes!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What time did she get home?",
+                  "options": [
+                    "At noon",
+                    "At nine",
+                    "At six",
+                    "At seven"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Excuse me, where’s the museum? — Go straight, and it’s next to the bank, opposite a big park.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the museum next to?",
+                  "options": [
+                    "The station",
+                    "The bank",
+                    "A school",
+                    "A park"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "My Pets",
+                  "situation": "Describe a pet (real or invented): introduce it with \"a\", then describe it with \"the\".",
+                  "mandatory": [
+                    "a",
+                    "the",
+                    "is"
+                  ],
+                  "taboo": [
+                    "this",
+                    "that"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Family Jobs",
+                  "situation": "Say what three members of your family do: \"My sister’s a nurse…\" Then say where they live.",
+                  "mandatory": [
+                    "a",
+                    "an",
+                    "lives in"
+                  ],
+                  "taboo": [
+                    "the job",
+                    "work in the"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Routine",
+                  "situation": "Describe your week without wrong articles: home, work, school, bed, breakfast, Monday…",
+                  "mandatory": [
+                    "go to work",
+                    "have breakfast",
+                    "on Monday"
+                  ],
+                  "taboo": [
+                    "the home",
+                    "the breakfast"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Records",
+                  "situation": "Tell your partner about the best, the biggest or the most famous thing in your city.",
+                  "mandatory": [
+                    "the best",
+                    "the biggest",
+                    "in the world"
+                  ],
+                  "taboo": [
+                    "very",
+                    "really"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Directions",
+                  "situation": "Student A asks \"Where’s the…?\" for three places; Student B gives directions with the / a.",
+                  "mandatory": [
+                    "the bank",
+                    "a park",
+                    "next to the"
+                  ],
+                  "taboo": [
+                    "left",
+                    "right"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Likes in General",
+                  "situation": "Talk about things you love or hate in general: dogs, music, pollution, Mondays.",
+                  "mandatory": [
+                    "I love",
+                    "I hate",
+                    "in general"
+                  ],
+                  "taboo": [
+                    "the dogs",
+                    "the music"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
