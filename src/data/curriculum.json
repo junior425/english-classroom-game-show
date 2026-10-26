@@ -21021,6 +21021,1816 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U10T3",
+              "name": "10A - Vocabulary: Free-time Activities",
+              "steal": [
+                {
+                  "prompt": "Erica likes hot weather and swimming. She wants to ______.",
+                  "options": [
+                    "visit a museum",
+                    "stay home",
+                    "watch a video",
+                    "go to the beach"
+                  ],
+                  "answer": 3,
+                  "explanation": "Beach = sun and swimming."
+                },
+                {
+                  "prompt": "She has two new books to read. She’s going to ______.",
+                  "options": [
+                    "go to a festival",
+                    "have a party",
+                    "stay home",
+                    "watch a soccer game"
+                  ],
+                  "answer": 2,
+                  "explanation": "Stay home and read."
+                },
+                {
+                  "prompt": "We love music. Tonight we’re going to ______.",
+                  "options": [
+                    "stay in a tent",
+                    "have a barbecue",
+                    "go to a concert",
+                    "visit an art gallery"
+                  ],
+                  "answer": 2,
+                  "explanation": "Concert = live music."
+                },
+                {
+                  "prompt": "It’s my birthday on Saturday. I’m going to ______!",
+                  "options": [
+                    "have a party",
+                    "watch a video",
+                    "visit a museum",
+                    "stay at a hotel"
+                  ],
+                  "answer": 0,
+                  "explanation": "Have a party."
+                },
+                {
+                  "prompt": "The weather is great. Let’s cook outside and ______.",
+                  "options": [
+                    "have a barbecue",
+                    "stay home",
+                    "watch a movie",
+                    "go to a concert"
+                  ],
+                  "answer": 0,
+                  "explanation": "Barbecue = cooking outside."
+                },
+                {
+                  "prompt": "We’re camping this weekend. We’re going to ______.",
+                  "options": [
+                    "stay in a tent",
+                    "visit an art gallery",
+                    "go to a concert",
+                    "stay at a hotel"
+                  ],
+                  "answer": 0,
+                  "explanation": "Camping → tent."
+                },
+                {
+                  "prompt": "I love paintings. Let’s ______.",
+                  "options": [
+                    "have a barbecue",
+                    "visit an art gallery",
+                    "go to the beach",
+                    "watch a soccer game"
+                  ],
+                  "answer": 1,
+                  "explanation": "Paintings → art gallery."
+                },
+                {
+                  "prompt": "I want to see old dinosaurs and history. Let’s ______.",
+                  "options": [
+                    "stay home",
+                    "go to a festival",
+                    "visit a museum",
+                    "have a party"
+                  ],
+                  "answer": 2,
+                  "explanation": "Museum."
+                },
+                {
+                  "prompt": "Real Madrid is playing tonight. Let’s ______!",
+                  "options": [
+                    "visit a museum",
+                    "go to the beach",
+                    "watch a soccer game",
+                    "stay in a tent"
+                  ],
+                  "answer": 2,
+                  "explanation": "Soccer game."
+                },
+                {
+                  "prompt": "My grandparents live in Cali. This weekend I’m going to ______.",
+                  "options": [
+                    "stay at a hotel",
+                    "watch a video",
+                    "have a barbecue",
+                    "visit family"
+                  ],
+                  "answer": 3,
+                  "explanation": "Visit family."
+                },
+                {
+                  "prompt": "There are 20 bands playing in the park for three days. It’s a ______.",
+                  "options": [
+                    "museum",
+                    "barbecue",
+                    "festival",
+                    "hotel"
+                  ],
+                  "answer": 2,
+                  "explanation": "Festival = many bands, days."
+                },
+                {
+                  "prompt": "We don’t want to camp. We’re going to ______ with a pool.",
+                  "options": [
+                    "have a party",
+                    "stay in a tent",
+                    "stay at a hotel",
+                    "stay home"
+                  ],
+                  "answer": 2,
+                  "explanation": "Hotel."
+                },
+                {
+                  "prompt": "Let’s go to the movie theater and ______.",
+                  "options": [
+                    "visit a museum",
+                    "watch a video",
+                    "go to a festival",
+                    "watch a movie"
+                  ],
+                  "answer": 3,
+                  "explanation": "Movie theater → watch a movie."
+                },
+                {
+                  "prompt": "I saw a funny cat ______ on YouTube.",
+                  "options": [
+                    "festival",
+                    "concert",
+                    "movie",
+                    "video"
+                  ],
+                  "answer": 3,
+                  "explanation": "Video."
+                },
+                {
+                  "prompt": "Did you enjoy the party? — Yes, we ______!",
+                  "options": [
+                    "stayed home",
+                    "visited a museum",
+                    "had a good time",
+                    "had a barbecue"
+                  ],
+                  "answer": 2,
+                  "explanation": "Have a good time = enjoy."
+                },
+                {
+                  "prompt": "Which verb goes with \"a party\", \"a barbecue\" and \"a good time\"?",
+                  "options": [
+                    "stay",
+                    "go",
+                    "watch",
+                    "have"
+                  ],
+                  "answer": 3,
+                  "explanation": "Have."
+                },
+                {
+                  "prompt": "Which verb goes with \"a concert\", \"a festival\" and \"the beach\"?",
+                  "options": [
+                    "have",
+                    "stay",
+                    "visit",
+                    "go to"
+                  ],
+                  "answer": 3,
+                  "explanation": "Go to."
+                },
+                {
+                  "prompt": "Which verb goes with \"a museum\", \"an art gallery\" and \"friends\"?",
+                  "options": [
+                    "stay",
+                    "visit",
+                    "have",
+                    "watch"
+                  ],
+                  "answer": 1,
+                  "explanation": "Visit."
+                },
+                {
+                  "prompt": "Which verb goes with \"a movie\", \"a soccer game\" and \"a video\"?",
+                  "options": [
+                    "watch",
+                    "visit",
+                    "have",
+                    "go"
+                  ],
+                  "answer": 0,
+                  "explanation": "Watch."
+                },
+                {
+                  "prompt": "Which verb goes with \"home\", \"at a hotel\" and \"in a tent\"?",
+                  "options": [
+                    "stay",
+                    "go",
+                    "watch",
+                    "have"
+                  ],
+                  "answer": 0,
+                  "explanation": "Stay."
+                },
+                {
+                  "prompt": "Choose the correct phrase.",
+                  "options": [
+                    "stay at home to",
+                    "stay in home",
+                    "stay the home",
+                    "stay home"
+                  ],
+                  "answer": 3,
+                  "explanation": "Stay home (US)."
+                },
+                {
+                  "prompt": "Choose the correct phrase.",
+                  "options": [
+                    "go the beach",
+                    "go to beach",
+                    "go in the beach",
+                    "go to the beach"
+                  ],
+                  "answer": 3,
+                  "explanation": "Go to the beach."
+                },
+                {
+                  "prompt": "Choose the correct phrase.",
+                  "options": [
+                    "visit a art gallery",
+                    "visit art gallery",
+                    "go an art gallery",
+                    "visit an art gallery"
+                  ],
+                  "answer": 3,
+                  "explanation": "An art gallery."
+                },
+                {
+                  "prompt": "Which activity is NOT outdoors?",
+                  "options": [
+                    "go to the beach",
+                    "stay in a tent",
+                    "watch a video",
+                    "have a barbecue"
+                  ],
+                  "answer": 2,
+                  "explanation": "Video = at home."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Erica likes hot weather and swimming, so she goes to the beach.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We’re going to a concert tonight.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We’re going to have a barbecue in the park.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We’re going to make a party on Saturday.",
+                  "correct": false,
+                  "fix": "We’re going to have a party on Saturday.",
+                  "explanation": "Have a party."
+                },
+                {
+                  "sentence": "I’m going to stay in a tent this weekend.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m going to stay in home and read.",
+                  "correct": false,
+                  "fix": "I’m going to stay home and read.",
+                  "explanation": "Stay home."
+                },
+                {
+                  "sentence": "Let’s visit an art gallery.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Let’s see a soccer game on TV.",
+                  "correct": false,
+                  "fix": "Let’s watch a soccer game on TV.",
+                  "explanation": "Watch a soccer game."
+                },
+                {
+                  "sentence": "We stayed at a hotel near the beach.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We had a good time at the festival.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m going to visit my family in Cali.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I watched a funny video on my phone.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Let’s go to a festival this summer.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Let’s go at the beach.",
+                  "correct": false,
+                  "fix": "Let’s go to the beach.",
+                  "explanation": "Go to the beach."
+                },
+                {
+                  "sentence": "We visited a museum with the school.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We watched a movie at the theater.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Do you want to have a barbecue on Sunday?",
+                  "correct": true
+                },
+                {
+                  "sentence": "They are staying at a hotel in Cartagena.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I had a good time at your party. Thanks!",
+                  "correct": true
+                },
+                {
+                  "sentence": "We’re going to a concert of Shakira next month.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Let’s stay a hotel.",
+                  "correct": false,
+                  "fix": "Let’s stay at a hotel.",
+                  "explanation": "Stay at a hotel."
+                },
+                {
+                  "sentence": "He visits his friends every weekend.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "go to a concert",
+                  "image": "/img/free-time/go-to-a-concert.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"go to a concert\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go to a concert\" → go."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"go to a concert\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go to a concert\" → In a building in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "go to a festival",
+                  "image": "/img/free-time/go-to-a-festival.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"go to a festival\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go to a festival\" → go."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"go to a festival\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go to a festival\" → Outdoors."
+                    }
+                  ]
+                },
+                {
+                  "word": "go to the beach",
+                  "image": "/img/free-time/go-to-the-beach.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"go to the beach\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go to the beach\" → go."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"go to the beach\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go to the beach\" → Outdoors."
+                    }
+                  ]
+                },
+                {
+                  "word": "have a barbecue",
+                  "image": "/img/free-time/have-a-barbecue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"have a barbecue\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Have a barbecue\" → have."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"have a barbecue\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Have a barbecue\" → Outdoors."
+                    }
+                  ]
+                },
+                {
+                  "word": "have a good time",
+                  "image": "/img/free-time/have-a-good-time.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"have a good time\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Have a good time\" → have."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"have a good time\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Have a good time\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "have a party",
+                  "image": "/img/free-time/have-a-party.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"have a party\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Have a party\" → have."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"have a party\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Have a party\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "stay at a hotel",
+                  "image": "/img/free-time/stay-at-a-hotel.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"stay at a hotel\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Stay at a hotel\" → stay."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"stay at a hotel\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Stay at a hotel\" → In a building in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "stay home",
+                  "image": "/img/free-time/stay-home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"stay home\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Stay home\" → stay."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"stay home\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Stay home\" → At home."
+                    }
+                  ]
+                },
+                {
+                  "word": "stay in a tent",
+                  "image": "/img/free-time/stay-in-a-tent.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"stay in a tent\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Stay in a tent\" → stay."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"stay in a tent\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stay in a tent\" → Outdoors."
+                    }
+                  ]
+                },
+                {
+                  "word": "visit a museum",
+                  "image": "/img/free-time/visit-a-museum.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"visit a museum\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Visit a museum\" → visit / watch."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"visit a museum\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Visit a museum\" → In a building in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "visit an art gallery",
+                  "image": "/img/free-time/visit-an-art-gallery.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"visit an art gallery\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Visit an art gallery\" → visit / watch."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"visit an art gallery\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Visit an art gallery\" → In a building in town."
+                    }
+                  ]
+                },
+                {
+                  "word": "visit family and friends",
+                  "image": "/img/free-time/visit-family-friends.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"visit family and friends\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Visit family and friends\" → visit / watch."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"visit family and friends\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Visit family and friends\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "watch a movie",
+                  "image": "/img/free-time/watch-a-movie.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"watch a movie\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Watch a movie\" → visit / watch."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"watch a movie\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Watch a movie\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "watch a soccer game",
+                  "image": "/img/free-time/watch-a-soccer-game.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"watch a soccer game\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Watch a soccer game\" → visit / watch."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"watch a soccer game\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Watch a soccer game\" → Anywhere."
+                    }
+                  ]
+                },
+                {
+                  "word": "watch a video",
+                  "image": "/img/free-time/watch-a-video.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which verb starts \"watch a video\"?",
+                      "options": [
+                        "go",
+                        "have",
+                        "stay",
+                        "visit / watch"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Watch a video\" → visit / watch."
+                    },
+                    {
+                      "prompt": "Where do you usually do this: \"watch a video\"?",
+                      "options": [
+                        "Outdoors",
+                        "At home",
+                        "In a building in town",
+                        "Anywhere"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Watch a video\" → At home."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "We’re going to a concert tonight.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Let’s have a barbecue on Sunday.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I want to stay home and read my new books.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We had a good time at the festival.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Erica likes hot weather and swimming. She has two new books to read. So this weekend she’s going to the beach, and in the evening she’s staying home to read.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is Erica doing in the evening?",
+                  "options": [
+                    "Having a party",
+                    "Staying home to read",
+                    "Visiting a museum",
+                    "Going to the beach"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Paul is a big fan of live music. On Friday he’s going to a concert, and in July he’s going to a festival with twenty bands for three days.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How long is the festival?",
+                  "options": [
+                    "One day",
+                    "Two days",
+                    "A week",
+                    "Three days"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "My grandparents live in the mountains. We’re visiting family this weekend and we’re staying in a tent in their garden!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where are they staying?",
+                  "options": [
+                    "At a hotel",
+                    "In a museum",
+                    "At home",
+                    "In a tent"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Tonight there’s a big soccer game, Colombia against Brazil. We’re watching it at Luis’s house and having a barbecue before the game.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What are they doing before the game?",
+                  "options": [
+                    "Visiting friends",
+                    "Watching a video",
+                    "Having a barbecue",
+                    "Going to a concert"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "It’s Ana’s birthday on Saturday. She’s having a party at home, and on Sunday she’s visiting an art gallery with her mother.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is the party?",
+                  "options": [
+                    "At a hotel",
+                    "At home",
+                    "At an art gallery",
+                    "At the beach"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "We can’t camp this year; it’s too cold. We’re staying at a hotel with a swimming pool and watching movies every night.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why aren’t they camping?",
+                  "options": [
+                    "The hotel is free",
+                    "It’s raining",
+                    "They don’t like tents",
+                    "It’s too cold"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "The museum has dinosaurs and old cars. The art gallery next to it has paintings by Botero. Let’s visit the museum first and the gallery after lunch.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do they visit first?",
+                  "options": [
+                    "The museum",
+                    "The art gallery",
+                    "The beach",
+                    "A hotel"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I didn’t go out last night. I stayed home, watched a funny video on my phone and then watched a movie. I had a good time!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did the speaker do first?",
+                  "options": [
+                    "Watched a movie",
+                    "Watched a video",
+                    "Went to a concert",
+                    "Went to a party"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Perfect Weekend",
+                  "situation": "Describe your perfect weekend using at least three free-time activities.",
+                  "mandatory": [
+                    "go to",
+                    "have",
+                    "watch"
+                  ],
+                  "taboo": [
+                    "work",
+                    "study"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Making Plans",
+                  "situation": "Student A invites Student B to do something; Student B says yes or suggests another activity.",
+                  "mandatory": [
+                    "Let’s",
+                    "party",
+                    "movie"
+                  ],
+                  "taboo": [
+                    "no",
+                    "busy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel Agent",
+                  "situation": "Student A is a travel agent; Student B wants a vacation. Hotel or tent? Beach or museum?",
+                  "mandatory": [
+                    "stay at a hotel",
+                    "stay in a tent",
+                    "go to the beach"
+                  ],
+                  "taboo": [
+                    "price",
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Birthday Party",
+                  "situation": "Plan a birthday party: food, music, people, place.",
+                  "mandatory": [
+                    "have a party",
+                    "barbecue",
+                    "friends"
+                  ],
+                  "taboo": [
+                    "cake",
+                    "present"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Culture Day",
+                  "situation": "You have a day in a big city. Compare a museum, an art gallery and a concert.",
+                  "mandatory": [
+                    "visit",
+                    "museum",
+                    "concert"
+                  ],
+                  "taboo": [
+                    "boring",
+                    "expensive"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Stay Home or Go Out?",
+                  "situation": "Debate: is it better to stay home and watch movies or go out to festivals?",
+                  "mandatory": [
+                    "stay home",
+                    "festival",
+                    "good time"
+                  ],
+                  "taboo": [
+                    "hate",
+                    "never"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U10T4",
+              "name": "10A - Grammar: Present Continuous for Future Plans",
+              "steal": [
+                {
+                  "prompt": "We ______ our friends for dinner later.",
+                  "options": [
+                    "meet",
+                    "meeting",
+                    "am meeting",
+                    "are meeting"
+                  ],
+                  "answer": 3,
+                  "explanation": "We are meeting."
+                },
+                {
+                  "prompt": "______ you ______ the soccer game tonight?",
+                  "options": [
+                    "Are / watch",
+                    "Do / watching",
+                    "Is / watching",
+                    "Are / watching"
+                  ],
+                  "answer": 3,
+                  "explanation": "Are you watching…?"
+                },
+                {
+                  "prompt": "They ______ the 7:30 train to Edinburgh tomorrow.",
+                  "options": [
+                    "are taking",
+                    "taking",
+                    "is taking",
+                    "take"
+                  ],
+                  "answer": 0,
+                  "explanation": "They are taking."
+                },
+                {
+                  "prompt": "He ______ with some friends in Lima at the weekend.",
+                  "options": [
+                    "is staying",
+                    "stay",
+                    "are staying",
+                    "staying"
+                  ],
+                  "answer": 0,
+                  "explanation": "He is staying."
+                },
+                {
+                  "prompt": "Maria is sick. She ______ to the concert this evening.",
+                  "options": [
+                    "not coming",
+                    "isn’t coming",
+                    "doesn’t coming",
+                    "isn’t come"
+                  ],
+                  "answer": 1,
+                  "explanation": "Isn’t coming."
+                },
+                {
+                  "prompt": "We ______ the museum next week. It’s closed.",
+                  "options": [
+                    "isn’t visiting",
+                    "not visiting",
+                    "aren’t visiting",
+                    "don’t visiting"
+                  ],
+                  "answer": 2,
+                  "explanation": "Aren’t visiting."
+                },
+                {
+                  "prompt": "I / meet / my friends this weekend →",
+                  "options": [
+                    "I’m meeting my friends this weekend.",
+                    "I am meet my friends this weekend.",
+                    "I meeting my friends this weekend.",
+                    "I meets my friends this weekend."
+                  ],
+                  "answer": 0,
+                  "explanation": "Am + meeting."
+                },
+                {
+                  "prompt": "My brother / not visit / us this month →",
+                  "options": [
+                    "My brother doesn’t visiting us this month.",
+                    "My brother isn’t visiting us this month.",
+                    "My brother isn’t visit us this month.",
+                    "My brother not visiting us this month."
+                  ],
+                  "answer": 1,
+                  "explanation": "Isn’t visiting."
+                },
+                {
+                  "prompt": "They / not go / on vacation this summer →",
+                  "options": [
+                    "They aren’t going on vacation this summer.",
+                    "They aren’t go on vacation this summer.",
+                    "They not going on vacation this summer.",
+                    "They isn’t going on vacation this summer."
+                  ],
+                  "answer": 0,
+                  "explanation": "Aren’t going."
+                },
+                {
+                  "prompt": "What / you / cook / for dinner on Saturday? →",
+                  "options": [
+                    "What you are cooking for dinner on Saturday?",
+                    "What do you cooking for dinner on Saturday?",
+                    "What are you cook for dinner on Saturday?",
+                    "What are you cooking for dinner on Saturday?"
+                  ],
+                  "answer": 3,
+                  "explanation": "What are you cooking…?"
+                },
+                {
+                  "prompt": "I’m ______ to the dentist next week.",
+                  "options": [
+                    "go",
+                    "goes",
+                    "going",
+                    "went"
+                  ],
+                  "answer": 2,
+                  "explanation": "Going."
+                },
+                {
+                  "prompt": "She’s ______ the bus tomorrow.",
+                  "options": [
+                    "takeing",
+                    "take",
+                    "taking",
+                    "takes"
+                  ],
+                  "answer": 2,
+                  "explanation": "Take → taking (drop the e)."
+                },
+                {
+                  "prompt": "We’re ______ the train this afternoon.",
+                  "options": [
+                    "gets",
+                    "geting",
+                    "getting",
+                    "get"
+                  ],
+                  "answer": 2,
+                  "explanation": "Get → getting (double t)."
+                },
+                {
+                  "prompt": "Am I ______ this weekend?",
+                  "options": [
+                    "working",
+                    "work",
+                    "worked",
+                    "works"
+                  ],
+                  "answer": 0,
+                  "explanation": "Am I working?"
+                },
+                {
+                  "prompt": "Are they ______ to the gym tonight? — Yes, they are.",
+                  "options": [
+                    "going",
+                    "gone",
+                    "go",
+                    "goes"
+                  ],
+                  "answer": 0,
+                  "explanation": "Are they going?"
+                },
+                {
+                  "prompt": "Is he staying home tonight? — No, ______.",
+                  "options": [
+                    "he isn’t staying not",
+                    "he not",
+                    "he isn’t",
+                    "he doesn’t"
+                  ],
+                  "answer": 2,
+                  "explanation": "Short answer: No, he isn’t."
+                },
+                {
+                  "prompt": "Sven ______ to the party tomorrow.",
+                  "options": [
+                    "don’t come",
+                    "isn’t coming",
+                    "isn’t comes",
+                    "not coming"
+                  ],
+                  "answer": 1,
+                  "explanation": "Isn’t coming."
+                },
+                {
+                  "prompt": "Are you meeting Jorge ______?",
+                  "options": [
+                    "last week",
+                    "later",
+                    "ago",
+                    "yesterday"
+                  ],
+                  "answer": 1,
+                  "explanation": "Future time expression: later."
+                },
+                {
+                  "prompt": "Which time expression is NOT about the future?",
+                  "options": [
+                    "tonight",
+                    "next week",
+                    "last night",
+                    "tomorrow"
+                  ],
+                  "answer": 2,
+                  "explanation": "Last night = past."
+                },
+                {
+                  "prompt": "What are you having for dinner ______?",
+                  "options": [
+                    "last night",
+                    "yesterday",
+                    "tonight",
+                    "two days ago"
+                  ],
+                  "answer": 2,
+                  "explanation": "Tonight."
+                },
+                {
+                  "prompt": "We’re going on vacation ______.",
+                  "options": [
+                    "next month",
+                    "yesterday",
+                    "ago",
+                    "last month"
+                  ],
+                  "answer": 0,
+                  "explanation": "Next month."
+                },
+                {
+                  "prompt": "Where does the time expression usually go?",
+                  "options": [
+                    "Between am and the verb",
+                    "At the end of the sentence",
+                    "Before the verb",
+                    "Before the subject"
+                  ],
+                  "answer": 1,
+                  "explanation": "Usually at the end."
+                },
+                {
+                  "prompt": "We use the present continuous for future to talk about…",
+                  "options": [
+                    "plans and arrangements",
+                    "general truths",
+                    "habits",
+                    "past actions"
+                  ],
+                  "answer": 0,
+                  "explanation": "Plans and arrangements."
+                },
+                {
+                  "prompt": "She’s not ______ a movie tonight.",
+                  "options": [
+                    "watchs",
+                    "watch",
+                    "watched",
+                    "watching"
+                  ],
+                  "answer": 3,
+                  "explanation": "Watching."
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I’m going to the dentist next week.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m meeting friends tonight.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She’s taking the bus tomorrow.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She taking the bus tomorrow.",
+                  "correct": false,
+                  "fix": "She’s taking the bus tomorrow.",
+                  "explanation": "Don’t forget is."
+                },
+                {
+                  "sentence": "You’re working next Tuesday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I’m not going to school tomorrow.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He’s not watching a movie tonight.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We’re not playing tennis later.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Am I working this weekend?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is she staying home tonight?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are they going to the gym? — Yes, they are.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are they going to the gym? — No, they not.",
+                  "correct": false,
+                  "fix": "Are they going to the gym? — No, they’re not.",
+                  "explanation": "They’re not / they aren’t."
+                },
+                {
+                  "sentence": "We’re taking the train this afternoon.",
+                  "correct": true
+                },
+                {
+                  "sentence": "What are you having for dinner tonight?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sven isn’t coming to the party tomorrow.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sven doesn’t coming to the party tomorrow.",
+                  "correct": false,
+                  "fix": "Sven isn’t coming to the party tomorrow.",
+                  "explanation": "Isn’t + -ing."
+                },
+                {
+                  "sentence": "We’re going on vacation next month.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are you meeting Jorge later?",
+                  "correct": true
+                },
+                {
+                  "sentence": "We are meet our friends for dinner later.",
+                  "correct": false,
+                  "fix": "We are meeting our friends for dinner later.",
+                  "explanation": "Verb + -ing."
+                },
+                {
+                  "sentence": "They’re taking the 7:30 train to Edinburgh tomorrow.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Maria isn’t coming to the concert this evening because she’s sick.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My brother isn’t visiting us this month.",
+                  "correct": true
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "tonight",
+                  "image": "/img/free-time/tonight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"tonight\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tonight\" → Later today."
+                    },
+                    {
+                      "prompt": "\"tonight\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "this afternoon",
+                  "image": "/img/free-time/this-afternoon.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"this afternoon\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"This afternoon\" → Later today."
+                    },
+                    {
+                      "prompt": "\"this afternoon\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "this evening",
+                  "image": "/img/free-time/tonight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"this evening\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"This evening\" → Later today."
+                    },
+                    {
+                      "prompt": "\"this evening\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "tomorrow",
+                  "image": "/img/free-time/tomorrow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"tomorrow\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Tomorrow\" → The next day."
+                    },
+                    {
+                      "prompt": "\"tomorrow\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "tomorrow morning",
+                  "image": "/img/free-time/tomorrow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"tomorrow morning\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Tomorrow morning\" → The next day."
+                    },
+                    {
+                      "prompt": "\"tomorrow morning\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "next week",
+                  "image": "/img/free-time/next-week.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"next week\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Next week\" → In the coming days or weeks."
+                    },
+                    {
+                      "prompt": "\"next week\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "next month",
+                  "image": "/img/free-time/next-week.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"next month\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Next month\" → In the coming days or weeks."
+                    },
+                    {
+                      "prompt": "\"next month\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                },
+                {
+                  "word": "later",
+                  "image": "/img/free-time/this-afternoon.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When is \"later\"?",
+                      "options": [
+                        "Later today",
+                        "The next day",
+                        "In the coming days or weeks",
+                        "Right now"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Later\" → Later today."
+                    },
+                    {
+                      "prompt": "\"later\" — which sentence is correct?",
+                      "options": [
+                        "I'm meeting friends",
+                        "I meeting friends",
+                        "I meet friends",
+                        "I am meet friends"
+                      ],
+                      "answer": 0,
+                      "explanation": "Present continuous for plans: am/is/are + verb-ing."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m meeting friends tonight.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She’s taking the bus tomorrow.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We’re going on vacation next month.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Are you meeting Jorge later?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "What are you doing this weekend? — On Saturday I’m playing soccer in the morning and I’m having dinner with my parents in the evening.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the speaker doing on Saturday evening?",
+                  "options": [
+                    "Watching a movie",
+                    "Having dinner with their parents",
+                    "Going to the gym",
+                    "Playing soccer"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Maria is sick, so she isn’t coming to the concert this evening. Ana is taking her ticket.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who is taking Maria’s ticket?",
+                  "options": [
+                    "Maria",
+                    "The speaker",
+                    "Ana",
+                    "Nobody"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "They’re taking the seven thirty train to Edinburgh tomorrow and staying with friends for three nights.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What time is the train?",
+                  "options": [
+                    "7:00",
+                    "7:30",
+                    "8:30",
+                    "6:30"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "We aren’t visiting the museum next week. It’s closed. We’re going to the art gallery instead.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why aren’t they visiting the museum?",
+                  "options": [
+                    "It’s far away",
+                    "It’s closed",
+                    "It’s expensive",
+                    "It’s boring"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Are you watching the soccer game tonight? — No, I’m not. I’m working late. I’m watching it tomorrow online.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why isn’t the speaker watching tonight?",
+                  "options": [
+                    "They’re working late",
+                    "They don’t like soccer",
+                    "They have no TV",
+                    "They’re sick"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Sven isn’t coming to the party tomorrow. He’s flying to Germany this afternoon for his sister’s wedding.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is Sven going?",
+                  "options": [
+                    "Germany",
+                    "His office",
+                    "Spain",
+                    "The party"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I’m going to the dentist next week, so I’m not eating chocolate this weekend. What are you having for dinner tonight?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When is the dentist appointment?",
+                  "options": [
+                    "Next week",
+                    "Tonight",
+                    "Tomorrow",
+                    "This weekend"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My brother isn’t visiting us this month; he’s very busy. But he’s coming for Christmas and staying for two weeks.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How long is he staying at Christmas?",
+                  "options": [
+                    "A month",
+                    "Two days",
+                    "Two weeks",
+                    "One week"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "This Weekend",
+                  "situation": "Tell your partner three plans for this weekend and one thing you are NOT doing.",
+                  "mandatory": [
+                    "I'm",
+                    "I'm not",
+                    "weekend"
+                  ],
+                  "taboo": [
+                    "will",
+                    "going to"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Busy Diary",
+                  "situation": "Student A asks \"What are you doing on Monday / Tuesday…?\"; Student B answers with real or invented plans.",
+                  "mandatory": [
+                    "are you doing",
+                    "I'm",
+                    "tomorrow"
+                  ],
+                  "taboo": [
+                    "will",
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Invitation",
+                  "situation": "Student A invites Student B to a concert; Student B is busy and explains their plans.",
+                  "mandatory": [
+                    "are you coming",
+                    "I'm meeting",
+                    "tonight"
+                  ],
+                  "taboo": [
+                    "can’t",
+                    "sorry"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Vacation Plans",
+                  "situation": "Describe your next vacation: where you are going, where you are staying, what you are doing.",
+                  "mandatory": [
+                    "we're going",
+                    "we're staying",
+                    "next"
+                  ],
+                  "taboo": [
+                    "will",
+                    "want"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Family Visit",
+                  "situation": "Who is visiting you this month? Who isn’t coming? Explain why.",
+                  "mandatory": [
+                    "is visiting",
+                    "isn't coming",
+                    "this month"
+                  ],
+                  "taboo": [
+                    "will",
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dinner Tonight",
+                  "situation": "Student A: \"What are you having for dinner tonight?\" Student B describes the meal and who is cooking.",
+                  "mandatory": [
+                    "having",
+                    "cooking",
+                    "tonight"
+                  ],
+                  "taboo": [
+                    "will",
+                    "eat"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
