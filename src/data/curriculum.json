@@ -50581,6 +50581,1978 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L3U12T3",
+              "name": "12A - Vocabulary: Relationships",
+              "steal": [
+                {
+                  "prompt": "Daisy and I work in the same office. She's my ___.",
+                  "options": [
+                    "roommate",
+                    "stranger",
+                    "colleague",
+                    "cousin"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "I'm an ___. I don't have any brothers or sisters.",
+                  "options": [
+                    "only child",
+                    "employee",
+                    "in-law",
+                    "orphan"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Harry and Luke share an apartment. They're ___.",
+                  "options": [
+                    "colleagues",
+                    "twins",
+                    "in-laws",
+                    "roommates"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Carolina got a divorce in 2013, but she still sees her ___.",
+                  "options": [
+                    "boss",
+                    "stepsister",
+                    "ex-husband",
+                    "groom"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "It was a lovely wedding. The ___ wore a long white dress.",
+                  "options": [
+                    "bride",
+                    "girlfriend",
+                    "twin",
+                    "groom"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "At the wedding, the ___ wore a gray suit.",
+                  "options": [
+                    "neighbor",
+                    "groom",
+                    "bride",
+                    "employer"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Our next-door ___ just sold his house.",
+                  "options": [
+                    "roommate",
+                    "relative",
+                    "colleague",
+                    "neighbor"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "He's very friendly. He doesn't have an ___ in the world.",
+                  "options": [
+                    "employee",
+                    "employer",
+                    "in-law",
+                    "enemy"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Her husband died, so she's a ___ to Emma, her daughter.",
+                  "options": [
+                    "stepsister",
+                    "stranger",
+                    "single parent",
+                    "bride"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "This is my ___. We're not identical, but we look alike.",
+                  "options": [
+                    "cousin",
+                    "classmate",
+                    "roommate",
+                    "twin"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "People are really friendly here. A ___ helped me when I was lost.",
+                  "options": [
+                    "boss",
+                    "twin",
+                    "relative",
+                    "stranger"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Your aunt's son is your ___.",
+                  "options": [
+                    "stepsister",
+                    "cousin",
+                    "nephew",
+                    "brother-in-law"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Your husband's parents are your ___.",
+                  "options": [
+                    "relatives",
+                    "roommates",
+                    "in-laws",
+                    "colleagues"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The company that pays you is your ___.",
+                  "options": [
+                    "employee",
+                    "colleague",
+                    "classmate",
+                    "employer"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "A person who works for a company is an ___.",
+                  "options": [
+                    "only child",
+                    "enemy",
+                    "employee",
+                    "employer"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The person who manages you at work is your ___.",
+                  "options": [
+                    "partner",
+                    "relative",
+                    "boss",
+                    "colleague"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Two people who own a company together are ___.",
+                  "options": [
+                    "colleagues",
+                    "business partners",
+                    "roommates",
+                    "in-laws"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Someone in the same class as you is your ___.",
+                  "options": [
+                    "colleague",
+                    "classmate",
+                    "neighbor",
+                    "roommate"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Your sister's husband is your ___.",
+                  "options": [
+                    "stepbrother",
+                    "cousin",
+                    "brother-in-law",
+                    "ex-husband"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Your stepfather's daughter is your ___.",
+                  "options": [
+                    "cousin",
+                    "sister-in-law",
+                    "stepsister",
+                    "twin"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Any member of your family is a ___.",
+                  "options": [
+                    "relative",
+                    "colleague",
+                    "partner",
+                    "stranger"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "The woman a man is dating is his ___.",
+                  "options": [
+                    "roommate",
+                    "colleague",
+                    "girlfriend",
+                    "bride"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Which words go in the \"work/study\" column?",
+                  "options": [
+                    "neighbor, roommate",
+                    "employer, boss, colleague, classmate",
+                    "cousin, twin, in-laws",
+                    "bride, groom, girlfriend"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which words go in the \"couple\" column?",
+                  "options": [
+                    "boss, employee",
+                    "twin, cousin",
+                    "bride, groom, ex-husband, girlfriend",
+                    "stranger, enemy"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "A colleague is someone you work with.",
+                  "correct": true
+                },
+                {
+                  "sentence": "An only child has no brothers or sisters.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Roommates share an apartment.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The bride wears a dress at the wedding.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your in-laws are your husband's or wife's family.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A single parent raises children alone.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Twins are born on the same day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "An employer pays the employees.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A stranger is someone you don't know.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your brother-in-law is your sister's husband.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A classmate studies in the same class as you.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A groom is the woman at a wedding.",
+                  "correct": false,
+                  "fix": "A groom is the man at a wedding.",
+                  "explanation": "Bride = woman, groom = man."
+                },
+                {
+                  "sentence": "An employee pays the employer.",
+                  "correct": false,
+                  "fix": "An employer pays the employee.",
+                  "explanation": "Employer = the company/boss."
+                },
+                {
+                  "sentence": "Your cousin is your brother's son.",
+                  "correct": false,
+                  "fix": "Your cousin is your aunt's or uncle's child.",
+                  "explanation": "Brother's son = nephew."
+                },
+                {
+                  "sentence": "An enemy is a very good friend.",
+                  "correct": false,
+                  "fix": "An enemy is someone who hates you.",
+                  "explanation": "Enemy ≠ friend."
+                },
+                {
+                  "sentence": "A stepsister has the same two parents as you.",
+                  "correct": false,
+                  "fix": "A stepsister is your stepparent's daughter.",
+                  "explanation": "Step = new marriage."
+                },
+                {
+                  "sentence": "Your neighbor lives in another city.",
+                  "correct": false,
+                  "fix": "Your neighbor lives next to you.",
+                  "explanation": "Neighbor = next door."
+                },
+                {
+                  "sentence": "An ex-husband is a man you are married to now.",
+                  "correct": false,
+                  "fix": "An ex-husband is a man you were married to before.",
+                  "explanation": "Ex = before."
+                },
+                {
+                  "sentence": "A relative is someone from another family.",
+                  "correct": false,
+                  "fix": "A relative is a member of your family.",
+                  "explanation": "Relative = family."
+                },
+                {
+                  "sentence": "Business partners study in the same class.",
+                  "correct": false,
+                  "fix": "Business partners own a company together.",
+                  "explanation": "Business = company."
+                },
+                {
+                  "sentence": "Your boss is the person who works for you.",
+                  "correct": false,
+                  "fix": "Your boss is the person you work for.",
+                  "explanation": "Boss = manager."
+                },
+                {
+                  "sentence": "A roommate is your wife or husband.",
+                  "correct": false,
+                  "fix": "A roommate is a person you share an apartment with.",
+                  "explanation": "Room-mate."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "cousin",
+                  "image": "/img/relationships-12a/cousin.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"cousin\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cousin\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"cousin\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cousin\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "only child",
+                  "image": "/img/relationships-12a/only-child.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"only child\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Only child\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"only child\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Only child\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "twin",
+                  "image": "/img/relationships-12a/twin.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"twin\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Twin\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"twin\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Twin\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "stepsister",
+                  "image": "/img/relationships-12a/stepsister.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"stepsister\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stepsister\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"stepsister\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Stepsister\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "in-laws",
+                  "image": "/img/relationships-12a/in-laws.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"in-laws\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In-laws\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"in-laws\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"In-laws\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "single parent",
+                  "image": "/img/relationships-12a/single-parent.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"single parent\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Single parent\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"single parent\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Single parent\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "relative",
+                  "image": "/img/relationships-12a/relative.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"relative\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Relative\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"relative\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Relative\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "brother-in-law",
+                  "image": "/img/relationships-12a/brother-in-law.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"brother-in-law\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brother-in-law\" → Family."
+                    },
+                    {
+                      "prompt": "Who is \"brother-in-law\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brother-in-law\" → Someone related to you."
+                    }
+                  ]
+                },
+                {
+                  "word": "ex-husband",
+                  "image": "/img/relationships-12a/ex-husband.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"ex-husband\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ex-husband\" → Couple."
+                    },
+                    {
+                      "prompt": "Who is \"ex-husband\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Ex-husband\" → Someone you love or marry."
+                    }
+                  ]
+                },
+                {
+                  "word": "bride",
+                  "image": "/img/relationships-12a/bride.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"bride\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bride\" → Couple."
+                    },
+                    {
+                      "prompt": "Who is \"bride\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Bride\" → Someone you love or marry."
+                    }
+                  ]
+                },
+                {
+                  "word": "groom",
+                  "image": "/img/relationships-12a/groom.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"groom\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Groom\" → Couple."
+                    },
+                    {
+                      "prompt": "Who is \"groom\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Groom\" → Someone you love or marry."
+                    }
+                  ]
+                },
+                {
+                  "word": "girlfriend",
+                  "image": "/img/relationships-12a/girlfriend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"girlfriend\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Girlfriend\" → Couple."
+                    },
+                    {
+                      "prompt": "Who is \"girlfriend\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Girlfriend\" → Someone you love or marry."
+                    }
+                  ]
+                },
+                {
+                  "word": "employer",
+                  "image": "/img/relationships-12a/employer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"employer\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Employer\" → Work / study."
+                    },
+                    {
+                      "prompt": "Who is \"employer\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Employer\" → Someone you work or study with."
+                    }
+                  ]
+                },
+                {
+                  "word": "employee",
+                  "image": "/img/relationships-12a/employee.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"employee\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Employee\" → Work / study."
+                    },
+                    {
+                      "prompt": "Who is \"employee\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Employee\" → Someone you work or study with."
+                    }
+                  ]
+                },
+                {
+                  "word": "boss",
+                  "image": "/img/relationships-12a/boss.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"boss\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Boss\" → Work / study."
+                    },
+                    {
+                      "prompt": "Who is \"boss\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Boss\" → Someone you work or study with."
+                    }
+                  ]
+                },
+                {
+                  "word": "colleague",
+                  "image": "/img/relationships-12a/colleague.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"colleague\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Colleague\" → Work / study."
+                    },
+                    {
+                      "prompt": "Who is \"colleague\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Colleague\" → Someone you work or study with."
+                    }
+                  ]
+                },
+                {
+                  "word": "business partner",
+                  "image": "/img/relationships-12a/business-partner.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"business partner\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Business partner\" → Work / study."
+                    },
+                    {
+                      "prompt": "Who is \"business partner\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Business partner\" → Someone you work or study with."
+                    }
+                  ]
+                },
+                {
+                  "word": "classmate",
+                  "image": "/img/relationships-12a/classmate.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"classmate\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Classmate\" → Work / study."
+                    },
+                    {
+                      "prompt": "Who is \"classmate\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Classmate\" → Someone you work or study with."
+                    }
+                  ]
+                },
+                {
+                  "word": "roommate",
+                  "image": "/img/relationships-12a/roommate.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"roommate\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Roommate\" → Home / other."
+                    },
+                    {
+                      "prompt": "Who is \"roommate\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Roommate\" → Someone you live near or don’t know."
+                    }
+                  ]
+                },
+                {
+                  "word": "neighbor",
+                  "image": "/img/relationships-12a/neighbor.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"neighbor\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Neighbor\" → Home / other."
+                    },
+                    {
+                      "prompt": "Who is \"neighbor\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Neighbor\" → Someone you live near or don’t know."
+                    }
+                  ]
+                },
+                {
+                  "word": "stranger",
+                  "image": "/img/relationships-12a/stranger.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"stranger\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Stranger\" → Home / other."
+                    },
+                    {
+                      "prompt": "Who is \"stranger\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Stranger\" → Someone you live near or don’t know."
+                    }
+                  ]
+                },
+                {
+                  "word": "enemy",
+                  "image": "/img/relationships-12a/enemy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which column does \"enemy\" go in?",
+                      "options": [
+                        "Family",
+                        "Couple",
+                        "Work / study",
+                        "Home / other"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Enemy\" → Home / other."
+                    },
+                    {
+                      "prompt": "Who is \"enemy\"?",
+                      "options": [
+                        "Someone related to you",
+                        "Someone you love or marry",
+                        "Someone you work or study with",
+                        "Someone you live near or don’t know"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Enemy\" → Someone you live near or don’t know."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Daisy and I work in the same office. She’s my colleague.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m an only child. I don’t have any brothers or sisters.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Our next-door neighbor just sold his house.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It was a lovely wedding. The bride wore a long white dress.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Harry and Luke share an apartment near the university. They cook together every night.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What are Harry and Luke?",
+                  "options": [
+                    "Business partners",
+                    "In-laws",
+                    "Twins",
+                    "Roommates"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Carolina got a divorce in 2013, but she still sees her ex-husband every Sunday.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How often does Carolina see her ex-husband?",
+                  "options": [
+                    "Never",
+                    "Every day",
+                    "Every Sunday",
+                    "Once a year"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Her husband died two years ago, so now she’s a single parent to Emma.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is Emma?",
+                  "options": [
+                    "Her sister",
+                    "Her daughter",
+                    "Her boss",
+                    "Her neighbor"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "This is my twin. We’re not identical, but people say we look alike.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Are the twins identical?",
+                  "options": [
+                    "Only their eyes",
+                    "We don’t know",
+                    "Yes",
+                    "No"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "People are really friendly here. A stranger helped me when I was lost.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who helped the speaker?",
+                  "options": [
+                    "A colleague",
+                    "A relative",
+                    "A classmate",
+                    "A stranger"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "My boss is very kind. She lets all the employees leave early on Fridays.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who leaves early on Fridays?",
+                  "options": [
+                    "The neighbors",
+                    "The employees",
+                    "The clients",
+                    "The boss"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Ana and Pedro opened a bakery together last year. They are business partners.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Ana and Pedro open?",
+                  "options": [
+                    "A hospital",
+                    "A bakery",
+                    "A school",
+                    "A hotel"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My brother-in-law is my sister’s husband. He teaches math at my old school.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the brother-in-law do?",
+                  "options": [
+                    "He teaches math",
+                    "He sells houses",
+                    "He is a student",
+                    "He is a doctor"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Family Tree",
+                  "situation": "Describe four people in your family using relationship words.",
+                  "mandatory": [
+                    "cousin",
+                    "in-laws",
+                    "relative"
+                  ],
+                  "taboo": [
+                    "mother"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "New Roommate",
+                  "situation": "Explain the good and bad things about living with a roommate.",
+                  "mandatory": [
+                    "roommate",
+                    "share",
+                    "apartment"
+                  ],
+                  "taboo": [
+                    "friend"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Wedding Day",
+                  "situation": "Describe a wedding you went to: the bride, the groom and the guests.",
+                  "mandatory": [
+                    "bride",
+                    "groom",
+                    "relatives"
+                  ],
+                  "taboo": [
+                    "party"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "At the Office",
+                  "situation": "Talk about the people at your work or school.",
+                  "mandatory": [
+                    "boss",
+                    "colleague",
+                    "classmate"
+                  ],
+                  "taboo": [
+                    "friend"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Kind Stranger",
+                  "situation": "Tell a story about a stranger or a neighbor who helped you.",
+                  "mandatory": [
+                    "stranger",
+                    "neighbor",
+                    "helped"
+                  ],
+                  "taboo": [
+                    "police"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Only Child vs Twins",
+                  "situation": "Compare being an only child with having a twin.",
+                  "mandatory": [
+                    "only child",
+                    "twin",
+                    "share"
+                  ],
+                  "taboo": [
+                    "alone"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L3U12T4",
+              "name": "12A - Grammar: Defining Relative Clauses (who / that / where)",
+              "steal": [
+                {
+                  "prompt": "We use \"who\" or \"that\" to talk about ___.",
+                  "options": [
+                    "people",
+                    "places",
+                    "things",
+                    "times"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "We use \"which\" or \"that\" to talk about ___.",
+                  "options": [
+                    "things",
+                    "people",
+                    "reasons",
+                    "places"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "We use \"where\" to talk about ___.",
+                  "options": [
+                    "places",
+                    "people",
+                    "things",
+                    "times"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "He's the actor ___ was Sherlock Holmes on TV.",
+                  "options": [
+                    "which",
+                    "who",
+                    "whose",
+                    "where"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "It's a machine ___ bakes bread.",
+                  "options": [
+                    "who",
+                    "where",
+                    "that",
+                    "whom"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "That's the restaurant ___ I used to work.",
+                  "options": [
+                    "who",
+                    "which",
+                    "where",
+                    "that"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The man ___ sits next to me at work was sick today.",
+                  "options": [
+                    "what",
+                    "which",
+                    "who",
+                    "where"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "I saw the woman ___ works at the post office in the park.",
+                  "options": [
+                    "which",
+                    "whom",
+                    "that",
+                    "where"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "There are companies ___ plan weddings for people.",
+                  "options": [
+                    "who",
+                    "where",
+                    "that",
+                    "whose"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Louise enjoys movies ___ make her laugh.",
+                  "options": [
+                    "who",
+                    "that",
+                    "when",
+                    "where"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "I want to visit the stadium ___ our team plays soccer.",
+                  "options": [
+                    "which",
+                    "where",
+                    "that",
+                    "who"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Jorge works in the hospital ___ I was born.",
+                  "options": [
+                    "where",
+                    "that",
+                    "who",
+                    "which"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "He's the teacher ___ taught me English.",
+                  "options": [
+                    "what",
+                    "who",
+                    "where",
+                    "which"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Did you see the children ___ were singing?",
+                  "options": [
+                    "that",
+                    "whose",
+                    "which",
+                    "where"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "That's the dog ___ bit me on the leg.",
+                  "options": [
+                    "whom",
+                    "where",
+                    "that",
+                    "who"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "I'll meet you in the square ___ we met last time.",
+                  "options": [
+                    "who",
+                    "where",
+                    "that",
+                    "which"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "In which sentence can we OMIT the pronoun?",
+                  "options": [
+                    "It's a machine that bakes bread.",
+                    "That's the dog that bit me.",
+                    "He's the actor who was Sherlock Holmes.",
+                    "This is the sweater that he gave me."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "We can omit \"that\" when it is the ___ of the relative clause.",
+                  "options": [
+                    "object",
+                    "subject",
+                    "place",
+                    "verb"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "Snakes are the animals who they kill.",
+                    "Snakes are the animals that kill most people.",
+                    "Snakes are the animals that they kill most people.",
+                    "Snakes are animals where kill people."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "I'd prefer the doctor which saw me.",
+                    "I'd prefer to see the doctor who saw me last time.",
+                    "I'd prefer to see the doctor who she saw me last time.",
+                    "I'd prefer the doctor where saw me."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which sentence is correct?",
+                  "options": [
+                    "Ronald went to the theater who we saw the movie.",
+                    "Ronald went to the theater where we saw the Star Wars movie.",
+                    "Ronald went to the theater where we saw the Star Wars movie there.",
+                    "Ronald went to the theater which we saw it."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Why don't we repeat \"he\" in \"the man who sits next to me\"?",
+                  "options": [
+                    "It sounds too formal",
+                    "\"Who\" already refers to the man",
+                    "\"He\" is only for questions",
+                    "We can never use \"he\""
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I bought the flowers (that) she likes.\" — \"That\" is the ___ here.",
+                  "options": [
+                    "verb",
+                    "place",
+                    "subject",
+                    "object"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Which word can replace \"who\" when talking about people?",
+                  "options": [
+                    "that",
+                    "what",
+                    "which",
+                    "where"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "He's the actor who was Sherlock Holmes on TV.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It's a machine that bakes bread.",
+                  "correct": true
+                },
+                {
+                  "sentence": "That's the restaurant where I used to work.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The man who sits next to me at work was sick today.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Louise enjoys movies that make her laugh.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This is the sweater he gave me for my birthday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Jorge works in the hospital where I was born.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Did you see the children that were singing?",
+                  "correct": true
+                },
+                {
+                  "sentence": "I bought the flowers she likes.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I'll meet you in the square where we met last time.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Snakes are the animals that kill most people each year.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He's the actor which was Sherlock Holmes.",
+                  "correct": false,
+                  "fix": "He's the actor who was Sherlock Holmes.",
+                  "explanation": "People → who / that."
+                },
+                {
+                  "sentence": "It's a machine who bakes bread.",
+                  "correct": false,
+                  "fix": "It's a machine that bakes bread.",
+                  "explanation": "Things → that / which."
+                },
+                {
+                  "sentence": "That's the restaurant who I used to work.",
+                  "correct": false,
+                  "fix": "That's the restaurant where I used to work.",
+                  "explanation": "Places → where."
+                },
+                {
+                  "sentence": "The man who he sits next to me was sick.",
+                  "correct": false,
+                  "fix": "The man who sits next to me was sick.",
+                  "explanation": "Don't repeat \"he\"."
+                },
+                {
+                  "sentence": "Snakes are the animals that they kill most people.",
+                  "correct": false,
+                  "fix": "Snakes are the animals that kill most people.",
+                  "explanation": "Don't repeat \"they\"."
+                },
+                {
+                  "sentence": "I'd prefer the doctor who she saw me last time.",
+                  "correct": false,
+                  "fix": "I'd prefer the doctor who saw me last time.",
+                  "explanation": "Don't repeat \"she\"."
+                },
+                {
+                  "sentence": "Ronald went to the theater where we saw the movie there.",
+                  "correct": false,
+                  "fix": "Ronald went to the theater where we saw the movie.",
+                  "explanation": "Don't add \"there\"."
+                },
+                {
+                  "sentence": "I want to visit the stadium that our team plays soccer.",
+                  "correct": false,
+                  "fix": "I want to visit the stadium where our team plays soccer.",
+                  "explanation": "Place → where."
+                },
+                {
+                  "sentence": "This is the sweater where he gave me.",
+                  "correct": false,
+                  "fix": "This is the sweater (that) he gave me.",
+                  "explanation": "Thing → that, or omit."
+                },
+                {
+                  "sentence": "Louise enjoys movies where make her laugh.",
+                  "correct": false,
+                  "fix": "Louise enjoys movies that make her laugh.",
+                  "explanation": "Thing → that."
+                },
+                {
+                  "sentence": "The teacher taught me English is very nice.",
+                  "correct": false,
+                  "fix": "The teacher who taught me English is very nice.",
+                  "explanation": "Subject pronoun can't be omitted."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "He's the actor ___ was Sherlock Holmes on TV.",
+                  "image": "/img/relationships-12a/actor.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"He's the actor ___ was Sherlock Holmes on TV.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He's the actor ___ was Sherlock Holmes on TV.\" → who / that (person)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"He's the actor ___ was Sherlock Holmes on TV.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He's the actor ___ was Sherlock Holmes on TV.\" → No – it is the subject."
+                    }
+                  ]
+                },
+                {
+                  "word": "It's a machine ___ bakes bread.",
+                  "image": "/img/relationships-12a/machine.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"It's a machine ___ bakes bread.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"It's a machine ___ bakes bread.\" → that / which (thing)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"It's a machine ___ bakes bread.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"It's a machine ___ bakes bread.\" → No – it is the subject."
+                    }
+                  ]
+                },
+                {
+                  "word": "That's the restaurant ___ I used to work.",
+                  "image": "/img/relationships-12a/restaurant.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"That's the restaurant ___ I used to work.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"That's the restaurant ___ I used to work.\" → where (place)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"That's the restaurant ___ I used to work.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"That's the restaurant ___ I used to work.\" → No – \"where\" cannot be omitted."
+                    }
+                  ]
+                },
+                {
+                  "word": "This is the sweater (___) he gave me for my birthday.",
+                  "image": "/img/relationships-12a/sweater.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"This is the sweater (___) he gave me for my birthday.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"This is the sweater (___) he gave me for my birthday.\" → that / which (thing)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"This is the sweater (___) he gave me for my birthday.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"This is the sweater (___) he gave me for my birthday.\" → Yes – it is the object."
+                    }
+                  ]
+                },
+                {
+                  "word": "Did you see the children (___) were singing?",
+                  "image": "/img/relationships-12a/children.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"Did you see the children (___) were singing?\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Did you see the children (___) were singing?\" → who / that (person)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"Did you see the children (___) were singing?\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Did you see the children (___) were singing?\" → No – it is the subject."
+                    }
+                  ]
+                },
+                {
+                  "word": "That's the dog ___ bit me on the leg.",
+                  "image": "/img/relationships-12a/dog.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"That's the dog ___ bit me on the leg.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"That's the dog ___ bit me on the leg.\" → that / which (thing)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"That's the dog ___ bit me on the leg.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"That's the dog ___ bit me on the leg.\" → No – it is the subject."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'll meet you in the square ___ we met last time.",
+                  "image": "/img/relationships-12a/square.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"I'll meet you in the square ___ we met last time.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'll meet you in the square ___ we met last time.\" → where (place)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"I'll meet you in the square ___ we met last time.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'll meet you in the square ___ we met last time.\" → No – \"where\" cannot be omitted."
+                    }
+                  ]
+                },
+                {
+                  "word": "Jorge works in the hospital ___ I was born.",
+                  "image": "/img/relationships-12a/hospital.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which relative pronoun completes \"Jorge works in the hospital ___ I was born.\"?",
+                      "options": [
+                        "who / that (person)",
+                        "that / which (thing)",
+                        "where (place)",
+                        "No pronoun needed"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Jorge works in the hospital ___ I was born.\" → where (place)."
+                    },
+                    {
+                      "prompt": "Can we omit the pronoun in \"Jorge works in the hospital ___ I was born.\"?",
+                      "options": [
+                        "No – it is the subject",
+                        "Yes – it is the object",
+                        "No – \"where\" cannot be omitted",
+                        "No – it describes a place subject"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Jorge works in the hospital ___ I was born.\" → No – \"where\" cannot be omitted."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "He’s the actor who was Sherlock Holmes on TV.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s a machine that bakes bread.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "That’s the restaurant where I used to work.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "This is the sweater he gave me for my birthday.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The man who sits next to me at work was sick today, so the office was very quiet.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who was sick?",
+                  "options": [
+                    "A neighbor",
+                    "The speaker",
+                    "The boss",
+                    "The speaker’s colleague"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "There are companies that plan weddings for people who don’t have time.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What do the companies do?",
+                  "options": [
+                    "Bake bread",
+                    "Sell houses",
+                    "Plan weddings",
+                    "Teach English"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I want to visit the stadium where our team plays soccer. It’s enormous!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which word describes the place?",
+                  "options": [
+                    "that",
+                    "which",
+                    "who",
+                    "where"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Louise enjoys movies that make her laugh, but her roommate prefers horror films.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What kind of movies does Louise like?",
+                  "options": [
+                    "Sad movies",
+                    "Horror movies",
+                    "Documentaries",
+                    "Funny movies"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Jorge works in the hospital where I was born. He’s a nurse there.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is Jorge’s job?",
+                  "options": [
+                    "Teacher",
+                    "Doctor",
+                    "Driver",
+                    "Nurse"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Did you see the children that were singing in the square? They were fantastic.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What were the children doing?",
+                  "options": [
+                    "Playing soccer",
+                    "Sleeping",
+                    "Dancing",
+                    "Singing"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "That’s the dog that bit me on the leg last summer. I still don’t like it.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "When did the dog bite the speaker?",
+                  "options": [
+                    "Last summer",
+                    "Yesterday",
+                    "This morning",
+                    "Last week"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "I’d prefer to see the doctor who saw me last time. She knows my history.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why does the speaker prefer that doctor?",
+                  "options": [
+                    "She is a relative",
+                    "She knows the speaker’s history",
+                    "She is cheaper",
+                    "She lives nearby"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Define It",
+                  "situation": "Define three jobs without saying the job name: \"a person who…\".",
+                  "mandatory": [
+                    "who",
+                    "that",
+                    "where"
+                  ],
+                  "taboo": [
+                    "job"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Favorite Places",
+                  "situation": "Describe three places using \"where\": \"It’s the place where…\".",
+                  "mandatory": [
+                    "where",
+                    "place",
+                    "go"
+                  ],
+                  "taboo": [
+                    "there"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Gadget Sale",
+                  "situation": "Sell an invention: \"It’s a machine that…\".",
+                  "mandatory": [
+                    "machine",
+                    "that",
+                    "which"
+                  ],
+                  "taboo": [
+                    "thing"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "People in My Life",
+                  "situation": "Talk about three people using \"who\": \"the teacher who…\".",
+                  "mandatory": [
+                    "who",
+                    "teacher",
+                    "friend"
+                  ],
+                  "taboo": [
+                    "he"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess the Animal",
+                  "situation": "Describe animals with relative clauses and let your partner guess.",
+                  "mandatory": [
+                    "animal that",
+                    "lives",
+                    "eats"
+                  ],
+                  "taboo": [
+                    "name"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Hometown",
+                  "situation": "Describe your hometown: the street where you grew up, the people who live there.",
+                  "mandatory": [
+                    "where",
+                    "who",
+                    "that"
+                  ],
+                  "taboo": [
+                    "there"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         }
