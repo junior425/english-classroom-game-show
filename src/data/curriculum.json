@@ -52553,6 +52553,908 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L3U12T5",
+              "name": "12C - Grammar: Uses of the -ing Form and the Infinitive",
+              "steal": [
+                {
+                  "prompt": "After a preposition we use the ___.",
+                  "options": [
+                    "-ing form",
+                    "base form",
+                    "infinitive",
+                    "past participle"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "After an adjective we normally use the ___.",
+                  "options": [
+                    "base form",
+                    "past participle",
+                    "-ing form",
+                    "infinitive (to + verb)"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "To say WHY we do something (purpose), we use the ___.",
+                  "options": [
+                    "for + base form",
+                    "-ing form",
+                    "infinitive",
+                    "past participle"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Thanks for ___ me to your wedding.",
+                  "options": [
+                    "to invite",
+                    "invited",
+                    "invite",
+                    "inviting"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "I'm bored with ___ going out.",
+                  "options": [
+                    "no",
+                    "don't",
+                    "to not",
+                    "not"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "He's worried about ___ his exam.",
+                  "options": [
+                    "fail",
+                    "failed",
+                    "to fail",
+                    "failing"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "___ in touch is so easy these days.",
+                  "options": [
+                    "Kept",
+                    "To keeping",
+                    "Keep",
+                    "Keeping"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Reading is a great way ___ your English.",
+                  "options": [
+                    "improving",
+                    "to improve",
+                    "improve",
+                    "of improve"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "I'm amazed ___ that they're going out with each other.",
+                  "options": [
+                    "hearing",
+                    "hear",
+                    "to hear",
+                    "for hearing"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "It's impossible ___ when you watch this movie.",
+                  "options": [
+                    "no laugh",
+                    "not laughing",
+                    "to not laugh",
+                    "not to laugh"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "I went shopping ___ a new pair of shoes.",
+                  "options": [
+                    "to buy",
+                    "buy",
+                    "for buy",
+                    "buying"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "She left the office ___ a friend.",
+                  "options": [
+                    "to meet",
+                    "for meet",
+                    "meet",
+                    "meeting"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Which sentence describes a FUNCTION?",
+                  "options": [
+                    "Turning up the volume is easy.",
+                    "I pressed the button to hear it.",
+                    "This button is for turning up the volume.",
+                    "Press this button to turn up the volume."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Which sentence describes a PURPOSE?",
+                  "options": [
+                    "The button is for the volume.",
+                    "Turning up the volume is fun.",
+                    "Press this button to turn up the volume.",
+                    "This button is for turning up the volume."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Before ___ anything, you need to listen to me.",
+                  "options": [
+                    "say",
+                    "to say",
+                    "said",
+                    "saying"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "She wants a better job ___ more money.",
+                  "options": [
+                    "earn",
+                    "earning",
+                    "to earn",
+                    "for earning"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "He's afraid of ___ his folders.",
+                  "options": [
+                    "to lose",
+                    "losing",
+                    "lose",
+                    "lost"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "___ photos is easy with Instagram.",
+                  "options": [
+                    "To share",
+                    "Shared",
+                    "Share",
+                    "Sharing"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "I'm really sorry for ___ your party.",
+                  "options": [
+                    "missing",
+                    "to miss",
+                    "missed",
+                    "miss"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "I'm delighted ___ that you're getting married.",
+                  "options": [
+                    "for telling you",
+                    "to tell you",
+                    "tell you",
+                    "telling you"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "___ another language is really useful in business.",
+                  "options": [
+                    "Spoke",
+                    "Speaking",
+                    "To speaking",
+                    "Speak"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "He asked me ___ care of his plants.",
+                  "options": [
+                    "take",
+                    "to take",
+                    "taking",
+                    "for taking"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "We thought about ___ to the wedding.",
+                  "options": [
+                    "no going",
+                    "not to go",
+                    "don't go",
+                    "not going"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "To drinking too much coffee isn't good.",
+                    "Drinking too much coffee isn't good for you.",
+                    "Drink too much coffee isn't good.",
+                    "Drinking too much coffee aren't good for you."
+                  ],
+                  "answer": 1
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Thanks for inviting me to your wedding.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I'm bored with not going out.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He's worried about failing his exam.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Keeping in touch is so easy these days.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Reading is a great way to improve your English.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I'm disappointed not to see this show.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It's impossible not to laugh when you watch this movie.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I went shopping to buy a new pair of shoes.",
+                  "correct": true
+                },
+                {
+                  "sentence": "This button is for turning up the volume.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Press this button to turn up the volume.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Drinking too much coffee isn't good for you.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Thanks for to invite me to your wedding.",
+                  "correct": false,
+                  "fix": "Thanks for inviting me to your wedding.",
+                  "explanation": "Preposition + -ing."
+                },
+                {
+                  "sentence": "I'm interested in buy a new laptop.",
+                  "correct": false,
+                  "fix": "I'm interested in buying a new laptop.",
+                  "explanation": "Preposition + -ing."
+                },
+                {
+                  "sentence": "Ride a bike is a great way to stay in shape.",
+                  "correct": false,
+                  "fix": "Riding a bike is a great way to stay in shape.",
+                  "explanation": "Subject → -ing."
+                },
+                {
+                  "sentence": "It's easy forgetting to work.",
+                  "correct": false,
+                  "fix": "It's easy to forget to work.",
+                  "explanation": "Adjective + infinitive."
+                },
+                {
+                  "sentence": "I went shopping for buy shoes.",
+                  "correct": false,
+                  "fix": "I went shopping to buy shoes.",
+                  "explanation": "Purpose → to + verb."
+                },
+                {
+                  "sentence": "I'm amazed hearing that they're going out.",
+                  "correct": false,
+                  "fix": "I'm amazed to hear that they're going out.",
+                  "explanation": "Adjective + infinitive."
+                },
+                {
+                  "sentence": "This button is for turn up the volume.",
+                  "correct": false,
+                  "fix": "This button is for turning up the volume.",
+                  "explanation": "for + -ing (function)."
+                },
+                {
+                  "sentence": "She's not afraid to flying.",
+                  "correct": false,
+                  "fix": "She's not afraid of flying.",
+                  "explanation": "afraid of + -ing."
+                },
+                {
+                  "sentence": "He asked me taking care of his plants.",
+                  "correct": false,
+                  "fix": "He asked me to take care of his plants.",
+                  "explanation": "ask someone to + verb."
+                },
+                {
+                  "sentence": "I'm bored with no going out.",
+                  "correct": false,
+                  "fix": "I'm bored with not going out.",
+                  "explanation": "not + -ing."
+                },
+                {
+                  "sentence": "Cook with friends is a nice way to relax.",
+                  "correct": false,
+                  "fix": "Cooking with friends is a nice way to relax.",
+                  "explanation": "Subject → -ing."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "Thanks for ___ me to your wedding. (invite)",
+                  "image": "/img/ing-infinitive/wedding.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"Thanks for ___ me to your wedding. (invite)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Thanks for ___ me to your wedding. (invite)\" → -ing form."
+                    },
+                    {
+                      "prompt": "Why that form in \"Thanks for ___ me to your wedding. (invite)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Thanks for ___ me to your wedding. (invite)\" → After a preposition."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'm interested in ___ a new laptop. (buy)",
+                  "image": "/img/ing-infinitive/laptop.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"I'm interested in ___ a new laptop. (buy)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I'm interested in ___ a new laptop. (buy)\" → -ing form."
+                    },
+                    {
+                      "prompt": "Why that form in \"I'm interested in ___ a new laptop. (buy)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I'm interested in ___ a new laptop. (buy)\" → After a preposition."
+                    }
+                  ]
+                },
+                {
+                  "word": "___ a bike is a great way to stay in shape. (ride)",
+                  "image": "/img/ing-infinitive/bike.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"___ a bike is a great way to stay in shape. (ride)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"___ a bike is a great way to stay in shape. (ride)\" → -ing form."
+                    },
+                    {
+                      "prompt": "Why that form in \"___ a bike is a great way to stay in shape. (ride)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"___ a bike is a great way to stay in shape. (ride)\" → Subject or object of the sentence."
+                    }
+                  ]
+                },
+                {
+                  "word": "I love ___. (dance)",
+                  "image": "/img/ing-infinitive/dancing.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"I love ___. (dance)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I love ___. (dance)\" → -ing form."
+                    },
+                    {
+                      "prompt": "Why that form in \"I love ___. (dance)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I love ___. (dance)\" → Subject or object of the sentence."
+                    }
+                  ]
+                },
+                {
+                  "word": "It's easy ___ to work. (forget)",
+                  "image": "/img/ing-infinitive/easy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"It's easy ___ to work. (forget)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"It's easy ___ to work. (forget)\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Why that form in \"It's easy ___ to work. (forget)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"It's easy ___ to work. (forget)\" → After an adjective."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'm amazed ___ you here. (hear)",
+                  "image": "/img/ing-infinitive/amazed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"I'm amazed ___ you here. (hear)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I'm amazed ___ you here. (hear)\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Why that form in \"I'm amazed ___ you here. (hear)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'm amazed ___ you here. (hear)\" → After an adjective."
+                    }
+                  ]
+                },
+                {
+                  "word": "I went shopping ___ a new pair of shoes. (buy)",
+                  "image": "/img/ing-infinitive/shoes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"I went shopping ___ a new pair of shoes. (buy)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I went shopping ___ a new pair of shoes. (buy)\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Why that form in \"I went shopping ___ a new pair of shoes. (buy)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I went shopping ___ a new pair of shoes. (buy)\" → To express a purpose."
+                    }
+                  ]
+                },
+                {
+                  "word": "We have to leave soon ___ there on time. (get)",
+                  "image": "/img/ing-infinitive/clock.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"We have to leave soon ___ there on time. (get)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"We have to leave soon ___ there on time. (get)\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Why that form in \"We have to leave soon ___ there on time. (get)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"We have to leave soon ___ there on time. (get)\" → To express a purpose."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'm bored with ___ going out. (not)",
+                  "image": "/img/ing-infinitive/bored.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"I'm bored with ___ going out. (not)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'm bored with ___ going out. (not)\" → not + -ing."
+                    },
+                    {
+                      "prompt": "Why that form in \"I'm bored with ___ going out. (not)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I'm bored with ___ going out. (not)\" → After a preposition."
+                    }
+                  ]
+                },
+                {
+                  "word": "I'm disappointed ___ this show. (not see)",
+                  "image": "/img/ing-infinitive/disappointed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"I'm disappointed ___ this show. (not see)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I'm disappointed ___ this show. (not see)\" → not to + infinitive."
+                    },
+                    {
+                      "prompt": "Why that form in \"I'm disappointed ___ this show. (not see)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I'm disappointed ___ this show. (not see)\" → After an adjective."
+                    }
+                  ]
+                },
+                {
+                  "word": "This button is for ___ up the volume. (function)",
+                  "image": "/img/ing-infinitive/button.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"This button is for ___ up the volume. (function)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"This button is for ___ up the volume. (function)\" → -ing form."
+                    },
+                    {
+                      "prompt": "Why that form in \"This button is for ___ up the volume. (function)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"This button is for ___ up the volume. (function)\" → After a preposition."
+                    }
+                  ]
+                },
+                {
+                  "word": "Press this button ___ up the volume. (purpose)",
+                  "image": "/img/ing-infinitive/button-purpose.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form completes \"Press this button ___ up the volume. (purpose)\"?",
+                      "options": [
+                        "-ing form",
+                        "to + infinitive",
+                        "not + -ing",
+                        "not to + infinitive"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Press this button ___ up the volume. (purpose)\" → to + infinitive."
+                    },
+                    {
+                      "prompt": "Why that form in \"Press this button ___ up the volume. (purpose)\"?",
+                      "options": [
+                        "After a preposition",
+                        "Subject or object of the sentence",
+                        "After an adjective",
+                        "To express a purpose"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Press this button ___ up the volume. (purpose)\" → To express a purpose."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Thanks for inviting me to your wedding.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Reading is a great way to improve your English.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I went shopping to buy a new pair of shoes.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s impossible not to laugh when you watch this movie.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He’s worried about failing his exam, so he studies every night until midnight.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is he worried about?",
+                  "options": [
+                    "Losing his job",
+                    "Failing his exam",
+                    "Missing a party",
+                    "Buying a laptop"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "I’m interested in buying a new laptop, but they’re so expensive right now.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the speaker want to buy?",
+                  "options": [
+                    "A bike",
+                    "A laptop",
+                    "Coffee",
+                    "Shoes"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "She left the office early to meet a friend at the new Italian restaurant.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did she leave early?",
+                  "options": [
+                    "To study",
+                    "To go shopping",
+                    "To meet a friend",
+                    "To see a doctor"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "This button is for turning up the volume, and that one is for changing the channel.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the first button for?",
+                  "options": [
+                    "Turning off the TV",
+                    "Recording",
+                    "Turning up the volume",
+                    "Changing the channel"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I’m really sorry for missing your party. I had to work until ten.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did the speaker miss the party?",
+                  "options": [
+                    "He had to work",
+                    "He forgot",
+                    "He was sick",
+                    "He was traveling"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Cooking with friends is a nice way to relax after a long week.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the speaker say is relaxing?",
+                  "options": [
+                    "Running",
+                    "Watching TV",
+                    "Cooking with friends",
+                    "Shopping"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I’m delighted to tell you that you’re getting the job. You start on Monday.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the good news?",
+                  "options": [
+                    "A vacation",
+                    "A new car",
+                    "A wedding",
+                    "The listener got the job"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Speaking another language is really useful in business, so I take classes twice a week.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How often does the speaker take classes?",
+                  "options": [
+                    "On weekends",
+                    "Twice a week",
+                    "Every day",
+                    "Once a month"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Thank-you Speech",
+                  "situation": "Thank three people using \"Thanks for + -ing\".",
+                  "mandatory": [
+                    "Thanks for",
+                    "inviting",
+                    "helping"
+                  ],
+                  "taboo": [
+                    "thank you"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Why I Do It",
+                  "situation": "Explain why you do three daily activities using \"to + verb\" for purpose.",
+                  "mandatory": [
+                    "to",
+                    "because",
+                    "every day"
+                  ],
+                  "taboo": [
+                    "for"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Gadget Demo",
+                  "situation": "Explain what three buttons or apps are for using \"for + -ing\".",
+                  "mandatory": [
+                    "is for",
+                    "button",
+                    "app"
+                  ],
+                  "taboo": [
+                    "thing"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Feelings",
+                  "situation": "Describe how you feel about three things: \"I'm worried about…\", \"I'm happy to…\".",
+                  "mandatory": [
+                    "worried about",
+                    "happy to",
+                    "interested in"
+                  ],
+                  "taboo": [
+                    "like"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Healthy Habits",
+                  "situation": "Give advice starting sentences with -ing subjects: \"Running is…\".",
+                  "mandatory": [
+                    "is a great way",
+                    "ing",
+                    "healthy"
+                  ],
+                  "taboo": [
+                    "should"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Big News",
+                  "situation": "Share good and bad news: \"I'm delighted to…\", \"I'm disappointed not to…\".",
+                  "mandatory": [
+                    "delighted to",
+                    "disappointed not to",
+                    "news"
+                  ],
+                  "taboo": [
+                    "sad"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         }
