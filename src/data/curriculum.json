@@ -77073,6 +77073,1866 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U12T3",
+              "name": "12B - Vocabulary: Air Travel & go / get Phrases",
+              "steal": [
+                {
+                  "prompt": "On our website you can ___ up to eleven months before the date of travel.",
+                  "options": [
+                    "take off",
+                    "book a flight",
+                    "land",
+                    "go through security"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "You can ___ online for your flight 24 hours before departure time.",
+                  "options": [
+                    "take off",
+                    "check in",
+                    "land",
+                    "pack"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Make sure you ___ your own bags and suitcases. Don't take any prohibited items.",
+                  "options": [
+                    "land",
+                    "check",
+                    "book",
+                    "pack"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "You're allowed 20 kg of ___ and you can bring one small bag on the plane.",
+                  "options": [
+                    "boarding pass",
+                    "carry-on bag",
+                    "gate",
+                    "checked baggage"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "The small bag you take with you on the plane is your ___.",
+                  "options": [
+                    "carry-on bag",
+                    "departure board",
+                    "checked baggage",
+                    "boarding pass"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Don't forget to bring valid identification. You'll have to ___ or identity card.",
+                  "options": [
+                    "book your passport",
+                    "pack your passport",
+                    "land your passport",
+                    "show your passport"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Sometimes there are long lines to ___, so make sure you arrive at least two hours before your flight.",
+                  "options": [
+                    "land",
+                    "go through security",
+                    "book a flight",
+                    "take off"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Wait for your flight in the ___, where you can get coffee.",
+                  "options": [
+                    "cockpit",
+                    "runway",
+                    "departure lounge",
+                    "gate"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Don't forget to look at the ___ to see which gate your flight leaves from.",
+                  "options": [
+                    "departure board",
+                    "boarding pass",
+                    "passport",
+                    "window seat"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "When your flight is called, show your ___ to the flight attendant at the gate.",
+                  "options": [
+                    "checked baggage",
+                    "boarding pass",
+                    "departure board",
+                    "carry-on bag"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Do you have an ___ or a window seat?",
+                  "options": [
+                    "isle seat",
+                    "aisle seat",
+                    "island seat",
+                    "exit seat"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "The person who works on a plane and helps passengers is a ___.",
+                  "options": [
+                    "flight attendant",
+                    "passenger",
+                    "security guard",
+                    "pilot"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "When the plane leaves the ground, it ___.",
+                  "options": [
+                    "takes off",
+                    "lands",
+                    "checks in",
+                    "packs"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "When the plane returns to the ground, it ___.",
+                  "options": [
+                    "lands",
+                    "boards",
+                    "takes off",
+                    "departs"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Ninety-five percent of our flights ___ smoothly and on time.",
+                  "options": [
+                    "pack",
+                    "check in",
+                    "take off",
+                    "book"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The place where you board the plane is the ___.",
+                  "options": [
+                    "departure lounge",
+                    "gate",
+                    "runway",
+                    "security"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which phrase uses GO? \"___ a guided tour.\"",
+                  "options": [
+                    "go for",
+                    "get on",
+                    "get to",
+                    "go on"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Which phrase uses GO? \"___ a walk / coffee.\"",
+                  "options": [
+                    "go for",
+                    "get",
+                    "go to",
+                    "go on"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Which phrase uses GO? \"___ school / bed / college.\"",
+                  "options": [
+                    "get",
+                    "go for",
+                    "go on",
+                    "go to"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"We spent all day on the beach and got burned.\" Here \"get\" means ___.",
+                  "options": [
+                    "become",
+                    "arrive",
+                    "receive",
+                    "buy"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"Chris got our flights online.\" Here \"get\" means ___.",
+                  "options": [
+                    "become",
+                    "arrive",
+                    "buy",
+                    "bring"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"Did you get my e-mail?\" Here \"get\" means ___.",
+                  "options": [
+                    "arrive",
+                    "become",
+                    "buy",
+                    "receive"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"Can you get my glasses? They're in the kitchen.\" Here \"get\" means ___.",
+                  "options": [
+                    "become",
+                    "arrive",
+                    "buy",
+                    "bring"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"When we got to Buenos Aires, Silvia was waiting.\" Here \"get to\" means ___.",
+                  "options": [
+                    "arrive",
+                    "buy",
+                    "become",
+                    "receive"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "You can book a flight online up to eleven months in advance.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You check in before you go through security.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A carry-on bag goes with you on the plane.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Checked baggage goes in the hold of the plane.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You wait in the departure lounge before boarding.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The departure board shows the gate for your flight.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A flight attendant works on the plane.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The plane takes off at the start and lands at the end.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We go on a trip, go on vacation and go on a guided tour.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We go for a walk and go for coffee.",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"Get\" can mean buy, arrive, become, receive or bring.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You land before you take off.",
+                  "correct": false,
+                  "fix": "You take off before you land.",
+                  "explanation": "Take off = start."
+                },
+                {
+                  "sentence": "Your checked baggage goes with you to your seat.",
+                  "correct": false,
+                  "fix": "Your carry-on bag goes with you to your seat.",
+                  "explanation": "Checked = in the hold."
+                },
+                {
+                  "sentence": "You show your boarding pass to buy a ticket.",
+                  "correct": false,
+                  "fix": "You show your boarding pass to board the plane.",
+                  "explanation": "Boarding pass = to board."
+                },
+                {
+                  "sentence": "The pilot serves coffee to the passengers.",
+                  "correct": false,
+                  "fix": "The flight attendant serves coffee to the passengers.",
+                  "explanation": "Attendant serves."
+                },
+                {
+                  "sentence": "An aisle seat is next to the window.",
+                  "correct": false,
+                  "fix": "A window seat is next to the window.",
+                  "explanation": "Aisle = corridor."
+                },
+                {
+                  "sentence": "We go for a trip.",
+                  "correct": false,
+                  "fix": "We go on a trip.",
+                  "explanation": "go on a trip."
+                },
+                {
+                  "sentence": "We go on a walk.",
+                  "correct": false,
+                  "fix": "We go for a walk.",
+                  "explanation": "go for a walk."
+                },
+                {
+                  "sentence": "We go to vacation.",
+                  "correct": false,
+                  "fix": "We go on vacation.",
+                  "explanation": "go on vacation."
+                },
+                {
+                  "sentence": "\"Chris got lost\" means Chris bought something.",
+                  "correct": false,
+                  "fix": "\"Chris got lost\" means Chris became lost.",
+                  "explanation": "get = become."
+                },
+                {
+                  "sentence": "You go through security after you land.",
+                  "correct": false,
+                  "fix": "You go through security before you board.",
+                  "explanation": "Security is before boarding."
+                },
+                {
+                  "sentence": "The departure board shows what to pack.",
+                  "correct": false,
+                  "fix": "The departure board shows gates and times.",
+                  "explanation": "Board = flights info."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "book a flight",
+                  "image": "/img/air-travel/book-a-flight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"book a flight\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book a flight\" → Before the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"book a flight\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Book a flight\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "pack",
+                  "image": "/img/air-travel/pack.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"pack\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Pack\" → Before the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"pack\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pack\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "carry-on bag",
+                  "image": "/img/air-travel/carry-on-bag.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"carry-on bag\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Carry-on bag\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"carry-on bag\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Carry-on bag\" → A thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "checked baggage",
+                  "image": "/img/air-travel/checked-baggage.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"checked baggage\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Checked baggage\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"checked baggage\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Checked baggage\" → A thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "check in",
+                  "image": "/img/air-travel/check-in.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"check in\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Check in\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"check in\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Check in\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "show your passport",
+                  "image": "/img/air-travel/passport.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"show your passport\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Show your passport\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"show your passport\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Show your passport\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "go through security",
+                  "image": "/img/air-travel/security.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"go through security\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Go through security\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"go through security\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go through security\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "departure lounge",
+                  "image": "/img/air-travel/departure-lounge.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"departure lounge\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Departure lounge\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"departure lounge\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Departure lounge\" → A place."
+                    }
+                  ]
+                },
+                {
+                  "word": "departure board",
+                  "image": "/img/air-travel/departure-board.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"departure board\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Departure board\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"departure board\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Departure board\" → A thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "gate",
+                  "image": "/img/air-travel/gate.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"gate\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Gate\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"gate\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Gate\" → A place."
+                    }
+                  ]
+                },
+                {
+                  "word": "boarding pass",
+                  "image": "/img/air-travel/boarding-pass.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"boarding pass\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Boarding pass\" → At the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"boarding pass\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Boarding pass\" → A thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "flight attendant",
+                  "image": "/img/air-travel/flight-attendant.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"flight attendant\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Flight attendant\" → On the plane."
+                    },
+                    {
+                      "prompt": "What kind of word is \"flight attendant\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Flight attendant\" → A person."
+                    }
+                  ]
+                },
+                {
+                  "word": "aisle seat",
+                  "image": "/img/air-travel/aisle-seat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"aisle seat\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Aisle seat\" → On the plane."
+                    },
+                    {
+                      "prompt": "What kind of word is \"aisle seat\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Aisle seat\" → A thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "window seat",
+                  "image": "/img/air-travel/window-seat.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"window seat\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Window seat\" → On the plane."
+                    },
+                    {
+                      "prompt": "What kind of word is \"window seat\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Window seat\" → A thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "take off",
+                  "image": "/img/air-travel/take-off.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"take off\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take off\" → On the plane."
+                    },
+                    {
+                      "prompt": "What kind of word is \"take off\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Take off\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "land",
+                  "image": "/img/air-travel/land.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"land\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Land\" → After landing."
+                    },
+                    {
+                      "prompt": "What kind of word is \"land\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Land\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "go on vacation",
+                  "image": "/img/air-travel/go-on-vacation.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"go on vacation\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Go on vacation\" → Before the airport."
+                    },
+                    {
+                      "prompt": "What kind of word is \"go on vacation\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Go on vacation\" → An action."
+                    }
+                  ]
+                },
+                {
+                  "word": "get home",
+                  "image": "/img/air-travel/get-home.svg",
+                  "sorts": [
+                    {
+                      "prompt": "When do you \"get home\"?",
+                      "options": [
+                        "Before the airport",
+                        "At the airport",
+                        "On the plane",
+                        "After landing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Get home\" → After landing."
+                    },
+                    {
+                      "prompt": "What kind of word is \"get home\"?",
+                      "options": [
+                        "A thing",
+                        "A place",
+                        "An action",
+                        "A person"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Get home\" → An action."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "You can check in online for your flight 24 hours before departure time.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Don’t forget to look at the departure board to see which gate your flight leaves from.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "When your flight is called, show your boarding pass to the flight attendant.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "We went on a guided tour and then went for a walk on the beach.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You’re allowed 20 kilograms of checked baggage and one small carry-on bag on the plane.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How much checked baggage is allowed?",
+                  "options": [
+                    "None",
+                    "10 kilograms",
+                    "30 kilograms",
+                    "20 kilograms"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Sometimes there are long lines to go through security, so arrive at least two hours before your flight.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How early should you arrive?",
+                  "options": [
+                    "One hour before",
+                    "Four hours before",
+                    "Two hours before",
+                    "Thirty minutes before"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Wait for your flight in the departure lounge, where you can get coffee and read.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What can you do in the departure lounge?",
+                  "options": [
+                    "Check in",
+                    "Get coffee",
+                    "Collect baggage",
+                    "Go through security"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Do you have an aisle seat or a window seat? I always choose the window so I can see the clouds.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which seat does the speaker prefer?",
+                  "options": [
+                    "Aisle seat",
+                    "Exit seat",
+                    "Window seat",
+                    "Middle seat"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Ninety-five percent of our flights take off smoothly and on time. That’s one more reason to fly with us.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What percentage of flights leave on time?",
+                  "options": [
+                    "100%",
+                    "59%",
+                    "90%",
+                    "95%"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "We spent all day on the beach and got burned, so we went to bed early.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does \"got burned\" mean here?",
+                  "options": [
+                    "Received a gift",
+                    "Became burned",
+                    "Arrived late",
+                    "Bought sunscreen"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Chris got our flights online and I got the hotel. Did you get my e-mail with the details?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Chris get?",
+                  "options": [
+                    "The hotel",
+                    "A taxi",
+                    "An e-mail",
+                    "The flights"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "When we got to Buenos Aires, Silvia was waiting for us at the gate with a big sign.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where was Silvia?",
+                  "options": [
+                    "On the plane",
+                    "At the hotel",
+                    "At the gate",
+                    "At security"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Airport Guide",
+                  "situation": "Explain the steps from arriving at the airport to boarding the plane.",
+                  "mandatory": [
+                    "check in",
+                    "security",
+                    "gate"
+                  ],
+                  "taboo": [
+                    "airport"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Nervous Flyer",
+                  "situation": "Your friend has never flown. Reassure them and explain what happens on the plane.",
+                  "mandatory": [
+                    "flight attendant",
+                    "take off",
+                    "land"
+                  ],
+                  "taboo": [
+                    "scared"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Packing Advice",
+                  "situation": "Explain what goes in a carry-on bag and what goes in checked baggage.",
+                  "mandatory": [
+                    "carry-on",
+                    "checked baggage",
+                    "pack"
+                  ],
+                  "taboo": [
+                    "suitcase"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel Story",
+                  "situation": "Tell a story about a trip using go on, go for and go to.",
+                  "mandatory": [
+                    "go on",
+                    "go for",
+                    "go to"
+                  ],
+                  "taboo": [
+                    "travel"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Five Gets",
+                  "situation": "Tell a short story using \"get\" with five different meanings.",
+                  "mandatory": [
+                    "got home",
+                    "got lost",
+                    "got an e-mail"
+                  ],
+                  "taboo": [
+                    "have"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Complaint Desk",
+                  "situation": "Complain to the airline: your flight was late and your baggage was lost.",
+                  "mandatory": [
+                    "delayed",
+                    "baggage",
+                    "boarding pass"
+                  ],
+                  "taboo": [
+                    "angry"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U12T4",
+              "name": "12C - Grammar: Reported Speech (statements & questions)",
+              "steal": [
+                {
+                  "prompt": "\"I work in a bank.\" → He said (that) he ___ in a bank.",
+                  "options": [
+                    "was working",
+                    "works",
+                    "worked",
+                    "had worked"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"The train is arriving.\" → Sara said the train ___.",
+                  "options": [
+                    "was arriving",
+                    "arrived",
+                    "had arrived",
+                    "is arriving"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I've finished work.\" → Mike told me he ___ work.",
+                  "options": [
+                    "finished",
+                    "had finished",
+                    "was finishing",
+                    "has finished"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I lost my keys.\" → She said she ___ her keys.",
+                  "options": [
+                    "lost",
+                    "had lost",
+                    "has lost",
+                    "was losing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I can speak French.\" → Luke said he ___ speak French.",
+                  "options": [
+                    "might",
+                    "can",
+                    "would",
+                    "could"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I'll see you tonight.\" → Lisa said she ___ see us tonight.",
+                  "options": [
+                    "could",
+                    "would",
+                    "should",
+                    "will"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"We may get married.\" → Sarah told me they ___ get married.",
+                  "options": [
+                    "could",
+                    "might",
+                    "may",
+                    "would"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"We have to buy her a present.\" → They said they ___ buy her a present.",
+                  "options": [
+                    "had to",
+                    "must",
+                    "have to",
+                    "would have to"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Which modal verbs do NOT change in reported speech?",
+                  "options": [
+                    "must, have to",
+                    "am, is, are",
+                    "would, could, might, should",
+                    "can, will, may"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "He said me that he was Spanish.",
+                    "He said that he was Spanish.",
+                    "He told that he was Spanish.",
+                    "He said to that he was Spanish."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "He told that he was Spanish.",
+                    "He told me that he was Spanish.",
+                    "He told to me he was Spanish.",
+                    "He said me he was Spanish."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "After \"tell\", we ___ specify the person who was spoken to.",
+                  "options": [
+                    "never",
+                    "always",
+                    "sometimes",
+                    "rarely"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"Do you want ice cream?\" → She asked (me) ___ I wanted ice cream.",
+                  "options": [
+                    "did",
+                    "if",
+                    "what",
+                    "that"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"Is this your car?\" → He asked (me) if ___ my car.",
+                  "options": [
+                    "is it",
+                    "was it",
+                    "it was",
+                    "it is"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"Why did you call me?\" → She asked (me) why I ___ her.",
+                  "options": [
+                    "had called",
+                    "have called",
+                    "called",
+                    "was calling"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"When will you buy a car?\" → They asked (us) when we ___ buy a car.",
+                  "options": [
+                    "would",
+                    "did",
+                    "could",
+                    "will"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I'm coming tomorrow.\" → She said she was coming ___.",
+                  "options": [
+                    "the next day",
+                    "tomorrow",
+                    "yesterday",
+                    "that day"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I'll see you at eight o'clock.\" → Mike told me ___ at eight o'clock.",
+                  "options": [
+                    "he would see me",
+                    "he had seen me",
+                    "he will see me",
+                    "he sees me"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I'm seeing Maria this weekend.\" → She said ___ Maria that weekend.",
+                  "options": [
+                    "she saw",
+                    "she was seeing",
+                    "she had seen",
+                    "she is seeing"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I've lost my phone.\" → Martin said ___ phone.",
+                  "options": [
+                    "he had lost his",
+                    "he lost my",
+                    "he has lost his",
+                    "he was losing his"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I can't speak Portuguese.\" → Susan told them ___ Portuguese.",
+                  "options": [
+                    "she couldn't speak",
+                    "she didn't speak",
+                    "she can't speak",
+                    "she wouldn't speak"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"Do you like going to the movies?\" → He asked her ___ going to the movies.",
+                  "options": [
+                    "that she liked",
+                    "if she liked",
+                    "did she like",
+                    "if she likes"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"Can you buy me this red dress?\" → She asked me ___ the red dress.",
+                  "options": [
+                    "could I buy her",
+                    "if I could buy her",
+                    "to buy me",
+                    "if I can buy her"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Bank story: \"He used his own car.\" → Police said that the suspect ___ his own car.",
+                  "options": [
+                    "had used",
+                    "was using",
+                    "used",
+                    "has used"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "He said that he knew where the burglar lived.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The police told us that they had arrested someone for the crime.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I asked Emma if she could help me with my homework.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The police officer asked me where I had been the night before.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He said (that) he worked in a bank.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Mike told me (that) he'd finished work.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Luke said (that) he could speak French.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She asked me if I wanted ice cream.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They asked us when we would buy a car.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She said she was coming the next day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Would, could, might and should don't change in reported speech.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He said me that he was Spanish.",
+                  "correct": false,
+                  "fix": "He said that he was Spanish.",
+                  "explanation": "say + no object."
+                },
+                {
+                  "sentence": "He told that he was Spanish.",
+                  "correct": false,
+                  "fix": "He told me that he was Spanish.",
+                  "explanation": "tell + person."
+                },
+                {
+                  "sentence": "She asked me did I want ice cream.",
+                  "correct": false,
+                  "fix": "She asked me if I wanted ice cream.",
+                  "explanation": "if + statement order."
+                },
+                {
+                  "sentence": "He asked me if was it my car.",
+                  "correct": false,
+                  "fix": "He asked me if it was my car.",
+                  "explanation": "Subject before verb."
+                },
+                {
+                  "sentence": "Sara said the train is arriving.",
+                  "correct": false,
+                  "fix": "Sara said the train was arriving.",
+                  "explanation": "present cont. → past cont."
+                },
+                {
+                  "sentence": "Mike told me he has finished work.",
+                  "correct": false,
+                  "fix": "Mike told me he had finished work.",
+                  "explanation": "present perfect → past perfect."
+                },
+                {
+                  "sentence": "Lisa said she will see us tonight.",
+                  "correct": false,
+                  "fix": "Lisa said she would see us tonight.",
+                  "explanation": "will → would."
+                },
+                {
+                  "sentence": "She asked me why did I call her.",
+                  "correct": false,
+                  "fix": "She asked me why I had called her.",
+                  "explanation": "No question order."
+                },
+                {
+                  "sentence": "Luke said he can speak French.",
+                  "correct": false,
+                  "fix": "Luke said he could speak French.",
+                  "explanation": "can → could."
+                },
+                {
+                  "sentence": "She said she was coming tomorrow. (reported a week later)",
+                  "correct": false,
+                  "fix": "She said she was coming the next day.",
+                  "explanation": "tomorrow → the next day."
+                },
+                {
+                  "sentence": "They said they must buy her a present.",
+                  "correct": false,
+                  "fix": "They said they had to buy her a present.",
+                  "explanation": "have to → had to."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "\"I work in a bank.\" → He said he ___ in a bank.",
+                  "image": "/img/air-travel/bank.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"I work in a bank.\" → He said he ___ in a bank.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I work in a bank.\" → He said he ___ in a bank.\" → simple past."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"I work in a bank.\" → He said he ___ in a bank.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I work in a bank.\" → He said he ___ in a bank.\" → said (that)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"The train is arriving.\" → Sara said the train ___.",
+                  "image": "/img/air-travel/train.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"The train is arriving.\" → Sara said the train ___.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"The train is arriving.\" → Sara said the train ___.\" → past continuous."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"The train is arriving.\" → Sara said the train ___.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"The train is arriving.\" → Sara said the train ___.\" → said (that)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I've finished work.\" → Mike told me he ___ work.",
+                  "image": "/img/air-travel/finished.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"I've finished work.\" → Mike told me he ___ work.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I've finished work.\" → Mike told me he ___ work.\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"I've finished work.\" → Mike told me he ___ work.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I've finished work.\" → Mike told me he ___ work.\" → told me (that)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I lost my keys.\" → She said she ___ her keys.",
+                  "image": "/img/air-travel/keys.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"I lost my keys.\" → She said she ___ her keys.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I lost my keys.\" → She said she ___ her keys.\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"I lost my keys.\" → She said she ___ her keys.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I lost my keys.\" → She said she ___ her keys.\" → said (that)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I can speak French.\" → Luke said he ___ speak French.",
+                  "image": "/img/air-travel/french.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"I can speak French.\" → Luke said he ___ speak French.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I can speak French.\" → Luke said he ___ speak French.\" → would / could / might."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"I can speak French.\" → Luke said he ___ speak French.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I can speak French.\" → Luke said he ___ speak French.\" → said (that)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I'll see you tonight.\" → Lisa said she ___ see us.",
+                  "image": "/img/air-travel/tonight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"I'll see you tonight.\" → Lisa said she ___ see us.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I'll see you tonight.\" → Lisa said she ___ see us.\" → would / could / might."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"I'll see you tonight.\" → Lisa said she ___ see us.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I'll see you tonight.\" → Lisa said she ___ see us.\" → said (that)."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"Do you want ice cream?\" → She asked me ___ I wanted ice cream.",
+                  "image": "/img/air-travel/ice-cream.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"Do you want ice cream?\" → She asked me ___ I wanted ice cream.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"Do you want ice cream?\" → She asked me ___ I wanted ice cream.\" → simple past."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"Do you want ice cream?\" → She asked me ___ I wanted ice cream.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"Do you want ice cream?\" → She asked me ___ I wanted ice cream.\" → asked (me) if."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"Why did you call me?\" → She asked me ___ I had called her.",
+                  "image": "/img/air-travel/phone.svg",
+                  "sorts": [
+                    {
+                      "prompt": "In reported speech, what does \"\"Why did you call me?\" → She asked me ___ I had called her.\" become?",
+                      "options": [
+                        "simple past",
+                        "past continuous",
+                        "past perfect",
+                        "would / could / might"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"Why did you call me?\" → She asked me ___ I had called her.\" → past perfect."
+                    },
+                    {
+                      "prompt": "Which reporting pattern fits \"\"Why did you call me?\" → She asked me ___ I had called her.\"?",
+                      "options": [
+                        "said (that)",
+                        "told me (that)",
+                        "asked (me) if",
+                        "asked (me) + wh- word"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"Why did you call me?\" → She asked me ___ I had called her.\" → asked (me) + wh- word."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "He said that he knew where the burglar lived.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The police told us that they had arrested someone for the crime.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I asked Emma if she could help me with my homework.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The police officer asked me where I had been the night before.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Mike told me that he would see me at eight o’clock, but he arrived at nine.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did Mike say originally?",
+                  "options": [
+                    "\"I see you at nine.\"",
+                    "\"Can you see me?\"",
+                    "\"I’ll see you at eight.\"",
+                    "\"I saw you at eight.\""
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Martin said he had lost his phone, so he couldn’t call anyone.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What were Martin’s exact words?",
+                  "options": [
+                    "\"I’ve lost my phone.\"",
+                    "\"I lose my phone.\"",
+                    "\"I will lose my phone.\"",
+                    "\"Have you lost my phone?\""
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "She asked me if I could buy her the red dress, and I said that I didn’t have any money.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did she ask?",
+                  "options": [
+                    "\"Did you buy a dress?\"",
+                    "\"Do you like red?\"",
+                    "\"Where is the dress?\"",
+                    "\"Can you buy me this red dress?\""
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "He asked her why she hadn’t waited for him the night before. She said she had been tired.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What was his question?",
+                  "options": [
+                    "\"Why didn’t you wait for me last night?\"",
+                    "\"Will you wait for me?\"",
+                    "\"Are you tired?\"",
+                    "\"Where were you?\""
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Susan told them she couldn’t speak Portuguese, so they spoke in English.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What language did they use?",
+                  "options": [
+                    "English",
+                    "French",
+                    "Portuguese",
+                    "Spanish"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Police said that the suspect had used his own car to drive to and from the bank.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How did the suspect travel?",
+                  "options": [
+                    "In his own car",
+                    "By taxi",
+                    "By bus",
+                    "On foot"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "The suspect said that he and his wife were staying at the hotel because they couldn’t afford the rent anymore.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why were they at the hotel?",
+                  "options": [
+                    "They liked hotels",
+                    "The house was flooded",
+                    "They couldn’t afford rent",
+                    "They were on vacation"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "He said that he hadn’t told his wife about the robbery. Instead he had told her that he had borrowed the money.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What did he tell his wife?",
+                  "options": [
+                    "That he had found the money",
+                    "That he had borrowed the money",
+                    "That he had robbed a bank",
+                    "Nothing at all"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Gossip Chain",
+                  "situation": "Report three things a classmate said yesterday using \"said\" and \"told me\".",
+                  "mandatory": [
+                    "said that",
+                    "told me",
+                    "had"
+                  ],
+                  "taboo": [
+                    "says"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Police Interview",
+                  "situation": "You are a police officer. Report the questions you asked a witness.",
+                  "mandatory": [
+                    "asked him if",
+                    "asked where",
+                    "had been"
+                  ],
+                  "taboo": [
+                    "ask"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Bank Robbery",
+                  "situation": "Retell the Denver bank robbery story in reported speech.",
+                  "mandatory": [
+                    "said that",
+                    "had used",
+                    "told her"
+                  ],
+                  "taboo": [
+                    "says"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Bad Date",
+                  "situation": "Report what your date asked you and what you answered.",
+                  "mandatory": [
+                    "asked me if",
+                    "said",
+                    "would"
+                  ],
+                  "taboo": [
+                    "tells"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Boss Meeting",
+                  "situation": "Report what your boss said in the meeting about next week.",
+                  "mandatory": [
+                    "told us",
+                    "would",
+                    "had to"
+                  ],
+                  "taboo": [
+                    "will"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Phone Message",
+                  "situation": "Your friend left a voice message. Report it to another friend.",
+                  "mandatory": [
+                    "said",
+                    "was coming",
+                    "the next day"
+                  ],
+                  "taboo": [
+                    "tomorrow"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         }
