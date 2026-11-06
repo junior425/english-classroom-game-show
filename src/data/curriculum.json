@@ -76537,6 +76537,796 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U10T3",
+              "name": "10C - Grammar: Second Conditional (would / could / might)",
+              "steal": [
+                {
+                  "prompt": "The second conditional talks about situations that are ___.",
+                  "options": [
+                    "in the past",
+                    "happening now",
+                    "impossible or very unlikely",
+                    "certain"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Form: If + ___ , would + base form.",
+                  "options": [
+                    "will",
+                    "simple past",
+                    "present perfect",
+                    "simple present"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "If I ___ rich, I'd buy a big house by the sea.",
+                  "options": [
+                    "would be",
+                    "am",
+                    "were",
+                    "will be"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If I argued with my best friend, I'd ___ sad.",
+                  "options": [
+                    "was",
+                    "am",
+                    "being",
+                    "be"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "If I could speak Spanish, I'd ___ traveling in South America.",
+                  "options": [
+                    "going",
+                    "will go",
+                    "go",
+                    "went"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If I won the lottery, I ___ give all the money to charity.",
+                  "options": [
+                    "am going to",
+                    "might",
+                    "will",
+                    "had"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "If I ___ you, I'd update my résumé.",
+                  "options": [
+                    "were",
+                    "am",
+                    "was being",
+                    "will be"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "If my new phone stopped working tomorrow, I'd ___ it back to the store.",
+                  "options": [
+                    "take",
+                    "taken",
+                    "took",
+                    "taking"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "We often use ___ instead of \"was\" with I, he, she and it in the if-clause.",
+                  "options": [
+                    "been",
+                    "is",
+                    "were",
+                    "be"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"If I were you, I'd take a cab to the airport.\" This is ___.",
+                  "options": [
+                    "advice",
+                    "a past event",
+                    "a prediction",
+                    "a promise"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "If I would have more time, I'd learn the saxophone.",
+                    "If I had more time, I'd learn the saxophone.",
+                    "If I have more time, I would learned.",
+                    "If I had more time, I will learn."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which sentence uses \"could\" in the main clause?",
+                  "options": [
+                    "If we could live by the sea, we go swimming.",
+                    "We could lived by the sea.",
+                    "If we lived by the sea, we could go swimming every day.",
+                    "If we live by the sea, we can swim."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"If you asked John more politely, he ___ help you.\"",
+                  "options": [
+                    "does",
+                    "is going to",
+                    "might",
+                    "will"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Which sentence is the FIRST conditional?",
+                  "options": [
+                    "If it were raining, we might shop.",
+                    "If it rained tomorrow, we'd go shopping.",
+                    "If it rained, we would shop.",
+                    "If it rains tomorrow, we'll go shopping."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"If it rained tomorrow, we'd go shopping.\" The speaker thinks rain is ___.",
+                  "options": [
+                    "already happening",
+                    "certain",
+                    "impossible in general",
+                    "unlikely"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "If I ___ downtown, I ___ to work.",
+                  "options": [
+                    "live / would walk",
+                    "lived / would walk",
+                    "would live / walked",
+                    "lived / will walk"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "This city ___ much nicer if there ___ less traffic.",
+                  "options": [
+                    "would be / were",
+                    "would be / will be",
+                    "will be / is",
+                    "is / were"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "If you ___ up a bit earlier, you ___ late for work so often.",
+                  "options": [
+                    "got / wouldn't be",
+                    "get / won't be",
+                    "got / won't be",
+                    "would get / weren't"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "If we ___ a bigger car, we ___ more things on vacation.",
+                  "options": [
+                    "had / could take",
+                    "had / can take",
+                    "have / can take",
+                    "would have / took"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "What ___ if someone ___ your car?",
+                  "options": [
+                    "will you do / stole",
+                    "do you do / stole",
+                    "would you do / stole",
+                    "would you do / steals"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If I ___ basketball, I'd ___ a bit taller.",
+                  "options": [
+                    "play / be",
+                    "played / be",
+                    "played / am",
+                    "would play / be"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I'm lazy. I always get bad grades.\" → If I ___ lazy, I ___ get bad grades.",
+                  "options": [
+                    "weren't / won't",
+                    "am not / won't",
+                    "weren't / wouldn't",
+                    "wasn't / don't"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"It's so hot. I can't concentrate.\" → If it ___ so hot, I ___ concentrate.",
+                  "options": [
+                    "weren't / could",
+                    "isn't / can",
+                    "wasn't / will",
+                    "weren't / can"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I don't get any exercise. I'm out of shape.\" → If I ___ exercise, I ___ so out of shape.",
+                  "options": [
+                    "got some / wouldn't be",
+                    "get / won't be",
+                    "would get / weren't",
+                    "got / am not"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "If I were rich, I'd buy a big house by the sea.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I argued with my best friend, I'd be sad.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I could speak Spanish, I'd go traveling in South America.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I won the lottery, I might give all the money to charity.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I were you, I'd update my résumé.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If we lived by the sea, we could go swimming every day.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If Adam were here, he would fix your computer.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I had more time, I'd learn the saxophone.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If it rains tomorrow, we'll go shopping. (likely)",
+                  "correct": true
+                },
+                {
+                  "sentence": "If it rained tomorrow, we'd go shopping. (unlikely)",
+                  "correct": true
+                },
+                {
+                  "sentence": "If you went to bed earlier, you wouldn't feel so tired.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I would have more time, I'd learn the saxophone.",
+                  "correct": false,
+                  "fix": "If I had more time, I'd learn the saxophone.",
+                  "explanation": "No \"would\" in the if-clause."
+                },
+                {
+                  "sentence": "If I am rich, I'd buy a big house.",
+                  "correct": false,
+                  "fix": "If I were rich, I'd buy a big house.",
+                  "explanation": "if + simple past."
+                },
+                {
+                  "sentence": "If I were you, I will update my résumé.",
+                  "correct": false,
+                  "fix": "If I were you, I'd update my résumé.",
+                  "explanation": "would, not will."
+                },
+                {
+                  "sentence": "If you went to bed earlier, you won't feel so tired.",
+                  "correct": false,
+                  "fix": "If you went to bed earlier, you wouldn't feel so tired.",
+                  "explanation": "would + base form."
+                },
+                {
+                  "sentence": "If we lived by the sea, we could went swimming.",
+                  "correct": false,
+                  "fix": "If we lived by the sea, we could go swimming.",
+                  "explanation": "could + base form."
+                },
+                {
+                  "sentence": "If I won the lottery, I might gave the money away.",
+                  "correct": false,
+                  "fix": "If I won the lottery, I might give the money away.",
+                  "explanation": "might + base form."
+                },
+                {
+                  "sentence": "If my phone stopped working, I'd taken it back.",
+                  "correct": false,
+                  "fix": "If my phone stopped working, I'd take it back.",
+                  "explanation": "'d = would + base."
+                },
+                {
+                  "sentence": "If I would be you, I'd take a cab.",
+                  "correct": false,
+                  "fix": "If I were you, I'd take a cab.",
+                  "explanation": "If I were you."
+                },
+                {
+                  "sentence": "The second conditional is for very likely future events.",
+                  "correct": false,
+                  "fix": "The second conditional is for unlikely or impossible situations.",
+                  "explanation": "Unlikely / impossible."
+                },
+                {
+                  "sentence": "If I was lived downtown, I would walk to work.",
+                  "correct": false,
+                  "fix": "If I lived downtown, I would walk to work.",
+                  "explanation": "Simple past only."
+                },
+                {
+                  "sentence": "If it rained tomorrow, we will go shopping.",
+                  "correct": false,
+                  "fix": "If it rained tomorrow, we'd go shopping.",
+                  "explanation": "rained → would."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "If I ___ rich, I'd buy a big house by the sea. (be)",
+                  "image": "/img/second-conditional/rich.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If I ___ rich, I'd buy a big house by the sea. (be)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If I ___ rich, I'd buy a big house by the sea. (be)\" → Impossible now."
+                    },
+                    {
+                      "prompt": "Which form completes \"If I ___ rich, I'd buy a big house by the sea. (be)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If I ___ rich, I'd buy a big house by the sea. (be)\" → if + simple past."
+                    }
+                  ]
+                },
+                {
+                  "word": "If I argued with my best friend, I ___ sad. (be)",
+                  "image": "/img/second-conditional/argue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If I argued with my best friend, I ___ sad. (be)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If I argued with my best friend, I ___ sad. (be)\" → Unlikely future."
+                    },
+                    {
+                      "prompt": "Which form completes \"If I argued with my best friend, I ___ sad. (be)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If I argued with my best friend, I ___ sad. (be)\" → would + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "If I ___ Spanish, I'd go traveling in South America. (speak)",
+                  "image": "/img/second-conditional/spanish.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If I ___ Spanish, I'd go traveling in South America. (speak)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If I ___ Spanish, I'd go traveling in South America. (speak)\" → Impossible now."
+                    },
+                    {
+                      "prompt": "Which form completes \"If I ___ Spanish, I'd go traveling in South America. (speak)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If I ___ Spanish, I'd go traveling in South America. (speak)\" → could / might + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "If I won the lottery, I ___ give all the money to charity. (maybe)",
+                  "image": "/img/second-conditional/lottery.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If I won the lottery, I ___ give all the money to charity. (maybe)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If I won the lottery, I ___ give all the money to charity. (maybe)\" → Unlikely future."
+                    },
+                    {
+                      "prompt": "Which form completes \"If I won the lottery, I ___ give all the money to charity. (maybe)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If I won the lottery, I ___ give all the money to charity. (maybe)\" → could / might + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "If I ___ you, I'd update my résumé. (be)",
+                  "image": "/img/second-conditional/advice.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If I ___ you, I'd update my résumé. (be)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If I ___ you, I'd update my résumé. (be)\" → Advice with \"were\"."
+                    },
+                    {
+                      "prompt": "Which form completes \"If I ___ you, I'd update my résumé. (be)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If I ___ you, I'd update my résumé. (be)\" → if + simple past."
+                    }
+                  ]
+                },
+                {
+                  "word": "If it rains tomorrow, we ___ go shopping. (likely)",
+                  "image": "/img/second-conditional/rain-first.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If it rains tomorrow, we ___ go shopping. (likely)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"If it rains tomorrow, we ___ go shopping. (likely)\" → Likely future (first conditional)."
+                    },
+                    {
+                      "prompt": "Which form completes \"If it rains tomorrow, we ___ go shopping. (likely)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"If it rains tomorrow, we ___ go shopping. (likely)\" → will + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "If my new phone stopped working tomorrow, I'd ___ it back to the store. (take)",
+                  "image": "/img/second-conditional/phone.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If my new phone stopped working tomorrow, I'd ___ it back to the store. (take)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If my new phone stopped working tomorrow, I'd ___ it back to the store. (take)\" → Unlikely future."
+                    },
+                    {
+                      "prompt": "Which form completes \"If my new phone stopped working tomorrow, I'd ___ it back to the store. (take)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If my new phone stopped working tomorrow, I'd ___ it back to the store. (take)\" → would + base form."
+                    }
+                  ]
+                },
+                {
+                  "word": "If Adam were here, he ___ fix your computer. (would)",
+                  "image": "/img/second-conditional/computer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What kind of situation is \"If Adam were here, he ___ fix your computer. (would)\"?",
+                      "options": [
+                        "Impossible now",
+                        "Unlikely future",
+                        "Advice with \"were\"",
+                        "Likely future (first conditional)"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If Adam were here, he ___ fix your computer. (would)\" → Advice with \"were\"."
+                    },
+                    {
+                      "prompt": "Which form completes \"If Adam were here, he ___ fix your computer. (would)\"?",
+                      "options": [
+                        "if + simple past",
+                        "would + base form",
+                        "could / might + base form",
+                        "will + base form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If Adam were here, he ___ fix your computer. (would)\" → would + base form."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "If I were rich, I’d buy a big house by the sea.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If I were you, I’d update your résumé.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If I won the lottery, I might give all the money to charity.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If we lived by the sea, we could go swimming every day.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If my new phone stopped working tomorrow, I’d take it back to the store. It’s still under warranty.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Is the speaker’s phone broken now?",
+                  "options": [
+                    "We don’t know",
+                    "Yes, it’s at the store",
+                    "No, it’s an imaginary situation",
+                    "Yes, it broke yesterday"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "If I could speak Spanish, I’d go traveling in South America for a whole year.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Does the speaker speak Spanish?",
+                  "options": [
+                    "Yes, fluently",
+                    "Only Portuguese",
+                    "No",
+                    "A little"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "If you asked John more politely, he might help you with the move.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the speaker suggest?",
+                  "options": [
+                    "Moving alone",
+                    "Not asking John",
+                    "Asking John more politely",
+                    "Paying John"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "If it rains tomorrow, we’ll go shopping. The forecast says eighty percent chance of rain.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which conditional is this and why?",
+                  "options": [
+                    "Second – rain is unlikely",
+                    "Second – it already rained",
+                    "Zero – it always rains",
+                    "First – rain is likely"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "If I went to bed earlier, I wouldn’t feel so tired at work, but I love watching late-night movies.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why is the speaker tired?",
+                  "options": [
+                    "They exercise a lot",
+                    "They work too much",
+                    "They don’t eat",
+                    "They go to bed late"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "This city would be much nicer if there were less traffic. It takes me an hour to get to work.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How long is the speaker’s commute?",
+                  "options": [
+                    "Two hours",
+                    "Thirty minutes",
+                    "Fifteen minutes",
+                    "One hour"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "If Adam were here, he would fix your computer in five minutes. He’s a genius with technology.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is Adam?",
+                  "options": [
+                    "In the next room",
+                    "Not here",
+                    "At the store",
+                    "Fixing the computer"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "If I had more time, I’d learn the saxophone. I’ve always loved jazz.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why doesn’t the speaker learn the saxophone?",
+                  "options": [
+                    "No teacher",
+                    "No money",
+                    "Doesn’t like jazz",
+                    "No time"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Lottery Dreams",
+                  "situation": "Say five things you would do if you won the lottery.",
+                  "mandatory": [
+                    "If I won",
+                    "I would",
+                    "might"
+                  ],
+                  "taboo": [
+                    "will"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "If I Were You",
+                  "situation": "Your partner has a problem. Give three pieces of advice with \"If I were you…\".",
+                  "mandatory": [
+                    "If I were you",
+                    "I'd",
+                    "should"
+                  ],
+                  "taboo": [
+                    "must"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Different Life",
+                  "situation": "Describe how your life would be different if you lived in another country.",
+                  "mandatory": [
+                    "If I lived",
+                    "would",
+                    "could"
+                  ],
+                  "taboo": [
+                    "will"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Superpowers",
+                  "situation": "If you could have one superpower, what would it be and what would you do?",
+                  "mandatory": [
+                    "If I could",
+                    "I would",
+                    "might"
+                  ],
+                  "taboo": [
+                    "can"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Likely or Unlikely",
+                  "situation": "Make three first-conditional and three second-conditional sentences about tomorrow.",
+                  "mandatory": [
+                    "If it rains",
+                    "If it rained",
+                    "would"
+                  ],
+                  "taboo": [
+                    "maybe"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Change the World",
+                  "situation": "If you were president, what would you change?",
+                  "mandatory": [
+                    "If I were",
+                    "would",
+                    "wouldn't"
+                  ],
+                  "taboo": [
+                    "will"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
