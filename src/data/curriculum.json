@@ -305,6 +305,2880 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U1T3",
+              "name": "1A - Vocabulary: Countries & Nationalities",
+              "steal": [
+                {
+                  "prompt": "Someone from Argentina is ___.",
+                  "options": [
+                    "Argentan",
+                    "Argentinese",
+                    "Argentish",
+                    "Argentinian"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Someone from Brazil is ___.",
+                  "options": [
+                    "Brazil",
+                    "Brazilish",
+                    "Brazilian",
+                    "Brazilese"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Someone from Canada is ___.",
+                  "options": [
+                    "Canadese",
+                    "Canadan",
+                    "Canadish",
+                    "Canadian"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Someone from Chile is ___.",
+                  "options": [
+                    "Chilean",
+                    "Chilish",
+                    "Chilian",
+                    "Chilese"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Someone from China is ___.",
+                  "options": [
+                    "Chinish",
+                    "Chinan",
+                    "Chinese",
+                    "Chinian"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Someone from Colombia is ___.",
+                  "options": [
+                    "Colombish",
+                    "Colombic",
+                    "Colombese",
+                    "Colombian"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Someone from France is ___.",
+                  "options": [
+                    "Francese",
+                    "Frankish",
+                    "Francian",
+                    "French"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Someone from Germany is ___.",
+                  "options": [
+                    "Germish",
+                    "Germanian",
+                    "German",
+                    "Germanese"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Someone from India is ___.",
+                  "options": [
+                    "Indish",
+                    "Indian",
+                    "Indese",
+                    "Indic"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Someone from Italy is ___.",
+                  "options": [
+                    "Italan",
+                    "Italese",
+                    "Italish",
+                    "Italian"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Someone from Japan is ___.",
+                  "options": [
+                    "Japanese",
+                    "Japanish",
+                    "Japan",
+                    "Japanian"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Someone from Mexico is ___.",
+                  "options": [
+                    "Mexicoan",
+                    "Mexicish",
+                    "Mexicese",
+                    "Mexican"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Someone from Peru is ___.",
+                  "options": [
+                    "Peruese",
+                    "Peruvian",
+                    "Peruan",
+                    "Perish"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Someone from Russia is ___.",
+                  "options": [
+                    "Russic",
+                    "Russese",
+                    "Russian",
+                    "Russish"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Someone from Spain is ___.",
+                  "options": [
+                    "Spainer",
+                    "Spanese",
+                    "Spanish",
+                    "Spainian"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Someone from Turkey is ___.",
+                  "options": [
+                    "Turkian",
+                    "Turkish",
+                    "Turkese",
+                    "Turkan"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Someone from the U.K. is ___.",
+                  "options": [
+                    "U.K.-ian",
+                    "British",
+                    "Britan",
+                    "Englandese"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Someone from the U.S. is ___.",
+                  "options": [
+                    "Americese",
+                    "Usian",
+                    "Statish",
+                    "American"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Lionel Messi is ___.",
+                  "options": [
+                    "Brazilian",
+                    "Spanish",
+                    "Chilean",
+                    "Argentinian"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Paris is in ___.",
+                  "options": [
+                    "France",
+                    "Germany",
+                    "Spain",
+                    "Italy"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "A kimono comes from ___.",
+                  "options": [
+                    "China",
+                    "India",
+                    "Japan",
+                    "Turkey"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Pasta is ___ food.",
+                  "options": [
+                    "Spanish",
+                    "Mexican",
+                    "Italian",
+                    "French"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "A panda is an animal from ___.",
+                  "options": [
+                    "China",
+                    "Japan",
+                    "India",
+                    "Russia"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Machu Picchu is in ___. / Rio de Janeiro is a ___ city.",
+                  "options": [
+                    "Chile / Argentinian",
+                    "Peru / Brazilian",
+                    "Colombia / Chilean",
+                    "Mexico / Peruvian"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "Lionel Messi is Argentinian.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Paris is in France.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A kimono comes from Japan.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Pasta is Italian food.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A panda is an animal from China.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Washington, D.C. is the capital of the U.S.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Machu Picchu is in Peru.",
+                  "correct": true
+                },
+                {
+                  "sentence": "These are Russian dolls.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The Taj Mahal is in India.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Rio de Janeiro is a Brazilian city.",
+                  "correct": true
+                },
+                {
+                  "sentence": "People from Spain are Spanish and people from Turkey are Turkish.",
+                  "correct": true
+                },
+                {
+                  "sentence": "People from China are Chinan.",
+                  "correct": false,
+                  "fix": "People from China are Chinese.",
+                  "explanation": "-ese."
+                },
+                {
+                  "sentence": "People from France are Francese.",
+                  "correct": false,
+                  "fix": "People from France are French.",
+                  "explanation": "French."
+                },
+                {
+                  "sentence": "Lionel Messi is Brazilian.",
+                  "correct": false,
+                  "fix": "Lionel Messi is Argentinian.",
+                  "explanation": "Argentina."
+                },
+                {
+                  "sentence": "The Taj Mahal is in Japan.",
+                  "correct": false,
+                  "fix": "The Taj Mahal is in India.",
+                  "explanation": "India."
+                },
+                {
+                  "sentence": "People from Peru are Peruan.",
+                  "correct": false,
+                  "fix": "People from Peru are Peruvian.",
+                  "explanation": "Peruvian."
+                },
+                {
+                  "sentence": "Machu Picchu is in Mexico.",
+                  "correct": false,
+                  "fix": "Machu Picchu is in Peru.",
+                  "explanation": "Peru."
+                },
+                {
+                  "sentence": "People from the U.K. are English only.",
+                  "correct": false,
+                  "fix": "People from the U.K. are British.",
+                  "explanation": "British."
+                },
+                {
+                  "sentence": "Pasta is Spanish food.",
+                  "correct": false,
+                  "fix": "Pasta is Italian food.",
+                  "explanation": "Italy."
+                },
+                {
+                  "sentence": "A panda is an animal from Canada.",
+                  "correct": false,
+                  "fix": "A panda is an animal from China.",
+                  "explanation": "China."
+                },
+                {
+                  "sentence": "People from Germany are Germanese.",
+                  "correct": false,
+                  "fix": "People from Germany are German.",
+                  "explanation": "German."
+                },
+                {
+                  "sentence": "Washington, D.C. is the capital of Canada.",
+                  "correct": false,
+                  "fix": "Washington, D.C. is the capital of the U.S.",
+                  "explanation": "the U.S."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "Argentina – Argentinian",
+                  "image": "/img/unit1/argentina.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Argentina – Argentinian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Argentina – Argentinian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Argentina – Argentinian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Argentina – Argentinian\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "Brazil – Brazilian",
+                  "image": "/img/unit1/brazil.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Brazil – Brazilian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brazil – Brazilian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Brazil – Brazilian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brazil – Brazilian\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "Canada – Canadian",
+                  "image": "/img/unit1/canada.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Canada – Canadian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Canada – Canadian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Canada – Canadian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Canada – Canadian\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "Chile – Chilean",
+                  "image": "/img/unit1/chile.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Chile – Chilean\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Chile – Chilean\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Chile – Chilean\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Chile – Chilean\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "China – Chinese",
+                  "image": "/img/unit1/china.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"China – Chinese\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"China – Chinese\" → -ese."
+                    },
+                    {
+                      "prompt": "Where is \"China – Chinese\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"China – Chinese\" is in Asia."
+                    }
+                  ]
+                },
+                {
+                  "word": "Colombia – Colombian",
+                  "image": "/img/unit1/colombia.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Colombia – Colombian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Colombia – Colombian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Colombia – Colombian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Colombia – Colombian\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "France – French",
+                  "image": "/img/unit1/france.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"France – French\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"France – French\" → -ch / other."
+                    },
+                    {
+                      "prompt": "Where is \"France – French\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"France – French\" is in Europe."
+                    }
+                  ]
+                },
+                {
+                  "word": "Germany – German",
+                  "image": "/img/unit1/germany.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Germany – German\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Germany – German\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Germany – German\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Germany – German\" is in Europe."
+                    }
+                  ]
+                },
+                {
+                  "word": "India – Indian",
+                  "image": "/img/unit1/india.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"India – Indian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"India – Indian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"India – Indian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"India – Indian\" is in Asia."
+                    }
+                  ]
+                },
+                {
+                  "word": "Italy – Italian",
+                  "image": "/img/unit1/italy.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Italy – Italian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Italy – Italian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Italy – Italian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Italy – Italian\" is in Europe."
+                    }
+                  ]
+                },
+                {
+                  "word": "Japan – Japanese",
+                  "image": "/img/unit1/japan.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Japan – Japanese\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Japan – Japanese\" → -ese."
+                    },
+                    {
+                      "prompt": "Where is \"Japan – Japanese\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Japan – Japanese\" is in Asia."
+                    }
+                  ]
+                },
+                {
+                  "word": "Mexico – Mexican",
+                  "image": "/img/unit1/mexico.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Mexico – Mexican\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mexico – Mexican\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Mexico – Mexican\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mexico – Mexican\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "Peru – Peruvian",
+                  "image": "/img/unit1/peru.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Peru – Peruvian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Peru – Peruvian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Peru – Peruvian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Peru – Peruvian\" is in The Americas."
+                    }
+                  ]
+                },
+                {
+                  "word": "Russia – Russian",
+                  "image": "/img/unit1/russia.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Russia – Russian\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Russia – Russian\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"Russia – Russian\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Russia – Russian\" is in Europe and Asia."
+                    }
+                  ]
+                },
+                {
+                  "word": "Spain – Spanish",
+                  "image": "/img/unit1/spain.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Spain – Spanish\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Spain – Spanish\" → -ish."
+                    },
+                    {
+                      "prompt": "Where is \"Spain – Spanish\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Spain – Spanish\" is in Europe."
+                    }
+                  ]
+                },
+                {
+                  "word": "Turkey – Turkish",
+                  "image": "/img/unit1/turkey.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"Turkey – Turkish\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Turkey – Turkish\" → -ish."
+                    },
+                    {
+                      "prompt": "Where is \"Turkey – Turkish\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Turkey – Turkish\" is in Europe and Asia."
+                    }
+                  ]
+                },
+                {
+                  "word": "the U.K. – British",
+                  "image": "/img/unit1/uk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"the U.K. – British\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"The U.K. – British\" → -ish."
+                    },
+                    {
+                      "prompt": "Where is \"the U.K. – British\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"The U.K. – British\" is in Europe."
+                    }
+                  ]
+                },
+                {
+                  "word": "the U.S. – American",
+                  "image": "/img/unit1/us.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is the nationality for \"the U.S. – American\"?",
+                      "options": [
+                        "-an / -ian",
+                        "-ese",
+                        "-ish",
+                        "-ch / other"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The U.S. – American\" → -an / -ian."
+                    },
+                    {
+                      "prompt": "Where is \"the U.S. – American\"?",
+                      "options": [
+                        "The Americas",
+                        "Europe",
+                        "Asia",
+                        "Europe and Asia"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The U.S. – American\" is in The Americas."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "Lionel Messi is Argentinian.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "A kimono comes from Japan.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Pasta is Italian food.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The Taj Mahal is in India.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, I’m Sofia. I’m from Bogotá, so I’m Colombian. My best friend is from Lima. She’s Peruvian.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is Sofia’s best friend from?",
+                  "options": [
+                    "Peru",
+                    "Mexico",
+                    "Colombia",
+                    "Chile"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "This is Kenji. He’s Japanese, but he lives in Paris now, in France.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What nationality is Kenji?",
+                  "options": [
+                    "French",
+                    "Chinese",
+                    "Italian",
+                    "Japanese"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Washington, D.C. is the capital of the U.S., and Ottawa is the capital of Canada.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the capital of Canada?",
+                  "options": [
+                    "New York",
+                    "Washington, D.C.",
+                    "Ottawa",
+                    "Toronto"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Rio de Janeiro is a Brazilian city. Buenos Aires is an Argentinian city.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which city is Argentinian?",
+                  "options": [
+                    "Buenos Aires",
+                    "Rio de Janeiro",
+                    "Lima",
+                    "Santiago"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "A panda is an animal from China. A kangaroo is from Australia.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is a panda from?",
+                  "options": [
+                    "India",
+                    "Australia",
+                    "China",
+                    "Japan"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Hello! I’m Ayla and I’m Turkish. I’m from Istanbul. My teacher is British, from London.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is the teacher from?",
+                  "options": [
+                    "Berlin",
+                    "Istanbul",
+                    "Madrid",
+                    "London"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Machu Picchu is in Peru. It’s very old and very beautiful.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is Machu Picchu?",
+                  "options": [
+                    "Peru",
+                    "Spain",
+                    "Mexico",
+                    "Brazil"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "My car is German and my phone is Chinese. My shoes are Italian!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is the phone from?",
+                  "options": [
+                    "China",
+                    "Germany",
+                    "Japan",
+                    "Italy"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Nice to Meet You",
+                  "situation": "Introduce yourself: name, country, nationality and city.",
+                  "mandatory": [
+                    "I'm",
+                    "from",
+                    "Colombian"
+                  ],
+                  "taboo": [
+                    "Spanish (language)"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Famous People",
+                  "situation": "Name three famous people and say their nationalities.",
+                  "mandatory": [
+                    "is from",
+                    "nationality",
+                    "famous"
+                  ],
+                  "taboo": [
+                    "Messi"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "World Food",
+                  "situation": "Talk about three foods and the countries they come from.",
+                  "mandatory": [
+                    "comes from",
+                    "Italian",
+                    "Mexican"
+                  ],
+                  "taboo": [
+                    "pizza"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess the Country",
+                  "situation": "Describe a country (food, city, famous person) without saying its name. Your partner guesses.",
+                  "mandatory": [
+                    "capital",
+                    "famous",
+                    "food"
+                  ],
+                  "taboo": [
+                    "the name of the country"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dream Trip",
+                  "situation": "Say three countries you want to visit and why.",
+                  "mandatory": [
+                    "want to visit",
+                    "because",
+                    "beautiful"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Flags",
+                  "situation": "Describe the flags of three countries using colors.",
+                  "mandatory": [
+                    "flag",
+                    "red",
+                    "white"
+                  ],
+                  "taboo": [
+                    "green"
+                  ],
+                  "seconds": 45
+                }
+              ]
+            },
+            {
+              "id": "L1U1T4",
+              "name": "1B - Vocabulary: Jobs",
+              "steal": [
+                {
+                  "prompt": "This person cooks in a restaurant.",
+                  "options": [
+                    "a salesclerk",
+                    "a receptionist",
+                    "a waiter",
+                    "a chef"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "This person serves food at your table.",
+                  "options": [
+                    "an actor",
+                    "a chef",
+                    "a waiter",
+                    "a doctor"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "This person helps sick people in a hospital.",
+                  "options": [
+                    "a teacher",
+                    "an engineer",
+                    "a doctor",
+                    "a police officer"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "This person works in a school and explains lessons.",
+                  "options": [
+                    "a tour guide",
+                    "a TV host",
+                    "a teacher",
+                    "a student"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "This person studies at a school or university.",
+                  "options": [
+                    "a singer",
+                    "a student",
+                    "an office worker",
+                    "a teacher"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "This person drives a yellow car and takes you places.",
+                  "options": [
+                    "an engineer",
+                    "a police officer",
+                    "a taxi driver",
+                    "a tour guide"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "This person shows tourists a city.",
+                  "options": [
+                    "a taxi driver",
+                    "a tour guide",
+                    "a receptionist",
+                    "a chef"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "This person presents a program on television.",
+                  "options": [
+                    "a TV host",
+                    "an actor",
+                    "a singer",
+                    "a teacher"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This person acts in movies.",
+                  "options": [
+                    "a chef",
+                    "a TV host",
+                    "a singer",
+                    "an actor"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "This person sings songs on stage.",
+                  "options": [
+                    "a singer",
+                    "a waiter",
+                    "a student",
+                    "an actor"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This person answers the phone at the front desk of a hotel.",
+                  "options": [
+                    "a receptionist",
+                    "a waiter",
+                    "an IT worker",
+                    "a salesclerk"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This person sells things in a store.",
+                  "options": [
+                    "a tour guide",
+                    "a salesclerk",
+                    "a receptionist",
+                    "a chef"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "This person works with computers and networks.",
+                  "options": [
+                    "an IT worker",
+                    "a doctor",
+                    "an engineer",
+                    "an office worker"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This person designs bridges, machines or buildings.",
+                  "options": [
+                    "a chef",
+                    "a doctor",
+                    "an IT worker",
+                    "an engineer"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "This person keeps the city safe and wears a uniform.",
+                  "options": [
+                    "an actor",
+                    "a police officer",
+                    "a taxi driver",
+                    "a waiter"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "This person works at a desk in a company.",
+                  "options": [
+                    "a chef",
+                    "an office worker",
+                    "a tour guide",
+                    "a singer"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "We use ___ with jobs that begin with a vowel (a, e, i, o, u).",
+                  "options": [
+                    "the",
+                    "an",
+                    "a",
+                    "no article"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "I'm ___ teacher. Are you ___ office worker?",
+                  "options": [
+                    "an / an",
+                    "a / a",
+                    "a / an",
+                    "an / a"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Who uses a microphone?",
+                  "options": [
+                    "a singer",
+                    "a doctor",
+                    "a chef",
+                    "an engineer"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Who uses a stethoscope?",
+                  "options": [
+                    "a teacher",
+                    "an actor",
+                    "a doctor",
+                    "a waiter"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Who uses a knife and a cutting board?",
+                  "options": [
+                    "a receptionist",
+                    "a chef",
+                    "a student",
+                    "a tour guide"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Who uses a cash register?",
+                  "options": [
+                    "an IT worker",
+                    "a salesclerk",
+                    "a singer",
+                    "a doctor"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Who wins an Oscar?",
+                  "options": [
+                    "a police officer",
+                    "a taxi driver",
+                    "an actor",
+                    "a waiter"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Who uses a telephone at the front desk?",
+                  "options": [
+                    "a receptionist",
+                    "a singer",
+                    "an engineer",
+                    "a chef"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "A chef cooks food in a restaurant.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A waiter serves food at your table.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A doctor works in a hospital.",
+                  "correct": true
+                },
+                {
+                  "sentence": "An engineer designs bridges and machines.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A receptionist answers the phone at the front desk.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A salesclerk sells things in a store.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A taxi driver drives people around the city.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We say \"an actor\" and \"an engineer\" because they start with a vowel.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I'm a teacher. Are you an office worker?",
+                  "correct": true
+                },
+                {
+                  "sentence": "A singer uses a microphone.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A tour guide shows tourists a city.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I'm a actor.",
+                  "correct": false,
+                  "fix": "I'm an actor.",
+                  "explanation": "an + vowel."
+                },
+                {
+                  "sentence": "She's an teacher.",
+                  "correct": false,
+                  "fix": "She's a teacher.",
+                  "explanation": "a + consonant."
+                },
+                {
+                  "sentence": "A chef drives a taxi.",
+                  "correct": false,
+                  "fix": "A taxi driver drives a taxi.",
+                  "explanation": "Taxi driver."
+                },
+                {
+                  "sentence": "A doctor uses a cash register.",
+                  "correct": false,
+                  "fix": "A salesclerk uses a cash register.",
+                  "explanation": "Salesclerk."
+                },
+                {
+                  "sentence": "He's a IT worker.",
+                  "correct": false,
+                  "fix": "He's an IT worker.",
+                  "explanation": "an IT (vowel sound)."
+                },
+                {
+                  "sentence": "A waiter works in a hospital.",
+                  "correct": false,
+                  "fix": "A waiter works in a restaurant.",
+                  "explanation": "Restaurant."
+                },
+                {
+                  "sentence": "A receptionist cooks food.",
+                  "correct": false,
+                  "fix": "A chef cooks food.",
+                  "explanation": "Chef."
+                },
+                {
+                  "sentence": "A singer uses a stethoscope.",
+                  "correct": false,
+                  "fix": "A doctor uses a stethoscope.",
+                  "explanation": "Doctor."
+                },
+                {
+                  "sentence": "She's a engineer.",
+                  "correct": false,
+                  "fix": "She's an engineer.",
+                  "explanation": "an + vowel."
+                },
+                {
+                  "sentence": "A police officer presents TV programs.",
+                  "correct": false,
+                  "fix": "A TV host presents TV programs.",
+                  "explanation": "TV host."
+                },
+                {
+                  "sentence": "A student teaches the class.",
+                  "correct": false,
+                  "fix": "A teacher teaches the class.",
+                  "explanation": "Teacher."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "actor",
+                  "image": "/img/unit1/actor.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"actor\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Actor\" → an."
+                    },
+                    {
+                      "prompt": "Where does \"actor\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Actor\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "chef",
+                  "image": "/img/unit1/chef.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"chef\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Chef\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"chef\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Chef\" works In a restaurant, store or hotel."
+                    }
+                  ]
+                },
+                {
+                  "word": "doctor",
+                  "image": "/img/unit1/doctor.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"doctor\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Doctor\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"doctor\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Doctor\" works In a hospital or school."
+                    }
+                  ]
+                },
+                {
+                  "word": "engineer",
+                  "image": "/img/unit1/engineer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"engineer\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Engineer\" → an."
+                    },
+                    {
+                      "prompt": "Where does \"engineer\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Engineer\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "IT worker",
+                  "image": "/img/unit1/it-worker.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"IT worker\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"IT worker\" → an."
+                    },
+                    {
+                      "prompt": "Where does \"IT worker\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"IT worker\" works In an office."
+                    }
+                  ]
+                },
+                {
+                  "word": "office worker",
+                  "image": "/img/unit1/office-worker.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"office worker\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Office worker\" → an."
+                    },
+                    {
+                      "prompt": "Where does \"office worker\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Office worker\" works In an office."
+                    }
+                  ]
+                },
+                {
+                  "word": "police officer",
+                  "image": "/img/unit1/police-officer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"police officer\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Police officer\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"police officer\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Police officer\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "receptionist",
+                  "image": "/img/unit1/receptionist.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"receptionist\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Receptionist\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"receptionist\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Receptionist\" works In a restaurant, store or hotel."
+                    }
+                  ]
+                },
+                {
+                  "word": "salesclerk",
+                  "image": "/img/unit1/salesclerk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"salesclerk\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Salesclerk\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"salesclerk\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Salesclerk\" works In a restaurant, store or hotel."
+                    }
+                  ]
+                },
+                {
+                  "word": "singer",
+                  "image": "/img/unit1/singer.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"singer\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Singer\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"singer\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Singer\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "student",
+                  "image": "/img/unit1/student.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"student\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Student\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"student\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Student\" works In a hospital or school."
+                    }
+                  ]
+                },
+                {
+                  "word": "taxi driver",
+                  "image": "/img/unit1/taxi-driver.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"taxi driver\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Taxi driver\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"taxi driver\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Taxi driver\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "teacher",
+                  "image": "/img/unit1/teacher.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"teacher\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Teacher\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"teacher\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Teacher\" works In a hospital or school."
+                    }
+                  ]
+                },
+                {
+                  "word": "tour guide",
+                  "image": "/img/unit1/tour-guide.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"tour guide\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tour guide\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"tour guide\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Tour guide\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "TV host",
+                  "image": "/img/unit1/tv-host.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"TV host\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"TV host\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"TV host\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"TV host\" works Outside or on stage."
+                    }
+                  ]
+                },
+                {
+                  "word": "waiter",
+                  "image": "/img/unit1/waiter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which article goes before \"waiter\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "the",
+                        "no article"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Waiter\" → a."
+                    },
+                    {
+                      "prompt": "Where does \"waiter\" usually work?",
+                      "options": [
+                        "In an office",
+                        "In a hospital or school",
+                        "In a restaurant, store or hotel",
+                        "Outside or on stage"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Waiter\" works In a restaurant, store or hotel."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m a teacher. Are you an office worker?",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "She’s a doctor and he’s an engineer.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "A salesclerk uses a cash register.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He’s a taxi driver in New York.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, I’m Marco. I’m a chef at an Italian restaurant. My sister is a waiter at the same restaurant.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is Marco’s job?",
+                  "options": [
+                    "A receptionist",
+                    "A waiter",
+                    "A singer",
+                    "A chef"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "This is Laura. She’s a receptionist at the Grand Hotel. She answers the phone all day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where does Laura work?",
+                  "options": [
+                    "In a taxi",
+                    "At a hotel",
+                    "At a school",
+                    "At a hospital"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My father is a police officer and my mother is an IT worker. I’m a student.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the speaker’s mother?",
+                  "options": [
+                    "A doctor",
+                    "A police officer",
+                    "An IT worker",
+                    "A student"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Good morning! I’m your tour guide today. We visit the museum and the old town.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who is speaking?",
+                  "options": [
+                    "A TV host",
+                    "A tour guide",
+                    "A teacher",
+                    "A taxi driver"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Tom is an actor. He’s in a new movie. His wife is a singer.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is Tom’s wife?",
+                  "options": [
+                    "A TV host",
+                    "An actor",
+                    "A chef",
+                    "A singer"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Dr. Patel is a doctor at the city hospital. Her brother is an engineer.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is Dr. Patel’s brother?",
+                  "options": [
+                    "An office worker",
+                    "An engineer",
+                    "A doctor",
+                    "A student"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Welcome to the show! I’m your TV host, Dana. Tonight our guest is a famous chef.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is Dana?",
+                  "options": [
+                    "A waiter",
+                    "A chef",
+                    "An actor",
+                    "A TV host"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "I work in a big office downtown. I’m an office worker, and I use a computer all day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where does the speaker work?",
+                  "options": [
+                    "In an office",
+                    "In a hospital",
+                    "On stage",
+                    "In a store"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "What Do You Do?",
+                  "situation": "Tell your partner your job (real or imaginary) and where you work.",
+                  "mandatory": [
+                    "I'm a",
+                    "work",
+                    "office"
+                  ],
+                  "taboo": [
+                    "student"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Family’s Jobs",
+                  "situation": "Say the jobs of three people in your family.",
+                  "mandatory": [
+                    "My mother",
+                    "My father",
+                    "is a"
+                  ],
+                  "taboo": [
+                    "teacher"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Guess My Job",
+                  "situation": "Describe a job without saying it. Your partner guesses.",
+                  "mandatory": [
+                    "work in",
+                    "use",
+                    "people"
+                  ],
+                  "taboo": [
+                    "the job name"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Dream Job",
+                  "situation": "Say the job you want and why.",
+                  "mandatory": [
+                    "want to be",
+                    "because",
+                    "an"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Who Uses It?",
+                  "situation": "Say which jobs use a microphone, a stethoscope, a knife and a telephone.",
+                  "mandatory": [
+                    "uses",
+                    "singer",
+                    "doctor"
+                  ],
+                  "taboo": [
+                    "chef"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "New Classmate",
+                  "situation": "Meet a new classmate: ask name, country and job.",
+                  "mandatory": [
+                    "What's your",
+                    "Where are you from",
+                    "Are you a"
+                  ],
+                  "taboo": [
+                    "How old"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U1T5",
+              "name": "1A - Grammar: The Verb be (I, you, he, she, it)",
+              "steal": [
+                {
+                  "prompt": "I ___ a student.",
+                  "options": [
+                    "am",
+                    "be",
+                    "is",
+                    "are"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "You ___ a teacher.",
+                  "options": [
+                    "am",
+                    "is",
+                    "be",
+                    "are"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "He ___ from Peru.",
+                  "options": [
+                    "are",
+                    "be",
+                    "am",
+                    "is"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "She ___ Colombian.",
+                  "options": [
+                    "are",
+                    "is",
+                    "be",
+                    "am"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "The book ___ Chinese.",
+                  "options": [
+                    "is",
+                    "am",
+                    "are",
+                    "be"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I'm a student\" = ___.",
+                  "options": [
+                    "I is a student",
+                    "I am a student",
+                    "I be a student",
+                    "I are a student"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"You're not a student\" = ___.",
+                  "options": [
+                    "You isn't a student",
+                    "You aren't a student",
+                    "You not a student",
+                    "You am not a student"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Negative of \"I am in Class 3\":",
+                  "options": [
+                    "I'm not in Class 3.",
+                    "I amn't in Class 3.",
+                    "I not in Class 3.",
+                    "I isn't in Class 3."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "___ I in Class 2?",
+                  "options": [
+                    "Be",
+                    "Am",
+                    "Is",
+                    "Are"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "___ you in my class?",
+                  "options": [
+                    "Am",
+                    "Be",
+                    "Is",
+                    "Are"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "___ Ravi from India?",
+                  "options": [
+                    "Am",
+                    "Is",
+                    "Be",
+                    "Are"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "___ the car German?",
+                  "options": [
+                    "Is",
+                    "Be",
+                    "Are",
+                    "Am"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Are you a student? Yes, I ___.",
+                  "options": [
+                    "'m",
+                    "am",
+                    "are",
+                    "is"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Is Ayla Turkish? No, she ___.",
+                  "options": [
+                    "isn't",
+                    "am not",
+                    "aren't",
+                    "not"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Is it Italian? Yes, it ___.",
+                  "options": [
+                    "'s",
+                    "is",
+                    "are",
+                    "am"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Akemi's not Chinese. = Akemi ___ Chinese.",
+                  "options": [
+                    "not",
+                    "is not",
+                    "am not",
+                    "are not"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "He's not from Chile. = He ___ from Chile.",
+                  "options": [
+                    "am not",
+                    "isn't",
+                    "not is",
+                    "aren't"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "My car's not from Germany. It's from ___.",
+                  "options": [
+                    "German",
+                    "Germany",
+                    "Japanese",
+                    "Japan"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "I ___ Harry. You ___ Lola.",
+                  "options": [
+                    "'re / 'm",
+                    "'s / 're",
+                    "'m / 're",
+                    "'m / 's"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "This is my friend Daniel. He ___ from Spain.",
+                  "options": [
+                    "'re",
+                    "'m",
+                    "am",
+                    "'s"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Anna's not in class today. ___ at home.",
+                  "options": [
+                    "She's",
+                    "He's",
+                    "It's",
+                    "I'm"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This is my car. ___ a Toyota.",
+                  "options": [
+                    "It's",
+                    "He's",
+                    "I'm",
+                    "She's"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "A: What's the capital of Australia? Is ___ Sydney? B: No, it ___. It's Canberra.",
+                  "options": [
+                    "it / isn't",
+                    "he / isn't",
+                    "it / aren't",
+                    "she / isn't"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "A: Where ___ Ryan Gosling from? B: He ___ from Canada.",
+                  "options": [
+                    "'s / 're",
+                    "am / is",
+                    "'s / 's",
+                    "'re / 's"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I'm Carlos and I'm a teacher.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You're a student. = You are a student.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I'm not in Class 3. = I am not in Class 3.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Am I in Class 2? Yes, you are.",
+                  "correct": true
+                },
+                {
+                  "sentence": "The teacher is Mexican. He's from Puebla.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My car's not from Germany. It's from Japan.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Akemi's not Chinese. She's Japanese.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is Ravi from India? Yes, he is.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is the car German? No, it isn't.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sophie is a student. She's the teacher. — Sophie's a student.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Where's Ryan Gosling from? He's from Canada.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I is a student.",
+                  "correct": false,
+                  "fix": "I am a student.",
+                  "explanation": "I am."
+                },
+                {
+                  "sentence": "You is a teacher.",
+                  "correct": false,
+                  "fix": "You are a teacher.",
+                  "explanation": "You are."
+                },
+                {
+                  "sentence": "He are from Peru.",
+                  "correct": false,
+                  "fix": "He is from Peru.",
+                  "explanation": "He is."
+                },
+                {
+                  "sentence": "I amn't in Class 3.",
+                  "correct": false,
+                  "fix": "I'm not in Class 3.",
+                  "explanation": "I'm not."
+                },
+                {
+                  "sentence": "Is you in my class?",
+                  "correct": false,
+                  "fix": "Are you in my class?",
+                  "explanation": "Are you."
+                },
+                {
+                  "sentence": "Are Ravi from India?",
+                  "correct": false,
+                  "fix": "Is Ravi from India?",
+                  "explanation": "Is he."
+                },
+                {
+                  "sentence": "Yes, I'm.",
+                  "correct": false,
+                  "fix": "Yes, I am.",
+                  "explanation": "No contraction in short answers."
+                },
+                {
+                  "sentence": "No, she not.",
+                  "correct": false,
+                  "fix": "No, she isn't.",
+                  "explanation": "isn't."
+                },
+                {
+                  "sentence": "The book am Chinese.",
+                  "correct": false,
+                  "fix": "The book is Chinese.",
+                  "explanation": "It is."
+                },
+                {
+                  "sentence": "Am you Lola?",
+                  "correct": false,
+                  "fix": "Are you Lola?",
+                  "explanation": "Are you."
+                },
+                {
+                  "sentence": "Anna's not in class today. He's at home.",
+                  "correct": false,
+                  "fix": "Anna's not in class today. She's at home.",
+                  "explanation": "Anna → she."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "I ___ a student.",
+                  "image": "/img/unit1/be-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"I ___ a student.\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I ___ a student.\" → am."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"I ___ a student.\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I ___ a student.\" → Affirmative (+)."
+                    }
+                  ]
+                },
+                {
+                  "word": "You ___ a teacher.",
+                  "image": "/img/unit1/be-you.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"You ___ a teacher.\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"You ___ a teacher.\" → are."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"You ___ a teacher.\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"You ___ a teacher.\" → Affirmative (+)."
+                    }
+                  ]
+                },
+                {
+                  "word": "He ___ from Peru.",
+                  "image": "/img/unit1/be-he.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"He ___ from Peru.\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"He ___ from Peru.\" → is."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"He ___ from Peru.\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"He ___ from Peru.\" → Affirmative (+)."
+                    }
+                  ]
+                },
+                {
+                  "word": "She ___ Colombian.",
+                  "image": "/img/unit1/be-she.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"She ___ Colombian.\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"She ___ Colombian.\" → is."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"She ___ Colombian.\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"She ___ Colombian.\" → Affirmative (+)."
+                    }
+                  ]
+                },
+                {
+                  "word": "The car ___ German.",
+                  "image": "/img/unit1/be-it.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"The car ___ German.\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"The car ___ German.\" → is."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"The car ___ German.\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"The car ___ German.\" → Affirmative (+)."
+                    }
+                  ]
+                },
+                {
+                  "word": "I ___ in Class 2. (−)",
+                  "image": "/img/unit1/be-not.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"I ___ in Class 2. (−)\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"I ___ in Class 2. (−)\" → am not / aren't / isn't."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"I ___ in Class 2. (−)\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I ___ in Class 2. (−)\" → Negative (−)."
+                    }
+                  ]
+                },
+                {
+                  "word": "___ you in my class?",
+                  "image": "/img/unit1/be-question.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"___ you in my class?\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"___ you in my class?\" → are."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"___ you in my class?\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"___ you in my class?\" → Question (?)."
+                    }
+                  ]
+                },
+                {
+                  "word": "Yes, I ___.",
+                  "image": "/img/unit1/be-yes.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which form of \"be\" goes with \"Yes, I ___.\"?",
+                      "options": [
+                        "am",
+                        "are",
+                        "is",
+                        "am not / aren't / isn't"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Yes, I ___.\" → am."
+                    },
+                    {
+                      "prompt": "What kind of sentence is \"Yes, I ___.\"?",
+                      "options": [
+                        "Affirmative (+)",
+                        "Negative (−)",
+                        "Question (?)",
+                        "Short answer"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Yes, I ___.\" → Short answer."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m Carlos and I’m a teacher.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "You’re a student. You’re not a teacher.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "The teacher is Mexican. He’s from Puebla.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My car’s not from Germany. It’s from Japan.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Hi, I’m Harry. I’m not a student. I’m the teacher. Are you Lola?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is Harry?",
+                  "options": [
+                    "Lola",
+                    "The teacher",
+                    "A student",
+                    "A doctor"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "This is my friend Daniel. He’s from Spain. He’s not in my class. He’s in Room 3.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is Daniel?",
+                  "options": [
+                    "In Spain",
+                    "In my class",
+                    "In Room 3",
+                    "At home"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Anna’s not in class today. She’s at home. She’s sick.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is Anna?",
+                  "options": [
+                    "In Room 3",
+                    "At work",
+                    "At home",
+                    "In class"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Is Akemi Chinese? No, she isn’t. She’s Japanese, from Tokyo.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What nationality is Akemi?",
+                  "options": [
+                    "Chinese",
+                    "Japanese",
+                    "Korean",
+                    "Turkish"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "What’s the capital of Australia? Is it Sydney? No, it isn’t. It’s Canberra.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is the capital of Australia?",
+                  "options": [
+                    "Canberra",
+                    "Melbourne",
+                    "Sydney",
+                    "Perth"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Where’s Ryan Gosling from? He’s from Canada. He’s an actor.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is Ryan Gosling from?",
+                  "options": [
+                    "The U.K.",
+                    "The U.S.",
+                    "Australia",
+                    "Canada"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Is Maria from Colombia? No, she isn’t. She’s from Mexico. Her car is a Toyota.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Where is Maria from?",
+                  "options": [
+                    "Mexico",
+                    "Colombia",
+                    "Japan",
+                    "Spain"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Is sushi from Japan? Yes, it is. Is pasta from Japan? No, it isn’t. It’s from Italy.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where is pasta from?",
+                  "options": [
+                    "China",
+                    "Spain",
+                    "Italy",
+                    "Japan"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Hello!",
+                  "situation": "Introduce yourself with I’m… and ask your partner Are you…?",
+                  "mandatory": [
+                    "I'm",
+                    "Are you",
+                    "I'm not"
+                  ],
+                  "taboo": [
+                    "My name is"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Friend",
+                  "situation": "Describe a friend: name, country, job (He’s / She’s…).",
+                  "mandatory": [
+                    "He's",
+                    "She's",
+                    "from"
+                  ],
+                  "taboo": [
+                    "is"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "True or False?",
+                  "situation": "Say three sentences with is / isn’t. Your partner says true or false.",
+                  "mandatory": [
+                    "is",
+                    "isn't",
+                    "from"
+                  ],
+                  "taboo": [
+                    "are"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Yes / No Questions",
+                  "situation": "Ask your partner five questions with Are you…? / Is he…?",
+                  "mandatory": [
+                    "Are you",
+                    "Is",
+                    "Yes, I am"
+                  ],
+                  "taboo": [
+                    "What"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "My Things",
+                  "situation": "Describe three things you have (It’s a Toyota. It’s not new…).",
+                  "mandatory": [
+                    "It's",
+                    "It's not",
+                    "from"
+                  ],
+                  "taboo": [
+                    "they"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Who Is It?",
+                  "situation": "Describe a famous person with He’s / She’s. Your partner guesses.",
+                  "mandatory": [
+                    "He's",
+                    "She's",
+                    "isn't"
+                  ],
+                  "taboo": [
+                    "the name"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
