@@ -84796,6 +84796,908 @@
             },
             {
               "id": "L5U12T3",
+              "name": "12A - Grammar: So / Neither do I (agreeing & disagreeing)",
+              "steal": [
+                {
+                  "prompt": "To agree with an affirmative statement we use ___ + auxiliary + I.",
+                  "options": [
+                    "Really",
+                    "So",
+                    "Neither",
+                    "Too"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "To agree with a negative statement we use ___ + auxiliary + I.",
+                  "options": [
+                    "So",
+                    "Also",
+                    "Really",
+                    "Neither"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I'm at the airport.\" – \"___\"",
+                  "options": [
+                    "Neither am I.",
+                    "So I am.",
+                    "So do I.",
+                    "So am I."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I can speak Spanish.\" – \"___\"",
+                  "options": [
+                    "So can I.",
+                    "So do I.",
+                    "So I can.",
+                    "Neither can I."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I've never been abroad.\" – \"___\"",
+                  "options": [
+                    "So have I.",
+                    "Neither am I.",
+                    "Neither do I.",
+                    "Neither have I."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I won't be late.\" – \"___\"",
+                  "options": [
+                    "Neither will I.",
+                    "So will I.",
+                    "Neither do I.",
+                    "So won't I."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I love playing golf.\" – \"___\"",
+                  "options": [
+                    "So am I.",
+                    "Neither do I.",
+                    "So I do.",
+                    "So do I."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I'd love to visit New Zealand one day.\" – \"___\"",
+                  "options": [
+                    "So would I.",
+                    "So do I.",
+                    "So am I.",
+                    "So I would."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I'm not very good at chess.\" – \"___\"",
+                  "options": [
+                    "Neither I am.",
+                    "Neither do I.",
+                    "Neither am I.",
+                    "So am I."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"I couldn't do my homework.\" – \"___\"",
+                  "options": [
+                    "Neither could I.",
+                    "So could I.",
+                    "Neither can I.",
+                    "Neither did I."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I'm going on vacation next month.\" – \"___\"",
+                  "options": [
+                    "I do.",
+                    "Neither am I.",
+                    "I don't.",
+                    "I'm not."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Neither do I = ___",
+                  "options": [
+                    "I don't know.",
+                    "I like it too.",
+                    "Neither of us.",
+                    "I don't like it either."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I don't like traveling by train.\" – (disagree) \"___\"",
+                  "options": [
+                    "So do I.",
+                    "Neither do I.",
+                    "Really? I do.",
+                    "Really? I don't."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"I've never tried mint ice cream.\" – (disagree) \"___\"",
+                  "options": [
+                    "So have I.",
+                    "Neither have I.",
+                    "Really? I have. It's delicious!",
+                    "Really? I do."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"I really enjoyed that movie.\" – (disagree) \"___\"",
+                  "options": [
+                    "I don't.",
+                    "So did I.",
+                    "I didn't.",
+                    "Neither did I."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"I love going running after work.\" – (disagree) \"___\"",
+                  "options": [
+                    "Neither do I.",
+                    "So do I.",
+                    "I'm not.",
+                    "I don't. I hate running."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"I didn't enjoy that movie.\" – (disagree) \"___\"",
+                  "options": [
+                    "Really? I did.",
+                    "Neither did I.",
+                    "Really? I do.",
+                    "So did I."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I can't help Leo with his homework.\" – (disagree) \"___\"",
+                  "options": [
+                    "So can I.",
+                    "I can. Don't worry.",
+                    "Neither can I.",
+                    "I do."
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I love sightseeing.\" – \"___ do I. It's better than lying on the beach.\"",
+                  "options": [
+                    "So",
+                    "Really",
+                    "Neither",
+                    "Also"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I've never been to Japan.\" – \"Neither ___ I. But I'd like to go one day.\"",
+                  "options": [
+                    "have",
+                    "am",
+                    "do",
+                    "did"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I can't swim very well.\" – \"Oh, I ___. I'm a very good swimmer.\"",
+                  "options": [
+                    "have",
+                    "can",
+                    "am",
+                    "do"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"I'm staying at home tonight.\" – \"Really? I ___. I'm going out.\"",
+                  "options": [
+                    "'m not",
+                    "can't",
+                    "didn't",
+                    "don't"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "\"I didn't like that movie.\" – \"___ did I. I thought it was really boring.\"",
+                  "options": [
+                    "So",
+                    "Really",
+                    "Neither",
+                    "Either"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "\"I'd like to watch that new reality show.\" – \"So ___ I. I think it's really funny.\"",
+                  "options": [
+                    "did",
+                    "do",
+                    "am",
+                    "would"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "\"I love playing golf.\" – \"So do I.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I'd love to visit New Zealand.\" – \"So would I.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I'm not very good at chess.\" – \"Neither am I.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I couldn't go to class last week.\" – \"Neither could I.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I haven't done my homework.\" – \"Really? I have.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I'm going on vacation next month.\" – \"I'm not.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I've never been abroad.\" – \"Neither have I.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I won't be late.\" – \"Neither will I.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I don't like traveling by train.\" – \"Really? I do.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I really enjoyed that movie.\" – \"I didn't.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I can't help Leo with his homework.\" – \"I can. Don't worry.\"",
+                  "correct": true
+                },
+                {
+                  "sentence": "\"I love playing golf.\" – \"So am I.\"",
+                  "correct": false,
+                  "fix": "\"So do I.\"",
+                  "explanation": "love → do."
+                },
+                {
+                  "sentence": "\"I'm at the airport.\" – \"So do I.\"",
+                  "correct": false,
+                  "fix": "\"So am I.\"",
+                  "explanation": "am → am."
+                },
+                {
+                  "sentence": "\"I don't like rap music.\" – \"So do I.\"",
+                  "correct": false,
+                  "fix": "\"Neither do I.\"",
+                  "explanation": "Negative → neither."
+                },
+                {
+                  "sentence": "\"I've never been abroad.\" – \"Neither did I.\"",
+                  "correct": false,
+                  "fix": "\"Neither have I.\"",
+                  "explanation": "have → have."
+                },
+                {
+                  "sentence": "\"I can speak Spanish.\" – \"So I can.\"",
+                  "correct": false,
+                  "fix": "\"So can I.\"",
+                  "explanation": "So + auxiliary + I."
+                },
+                {
+                  "sentence": "\"I won't be late.\" – \"Neither won't I.\"",
+                  "correct": false,
+                  "fix": "\"Neither will I.\"",
+                  "explanation": "Neither + positive auxiliary."
+                },
+                {
+                  "sentence": "\"I'm not good at chess.\" – \"Neither do I.\"",
+                  "correct": false,
+                  "fix": "\"Neither am I.\"",
+                  "explanation": "am → am."
+                },
+                {
+                  "sentence": "\"I didn't like the hotel.\" – \"Neither do I.\"",
+                  "correct": false,
+                  "fix": "\"Neither did I.\"",
+                  "explanation": "Past → did."
+                },
+                {
+                  "sentence": "\"I really enjoyed that movie.\" – (disagree) \"Neither did I.\"",
+                  "correct": false,
+                  "fix": "\"I didn't.\"",
+                  "explanation": "Disagree → I didn't."
+                },
+                {
+                  "sentence": "\"I'd like to watch that show.\" – \"So do I.\"",
+                  "correct": false,
+                  "fix": "\"So would I.\"",
+                  "explanation": "'d = would."
+                },
+                {
+                  "sentence": "\"I'm staying at home tonight.\" – (disagree) \"I don't.\"",
+                  "correct": false,
+                  "fix": "\"I'm not.\"",
+                  "explanation": "am → 'm not."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "\"I'm tired.\" – agree",
+                  "image": "/img/so-neither/so-am-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I'm tired.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I'm tired.\" – agree\" → So + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I'm tired.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I'm tired.\" – agree\" → am / is / are."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I love playing golf.\" – agree",
+                  "image": "/img/so-neither/so-do-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I love playing golf.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I love playing golf.\" – agree\" → So + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I love playing golf.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I love playing golf.\" – agree\" → do / does / did."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I can swim very well.\" – agree",
+                  "image": "/img/so-neither/so-can-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I can swim very well.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I can swim very well.\" – agree\" → So + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I can swim very well.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I can swim very well.\" – agree\" → can / could / would."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I went to Japan last year.\" – agree",
+                  "image": "/img/so-neither/so-did-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I went to Japan last year.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I went to Japan last year.\" – agree\" → So + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I went to Japan last year.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I went to Japan last year.\" – agree\" → do / does / did."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I'm not very good at chess.\" – agree",
+                  "image": "/img/so-neither/neither-am-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I'm not very good at chess.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I'm not very good at chess.\" – agree\" → Neither + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I'm not very good at chess.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I'm not very good at chess.\" – agree\" → am / is / are."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I don't like rap music.\" – agree",
+                  "image": "/img/so-neither/neither-do-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I don't like rap music.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I don't like rap music.\" – agree\" → Neither + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I don't like rap music.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I don't like rap music.\" – agree\" → do / does / did."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I couldn't go to class last week.\" – agree",
+                  "image": "/img/so-neither/neither-can-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I couldn't go to class last week.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I couldn't go to class last week.\" – agree\" → Neither + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I couldn't go to class last week.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I couldn't go to class last week.\" – agree\" → can / could / would."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I haven't done my homework.\" – agree",
+                  "image": "/img/so-neither/neither-have-i.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I haven't done my homework.\" – agree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I haven't done my homework.\" – agree\" → Neither + auxiliary + I."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I haven't done my homework.\" – agree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I haven't done my homework.\" – agree\" → have / has."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I don't like traveling by train.\" – disagree",
+                  "image": "/img/so-neither/really-i-do.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I don't like traveling by train.\" – disagree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I don't like traveling by train.\" – disagree\" → Really? I do / I am…."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I don't like traveling by train.\" – disagree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I don't like traveling by train.\" – disagree\" → do / does / did."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I really enjoyed that movie.\" – disagree",
+                  "image": "/img/so-neither/really-i-dont.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I really enjoyed that movie.\" – disagree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I really enjoyed that movie.\" – disagree\" → Really? I don't / I'm not…."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I really enjoyed that movie.\" – disagree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I really enjoyed that movie.\" – disagree\" → do / does / did."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I'm going on vacation next month.\" – disagree",
+                  "image": "/img/so-neither/i-am-not.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I'm going on vacation next month.\" – disagree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"\"I'm going on vacation next month.\" – disagree\" → Really? I don't / I'm not…."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I'm going on vacation next month.\" – disagree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"\"I'm going on vacation next month.\" – disagree\" → am / is / are."
+                    }
+                  ]
+                },
+                {
+                  "word": "\"I didn't like the hotel.\" – disagree",
+                  "image": "/img/so-neither/i-did.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which reply agrees with \"\"I didn't like the hotel.\" – disagree\"?",
+                      "options": [
+                        "So + auxiliary + I",
+                        "Neither + auxiliary + I",
+                        "Really? I do / I am…",
+                        "Really? I don't / I'm not…"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"\"I didn't like the hotel.\" – disagree\" → Really? I do / I am…."
+                    },
+                    {
+                      "prompt": "Which auxiliary do we use for \"\"I didn't like the hotel.\" – disagree\"?",
+                      "options": [
+                        "am / is / are",
+                        "do / does / did",
+                        "can / could / would",
+                        "have / has"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"\"I didn't like the hotel.\" – disagree\" → do / does / did."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I love playing golf. So do I.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’m not very good at chess. Neither am I.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I’ve never tried mint ice cream. Really? I have. It’s delicious!",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I can’t help Leo with his homework. I can. Don’t worry.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "A: I love sightseeing. B: So do I. It’s better than lying on the beach.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Does B agree with A?",
+                  "options": [
+                    "No",
+                    "Yes",
+                    "We don’t know",
+                    "Only about the beach"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "A: I’ve never been to Japan. B: Neither have I. But I’d like to go one day.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Has B been to Japan?",
+                  "options": [
+                    "No",
+                    "Yes, many times",
+                    "Yes, once",
+                    "B lives there"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "A: I can’t swim very well. B: Oh, I can. I’m a very good swimmer.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Does B agree or disagree?",
+                  "options": [
+                    "Agrees",
+                    "Doesn’t answer",
+                    "Disagrees",
+                    "Changes the subject"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "A: I’m staying at home tonight. B: Really? I’m not. I’m going out with friends.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is B doing tonight?",
+                  "options": [
+                    "Going out",
+                    "Studying",
+                    "Working",
+                    "Staying at home"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "A: I didn’t like that movie. B: Neither did I. I thought it was really boring.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did B think of the movie?",
+                  "options": [
+                    "Funny",
+                    "Boring",
+                    "Exciting",
+                    "Too long"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "A: I’d like to watch that new reality show. B: So would I. I think it’s really funny.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which auxiliary does B use?",
+                  "options": [
+                    "am",
+                    "did",
+                    "would",
+                    "do"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "A: I just bought a new camera. B: So did I. What a coincidence!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What did B buy?",
+                  "options": [
+                    "A tablet",
+                    "A camera",
+                    "A watch",
+                    "A phone"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "A: I don’t like traveling by train. B: Really? I do. It’s so relaxing.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Does B like traveling by train?",
+                  "options": [
+                    "Only at night",
+                    "Sometimes",
+                    "No",
+                    "Yes"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Twins",
+                  "situation": "Say five things about yourself. Your partner agrees with So / Neither + auxiliary + I.",
+                  "mandatory": [
+                    "So do I",
+                    "Neither am I",
+                    "So can I"
+                  ],
+                  "taboo": [
+                    "me too"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Opposites",
+                  "situation": "Say five things about yourself. Your partner disagrees with Really? I do / I don’t…",
+                  "mandatory": [
+                    "Really?",
+                    "I don't",
+                    "I'm not"
+                  ],
+                  "taboo": [
+                    "me too"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Travel Talk",
+                  "situation": "Talk about places you have and haven’t visited. Agree or disagree with each other.",
+                  "mandatory": [
+                    "Neither have I",
+                    "So have I",
+                    "Really? I have"
+                  ],
+                  "taboo": [
+                    "me too"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Likes and Dislikes",
+                  "situation": "Talk about music, movies and food. Reply with So / Neither or Really? I do / don’t.",
+                  "mandatory": [
+                    "So do I",
+                    "Neither do I",
+                    "Really? I do"
+                  ],
+                  "taboo": [
+                    "also"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Last Weekend",
+                  "situation": "Say what you did and didn’t do last weekend. Your partner replies with did.",
+                  "mandatory": [
+                    "So did I",
+                    "Neither did I",
+                    "Really? I did"
+                  ],
+                  "taboo": [
+                    "me too"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Future Plans",
+                  "situation": "Share plans with I’m going to / I’d like to. Your partner agrees or disagrees.",
+                  "mandatory": [
+                    "So am I",
+                    "So would I",
+                    "I'm not"
+                  ],
+                  "taboo": [
+                    "me too"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L5U12T4",
               "name": "12B - Vocabulary: Air Travel & go / get Phrases",
               "steal": [
                 {
@@ -85865,7 +86767,7 @@
               ]
             },
             {
-              "id": "L5U12T4",
+              "id": "L5U12T5",
               "name": "12C - Grammar: Reported Speech (statements & questions)",
               "steal": [
                 {
