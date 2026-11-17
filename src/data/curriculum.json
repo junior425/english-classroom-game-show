@@ -3449,6 +3449,2146 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L1U2T3",
+              "name": "2A - Vocabulary: Personal Items & Colors",
+              "steal": [
+                {
+                  "prompt": "You carry books in it on your back.",
+                  "options": [
+                    "a wallet",
+                    "a tablet",
+                    "a backpack",
+                    "a purse"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "You take photos with it.",
+                  "options": [
+                    "a pen",
+                    "a camera",
+                    "a watch",
+                    "an umbrella"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "You call people with it.",
+                  "options": [
+                    "a credit card",
+                    "a pencil",
+                    "a camera",
+                    "a cell phone"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "You keep coins in it.",
+                  "options": [
+                    "a change purse",
+                    "a book",
+                    "a watch",
+                    "a backpack"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "You pay with it in a store.",
+                  "options": [
+                    "a pencil",
+                    "an umbrella",
+                    "a book",
+                    "a credit card"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "You wear them to see better.",
+                  "options": [
+                    "watches",
+                    "wallets",
+                    "keys",
+                    "glasses"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "You open the door with them.",
+                  "options": [
+                    "books",
+                    "glasses",
+                    "pens",
+                    "keys"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "You write with it; it has ink.",
+                  "options": [
+                    "a tablet",
+                    "a key",
+                    "a pen",
+                    "a pencil"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "You write with it and you can erase it.",
+                  "options": [
+                    "a pencil",
+                    "a camera",
+                    "a watch",
+                    "a pen"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "A woman carries her things in it.",
+                  "options": [
+                    "a tablet",
+                    "a purse",
+                    "a book",
+                    "a wallet"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "A small flat computer with a touch screen.",
+                  "options": [
+                    "a cell phone",
+                    "a watch",
+                    "a camera",
+                    "a tablet"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "You use it when it rains.",
+                  "options": [
+                    "a wallet",
+                    "a book",
+                    "an umbrella",
+                    "a pen"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "You keep money and cards in it.",
+                  "options": [
+                    "a pencil",
+                    "a camera",
+                    "a wallet",
+                    "a backpack"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "You wear it to know the time.",
+                  "options": [
+                    "a purse",
+                    "a tablet",
+                    "a key",
+                    "a watch"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Which item begins with a vowel and takes \"an\"?",
+                  "options": [
+                    "a watch",
+                    "a book",
+                    "an umbrella",
+                    "a pen"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The color of the sky on a sunny day:",
+                  "options": [
+                    "black",
+                    "brown",
+                    "gray",
+                    "blue"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "The color of a banana:",
+                  "options": [
+                    "green",
+                    "pink",
+                    "yellow",
+                    "purple"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The color of grass:",
+                  "options": [
+                    "silver",
+                    "red",
+                    "green",
+                    "orange"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "red + blue = ___",
+                  "options": [
+                    "green",
+                    "orange",
+                    "pink",
+                    "purple"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "red + white = ___",
+                  "options": [
+                    "gray",
+                    "brown",
+                    "purple",
+                    "pink"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "black + white = ___",
+                  "options": [
+                    "gray",
+                    "silver",
+                    "pink",
+                    "brown"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "red + yellow = ___",
+                  "options": [
+                    "purple",
+                    "gold",
+                    "green",
+                    "orange"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "A medal for first place is ___; for second place it is ___.",
+                  "options": [
+                    "yellow / white",
+                    "brown / gray",
+                    "gold / silver",
+                    "silver / gold"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The color of chocolate:",
+                  "options": [
+                    "brown",
+                    "red",
+                    "orange",
+                    "black"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "A backpack, a book, a camera and a cell phone are personal items.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You keep money in a wallet and coins in a change purse.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We say \"an umbrella\" because umbrella begins with a vowel.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Keys and glasses are plural words.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Red and blue make purple.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Red and white make pink.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Black and white make gray.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Red and yellow make orange.",
+                  "correct": true
+                },
+                {
+                  "sentence": "A banana is yellow and grass is green.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Gold and silver are colors of medals.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You take photos with a camera and you tell the time with a watch.",
+                  "correct": true
+                },
+                {
+                  "sentence": "You take photos with a wallet.",
+                  "correct": false,
+                  "fix": "You take photos with a camera.",
+                  "explanation": "Camera."
+                },
+                {
+                  "sentence": "You use a pencil when it rains.",
+                  "correct": false,
+                  "fix": "You use an umbrella when it rains.",
+                  "explanation": "Umbrella."
+                },
+                {
+                  "sentence": "We say \"a umbrella\".",
+                  "correct": false,
+                  "fix": "We say \"an umbrella\".",
+                  "explanation": "an + vowel."
+                },
+                {
+                  "sentence": "Red and blue make orange.",
+                  "correct": false,
+                  "fix": "Red and blue make purple.",
+                  "explanation": "Purple."
+                },
+                {
+                  "sentence": "Black and white make pink.",
+                  "correct": false,
+                  "fix": "Black and white make gray.",
+                  "explanation": "Gray."
+                },
+                {
+                  "sentence": "The sky on a sunny day is brown.",
+                  "correct": false,
+                  "fix": "The sky on a sunny day is blue.",
+                  "explanation": "Blue."
+                },
+                {
+                  "sentence": "You pay in a store with a pencil.",
+                  "correct": false,
+                  "fix": "You pay in a store with a credit card.",
+                  "explanation": "Credit card."
+                },
+                {
+                  "sentence": "Red and yellow make green.",
+                  "correct": false,
+                  "fix": "Red and yellow make orange.",
+                  "explanation": "Orange."
+                },
+                {
+                  "sentence": "You open the door with a watch.",
+                  "correct": false,
+                  "fix": "You open the door with keys.",
+                  "explanation": "Keys."
+                },
+                {
+                  "sentence": "A banana is purple.",
+                  "correct": false,
+                  "fix": "A banana is yellow.",
+                  "explanation": "Yellow."
+                },
+                {
+                  "sentence": "A tablet is for taking photos only.",
+                  "correct": false,
+                  "fix": "A tablet is a small flat computer.",
+                  "explanation": "Computer."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "backpack",
+                  "image": "/img/personal-items/backpack.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"backpack\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Backpack\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"backpack\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Backpack\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "book",
+                  "image": "/img/personal-items/book.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"book\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"book\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Book\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "camera",
+                  "image": "/img/personal-items/camera.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"camera\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Camera\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"camera\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Camera\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "cell phone",
+                  "image": "/img/personal-items/cell-phone.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"cell phone\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cell phone\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"cell phone\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Cell phone\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "change purse",
+                  "image": "/img/personal-items/change-purse.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"change purse\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Change purse\" is Money or cards."
+                    },
+                    {
+                      "prompt": "Which word goes before \"change purse\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Change purse\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "credit card",
+                  "image": "/img/personal-items/credit-card.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"credit card\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Credit card\" is Money or cards."
+                    },
+                    {
+                      "prompt": "Which word goes before \"credit card\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Credit card\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "glasses",
+                  "image": "/img/personal-items/glasses.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"glasses\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Glasses\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"glasses\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Glasses\" → some."
+                    }
+                  ]
+                },
+                {
+                  "word": "keys",
+                  "image": "/img/personal-items/keys.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"keys\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Keys\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"keys\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Keys\" → some."
+                    }
+                  ]
+                },
+                {
+                  "word": "pen",
+                  "image": "/img/personal-items/pen.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"pen\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Pen\" is For writing."
+                    },
+                    {
+                      "prompt": "Which word goes before \"pen\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Pen\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "pencil",
+                  "image": "/img/personal-items/pencil.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"pencil\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Pencil\" is For writing."
+                    },
+                    {
+                      "prompt": "Which word goes before \"pencil\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Pencil\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "purse",
+                  "image": "/img/personal-items/purse.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"purse\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Purse\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"purse\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Purse\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "tablet",
+                  "image": "/img/personal-items/tablet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"tablet\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tablet\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"tablet\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tablet\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "umbrella",
+                  "image": "/img/personal-items/umbrella.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"umbrella\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Umbrella\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"umbrella\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Umbrella\" → an."
+                    }
+                  ]
+                },
+                {
+                  "word": "wallet",
+                  "image": "/img/personal-items/wallet.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"wallet\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Wallet\" is Money or cards."
+                    },
+                    {
+                      "prompt": "Which word goes before \"wallet\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Wallet\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "watch",
+                  "image": "/img/personal-items/watch.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"watch\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Watch\" is A personal item."
+                    },
+                    {
+                      "prompt": "Which word goes before \"watch\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Watch\" → a."
+                    }
+                  ]
+                },
+                {
+                  "word": "black",
+                  "image": "/img/personal-items/black.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"black\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Black\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"black\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Black\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "blue",
+                  "image": "/img/personal-items/blue.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"blue\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Blue\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"blue\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Blue\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "brown",
+                  "image": "/img/personal-items/brown.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"brown\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Brown\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"brown\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Brown\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "gold",
+                  "image": "/img/personal-items/gold.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"gold\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Gold\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"gold\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Gold\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "gray",
+                  "image": "/img/personal-items/gray.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"gray\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Gray\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"gray\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Gray\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "green",
+                  "image": "/img/personal-items/green.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"green\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Green\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"green\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Green\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "orange",
+                  "image": "/img/personal-items/orange.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"orange\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Orange\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"orange\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Orange\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "pink",
+                  "image": "/img/personal-items/pink.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"pink\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Pink\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"pink\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Pink\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "purple",
+                  "image": "/img/personal-items/purple.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"purple\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Purple\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"purple\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Purple\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "red",
+                  "image": "/img/personal-items/red.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"red\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Red\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"red\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Red\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "silver",
+                  "image": "/img/personal-items/silver.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"silver\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Silver\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"silver\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Silver\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "white",
+                  "image": "/img/personal-items/white.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"white\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"White\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"white\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"White\" → no article (color)."
+                    }
+                  ]
+                },
+                {
+                  "word": "yellow",
+                  "image": "/img/personal-items/yellow.svg",
+                  "sorts": [
+                    {
+                      "prompt": "What is \"yellow\"?",
+                      "options": [
+                        "A personal item",
+                        "A color",
+                        "Money or cards",
+                        "For writing"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Yellow\" is A color."
+                    },
+                    {
+                      "prompt": "Which word goes before \"yellow\"?",
+                      "options": [
+                        "a",
+                        "an",
+                        "no article (color)",
+                        "some"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Yellow\" → no article (color)."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "My backpack is blue and my wallet is brown.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Is this your cell phone? It’s black.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Red and blue make purple.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I have an umbrella, a pen and a pencil in my bag.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "In my backpack I have two books, a tablet, my keys and a red pen.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What color is the pen?",
+                  "options": [
+                    "Black",
+                    "Blue",
+                    "Green",
+                    "Red"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Excuse me, is this your purse? It’s pink, with a gold button.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What color is the purse?",
+                  "options": [
+                    "Gold",
+                    "Pink",
+                    "Brown",
+                    "Purple"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My camera is silver and my watch is gold. They’re presents from my parents.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What color is the watch?",
+                  "options": [
+                    "Black",
+                    "White",
+                    "Gold",
+                    "Silver"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Where are my glasses? Oh, they’re on the table, next to my credit card.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where are the glasses?",
+                  "options": [
+                    "At school",
+                    "On the table",
+                    "In the bag",
+                    "In the car"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "It’s raining! I need my umbrella. It’s the yellow one next to the door.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What color is the umbrella?",
+                  "options": [
+                    "Blue",
+                    "Green",
+                    "Yellow",
+                    "Gray"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "I have a change purse for coins and a wallet for cards. The wallet is black.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the change purse for?",
+                  "options": [
+                    "Photos",
+                    "Cards",
+                    "Coins",
+                    "Keys"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Red and white make pink. Black and white make gray.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What do black and white make?",
+                  "options": [
+                    "Silver",
+                    "Brown",
+                    "Pink",
+                    "Gray"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "My new tablet is white and my cell phone is orange. I love bright colors!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What color is the cell phone?",
+                  "options": [
+                    "White",
+                    "Red",
+                    "Orange",
+                    "Yellow"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "In My Bag",
+                  "situation": "Say five things you have in your bag and their colors.",
+                  "mandatory": [
+                    "I have",
+                    "a",
+                    "blue"
+                  ],
+                  "taboo": [
+                    "money"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Lost and Found",
+                  "situation": "You lost your bag. Describe three items inside and their colors to the receptionist.",
+                  "mandatory": [
+                    "wallet",
+                    "keys",
+                    "black"
+                  ],
+                  "taboo": [
+                    "bag"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Color Mixing",
+                  "situation": "Explain which colors make purple, orange, pink and gray.",
+                  "mandatory": [
+                    "red",
+                    "make",
+                    "and"
+                  ],
+                  "taboo": [
+                    "paint"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Favorite Colors",
+                  "situation": "Say your favorite color and three things you have in that color.",
+                  "mandatory": [
+                    "My favorite",
+                    "is",
+                    "My"
+                  ],
+                  "taboo": [
+                    "like"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Shopping for Items",
+                  "situation": "You are in a store. Ask for a pen, a watch and an umbrella in different colors.",
+                  "mandatory": [
+                    "Do you have",
+                    "in",
+                    "please"
+                  ],
+                  "taboo": [
+                    "buy"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Whose Is It?",
+                  "situation": "Pick up an item and ask your partner \"Is this your…?\" five times.",
+                  "mandatory": [
+                    "Is this your",
+                    "Yes, it is",
+                    "No, it isn’t"
+                  ],
+                  "taboo": [
+                    "that"
+                  ],
+                  "seconds": 45
+                }
+              ]
+            },
+            {
+              "id": "L1U2T4",
+              "name": "2A - Grammar: Singular & Plural Nouns + this / that / these / those",
+              "steal": [
+                {
+                  "prompt": "We use \"a\" with singular nouns that start with ___.",
+                  "options": [
+                    "a plural",
+                    "a consonant",
+                    "a color",
+                    "a vowel"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "We use \"an\" with singular nouns that start with ___.",
+                  "options": [
+                    "th",
+                    "a vowel (a, e, i, o, u)",
+                    "s",
+                    "a consonant"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "It's ___ book. She's ___ actor.",
+                  "options": [
+                    "a / an",
+                    "an / an",
+                    "a / a",
+                    "an / a"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "To make a noun plural we usually add ___.",
+                  "options": [
+                    "an",
+                    "-ies always",
+                    "a",
+                    "-s or -es"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "a key → three ___",
+                  "options": [
+                    "keyes",
+                    "key",
+                    "keys",
+                    "keies"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "a watch → two ___",
+                  "options": [
+                    "watch",
+                    "watches",
+                    "watchies",
+                    "watchs"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "country → ___",
+                  "options": [
+                    "country",
+                    "countryes",
+                    "countrys",
+                    "countries"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "boy → ___",
+                  "options": [
+                    "boy",
+                    "boyes",
+                    "boys",
+                    "boies"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "bag → ___",
+                  "options": [
+                    "bages",
+                    "bag",
+                    "bags",
+                    "bagies"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Which plural is irregular?",
+                  "options": [
+                    "bus → buses",
+                    "book → books",
+                    "child → children",
+                    "city → cities"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "man → ___; woman → ___",
+                  "options": [
+                    "men / women",
+                    "mans / women",
+                    "men / womans",
+                    "mans / womans"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "person → ___",
+                  "options": [
+                    "people",
+                    "peoples",
+                    "persons",
+                    "person"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "It's a city. → ___ cities.",
+                  "options": [
+                    "They're",
+                    "There",
+                    "These is",
+                    "It's"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "He's not a tour guide. → ___ not tour guides.",
+                  "options": [
+                    "She's",
+                    "It's",
+                    "He's",
+                    "They're"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Is it a watch? → ___ watches?",
+                  "options": [
+                    "Is they",
+                    "Are they",
+                    "Are it",
+                    "Is it"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "I'm a woman. → We're ___.",
+                  "options": [
+                    "woman",
+                    "womans",
+                    "womens",
+                    "women"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "We use \"this\" and \"these\" for things that are ___.",
+                  "options": [
+                    "not near",
+                    "plural only",
+                    "near",
+                    "singular only"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "We use \"that\" and \"those\" for things that are ___.",
+                  "options": [
+                    "in my hand",
+                    "near",
+                    "colors",
+                    "not near"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "___ is my purse and ___ are my sunglasses. (near)",
+                  "options": [
+                    "This / these",
+                    "That / those",
+                    "These / this",
+                    "Those / that"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "___ is my school and ___ are my friends. (not near)",
+                  "options": [
+                    "These / this",
+                    "Those / that",
+                    "That / those",
+                    "This / these"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Excuse me, are ___ your glasses? (not near)",
+                  "options": [
+                    "this",
+                    "these",
+                    "those",
+                    "that"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Look! Is ___ your phone over there?",
+                  "options": [
+                    "these",
+                    "this",
+                    "that",
+                    "those"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Is ___ your credit card? (in my hand)",
+                  "options": [
+                    "those",
+                    "this",
+                    "these",
+                    "that"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "That is book new.",
+                    "That book is new.",
+                    "This is book.",
+                    "These book is new."
+                  ],
+                  "answer": 1
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "It's a book. She's an actor.",
+                  "correct": true
+                },
+                {
+                  "sentence": "a key → three keys; a watch → two watches.",
+                  "correct": true
+                },
+                {
+                  "sentence": "country → countries, but boy → boys.",
+                  "correct": true
+                },
+                {
+                  "sentence": "child → children, man → men, woman → women, person → people.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It's a city. → They're cities.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is it a watch? → Are they watches?",
+                  "correct": true
+                },
+                {
+                  "sentence": "This is my purse and these are my sunglasses.",
+                  "correct": true
+                },
+                {
+                  "sentence": "That is my school and those are my friends.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are those your glasses over there?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is this your credit card? Yes, it is.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We use this / that / these / those + noun: That book is new.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She's a actor.",
+                  "correct": false,
+                  "fix": "She's an actor.",
+                  "explanation": "an + vowel."
+                },
+                {
+                  "sentence": "two watchs",
+                  "correct": false,
+                  "fix": "two watches",
+                  "explanation": "-ch → -es."
+                },
+                {
+                  "sentence": "three countrys",
+                  "correct": false,
+                  "fix": "three countries",
+                  "explanation": "consonant + y → -ies."
+                },
+                {
+                  "sentence": "two childs",
+                  "correct": false,
+                  "fix": "two children",
+                  "explanation": "Irregular."
+                },
+                {
+                  "sentence": "three mans",
+                  "correct": false,
+                  "fix": "three men",
+                  "explanation": "Irregular."
+                },
+                {
+                  "sentence": "This are my sunglasses.",
+                  "correct": false,
+                  "fix": "These are my sunglasses.",
+                  "explanation": "Plural → these."
+                },
+                {
+                  "sentence": "Those is my school over there.",
+                  "correct": false,
+                  "fix": "That is my school over there.",
+                  "explanation": "Singular → that."
+                },
+                {
+                  "sentence": "Is these your phone?",
+                  "correct": false,
+                  "fix": "Is this your phone?",
+                  "explanation": "Singular → this."
+                },
+                {
+                  "sentence": "two persons",
+                  "correct": false,
+                  "fix": "two people",
+                  "explanation": "Irregular."
+                },
+                {
+                  "sentence": "He's a umbrella seller.",
+                  "correct": false,
+                  "fix": "He's an umbrella seller.",
+                  "explanation": "an + vowel."
+                },
+                {
+                  "sentence": "That is book new.",
+                  "correct": false,
+                  "fix": "That book is new.",
+                  "explanation": "that + noun + verb."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "a pen (near me)",
+                  "image": "/img/personal-items/one-pen.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"a pen (near me)\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A pen (near me)\" → Singular."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"a pen (near me)\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A pen (near me)\" → this."
+                    }
+                  ]
+                },
+                {
+                  "word": "two pens (near me)",
+                  "image": "/img/personal-items/two-pens.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"two pens (near me)\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Two pens (near me)\" → Plural (+ -s)."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"two pens (near me)\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Two pens (near me)\" → these."
+                    }
+                  ]
+                },
+                {
+                  "word": "watches (near me)",
+                  "image": "/img/personal-items/watches.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"watches (near me)\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Watches (near me)\" → Plural (+ -es / -ies)."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"watches (near me)\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Watches (near me)\" → these."
+                    }
+                  ]
+                },
+                {
+                  "word": "countries (far away)",
+                  "image": "/img/personal-items/countries.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"countries (far away)\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Countries (far away)\" → Plural (+ -es / -ies)."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"countries (far away)\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Countries (far away)\" → those."
+                    }
+                  ]
+                },
+                {
+                  "word": "children (far away)",
+                  "image": "/img/personal-items/children.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"children (far away)\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Children (far away)\" → Irregular plural."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"children (far away)\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Children (far away)\" → those."
+                    }
+                  ]
+                },
+                {
+                  "word": "a wallet in my hand",
+                  "image": "/img/personal-items/this.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"a wallet in my hand\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A wallet in my hand\" → Singular."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"a wallet in my hand\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A wallet in my hand\" → this."
+                    }
+                  ]
+                },
+                {
+                  "word": "a wallet on the other table",
+                  "image": "/img/personal-items/that.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"a wallet on the other table\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"A wallet on the other table\" → Singular."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"a wallet on the other table\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"A wallet on the other table\" → that."
+                    }
+                  ]
+                },
+                {
+                  "word": "two balls in my hands",
+                  "image": "/img/personal-items/these.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"two balls in my hands\" singular or plural?",
+                      "options": [
+                        "Singular",
+                        "Plural (+ -s)",
+                        "Plural (+ -es / -ies)",
+                        "Irregular plural"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Two balls in my hands\" → Plural (+ -s)."
+                    },
+                    {
+                      "prompt": "Which word do we use for \"two balls in my hands\"?",
+                      "options": [
+                        "this",
+                        "that",
+                        "these",
+                        "those"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Two balls in my hands\" → these."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "It’s a book. She’s an actor.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "This is my purse and these are my sunglasses.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "That is my school and those are my friends.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "One child, two children. One man, two men.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I have three keys, two watches and one umbrella in my bag.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many watches?",
+                  "options": [
+                    "Three",
+                    "Four",
+                    "Two",
+                    "One"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Excuse me, are those your glasses on the other table? Yes, they are. Thank you!",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Where are the glasses?",
+                  "options": [
+                    "At home",
+                    "On the other table",
+                    "In my hand",
+                    "In the bag"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Look! Is that your phone over there, next to the window?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Is the phone near the speaker?",
+                  "options": [
+                    "Yes, in the hand",
+                    "Yes, on the desk",
+                    "No, it’s far",
+                    "We don’t know"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "This is my friend Ana and these are her children, Leo and Mia.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many children does Ana have?",
+                  "options": [
+                    "Two",
+                    "Four",
+                    "One",
+                    "Three"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "These are my credit cards and this is my wallet. That is my sister’s purse.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Whose purse is it?",
+                  "options": [
+                    "Ana’s",
+                    "The teacher’s",
+                    "The speaker’s",
+                    "The sister’s"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Are they watches? No, they aren’t. They’re cell phones.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What are they?",
+                  "options": [
+                    "Watches",
+                    "Tablets",
+                    "Cell phones",
+                    "Cameras"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Peru, Chile and Mexico are countries. Lima, Santiago and Mexico City are cities.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How many cities are mentioned?",
+                  "options": [
+                    "Two",
+                    "Three",
+                    "Six",
+                    "One"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "That book is new, but those books are old. This pen is mine.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Which books are old?",
+                  "options": [
+                    "That book",
+                    "This book",
+                    "These books",
+                    "Those books"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Point and Say",
+                  "situation": "Point to things near and far in the room: This is… / That is… / These are… / Those are…",
+                  "mandatory": [
+                    "This is",
+                    "That is",
+                    "Those are"
+                  ],
+                  "taboo": [
+                    "here"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Count It",
+                  "situation": "Count items in your bag using plurals: two pens, three keys…",
+                  "mandatory": [
+                    "two",
+                    "three",
+                    "keys"
+                  ],
+                  "taboo": [
+                    "one"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Whose Are These?",
+                  "situation": "Hold up items and ask \"Are these your…?\" / \"Is this your…?\"",
+                  "mandatory": [
+                    "Are these",
+                    "Is this",
+                    "Yes, they are"
+                  ],
+                  "taboo": [
+                    "mine"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Irregular Plurals",
+                  "situation": "Make sentences with children, men, women and people.",
+                  "mandatory": [
+                    "children",
+                    "men",
+                    "people"
+                  ],
+                  "taboo": [
+                    "childs"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Singular to Plural",
+                  "situation": "Your partner says a singular sentence; you say the plural: It’s a city → They’re cities.",
+                  "mandatory": [
+                    "They're",
+                    "Are they",
+                    "cities"
+                  ],
+                  "taboo": [
+                    "is"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Far Away",
+                  "situation": "Describe three things you see far away with that / those.",
+                  "mandatory": [
+                    "That",
+                    "Those",
+                    "over there"
+                  ],
+                  "taboo": [
+                    "this"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
