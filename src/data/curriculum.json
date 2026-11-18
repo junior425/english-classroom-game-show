@@ -84525,6 +84525,909 @@
               "pictures": [],
               "listening": [],
               "speaking": []
+            },
+            {
+              "id": "L5U11T3",
+              "name": "11C - Grammar: Third Conditional (would / might / could have)",
+              "steal": [
+                {
+                  "prompt": "We use the third conditional to talk about ___ situations.",
+                  "options": [
+                    "general truths",
+                    "hypothetical (unreal) past",
+                    "real present",
+                    "likely future"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "The if-clause of the third conditional uses ___.",
+                  "options": [
+                    "the present perfect",
+                    "would have",
+                    "the past perfect",
+                    "the simple past"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "The main clause of the third conditional uses ___.",
+                  "options": [
+                    "would + base form",
+                    "had + past participle",
+                    "would have + past participle",
+                    "will have + past participle"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If Emil ___ out all night, his parents wouldn't have been so furious.",
+                  "options": [
+                    "didn't stay",
+                    "hadn't stayed",
+                    "hasn't stayed",
+                    "wouldn't stay"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "I ___ to the party if I'd known about it.",
+                  "options": [
+                    "had come",
+                    "will have come",
+                    "would come",
+                    "would have come"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "If I'd studied more before my exam, I ___.",
+                  "options": [
+                    "might pass",
+                    "had passed",
+                    "might have passed",
+                    "would pass"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If you'd called me earlier, we ___ out for dinner.",
+                  "options": [
+                    "had gone",
+                    "could have gone",
+                    "can have gone",
+                    "could go"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "\"If I'd seen your e-mail, I would have replied to it.\" means: ___",
+                  "options": [
+                    "I saw the e-mail.",
+                    "I'll reply tomorrow.",
+                    "I replied to it.",
+                    "I didn't see the e-mail."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "\"If he'd taken a cab, he wouldn't have missed his train.\" means: ___",
+                  "options": [
+                    "He took a cab.",
+                    "He is taking a cab.",
+                    "He didn't miss his train.",
+                    "He missed his train."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "If you ___ with us, you would have had a great time.",
+                  "options": [
+                    "had come",
+                    "have come",
+                    "would come",
+                    "came"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "If the bus hadn't been late, we ___ at the theater before the movie started.",
+                  "options": [
+                    "would arrive",
+                    "had arrived",
+                    "arrived",
+                    "would have arrived"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "The if-clause can come ___ of the sentence.",
+                  "options": [
+                    "only at the beginning",
+                    "at the beginning or at the end",
+                    "only in the middle",
+                    "only at the end"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "If it had been sunny yesterday, we would have gone for a walk. = ___",
+                  "options": [
+                    "If it is sunny, we will go for a walk.",
+                    "We would go for a walk if it were sunny.",
+                    "We would have gone for a walk if it had been sunny yesterday.",
+                    "We went for a walk because it was sunny."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "We use might or may instead of would when the consequences ___.",
+                  "options": [
+                    "were certain",
+                    "were in the present",
+                    "weren't certain",
+                    "were impossible"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If I hadn't arrived late to the interview, I ___ the job.",
+                  "options": [
+                    "might have gotten",
+                    "had gotten",
+                    "might get",
+                    "would get"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "If they'd stayed longer at the beach, we ___ them.",
+                  "options": [
+                    "may have seen",
+                    "may see",
+                    "had seen",
+                    "would see"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "We use could instead of would to talk about hypothetical ___.",
+                  "options": [
+                    "certainties",
+                    "habits",
+                    "possibilities",
+                    "obligations"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If my car hadn't broken down, I ___ you to the airport yesterday.",
+                  "options": [
+                    "could have taken",
+                    "had taken",
+                    "can take",
+                    "could take"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "If they'd told us about the problem, we ___ them.",
+                  "options": [
+                    "had helped",
+                    "can have helped",
+                    "could have helped",
+                    "could help"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "In \"If I'd known you were in the hospital…\", 'd = ___",
+                  "options": [
+                    "would",
+                    "should",
+                    "did",
+                    "had"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "In \"…I'd have come to visit you\", 'd = ___",
+                  "options": [
+                    "would",
+                    "could",
+                    "did",
+                    "had"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Which is wrong?",
+                  "options": [
+                    "I'd have come if I'd known.",
+                    "If I'd known, I would have come.",
+                    "If I would have known, I'd have come.",
+                    "If I had known, I'd have come."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "If Emil hadn't stayed out all night = ___",
+                  "options": [
+                    "Emil stays out every night.",
+                    "Emil didn't stay out.",
+                    "Emil will stay out.",
+                    "Emil stayed out all night."
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "If I'd studied more, I might have passed. = ___",
+                  "options": [
+                    "I studied a lot and I passed.",
+                    "I didn't study much and I didn't pass.",
+                    "I'll study more next time.",
+                    "I passed easily."
+                  ],
+                  "answer": 1
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "If Emil hadn't stayed out all night, his parents wouldn't have been so furious.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I would have come to the party if I'd known about it.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I'd studied more before my exam, I might have passed.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If you'd called me earlier, we could have gone out for dinner.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I'd seen your e-mail, I would have replied to it.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If he'd taken a cab, he wouldn't have missed his train.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If you had come with us, you would have had a great time.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We would have gone for a walk if it had been sunny yesterday.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I hadn't arrived late to the interview, I might have gotten the job.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If they'd told us about the problem, we could have helped them.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I'd known you were in the hospital, I'd have come to visit you.",
+                  "correct": true
+                },
+                {
+                  "sentence": "If I would have known, I'd have come.",
+                  "correct": false,
+                  "fix": "If I had known, I'd have come.",
+                  "explanation": "Don't use would in the if-clause."
+                },
+                {
+                  "sentence": "If I'd seen your e-mail, I would reply to it.",
+                  "correct": false,
+                  "fix": "If I'd seen your e-mail, I would have replied to it.",
+                  "explanation": "would have + past participle."
+                },
+                {
+                  "sentence": "If he took a cab, he wouldn't have missed his train.",
+                  "correct": false,
+                  "fix": "If he'd taken a cab, he wouldn't have missed his train.",
+                  "explanation": "Past perfect in the if-clause."
+                },
+                {
+                  "sentence": "If you'd called me earlier, we could gone out for dinner.",
+                  "correct": false,
+                  "fix": "…we could have gone out for dinner.",
+                  "explanation": "could HAVE gone."
+                },
+                {
+                  "sentence": "If it had been sunny, we would have went for a walk.",
+                  "correct": false,
+                  "fix": "…we would have gone for a walk.",
+                  "explanation": "Past participle: gone."
+                },
+                {
+                  "sentence": "If the bus hadn't been late, we had arrived before the movie.",
+                  "correct": false,
+                  "fix": "…we would have arrived before the movie.",
+                  "explanation": "Main clause: would have."
+                },
+                {
+                  "sentence": "If I'd studied more, I might pass.",
+                  "correct": false,
+                  "fix": "If I'd studied more, I might have passed.",
+                  "explanation": "might HAVE passed."
+                },
+                {
+                  "sentence": "If Emil didn't stay out, his parents wouldn't have been furious.",
+                  "correct": false,
+                  "fix": "If Emil hadn't stayed out…",
+                  "explanation": "had + past participle."
+                },
+                {
+                  "sentence": "If my car hadn't broken down, I could take you to the airport yesterday.",
+                  "correct": false,
+                  "fix": "…I could have taken you to the airport yesterday.",
+                  "explanation": "could HAVE taken."
+                },
+                {
+                  "sentence": "I'd have come to the party if I would have known.",
+                  "correct": false,
+                  "fix": "…if I'd known.",
+                  "explanation": "'d = had in the if-clause."
+                },
+                {
+                  "sentence": "If they stayed longer, we may have seen them.",
+                  "correct": false,
+                  "fix": "If they'd stayed longer, we may have seen them.",
+                  "explanation": "Past perfect in the if-clause."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "If Emil hadn't stayed out all night, his parents wouldn't have been so furious.",
+                  "image": "/img/third-conditional/emil-angry.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If Emil hadn't stayed out all night, his parents wouldn't have been so furious.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If Emil hadn't stayed out all night, his parents wouldn't have been so furious.\" → main clause: would have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If Emil hadn't stayed out all night, his parents wouldn't have been so furious.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If Emil hadn't stayed out all night, his parents wouldn't have been so furious.\" → It happened / was true."
+                    }
+                  ]
+                },
+                {
+                  "word": "I would have come to the party if I'd known about it.",
+                  "image": "/img/third-conditional/party.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"I would have come to the party if I'd known about it.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I would have come to the party if I'd known about it.\" → main clause: would have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"I would have come to the party if I'd known about it.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"I would have come to the party if I'd known about it.\" → It didn't happen / wasn't true."
+                    }
+                  ]
+                },
+                {
+                  "word": "If I'd studied more before my exam, I might have passed.",
+                  "image": "/img/third-conditional/exam.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If I'd studied more before my exam, I might have passed.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If I'd studied more before my exam, I might have passed.\" → main clause: might / could have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If I'd studied more before my exam, I might have passed.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"If I'd studied more before my exam, I might have passed.\" → An uncertain result."
+                    }
+                  ]
+                },
+                {
+                  "word": "If you'd called me earlier, we could have gone out for dinner.",
+                  "image": "/img/third-conditional/dinner.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If you'd called me earlier, we could have gone out for dinner.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If you'd called me earlier, we could have gone out for dinner.\" → main clause: might / could have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If you'd called me earlier, we could have gone out for dinner.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If you'd called me earlier, we could have gone out for dinner.\" → It didn't happen / wasn't true."
+                    }
+                  ]
+                },
+                {
+                  "word": "If I'd seen your e-mail, I would have replied to it.",
+                  "image": "/img/third-conditional/email.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If I'd seen your e-mail, I would have replied to it.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If I'd seen your e-mail, I would have replied to it.\" → main clause: would have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If I'd seen your e-mail, I would have replied to it.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If I'd seen your e-mail, I would have replied to it.\" → It didn't happen / wasn't true."
+                    }
+                  ]
+                },
+                {
+                  "word": "If he'd taken a cab, he wouldn't have missed his train.",
+                  "image": "/img/third-conditional/train.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If he'd taken a cab, he wouldn't have missed his train.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If he'd taken a cab, he wouldn't have missed his train.\" → main clause: would have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If he'd taken a cab, he wouldn't have missed his train.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If he'd taken a cab, he wouldn't have missed his train.\" → It happened / was true."
+                    }
+                  ]
+                },
+                {
+                  "word": "If it had been sunny yesterday, we would have gone for a walk.",
+                  "image": "/img/third-conditional/walk.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If it had been sunny yesterday, we would have gone for a walk.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If it had been sunny yesterday, we would have gone for a walk.\" → if-clause: had + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If it had been sunny yesterday, we would have gone for a walk.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"If it had been sunny yesterday, we would have gone for a walk.\" → It didn't happen / wasn't true."
+                    }
+                  ]
+                },
+                {
+                  "word": "If my car hadn't broken down, I could have taken you to the airport.",
+                  "image": "/img/third-conditional/car-broken.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"If my car hadn't broken down, I could have taken you to the airport.\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If my car hadn't broken down, I could have taken you to the airport.\" → main clause: might / could have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"If my car hadn't broken down, I could have taken you to the airport.\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If my car hadn't broken down, I could have taken you to the airport.\" → It happened / was true."
+                    }
+                  ]
+                },
+                {
+                  "word": "if + had + past participle",
+                  "image": "/img/third-conditional/past-perfect.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"if + had + past participle\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"If + had + past participle\" → if-clause: had + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"if + had + past participle\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"If + had + past participle\" → A grammar form."
+                    }
+                  ]
+                },
+                {
+                  "word": "would have + past participle",
+                  "image": "/img/third-conditional/would-have.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"would have + past participle\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Would have + past participle\" → main clause: would have + past participle."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"would have + past participle\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Would have + past participle\" → A grammar form."
+                    }
+                  ]
+                },
+                {
+                  "word": "'d = had (If I'd known…)",
+                  "image": "/img/third-conditional/d-had.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"'d = had (If I'd known…)\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"'d = had (If I'd known…)\" → A contraction rule."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"'d = had (If I'd known…)\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"'d = had (If I'd known…)\" → A grammar form."
+                    }
+                  ]
+                },
+                {
+                  "word": "'d = would (I'd have come…)",
+                  "image": "/img/third-conditional/d-would.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which part of the third conditional is \"'d = would (I'd have come…)\"?",
+                      "options": [
+                        "if-clause: had + past participle",
+                        "main clause: would have + past participle",
+                        "main clause: might / could have + past participle",
+                        "A contraction rule"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"'d = would (I'd have come…)\" → A contraction rule."
+                    },
+                    {
+                      "prompt": "What was the real past situation in \"'d = would (I'd have come…)\"?",
+                      "options": [
+                        "It happened / was true",
+                        "It didn't happen / wasn't true",
+                        "A grammar form",
+                        "An uncertain result"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"'d = would (I'd have come…)\" → A grammar form."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "If Emil hadn’t stayed out all night, his parents wouldn’t have been so furious.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I would have come to the party if I’d known about it.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If I’d studied more before my exam, I might have passed.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If you’d called me earlier, we could have gone out for dinner.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "If I’d seen your e-mail, I would have replied to it.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Did the speaker see the e-mail?",
+                  "options": [
+                    "Yes, and replied",
+                    "We don’t know",
+                    "No",
+                    "Yes"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "If he’d taken a cab, he wouldn’t have missed his train.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What happened?",
+                  "options": [
+                    "He missed his train",
+                    "He took a cab",
+                    "He walked",
+                    "He caught his train"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "If the bus hadn’t been late, we would have arrived at the theater before the movie started.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Why did they arrive late?",
+                  "options": [
+                    "They walked",
+                    "The movie started early",
+                    "The theater was closed",
+                    "The bus was late"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "If I hadn’t arrived late to the interview, I might have gotten the job.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why does the speaker use might?",
+                  "options": [
+                    "It’s a question",
+                    "The result wasn’t certain",
+                    "It was certain",
+                    "It’s about the future"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "If my car hadn’t broken down, I could have taken you to the airport yesterday.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What happened to the car?",
+                  "options": [
+                    "It broke down",
+                    "It was stolen",
+                    "It was at the airport",
+                    "Nothing"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "If I’d known you were in the hospital, I’d have come to visit you.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What does the second ’d mean?",
+                  "options": [
+                    "would",
+                    "should",
+                    "had",
+                    "did"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "We would have gone for a walk if it had been sunny yesterday.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What was the weather like yesterday?",
+                  "options": [
+                    "Sunny",
+                    "Very hot",
+                    "Windy",
+                    "Not sunny"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "If they’d told us about the problem, we could have helped them.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Did they tell us about the problem?",
+                  "options": [
+                    "We helped them",
+                    "Yes, twice",
+                    "Yes",
+                    "No"
+                  ],
+                  "answer": 3
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Regrets",
+                  "situation": "Talk about three things you regret from last year using the third conditional.",
+                  "mandatory": [
+                    "If I had",
+                    "would have",
+                    "I'd have"
+                  ],
+                  "taboo": [
+                    "will",
+                    "going to"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Missed Train",
+                  "situation": "Explain to your boss why you were late today with three third-conditional excuses.",
+                  "mandatory": [
+                    "If I hadn't",
+                    "would have",
+                    "could have"
+                  ],
+                  "taboo": [
+                    "sorry"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Exam",
+                  "situation": "Your friend failed an exam. Talk about what might have happened if things had been different.",
+                  "mandatory": [
+                    "might have",
+                    "had studied",
+                    "would have passed"
+                  ],
+                  "taboo": [
+                    "next time"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Alternative History",
+                  "situation": "Imagine a different past for a famous event and explain the consequences.",
+                  "mandatory": [
+                    "If … had",
+                    "would have",
+                    "might have"
+                  ],
+                  "taboo": [
+                    "today"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Party Problems",
+                  "situation": "Your friend missed a great party. Tell them what they would have enjoyed.",
+                  "mandatory": [
+                    "if you had come",
+                    "would have had",
+                    "could have met"
+                  ],
+                  "taboo": [
+                    "you missed"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Breakdown",
+                  "situation": "Your car broke down on the way to the airport. Tell the story and what could have happened instead.",
+                  "mandatory": [
+                    "hadn't broken down",
+                    "could have",
+                    "would have"
+                  ],
+                  "taboo": [
+                    "unfortunately"
+                  ],
+                  "seconds": 60
+                }
+              ]
             }
           ]
         },
