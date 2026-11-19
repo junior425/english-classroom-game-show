@@ -5589,6 +5589,1810 @@
                   "seconds": 45
                 }
               ]
+            },
+            {
+              "id": "L1U2T5",
+              "name": "2C - Vocabulary: Family and Friends",
+              "steal": [
+                {
+                  "prompt": "Your mother's mother is your ___.",
+                  "options": [
+                    "sister",
+                    "grandfather",
+                    "daughter",
+                    "grandmother"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Your father's father is your ___.",
+                  "options": [
+                    "son",
+                    "grandmother",
+                    "grandfather",
+                    "brother"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Your grandmother and grandfather are your ___.",
+                  "options": [
+                    "children",
+                    "brothers",
+                    "grandparents",
+                    "parents"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Your mother and father are your ___.",
+                  "options": [
+                    "friends",
+                    "parents",
+                    "children",
+                    "grandparents"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "A boy is his parents' ___.",
+                  "options": [
+                    "brother",
+                    "husband",
+                    "son",
+                    "daughter"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "A girl is her parents' ___.",
+                  "options": [
+                    "sister",
+                    "wife",
+                    "daughter",
+                    "son"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Sons and daughters are ___.",
+                  "options": [
+                    "boyfriends",
+                    "grandparents",
+                    "parents",
+                    "children"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "A married man is a ___.",
+                  "options": [
+                    "wife",
+                    "boyfriend",
+                    "husband",
+                    "son"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "A married woman is a ___.",
+                  "options": [
+                    "wife",
+                    "husband",
+                    "girlfriend",
+                    "daughter"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "A girl with the same parents as you is your ___.",
+                  "options": [
+                    "mother",
+                    "daughter",
+                    "brother",
+                    "sister"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "A boy with the same parents as you is your ___.",
+                  "options": [
+                    "brother",
+                    "son",
+                    "father",
+                    "sister"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Your mother's husband is your ___.",
+                  "options": [
+                    "brother",
+                    "grandfather",
+                    "father",
+                    "son"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Judith is Bob's wife. Bob is Judith's ___.",
+                  "options": [
+                    "brother",
+                    "son",
+                    "husband",
+                    "father"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Tony is Judith's son. Judith is Tony's ___.",
+                  "options": [
+                    "sister",
+                    "wife",
+                    "mother",
+                    "daughter"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "My brother is ___. (Liam / Julia)",
+                  "options": [
+                    "Liam",
+                    "Julia",
+                    "Lucy",
+                    "Molly"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Julia is my ___. (The speaker is Mark.)",
+                  "options": [
+                    "wife",
+                    "son",
+                    "husband",
+                    "brother"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "My sister is Julia, and my brother is ___.",
+                  "options": [
+                    "Liam",
+                    "Bob",
+                    "Mark",
+                    "George"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "My girlfriend is ___.",
+                  "options": [
+                    "Molly",
+                    "Lucy",
+                    "Gloria",
+                    "Julia"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "My parents are George and Gloria, and my ___ is Molly.",
+                  "options": [
+                    "brother",
+                    "sister",
+                    "wife",
+                    "mother"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Bob is my father, and Mark and George are my ___.",
+                  "options": [
+                    "parents",
+                    "brothers",
+                    "sons",
+                    "children"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Our children are Julia, Mark, and George. We are their ___.",
+                  "options": [
+                    "parents",
+                    "grandparents",
+                    "children",
+                    "brothers"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Our parents are Judith and Bob. Our children are ___ and ___.",
+                  "options": [
+                    "Ben and Liam",
+                    "Molly and Lucy",
+                    "Julia and Mark",
+                    "Tony and Gloria"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Not married, but in a relationship: he is her ___.",
+                  "options": [
+                    "brother",
+                    "husband",
+                    "boyfriend",
+                    "son"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Not married, but in a relationship: she is his ___.",
+                  "options": [
+                    "girlfriend",
+                    "daughter",
+                    "sister",
+                    "wife"
+                  ],
+                  "answer": 0
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "My brother is Liam.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Julia is my wife.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My sister is Julia, and my brother is George.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My girlfriend is Molly.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Bob is my father, and Mark and George are my brothers.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My wife is Judith.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Our children are Julia, Mark, and George.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Our parents are Judith and Bob.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your mother and father are your parents.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your grandmother and grandfather are your grandparents.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sons and daughters are children.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Your mother's mother is your grandfather.",
+                  "correct": false,
+                  "fix": "…is your grandmother.",
+                  "explanation": "Mother → grandmother (woman)."
+                },
+                {
+                  "sentence": "A married woman is a husband.",
+                  "correct": false,
+                  "fix": "A married woman is a wife.",
+                  "explanation": "husband = man."
+                },
+                {
+                  "sentence": "A girl is her parents' son.",
+                  "correct": false,
+                  "fix": "A girl is her parents' daughter.",
+                  "explanation": "son = boy."
+                },
+                {
+                  "sentence": "Sons and daughters are parents.",
+                  "correct": false,
+                  "fix": "Sons and daughters are children.",
+                  "explanation": "parents = mother and father."
+                },
+                {
+                  "sentence": "My mother and father are my grandparents.",
+                  "correct": false,
+                  "fix": "…are my parents.",
+                  "explanation": "grandparents = parents' parents."
+                },
+                {
+                  "sentence": "A boy with the same parents as you is your sister.",
+                  "correct": false,
+                  "fix": "…is your brother.",
+                  "explanation": "sister = girl."
+                },
+                {
+                  "sentence": "Judith is Bob's husband.",
+                  "correct": false,
+                  "fix": "Judith is Bob's wife.",
+                  "explanation": "Judith is a woman."
+                },
+                {
+                  "sentence": "Tony is Judith's daughter.",
+                  "correct": false,
+                  "fix": "Tony is Judith's son.",
+                  "explanation": "Tony is a man."
+                },
+                {
+                  "sentence": "My husband's brother is my sister.",
+                  "correct": false,
+                  "fix": "…is my brother-in-law / brother.",
+                  "explanation": "brother = man."
+                },
+                {
+                  "sentence": "We have one childs.",
+                  "correct": false,
+                  "fix": "We have one child.",
+                  "explanation": "children = plural."
+                },
+                {
+                  "sentence": "She is his boyfriend.",
+                  "correct": false,
+                  "fix": "She is his girlfriend.",
+                  "explanation": "girlfriend = woman."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "grandfather",
+                  "image": "/img/family/grandfather.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"grandfather\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Grandfather\" → A man / boy."
+                    },
+                    {
+                      "prompt": "Which generation is \"grandfather\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Grandfather\" → Grandparents."
+                    }
+                  ]
+                },
+                {
+                  "word": "grandmother",
+                  "image": "/img/family/grandmother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"grandmother\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Grandmother\" → A woman / girl."
+                    },
+                    {
+                      "prompt": "Which generation is \"grandmother\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Grandmother\" → Grandparents."
+                    }
+                  ]
+                },
+                {
+                  "word": "grandparents",
+                  "image": "/img/family/grandparents.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"grandparents\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Grandparents\" → Two or more people."
+                    },
+                    {
+                      "prompt": "Which generation is \"grandparents\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Grandparents\" → Grandparents."
+                    }
+                  ]
+                },
+                {
+                  "word": "mother",
+                  "image": "/img/family/mother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"mother\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mother\" → A woman / girl."
+                    },
+                    {
+                      "prompt": "Which generation is \"mother\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Mother\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "father",
+                  "image": "/img/family/father.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"father\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Father\" → A man / boy."
+                    },
+                    {
+                      "prompt": "Which generation is \"father\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Father\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "parents",
+                  "image": "/img/family/parents.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"parents\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Parents\" → Two or more people."
+                    },
+                    {
+                      "prompt": "Which generation is \"parents\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Parents\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "son",
+                  "image": "/img/family/son.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"son\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Son\" → A man / boy."
+                    },
+                    {
+                      "prompt": "Which generation is \"son\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Son\" → Children / siblings."
+                    }
+                  ]
+                },
+                {
+                  "word": "daughter",
+                  "image": "/img/family/daughter.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"daughter\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Daughter\" → A woman / girl."
+                    },
+                    {
+                      "prompt": "Which generation is \"daughter\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Daughter\" → Children / siblings."
+                    }
+                  ]
+                },
+                {
+                  "word": "children",
+                  "image": "/img/family/children.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"children\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Children\" → Two or more people."
+                    },
+                    {
+                      "prompt": "Which generation is \"children\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Children\" → Children / siblings."
+                    }
+                  ]
+                },
+                {
+                  "word": "husband",
+                  "image": "/img/family/husband.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"husband\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Husband\" → A man / boy."
+                    },
+                    {
+                      "prompt": "Which generation is \"husband\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Husband\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "wife",
+                  "image": "/img/family/wife.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"wife\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Wife\" → A woman / girl."
+                    },
+                    {
+                      "prompt": "Which generation is \"wife\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Wife\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "sister",
+                  "image": "/img/family/sister.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"sister\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sister\" → A woman / girl."
+                    },
+                    {
+                      "prompt": "Which generation is \"sister\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sister\" → Children / siblings."
+                    }
+                  ]
+                },
+                {
+                  "word": "brother",
+                  "image": "/img/family/brother.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"brother\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Brother\" → A man / boy."
+                    },
+                    {
+                      "prompt": "Which generation is \"brother\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Brother\" → Children / siblings."
+                    }
+                  ]
+                },
+                {
+                  "word": "boyfriend",
+                  "image": "/img/family/boyfriend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"boyfriend\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Boyfriend\" → A man / boy."
+                    },
+                    {
+                      "prompt": "Which generation is \"boyfriend\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Boyfriend\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "girlfriend",
+                  "image": "/img/family/girlfriend.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"girlfriend\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Girlfriend\" → A woman / girl."
+                    },
+                    {
+                      "prompt": "Which generation is \"girlfriend\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Girlfriend\" → Parents / partners."
+                    }
+                  ]
+                },
+                {
+                  "word": "family tree",
+                  "image": "/img/family/family-tree.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Is \"family tree\" a man, a woman, or both?",
+                      "options": [
+                        "A man / boy",
+                        "A woman / girl",
+                        "Two or more people",
+                        "A picture"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Family tree\" → A picture."
+                    },
+                    {
+                      "prompt": "Which generation is \"family tree\"?",
+                      "options": [
+                        "Grandparents",
+                        "Parents / partners",
+                        "Children / siblings",
+                        "The whole family"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Family tree\" → The whole family."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "My brother is Liam.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Julia is my wife.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "My parents are George and Gloria, and my sister is Molly.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Our children are Julia, Mark, and George.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Judith and Bob are grandparents. Their children are Julia, Mark, and George.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who are Judith and Bob?",
+                  "options": [
+                    "Boyfriend and girlfriend",
+                    "Grandparents",
+                    "Brothers",
+                    "Children"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Tony is Julia’s husband. Julia is Tony’s wife.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who is Tony?",
+                  "options": [
+                    "Julia’s husband",
+                    "Julia’s son",
+                    "Julia’s brother",
+                    "Julia’s father"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Molly is my sister. My parents are George and Gloria.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is Molly?",
+                  "options": [
+                    "My mother",
+                    "My wife",
+                    "My sister",
+                    "My daughter"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "My husband’s brother is Mark. Our children are Ben and Liam.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who are Ben and Liam?",
+                  "options": [
+                    "The grandparents",
+                    "The brothers of Mark",
+                    "The parents",
+                    "The children"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "This is my girlfriend. Her name is Molly.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Are they married?",
+                  "options": [
+                    "She is his sister",
+                    "No, she is his girlfriend",
+                    "Yes",
+                    "She is his daughter"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Bob is my father, and Mark and George are my brothers.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "How many brothers does the speaker have?",
+                  "options": [
+                    "None",
+                    "Two",
+                    "Three",
+                    "One"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "My grandmother is 70 and my grandfather is 72. They are my grandparents.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How old is the grandfather?",
+                  "options": [
+                    "72",
+                    "27",
+                    "17",
+                    "70"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Lucy is Liam’s sister. Liam is Lucy’s brother.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Who is Lucy?",
+                  "options": [
+                    "Liam’s daughter",
+                    "Liam’s sister",
+                    "Liam’s mother",
+                    "Liam’s wife"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "My Family",
+                  "situation": "Describe your family: parents, brothers and sisters, grandparents.",
+                  "mandatory": [
+                    "mother",
+                    "father",
+                    "brother"
+                  ],
+                  "taboo": [
+                    "family"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Family Photo",
+                  "situation": "Show an imaginary family photo and say who each person is.",
+                  "mandatory": [
+                    "This is my",
+                    "husband",
+                    "children"
+                  ],
+                  "taboo": [
+                    "person"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Family Tree",
+                  "situation": "Explain the family tree of Judith and Bob to your partner.",
+                  "mandatory": [
+                    "grandparents",
+                    "son",
+                    "daughter"
+                  ],
+                  "taboo": [
+                    "family"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Who Is It?",
+                  "situation": "Describe a famous family. Your partner guesses who they are.",
+                  "mandatory": [
+                    "wife",
+                    "son",
+                    "parents"
+                  ],
+                  "taboo": [
+                    "name"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Best Friend",
+                  "situation": "Talk about your best friend and his or her family.",
+                  "mandatory": [
+                    "friend",
+                    "sister",
+                    "boyfriend"
+                  ],
+                  "taboo": [
+                    "family"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Interview",
+                  "situation": "Ask your partner about his or her family: Do you have brothers? Who is…?",
+                  "mandatory": [
+                    "Do you have",
+                    "brother",
+                    "grandmother"
+                  ],
+                  "taboo": [
+                    "family"
+                  ],
+                  "seconds": 60
+                }
+              ]
+            },
+            {
+              "id": "L1U2T6",
+              "name": "2C - Grammar: Possessive Adjectives & 's for Possession",
+              "steal": [
+                {
+                  "prompt": "I'm French. ___ wife is Spanish.",
+                  "options": [
+                    "Her",
+                    "Your",
+                    "His",
+                    "My"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Are you sad? ___ boyfriend's not here.",
+                  "options": [
+                    "His",
+                    "My",
+                    "Your",
+                    "Our"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "He's a teacher. ___ students are young.",
+                  "options": [
+                    "Its",
+                    "Her",
+                    "Their",
+                    "His"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "She's an actor. ___ house is big.",
+                  "options": [
+                    "Her",
+                    "His",
+                    "Your",
+                    "Its"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "It's a small restaurant. ___ pizzas are good.",
+                  "options": [
+                    "His",
+                    "Their",
+                    "It's",
+                    "Its"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "We're late. ___ boss isn't happy.",
+                  "options": [
+                    "Your",
+                    "My",
+                    "Their",
+                    "Our"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "They're tour guides. ___ jobs are interesting.",
+                  "options": [
+                    "His",
+                    "Our",
+                    "Its",
+                    "Their"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Hello. ___ name's Kate.",
+                  "options": [
+                    "Her",
+                    "Your",
+                    "Its",
+                    "My"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "We're from Lima. This is a photo of ___ house.",
+                  "options": [
+                    "my",
+                    "our",
+                    "its",
+                    "their"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "He's French. ___ name is Olivier.",
+                  "options": [
+                    "Her",
+                    "Its",
+                    "His",
+                    "Your"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "They're British, but ___ parents are from Peru.",
+                  "options": [
+                    "our",
+                    "their",
+                    "your",
+                    "his"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Hi, I'm Tom. What's ___ name?",
+                  "options": [
+                    "your",
+                    "my",
+                    "his",
+                    "our"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This is Luisa and ___ husband, Sven.",
+                  "options": [
+                    "his",
+                    "their",
+                    "her",
+                    "your"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Possessive adjectives are the same for ___.",
+                  "options": [
+                    "women only",
+                    "singular and plural nouns",
+                    "men only",
+                    "people only"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Is that your key? Are those ___ keys?",
+                  "options": [
+                    "your",
+                    "you're",
+                    "you",
+                    "yours"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "To show possession with a name, we add ___.",
+                  "options": [
+                    "the",
+                    "s'",
+                    "of",
+                    "'s"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "She's Olivia. Those are her sunglasses. = Those are ___ sunglasses.",
+                  "options": [
+                    "Olivia",
+                    "Olivia's",
+                    "Olivias",
+                    "of Olivia"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "He's my son. That's his credit card. = That's ___ credit card.",
+                  "options": [
+                    "my son's",
+                    "my sons",
+                    "my son",
+                    "the son of my"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This is my daughter. Her name is Ruby. = My ___ name is Ruby.",
+                  "options": [
+                    "daughter's",
+                    "daughter",
+                    "daughters'",
+                    "daughters"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "She's our doctor. Her phone number is 665342. = Our ___ phone number is 665342.",
+                  "options": [
+                    "doctors",
+                    "doctors'",
+                    "doctor",
+                    "doctor's"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Is that the ___ book?",
+                  "options": [
+                    "teacher's",
+                    "teachers",
+                    "teacher of",
+                    "teacher"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Are you ___ sister?",
+                  "options": [
+                    "Rob's",
+                    "of Rob",
+                    "Rob",
+                    "Robs"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Joseph is ___ brother. This is ___ house.",
+                  "options": [
+                    "me / us",
+                    "mine / ours",
+                    "my / our",
+                    "I / we"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Which is correct?",
+                  "options": [
+                    "It's pizzas are good.",
+                    "Its pizzas are good.",
+                    "Its' pizzas are good.",
+                    "It pizzas are good."
+                  ],
+                  "answer": 1
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I'm French. My wife is Spanish.",
+                  "correct": true
+                },
+                {
+                  "sentence": "He's a teacher. His students are young.",
+                  "correct": true
+                },
+                {
+                  "sentence": "She's an actor. Her house is big.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It's a small restaurant. Its pizzas are good.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We're late. Our boss isn't happy.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They're tour guides. Their jobs are interesting.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Those are Olivia's sunglasses.",
+                  "correct": true
+                },
+                {
+                  "sentence": "That's my son's credit card.",
+                  "correct": true
+                },
+                {
+                  "sentence": "My daughter's name is Ruby.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Is that the teacher's book?",
+                  "correct": true
+                },
+                {
+                  "sentence": "Are you Rob's sister?",
+                  "correct": true
+                },
+                {
+                  "sentence": "He's a teacher. Her students are young.",
+                  "correct": false,
+                  "fix": "His students are young.",
+                  "explanation": "he → his."
+                },
+                {
+                  "sentence": "She's an actor. His house is big.",
+                  "correct": false,
+                  "fix": "Her house is big.",
+                  "explanation": "she → her."
+                },
+                {
+                  "sentence": "It's a small restaurant. It's pizzas are good.",
+                  "correct": false,
+                  "fix": "Its pizzas are good.",
+                  "explanation": "its (no apostrophe) = possession."
+                },
+                {
+                  "sentence": "We're late. Their boss isn't happy.",
+                  "correct": false,
+                  "fix": "Our boss isn't happy.",
+                  "explanation": "we → our."
+                },
+                {
+                  "sentence": "They're British, but his parents are from Peru.",
+                  "correct": false,
+                  "fix": "…but their parents are from Peru.",
+                  "explanation": "they → their."
+                },
+                {
+                  "sentence": "Hi, I'm Tom. What's my name?",
+                  "correct": false,
+                  "fix": "What's your name?",
+                  "explanation": "Asking about the listener → your."
+                },
+                {
+                  "sentence": "This is Luisa and his husband, Sven.",
+                  "correct": false,
+                  "fix": "…and her husband, Sven.",
+                  "explanation": "Luisa → her."
+                },
+                {
+                  "sentence": "Those are Olivias sunglasses.",
+                  "correct": false,
+                  "fix": "Those are Olivia's sunglasses.",
+                  "explanation": "Add 's to the name."
+                },
+                {
+                  "sentence": "My daughter name is Ruby.",
+                  "correct": false,
+                  "fix": "My daughter's name is Ruby.",
+                  "explanation": "noun + 's."
+                },
+                {
+                  "sentence": "Are you the sister of Rob?",
+                  "correct": false,
+                  "fix": "Are you Rob's sister?",
+                  "explanation": "Use 's with names."
+                },
+                {
+                  "sentence": "Are those yours keys?",
+                  "correct": false,
+                  "fix": "Are those your keys?",
+                  "explanation": "your + plural noun."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "my (I'm French. My wife is Spanish.)",
+                  "image": "/img/family/my.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"my (I'm French. My wife is Spanish.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"My (I'm French. My wife is Spanish.)\" → I / you."
+                    },
+                    {
+                      "prompt": "Who does \"my (I'm French. My wife is Spanish.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"My (I'm French. My wife is Spanish.)\" → One person (the speaker or listener)."
+                    }
+                  ]
+                },
+                {
+                  "word": "your (Are you sad? Your boyfriend's not here.)",
+                  "image": "/img/family/your.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"your (Are you sad? Your boyfriend's not here.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Your (Are you sad? Your boyfriend's not here.)\" → I / you."
+                    },
+                    {
+                      "prompt": "Who does \"your (Are you sad? Your boyfriend's not here.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Your (Are you sad? Your boyfriend's not here.)\" → One person (the speaker or listener)."
+                    }
+                  ]
+                },
+                {
+                  "word": "his (He's a teacher. His students are young.)",
+                  "image": "/img/family/his.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"his (He's a teacher. His students are young.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"His (He's a teacher. His students are young.)\" → he / she / it."
+                    },
+                    {
+                      "prompt": "Who does \"his (He's a teacher. His students are young.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"His (He's a teacher. His students are young.)\" → One other person or thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "her (She's an actor. Her house is big.)",
+                  "image": "/img/family/her.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"her (She's an actor. Her house is big.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Her (She's an actor. Her house is big.)\" → he / she / it."
+                    },
+                    {
+                      "prompt": "Who does \"her (She's an actor. Her house is big.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Her (She's an actor. Her house is big.)\" → One other person or thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "its (It's a small restaurant. Its pizzas are good.)",
+                  "image": "/img/family/its.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"its (It's a small restaurant. Its pizzas are good.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Its (It's a small restaurant. Its pizzas are good.)\" → he / she / it."
+                    },
+                    {
+                      "prompt": "Who does \"its (It's a small restaurant. Its pizzas are good.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Its (It's a small restaurant. Its pizzas are good.)\" → One other person or thing."
+                    }
+                  ]
+                },
+                {
+                  "word": "our (We're late. Our boss isn't happy.)",
+                  "image": "/img/family/our.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"our (We're late. Our boss isn't happy.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Our (We're late. Our boss isn't happy.)\" → we / they."
+                    },
+                    {
+                      "prompt": "Who does \"our (We're late. Our boss isn't happy.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Our (We're late. Our boss isn't happy.)\" → Two or more people."
+                    }
+                  ]
+                },
+                {
+                  "word": "their (They're tour guides. Their jobs are interesting.)",
+                  "image": "/img/family/their.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"their (They're tour guides. Their jobs are interesting.)\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Their (They're tour guides. Their jobs are interesting.)\" → we / they."
+                    },
+                    {
+                      "prompt": "Who does \"their (They're tour guides. Their jobs are interesting.)\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Their (They're tour guides. Their jobs are interesting.)\" → Two or more people."
+                    }
+                  ]
+                },
+                {
+                  "word": "Olivia's sunglasses",
+                  "image": "/img/family/apostrophe-s.svg",
+                  "sorts": [
+                    {
+                      "prompt": "Which subject pronoun goes with \"Olivia's sunglasses\"?",
+                      "options": [
+                        "I / you",
+                        "he / she / it",
+                        "we / they",
+                        "a name + 's"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Olivia's sunglasses\" → a name + 's."
+                    },
+                    {
+                      "prompt": "Who does \"Olivia's sunglasses\" refer to?",
+                      "options": [
+                        "One person (the speaker or listener)",
+                        "One other person or thing",
+                        "Two or more people",
+                        "The owner's name"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Olivia's sunglasses\" → The owner's name."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I’m French. My wife is Spanish.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "They’re tour guides. Their jobs are interesting.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Those are Olivia’s sunglasses.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Is that the teacher’s book?",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "He’s a teacher. His students are young.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which possessive adjective did you hear?",
+                  "options": [
+                    "its",
+                    "her",
+                    "his",
+                    "their"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "She’s an actor. Her house is big.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Whose house is big?",
+                  "options": [
+                    "Our",
+                    "The teacher’s",
+                    "His",
+                    "The actor’s"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "It’s a small restaurant. Its pizzas are good.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What is good?",
+                  "options": [
+                    "The restaurant’s coffee",
+                    "The restaurant’s pizzas",
+                    "Our pizzas",
+                    "His pizzas"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "We’re late. Our boss isn’t happy.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Whose boss isn’t happy?",
+                  "options": [
+                    "His boss",
+                    "Our boss",
+                    "My boss",
+                    "Their boss"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "This is Luisa and her husband, Sven.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Who is Sven?",
+                  "options": [
+                    "Luisa’s husband",
+                    "Luisa’s son",
+                    "Luisa’s brother",
+                    "Luisa’s boss"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "He’s my son. That’s my son’s credit card.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Whose credit card is it?",
+                  "options": [
+                    "Mine",
+                    "My son’s",
+                    "My daughter’s",
+                    "My husband’s"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Hi, I’m Tom. What’s your name?",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which word did Tom use?",
+                  "options": [
+                    "his",
+                    "our",
+                    "your",
+                    "my"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "She’s our doctor. Our doctor’s phone number is 665342.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the phone number?",
+                  "options": [
+                    "655342",
+                    "665324",
+                    "665342",
+                    "665432"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Whose Is It?",
+                  "situation": "Point at objects in the room and say whose they are: This is Ana’s pen.",
+                  "mandatory": [
+                    "'s",
+                    "This is",
+                    "her"
+                  ],
+                  "taboo": [
+                    "of"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "My Things",
+                  "situation": "Describe five things you own and their colors using my.",
+                  "mandatory": [
+                    "my",
+                    "is",
+                    "are"
+                  ],
+                  "taboo": [
+                    "mine"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Introductions",
+                  "situation": "Introduce two friends and their families to the class.",
+                  "mandatory": [
+                    "his",
+                    "her",
+                    "their"
+                  ],
+                  "taboo": [
+                    "of"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Our Class",
+                  "situation": "Describe your class and school using our and their.",
+                  "mandatory": [
+                    "our",
+                    "their",
+                    "teacher"
+                  ],
+                  "taboo": [
+                    "of"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Lost and Found",
+                  "situation": "You work at Lost and Found. Ask whose each object is.",
+                  "mandatory": [
+                    "Is this your",
+                    "'s",
+                    "his"
+                  ],
+                  "taboo": [
+                    "of"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Pet Shop",
+                  "situation": "Describe a pet: its name, its color, its food.",
+                  "mandatory": [
+                    "its",
+                    "name",
+                    "color"
+                  ],
+                  "taboo": [
+                    "it's"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         },
