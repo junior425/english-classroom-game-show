@@ -90262,6 +90262,914 @@
                   "seconds": 60
                 }
               ]
+            },
+            {
+              "id": "L5U12T6",
+              "name": "12C - Grammar: Modals of Deduction (must / might / may / could / can't)",
+              "steal": [
+                {
+                  "prompt": "We use modals of deduction to talk about something when we ___.",
+                  "options": [
+                    "want to give an order",
+                    "talk about the future",
+                    "don't know if it's definitely true",
+                    "know it is true"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "We use must + base form when we think that something ___.",
+                  "options": [
+                    "is possible",
+                    "is true",
+                    "is not true",
+                    "is prohibited"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "We use can't or couldn't + base form when we are sure that something ___.",
+                  "options": [
+                    "is necessary",
+                    "is possible",
+                    "is true",
+                    "isn't true"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "We use might / may / could + base form when we think something is ___.",
+                  "options": [
+                    "certainly true",
+                    "possible, but we're not sure",
+                    "prohibited",
+                    "certainly not true"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "I can't hear the children. They ___ be in bed.",
+                  "options": [
+                    "must",
+                    "can't",
+                    "might not",
+                    "mustn't"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "I haven't seen Lukas for a few days. He ___ be on vacation.",
+                  "options": [
+                    "can't",
+                    "mustn't",
+                    "might",
+                    "must"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "You ___ like this new café. They only serve coffee, not tea.",
+                  "options": [
+                    "mustn't",
+                    "might not",
+                    "must",
+                    "can't"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "It's very noisy in the apartment upstairs. They ___ a party.",
+                  "options": [
+                    "must be having",
+                    "can't be having",
+                    "must have",
+                    "might not have"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "It must be cold outside. Everyone's wearing gloves. = ___",
+                  "options": [
+                    "I'm sure it isn't cold.",
+                    "It is prohibited to go outside.",
+                    "I'm sure it's cold outside.",
+                    "It's possible it's cold."
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Sally can't live here. This is a house, and she lives in an apartment. = ___",
+                  "options": [
+                    "I'm sure Sally doesn't live here.",
+                    "I'm sure Sally lives here.",
+                    "Sally is not allowed to live here.",
+                    "It's possible Sally lives here."
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Mark isn't answering his phone. He ___ be in a meeting.",
+                  "options": [
+                    "might",
+                    "mustn't",
+                    "can't",
+                    "must"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "John didn't sleep at all last night. He ___ be really tired today.",
+                  "options": [
+                    "may not",
+                    "must",
+                    "might not",
+                    "can't"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Where's Lidia? She ___ be at work because her office is closed today.",
+                  "options": [
+                    "can't",
+                    "must",
+                    "may",
+                    "might"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Let's try that store over there. It ___ be cheaper, but I'm not sure.",
+                  "options": [
+                    "can't",
+                    "might",
+                    "couldn't",
+                    "must"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "We ___ be at the right address. There's no restaurant here.",
+                  "options": [
+                    "might",
+                    "can't",
+                    "may",
+                    "must"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "prompt": "Is Vicki's husband from Australia? – I think he ___ be, but I've never asked him.",
+                  "options": [
+                    "must",
+                    "can't",
+                    "mustn't",
+                    "might"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "I never see Max studying, so he ___ be a very good student.",
+                  "options": [
+                    "can't",
+                    "must",
+                    "might",
+                    "may"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "Look, Brian ___ be home – the lights are on in his apartment.",
+                  "options": [
+                    "must",
+                    "mustn't",
+                    "can't",
+                    "might not"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "prompt": "This ___ be the museum Lucy was talking about. I'm absolutely sure.",
+                  "options": [
+                    "might",
+                    "could",
+                    "can't",
+                    "must"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "That movie won three Oscars, so it ___ be good.",
+                  "options": [
+                    "might not",
+                    "can't",
+                    "mustn't",
+                    "must"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "The people on the street have opened their umbrellas so it ___ be raining.",
+                  "options": [
+                    "can't",
+                    "might not",
+                    "must",
+                    "mustn't"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "prompt": "Luke's not here. It's possible that he's sick. = Luke ___ be sick.",
+                  "options": [
+                    "must",
+                    "mustn't",
+                    "can't",
+                    "might"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Look! To say what we think is NOT true, we use ___, not mustn't.",
+                  "options": [
+                    "don't have to",
+                    "shouldn't",
+                    "may not",
+                    "can't"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "prompt": "Tom's in the kitchen. He ___ his homework in his bedroom.",
+                  "options": [
+                    "must be doing",
+                    "can't be doing",
+                    "mustn't do",
+                    "might be doing"
+                  ],
+                  "answer": 1
+                }
+              ],
+              "auction": [
+                {
+                  "sentence": "I can't hear the children. They must be in bed.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I haven't seen Lukas for a few days. He might be on vacation.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sandra's not at work today. She may be sick.",
+                  "correct": true
+                },
+                {
+                  "sentence": "It's very noisy upstairs. They must be having a party.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Sally can't live here. This is a house, and she lives in an apartment.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Mark isn't answering his phone. He might be in a meeting.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They're speaking English, so they may be British.",
+                  "correct": true
+                },
+                {
+                  "sentence": "I don't know where he is. He could be at a friend's house.",
+                  "correct": true
+                },
+                {
+                  "sentence": "They can't be playing soccer now – it's nearly midnight!",
+                  "correct": true
+                },
+                {
+                  "sentence": "She might be talking to David on the phone. He left a message for her this morning.",
+                  "correct": true
+                },
+                {
+                  "sentence": "We can't be at the right address. There's no restaurant here.",
+                  "correct": true
+                },
+                {
+                  "sentence": "Where's Lidia? She mustn't be at work because her office is closed.",
+                  "correct": false,
+                  "fix": "She can't be at work…",
+                  "explanation": "Deduction: can't, not mustn't."
+                },
+                {
+                  "sentence": "John didn't sleep last night. He can't be really tired today.",
+                  "correct": false,
+                  "fix": "He must be really tired today.",
+                  "explanation": "Logical → must."
+                },
+                {
+                  "sentence": "I never see Max studying, so he must be a very good student.",
+                  "correct": false,
+                  "fix": "…so he can't be a very good student.",
+                  "explanation": "Not true → can't."
+                },
+                {
+                  "sentence": "Look, Brian might be home – the lights are on. I'm sure.",
+                  "correct": false,
+                  "fix": "Brian must be home…",
+                  "explanation": "Sure → must."
+                },
+                {
+                  "sentence": "Let's try that store. It must be cheaper, but I'm not sure.",
+                  "correct": false,
+                  "fix": "It might be cheaper…",
+                  "explanation": "Not sure → might."
+                },
+                {
+                  "sentence": "They must to be having a party.",
+                  "correct": false,
+                  "fix": "They must be having a party.",
+                  "explanation": "Modal + base form, no to."
+                },
+                {
+                  "sentence": "He might is on vacation.",
+                  "correct": false,
+                  "fix": "He might be on vacation.",
+                  "explanation": "might + be."
+                },
+                {
+                  "sentence": "That movie won three Oscars, so it might not be good.",
+                  "correct": false,
+                  "fix": "…so it must be good.",
+                  "explanation": "Strong evidence → must."
+                },
+                {
+                  "sentence": "Tom's in the kitchen. He must be doing his homework in his bedroom.",
+                  "correct": false,
+                  "fix": "He can't be doing his homework in his bedroom.",
+                  "explanation": "Contradiction → can't."
+                },
+                {
+                  "sentence": "It musts be raining.",
+                  "correct": false,
+                  "fix": "It must be raining.",
+                  "explanation": "Modals have no -s."
+                },
+                {
+                  "sentence": "She can't to be sick.",
+                  "correct": false,
+                  "fix": "She can't be sick.",
+                  "explanation": "No to after modals."
+                }
+              ],
+              "pictures": [
+                {
+                  "word": "I can't hear the children. They must be in bed.",
+                  "image": "/img/deduction/bed.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"I can't hear the children. They must be in bed.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I can't hear the children. They must be in bed.\" → Sure it's true (must)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"I can't hear the children. They must be in bed.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I can't hear the children. They must be in bed.\" → be + noun / adjective / place."
+                    }
+                  ]
+                },
+                {
+                  "word": "I haven't seen Lukas for a few days. He might be on vacation.",
+                  "image": "/img/deduction/vacation.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"I haven't seen Lukas for a few days. He might be on vacation.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"I haven't seen Lukas for a few days. He might be on vacation.\" → Possible, not sure (might / may / could)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"I haven't seen Lukas for a few days. He might be on vacation.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"I haven't seen Lukas for a few days. He might be on vacation.\" → be + noun / adjective / place."
+                    }
+                  ]
+                },
+                {
+                  "word": "You might not like this new café. They only serve coffee.",
+                  "image": "/img/deduction/cafe.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"You might not like this new café. They only serve coffee.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"You might not like this new café. They only serve coffee.\" → Possible, not sure (might / may / could)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"You might not like this new café. They only serve coffee.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"You might not like this new café. They only serve coffee.\" → another base verb."
+                    }
+                  ]
+                },
+                {
+                  "word": "Sandra's not at work today. She may be sick.",
+                  "image": "/img/deduction/sick.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"Sandra's not at work today. She may be sick.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sandra's not at work today. She may be sick.\" → Possible, not sure (might / may / could)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"Sandra's not at work today. She may be sick.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Sandra's not at work today. She may be sick.\" → be + noun / adjective / place."
+                    }
+                  ]
+                },
+                {
+                  "word": "It's very noisy upstairs. They must be having a party.",
+                  "image": "/img/deduction/party.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"It's very noisy upstairs. They must be having a party.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"It's very noisy upstairs. They must be having a party.\" → Sure it's true (must)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"It's very noisy upstairs. They must be having a party.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"It's very noisy upstairs. They must be having a party.\" → be + verb-ing (happening now)."
+                    }
+                  ]
+                },
+                {
+                  "word": "It must be cold outside. Everyone's wearing gloves.",
+                  "image": "/img/deduction/gloves.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"It must be cold outside. Everyone's wearing gloves.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"It must be cold outside. Everyone's wearing gloves.\" → Sure it's true (must)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"It must be cold outside. Everyone's wearing gloves.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"It must be cold outside. Everyone's wearing gloves.\" → be + noun / adjective / place."
+                    }
+                  ]
+                },
+                {
+                  "word": "Sally can't live here. This is a house, and she lives in an apartment.",
+                  "image": "/img/deduction/apartment.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"Sally can't live here. This is a house, and she lives in an apartment.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Sally can't live here. This is a house, and she lives in an apartment.\" → Sure it's not true (can't / couldn't)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"Sally can't live here. This is a house, and she lives in an apartment.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Sally can't live here. This is a house, and she lives in an apartment.\" → another base verb."
+                    }
+                  ]
+                },
+                {
+                  "word": "Mark isn't answering his phone. He might be in a meeting.",
+                  "image": "/img/deduction/phone.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"Mark isn't answering his phone. He might be in a meeting.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"Mark isn't answering his phone. He might be in a meeting.\" → Possible, not sure (might / may / could)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"Mark isn't answering his phone. He might be in a meeting.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Mark isn't answering his phone. He might be in a meeting.\" → be + noun / adjective / place."
+                    }
+                  ]
+                },
+                {
+                  "word": "They're speaking English, so they may be British.",
+                  "image": "/img/deduction/british.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"They're speaking English, so they may be British.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 2,
+                      "explanation": "\"They're speaking English, so they may be British.\" → Possible, not sure (might / may / could)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"They're speaking English, so they may be British.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"They're speaking English, so they may be British.\" → be + noun / adjective / place."
+                    }
+                  ]
+                },
+                {
+                  "word": "Tom's in the kitchen. He must be doing his homework.",
+                  "image": "/img/deduction/homework.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"Tom's in the kitchen. He must be doing his homework.\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 0,
+                      "explanation": "\"Tom's in the kitchen. He must be doing his homework.\" → Sure it's true (must)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"Tom's in the kitchen. He must be doing his homework.\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"Tom's in the kitchen. He must be doing his homework.\" → be + verb-ing (happening now)."
+                    }
+                  ]
+                },
+                {
+                  "word": "They can't be playing soccer now – it's nearly midnight!",
+                  "image": "/img/deduction/midnight.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"They can't be playing soccer now – it's nearly midnight!\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"They can't be playing soccer now – it's nearly midnight!\" → Sure it's not true (can't / couldn't)."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"They can't be playing soccer now – it's nearly midnight!\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 1,
+                      "explanation": "\"They can't be playing soccer now – it's nearly midnight!\" → be + verb-ing (happening now)."
+                    }
+                  ]
+                },
+                {
+                  "word": "can't (deduction) vs mustn't (prohibition)",
+                  "image": "/img/deduction/cant-vs-mustnt.svg",
+                  "sorts": [
+                    {
+                      "prompt": "How sure is the speaker in \"can't (deduction) vs mustn't (prohibition)\"?",
+                      "options": [
+                        "Sure it's true (must)",
+                        "Sure it's not true (can't / couldn't)",
+                        "Possible, not sure (might / may / could)",
+                        "A rule about form"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Can't (deduction) vs mustn't (prohibition)\" → A rule about form."
+                    },
+                    {
+                      "prompt": "Which form follows the modal in \"can't (deduction) vs mustn't (prohibition)\"?",
+                      "options": [
+                        "be + noun / adjective / place",
+                        "be + verb-ing (happening now)",
+                        "another base verb",
+                        "No verb – a contrast"
+                      ],
+                      "answer": 3,
+                      "explanation": "\"Can't (deduction) vs mustn't (prohibition)\" → No verb – a contrast."
+                    }
+                  ]
+                }
+              ],
+              "listening": [
+                {
+                  "text": "I can’t hear the children. They must be in bed.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "I haven’t seen Lukas for a few days. He might be on vacation.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "Sally can’t live here. This is a house, and she lives in an apartment.",
+                  "voice": "en-US",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It’s very noisy upstairs. They must be having a party.",
+                  "voice": "en-GB",
+                  "kind": "dictation"
+                },
+                {
+                  "text": "It must be cold outside. Everyone’s wearing gloves.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "How sure is the speaker?",
+                  "options": [
+                    "Sure it’s cold",
+                    "Asking a question",
+                    "Sure it isn’t cold",
+                    "Not sure"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "Mark isn’t answering his phone. He might be in a meeting. Or he might not have it with him.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why does the speaker use might?",
+                  "options": [
+                    "It’s a rule",
+                    "It’s possible but not certain",
+                    "It’s certainly true",
+                    "It’s impossible"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "They’re speaking English, so they may be British.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What does the speaker think?",
+                  "options": [
+                    "They are American",
+                    "They are possibly British",
+                    "They can’t be British",
+                    "They are definitely British"
+                  ],
+                  "answer": 1
+                },
+                {
+                  "text": "Tom’s in the kitchen. He must be doing his homework in his bedroom.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Is the second sentence logical?",
+                  "options": [
+                    "Yes",
+                    "Only at night",
+                    "We don’t know",
+                    "No – he can’t be in his bedroom"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "They can’t be playing soccer now – it’s nearly midnight!",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "What time is it?",
+                  "options": [
+                    "Afternoon",
+                    "Noon",
+                    "Early morning",
+                    "Nearly midnight"
+                  ],
+                  "answer": 3
+                },
+                {
+                  "text": "Look, Brian must be home – the lights are on in his apartment.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "What is the evidence?",
+                  "options": [
+                    "The lights are on",
+                    "The door is open",
+                    "He called",
+                    "His car is there"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "text": "The people on the street have opened their umbrellas, so it must be raining.",
+                  "voice": "en-US",
+                  "kind": "comprehension",
+                  "question": "Which modal did you hear?",
+                  "options": [
+                    "can’t",
+                    "may",
+                    "must",
+                    "might"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "text": "Where’s Lidia? She can’t be at work because her office is closed today.",
+                  "voice": "en-GB",
+                  "kind": "comprehension",
+                  "question": "Why can’t Lidia be at work?",
+                  "options": [
+                    "She is sick",
+                    "She is on vacation",
+                    "Her office is closed",
+                    "It’s Sunday"
+                  ],
+                  "answer": 2
+                }
+              ],
+              "speaking": [
+                {
+                  "title": "Detective",
+                  "situation": "Look at clues your partner gives you and make deductions about a mystery person.",
+                  "mandatory": [
+                    "must be",
+                    "can't be",
+                    "might be"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "I think"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Where Is Everyone?",
+                  "situation": "Five classmates are absent today. Guess where they are and why.",
+                  "mandatory": [
+                    "might be",
+                    "must be",
+                    "may be"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "perhaps"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Noisy Neighbors",
+                  "situation": "Describe strange noises from the apartment upstairs and deduce what is happening.",
+                  "mandatory": [
+                    "must be having",
+                    "might be",
+                    "can't be"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "sure"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "The Photo",
+                  "situation": "Describe an imaginary photo of a stranger and deduce their job, nationality and age.",
+                  "mandatory": [
+                    "must be",
+                    "could be",
+                    "can't be"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "probably"
+                  ],
+                  "seconds": 60
+                },
+                {
+                  "title": "Lost Phone",
+                  "situation": "Your phone is missing. Think about where it must / might / can’t be.",
+                  "mandatory": [
+                    "must be",
+                    "might be",
+                    "can't be"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "perhaps"
+                  ],
+                  "seconds": 45
+                },
+                {
+                  "title": "Weather Report",
+                  "situation": "Look out of an imaginary window and deduce the weather and what people are doing.",
+                  "mandatory": [
+                    "must be",
+                    "might be doing",
+                    "can't be"
+                  ],
+                  "taboo": [
+                    "maybe",
+                    "I think"
+                  ],
+                  "seconds": 45
+                }
+              ]
             }
           ]
         }
